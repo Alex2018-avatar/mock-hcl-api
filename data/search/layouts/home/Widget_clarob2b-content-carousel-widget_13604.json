@@ -1,0 +1,220 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715849484",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "715849485",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "715849486",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "3.0"
+        },
+        {
+          "resultId": "715849487",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "715850985",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "6.0"
+        },
+        {
+          "resultId": "715850986",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "6.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715853588",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2b-content-carousel-widget_13604",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Banner principal 1",
+          "contentClickAction": "None",
+          "contentId": "715849484",
+          "baseMarketingSpotActivityID": "715849484",
+          "contentName": "Banner principal 1",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/\" target=\"_blank\" rel=\"noopener\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Julio_2024/generico_23jul_D.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"https://www.claro.com.pe/portal/pe/recursos_contenido/m_banner_principal_planes_260224_(1).webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Banner principal 2",
+          "contentClickAction": "None",
+          "contentId": "715849485",
+          "baseMarketingSpotActivityID": "715849485",
+          "contentName": "Banner principal 2",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/\" target=\"_blank\" rel=\"noopener\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Agosto_2024/scooter_2ago_D.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"https://www.claro.com.pe/portal/pe/recursos_contenido/m_banner_principal_planes_260224_(1).webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Banner principal 3",
+          "contentClickAction": "None",
+          "contentId": "715849486",
+          "baseMarketingSpotActivityID": "715849486",
+          "contentName": "Banner principal 3",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/\" target=\"_blank\" rel=\"noopener\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Agosto_2024/tenderete_12ago_D.jpg\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"https://www.claro.com.pe/portal/pe/recursos_contenido/m_banner_principal_planes_260224_(1).webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Banner principal 4",
+          "contentClickAction": "None",
+          "contentId": "715849487",
+          "baseMarketingSpotActivityID": "715849487",
+          "contentName": "Banner principal 4",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/\" target=\"_blank\" rel=\"noopener\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Julio_2024/bp_hogar_24jul_D.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"https://www.claro.com.pe/portal/pe/recursos_contenido/m_banner_principal_planes_260224_(1).webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Banner principal 6",
+          "contentClickAction": "None",
+          "contentId": "715850985",
+          "baseMarketingSpotActivityID": "715850985",
+          "contentName": "Banner principal 6",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/\" target=\"_blank\" rel=\"noopener\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Agosto_2024/generico_sep_30agosto_D.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"https://www.claro.com.pe/portal/pe/recursos_contenido/m_banner_principal_planes_260224_(1).webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Banner principal 5",
+          "contentClickAction": "None",
+          "contentId": "715850986",
+          "baseMarketingSpotActivityID": "715850986",
+          "contentName": "Banner principal 5",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/\" target=\"_blank\" rel=\"noopener\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Agosto_2024/pc_lenovo_30ago_D.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/slider/2024/Agosto_2024/banner_lanzamiento_razr50_M.png\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://10.82.2.25:443/wcs/resources/store/15051/espot/Widget_clarob2b-content-carousel-widget_13604?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

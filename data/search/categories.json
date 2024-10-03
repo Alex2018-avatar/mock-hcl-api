@@ -1,0 +1,482 @@
+{
+  "contents": [
+    {
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/dep_livingroom.jpg",
+      "name": "Living Room",
+      "identifier": "LivingRoom",
+      "shortDescription": "Bring your living space together with comfort and style",
+      "parentCatalogGroupID": "/10501",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+      "uniqueID": "10501",
+      "sequence": "1.0",
+      "storeID": "10151",
+      "seo": {
+        "href": "/living-room"
+      },
+      "children": [
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/furniture.jpg",
+          "name": "Furniture",
+          "identifier": "LivingRoomFurniture",
+          "shortDescription": "Beautiful chairs, couches and tables that fit any decor",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/furniture.jpg",
+          "parentCatalogGroupID": "/10501/10502",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10502",
+          "sequence": "1.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/furniture"
+          },
+          "id": "10502",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10501"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10502"
+            }
+          },
+          "description": "Beautiful chairs, couches and tables that fit any decor"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/livingroom-lighting.jpg",
+          "name": "Lighting",
+          "identifier": "LivingRoomLighting",
+          "shortDescription": "Illuminate your living room with a variety of pendant lights and chandeliers",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/livingroom-lighting.jpg",
+          "parentCatalogGroupID": "/10501/10503",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10503",
+          "sequence": "2.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/lighting-livingroomlighting"
+          },
+          "id": "10503",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10501"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10503"
+            }
+          },
+          "description": "Illuminate your living room with a variety of pendant lights and chandeliers"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/decoration.jpg",
+          "name": "Decoration",
+          "identifier": "Decoration",
+          "shortDescription": "Versatile pieces to accent all your surfaces and walls",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/category/decoration.jpg",
+          "parentCatalogGroupID": "/10501/10504",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10504",
+          "sequence": "3.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/decoration"
+          },
+          "id": "10504",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10501"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10504"
+            }
+          },
+          "description": "Versatile pieces to accent all your surfaces and walls"
+        }
+      ],
+      "id": "10501",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10503",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10502",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10504"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=10501"
+        }
+      },
+      "description": "Bring your living space together with comfort and style"
+    },
+    {
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/dep_bathroom.jpg",
+      "name": "Bath",
+      "identifier": "Bath",
+      "shortDescription": "Modernize your bath space with a variety of vanity fixtures and lighting options",
+      "parentCatalogGroupID": "/10509",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+      "uniqueID": "10509",
+      "sequence": "2.0",
+      "storeID": "10151",
+      "seo": {
+        "href": "/bath"
+      },
+      "children": [
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/lighting.jpg",
+          "name": "Lighting",
+          "identifier": "BathLighting",
+          "shortDescription": "Plenty of ceiling-mounted light fixtures to create bright, even lighting throughout your bathroom",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/lighting.jpg",
+          "parentCatalogGroupID": "/10509/10510",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10510",
+          "sequence": "1.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/lighting"
+          },
+          "id": "10510",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10509"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10510"
+            }
+          },
+          "description": "Plenty of ceiling-mounted light fixtures to create bright, even lighting throughout your bathroom"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/fixtures.jpg",
+          "name": "Fixtures",
+          "identifier": "Fixtures",
+          "shortDescription": "Find the perfect faucet and showerhead to transform your master ensuite into an open, modern bath space",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/fixtures.jpg",
+          "parentCatalogGroupID": "/10509/10511",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10511",
+          "sequence": "2.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/fixtures"
+          },
+          "id": "10511",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10509"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10511"
+            }
+          },
+          "description": "Find the perfect faucet and showerhead to transform your master ensuite into an open, modern bath space"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/accessories.jpg",
+          "name": "Accessories",
+          "identifier": "Accessories",
+          "shortDescription": "Accent your bath with stylish accessories and makeup mirrors",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/bathroom/category/accessories.jpg",
+          "parentCatalogGroupID": "/10509/10512",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10512",
+          "sequence": "3.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/accessories"
+          },
+          "id": "10512",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10509"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10512"
+            }
+          },
+          "description": "Accent your bath with stylish accessories and makeup mirrors"
+        }
+      ],
+      "id": "10509",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10510",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10512",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10511"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=10509"
+        }
+      },
+      "description": "Modernize your bath space with a variety of vanity fixtures and lighting options"
+    },
+    {
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bedroom/category/dep_bedroom.jpg",
+      "name": "Bedroom",
+      "identifier": "Bedroom",
+      "shortDescription": "Furnish your bedrooms in style and make them your own",
+      "parentCatalogGroupID": "/10513",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+      "uniqueID": "10513",
+      "sequence": "3.0",
+      "storeID": "10151",
+      "seo": {
+        "href": "/bedroom"
+      },
+      "children": [
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bedroom/category/beds.jpg",
+          "name": "Beds",
+          "identifier": "Beds",
+          "shortDescription": "Functional and space-saving beds to extend any sleeping space",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/bedroom/category/beds.jpg",
+          "parentCatalogGroupID": "/10513/10514",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10514",
+          "sequence": "1.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/beds"
+          },
+          "id": "10514",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10513"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10514"
+            }
+          },
+          "description": "Functional and space-saving beds to extend any sleeping space"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/bedroom/category/dressers.jpg",
+          "name": "Dressers",
+          "identifier": "Dressers",
+          "shortDescription": "Highly-functional dressers that maximize both storage space and function",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/bedroom/category/dressers.jpg",
+          "parentCatalogGroupID": "/10513/10515",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10515",
+          "sequence": "2.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/dressers"
+          },
+          "id": "10515",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10513"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10515"
+            }
+          },
+          "description": "Highly-functional dressers that maximize both storage space and function"
+        }
+      ],
+      "id": "10513",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10514",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10515"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=10513"
+        }
+      },
+      "description": "Furnish your bedrooms in style and make them your own"
+    },
+    {
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/dep_diningroom.jpg",
+      "name": "Dining Room",
+      "identifier": "DiningRoom",
+      "shortDescription": "Entertain your guests with dining room furniture and decor that fits any space",
+      "parentCatalogGroupID": "/10505",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+      "uniqueID": "10505",
+      "sequence": "4.0",
+      "storeID": "10151",
+      "seo": {
+        "href": "/dining-room"
+      },
+      "children": [
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/tables.jpg",
+          "name": "Tables",
+          "identifier": "DiningTables",
+          "shortDescription": "Find the perfect dining table for serving your guests in comfort and style",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/tables.jpg",
+          "parentCatalogGroupID": "/10505/10506",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10506",
+          "sequence": "1.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/tables"
+          },
+          "id": "10506",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10505"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10506"
+            }
+          },
+          "description": "Find the perfect dining table for serving your guests in comfort and style"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/chairs.jpg",
+          "name": "Chairs",
+          "identifier": "DiningChairs",
+          "shortDescription": "Sturdy seating that matches any dining room decor",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/chairs.jpg",
+          "parentCatalogGroupID": "/10505/10507",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10507",
+          "sequence": "2.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/chairs"
+          },
+          "id": "10507",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10505"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10507"
+            }
+          },
+          "description": "Sturdy seating that matches any dining room decor"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/buffets.jpg",
+          "name": "Buffets",
+          "identifier": "Buffets",
+          "shortDescription": "Add fully-functional drawer, cabinet, and counter space to any dining room in style",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/diningroom/category/buffets.jpg",
+          "parentCatalogGroupID": "/10505/10508",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10508",
+          "sequence": "3.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/buffets"
+          },
+          "id": "10508",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10505"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10508"
+            }
+          },
+          "description": "Add fully-functional drawer, cabinet, and counter space to any dining room in style"
+        }
+      ],
+      "id": "10505",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10507",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10506",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10508"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=10505"
+        }
+      },
+      "description": "Entertain your guests with dining room furniture and decor that fits any space"
+    },
+    {
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/kitchen/category/dep_kitchen.jpg",
+      "name": "Kitchen",
+      "identifier": "Kitchen",
+      "shortDescription": "Create a kitchen that suits your needs and fits your lifestyle",
+      "parentCatalogGroupID": "/10516",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+      "uniqueID": "10516",
+      "sequence": "5.0",
+      "storeID": "10151",
+      "seo": {
+        "href": "/kitchen"
+      },
+      "children": [
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/kitchen/category/cabinets.jpg",
+          "name": "Cabinets",
+          "identifier": "Cabinets",
+          "shortDescription": "Versatile cabinetry and shelving give your kitchen storage space in style",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/kitchen/category/cabinets.jpg",
+          "parentCatalogGroupID": "/10516/10517",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10517",
+          "sequence": "1.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/cabinets"
+          },
+          "id": "10517",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10516"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10517"
+            }
+          },
+          "description": "Versatile cabinetry and shelving give your kitchen storage space in style"
+        },
+        {
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/kitchen/category/countertops.jpg",
+          "name": "Countertops",
+          "identifier": "Countertops",
+          "shortDescription": "Heat, scratch, stain, and water resistant countertops for every kitchen",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/kitchen/category/countertops.jpg",
+          "parentCatalogGroupID": "/10516/10518",
+          "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=41&depthAndLimit=11%2C11&contractId=-11005&langId=-1",
+          "uniqueID": "10518",
+          "sequence": "2.0",
+          "storeID": "10151",
+          "seo": {
+            "href": "/countertops"
+          },
+          "id": "10518",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10516"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=10151&id=10518"
+            }
+          },
+          "description": "Heat, scratch, stain, and water resistant countertops for every kitchen"
+        }
+      ],
+      "id": "10516",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10518",
+          "href: /search/resources/api/v2/categories?storeId=10151&id=10517"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=10151&id=10516"
+        }
+      },
+      "description": "Create a kitchen that suits your needs and fits your lifestyle"
+    }
+  ]
+}

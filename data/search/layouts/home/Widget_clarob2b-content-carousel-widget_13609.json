@@ -1,0 +1,220 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715849504",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "715849505",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "715849506",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "3.0"
+        },
+        {
+          "resultId": "715849507",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "715850987",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "5.0"
+        },
+        {
+          "resultId": "715850988",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "6.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715853592",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2b-content-carousel-widget_13609",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta01",
+          "contentClickAction": "None",
+          "contentId": "715849504",
+          "baseMarketingSpotActivityID": "715849504",
+          "contentName": "ContentOferta01",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/banners-offerts/desktop/pre_pos_d.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"/images/ofertas/ofertas-mobile.png\" alt=\"alt\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta02",
+          "contentClickAction": "None",
+          "contentId": "715849505",
+          "baseMarketingSpotActivityID": "715849505",
+          "contentName": "ContentOferta02",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/banners-offerts/desktop/pre_pos_d.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"/images/ofertas/ofertas-mobile.png\" alt=\"alt\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta03",
+          "contentClickAction": "None",
+          "contentId": "715849506",
+          "baseMarketingSpotActivityID": "715849506",
+          "contentName": "ContentOferta03",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/banners-offerts/desktop/pre_pos_d.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"/images/ofertas/ofertas-mobile.png\" alt=\"alt\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta04",
+          "contentClickAction": "None",
+          "contentId": "715849507",
+          "baseMarketingSpotActivityID": "715849507",
+          "contentName": "ContentOferta04",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/banners-offerts/desktop/pre_pos_d.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"/images/ofertas/ofertas-mobile.png\" alt=\"alt\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta05",
+          "contentClickAction": "None",
+          "contentId": "715850987",
+          "baseMarketingSpotActivityID": "715850987",
+          "contentName": "ContentOferta05",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/banners-offerts/desktop/scooter_d.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"/images/ofertas/ofertas-mobile.png\" alt=\"alt\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "5.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta06",
+          "contentClickAction": "None",
+          "contentId": "715850988",
+          "baseMarketingSpotActivityID": "715850988",
+          "contentName": "ContentOferta06",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"> <picture> <!-- Imagen para pantallas con resolución alta --> <source media=\"(min-width: 960px)\" srcset=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/banners-offerts/desktop/Tv_addi_d.png\"> <!-- Imagen por defecto para pantallas con resolución baja o desconocida --> <img src=\"/images/ofertas/ofertas-mobile.png\" alt=\"alt\"> </picture> </a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://10.82.2.25:443/wcs/resources/store/15051/espot/Widget_clarob2b-content-carousel-widget_13609?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

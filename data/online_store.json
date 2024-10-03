@@ -1,0 +1,429 @@
+{
+  "recordSetCount": 1,
+  "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/11/online_store",
+  "recordSetStartNumber": 0,
+  "resourceName": "store",
+  "resultList": [
+    {
+      "identifier": "ClaroB2C",
+      "locationInfo": [
+        {
+          "address": {
+            "country": "CA",
+            "city": "Clothesville",
+            "zipOrPostalCode": "Lxx 1xx",
+            "addressLine": ["12xx Martindale Avenue", "Suite 9xx", null],
+            "stateOrProvinceName": "ON"
+          },
+          "languageId": "-5",
+          "emailAddress1": "info@ClaroB2C.xxx",
+          "telephone1": "1-800-555-1234",
+          "contactInfoIdentifier": {
+            "contactPersonNickName": "ClaroB2C location_en_US",
+            "contactInfoId": "13002"
+          },
+          "fax1": "1-800-555-4321",
+          "contactPersonBusinessTitle": "ClaroB2C"
+        }
+      ],
+      "relatedStores": [
+        {
+          "relationshipType": "-34",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-34",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-33",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-33",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-32",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-32",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-31",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-31",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-29",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-29",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "2.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-29",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-26",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-26",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-25",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-25",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-24",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-24",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-23",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-23",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-22",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-22",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-21",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-21",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-20",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-20",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-19",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-19",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-18",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-18",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-17",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-17",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-16",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-16",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-14",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-14",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "2.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-14",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-11",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-11",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-10",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-10",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-9",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-9",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-7",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-7",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-5",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-5",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-4",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-4",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-3",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-3",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-2",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-2",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "11",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "12001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "12501",
+          "relationshipSequence": "2.0",
+          "state": "1"
+        }
+      ],
+      "storeType": "MHS",
+      "userData": {
+        "google.analytics.property.ga4": "276295069",
+        "google.tag.manager.preview": "env-1",
+        "google.analytics.versions": "GA4",
+        "google.analytics.service.account.view.id": "238287626",
+        "google.tag.manager.container.id": "GTM-59L6D6D",
+        "google.tag.manager.auth": "nCdgMLQjjR3yRm8xwbGRbg"
+      },
+      "contactInfo": [
+        {
+          "address": {
+            "country": "CA",
+            "city": "Clothesville",
+            "zipOrPostalCode": "Lxx 1xx",
+            "addressLine": ["12xx Martindale Avenue", "Suite 9xx", null],
+            "stateOrProvinceName": "ON"
+          },
+          "languageId": "-5",
+          "emailAddress1": "info@ClaroB2C.xxx",
+          "telephone1": "1-800-555-1234",
+          "contactInfoIdentifier": {
+            "contactPersonNickName": "ClaroB2C contact_en_US",
+            "contactPersonId": "-11000",
+            "contactInfoId": "13001"
+          },
+          "fax1": "1-800-555-4321",
+          "contactPersonBusinessTitle": "ClaroB2C"
+        }
+      ],
+      "description": [
+        {
+          "displayName": "ClaroB2C",
+          "languageId": "-5",
+          "description": "Commerce Model Store entity"
+        }
+      ],
+      "defaultCatalog": [
+        {
+          "userData": {
+            "userDataField": []
+          },
+          "catalogIdentifier": {
+            "externalIdentifier": null,
+            "uniqueID": "11501"
+          },
+          "storeIdentifier": {
+            "externalIdentifier": null,
+            "uniqueID": "11"
+          },
+          "uniqueID": "11001"
+        }
+      ],
+      "storeId": "10151",
+      "ownerId": "-11000",
+      "supportedCurrencies": {
+        "supportedCurrencies": ["COP"],
+        "defaultCurrency": "COP"
+      },
+      "supportedLanguages": {
+        "supportedLanguages": ["-5"],
+        "defaultLanguageId": "-5"
+      },
+      "state": "open"
+    }
+  ],
+  "recordSetTotal": 1,
+  "recordSetComplete": true
+}

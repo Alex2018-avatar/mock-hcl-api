@@ -1,0 +1,61 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "12503",
+        "name": "ProductListingPageLayout",
+        "containerName": "product-listing-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "3012",
+                "name": "BreadcrumbTrail",
+                "widgetName": "breadcrumb-trail-widget",
+                "sequence": 0.0
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "3013",
+                "name": "FacetNavigation",
+                "widgetName": "facet-navigation-widget",
+                "sequence": 0.0
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": [
+              {
+                "id": "3014",
+                "name": "CatalogEntryList",
+                "widgetName": "catalog-entry-list-widget",
+                "sequence": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "furniture",
+      "tokenName": "CategoryToken",
+      "tokenExternalValue": "LivingRoomFurniture",
+      "language": "es_ES",
+      "id": "10502",
+      "page": {
+        "imageAlternateDescription": "Image for Furniture from Ruby",
+        "name": "CATEGORY_PAGE",
+        "title": "Furniture | Ruby",
+        "type": "ProductListPage",
+        "metaDescription": "Beautiful chairs, couches and tables that fit any decor",
+        "metaKeyword": "couches, coffee tables, sofas, loveseat"
+      },
+      "storeId": "10151",
+      "tokenValue": "10502"
+    }
+  ]
+}

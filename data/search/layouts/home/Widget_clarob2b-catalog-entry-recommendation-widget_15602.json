@@ -1,0 +1,78 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "marketingSpotIdentifier": "715857092",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2b-catalog-entry-recommendation-widget_15602",
+      "filteredResult": [
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616692668"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683174"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683168"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683170"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683172"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683176"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683178"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683180"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683182"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683184"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683188"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683190"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683192"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683194"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683197"
+        },
+        {
+          "filteredResultFormat": "CatalogEntry",
+          "filteredResultId": "3074457345616683200"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://10.82.2.25:443/wcs/resources/store/15051/espot/Widget_clarob2b-catalog-entry-recommendation-widget_15602?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

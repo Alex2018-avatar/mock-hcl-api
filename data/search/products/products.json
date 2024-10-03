@@ -1,0 +1,4844 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "breadCrumbTrailEntryView": [
+    {
+      "label": "Living Room",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10501",
+      "seo": {
+        "href": "/living-room"
+      }
+    },
+    {
+      "label": "Furniture",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10502",
+      "seo": {
+        "href": "/furniture"
+      }
+    }
+  ],
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair1_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair1_a1_350.jpg",
+      "shortDescription": "A sturdy wooden angled chair that welcomes every guest into your living space in style. Includes a matching movable leg rest.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 3,
+        "groupOwner": "14018",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14019",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0001",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Home Design",
+      "seller": "",
+      "name": "Wooden Angled Chair",
+      "seo": {
+        "href": "/wooden-angled-chair-lr-fntr-0001"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Cuatro\",\"Dos\",\"Tres\",\"Padre\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0", "0.0", "0.0"],
+              "identifier": [
+                "7741124012283337836",
+                "7741124012283337837",
+                "7741124012283337838",
+                "7741124012283337844"
+              ],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7741124012283337836",
+                "7741124012283337837",
+                "7741124012283337838",
+                "7741124012283337844"
+              ],
+              "value": ["Cuatro", "Dos", "Tres", "Padre"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Blonde\",\"Coffee\",\"Cedar\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["5.0", "9.0", "10.0"],
+              "identifier": ["blonde", "coffee", "cedar"],
+              "unitOfMeasure": ["one", "one", "one"],
+              "unitID": ["C62", "C62", "C62"],
+              "id": [
+                "7000000000000003005",
+                "7000000000000003009",
+                "7000000000000003018"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_cedar.png"
+              ],
+              "value": ["Blonde", "Coffee", "Cedar"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cedar.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14018"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair2_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair2_a1_350.jpg",
+      "shortDescription": "A unique, modern armchair that offers flared styling on one side to accent your home's living room and decor.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "579.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 4,
+        "groupOwner": "14022",
+        "groupMaxPriceValue": "579.99",
+        "groupHero": "14023",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0002",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Flared Accent Chair",
+      "seo": {
+        "href": "/flared-accent-chair-lr-fntr-0002"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Dos\",\"Tres\",\"Cuatro\",\"Cinco\",\"Padre\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0", "0.0", "0.0", "0.0"],
+              "identifier": [
+                "7741124012283337840",
+                "7741124012283337841",
+                "7741124012283337842",
+                "7741124012283337843",
+                "7741124012283337845"
+              ],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7741124012283337840",
+                "7741124012283337841",
+                "7741124012283337842",
+                "7741124012283337843",
+                "7741124012283337845"
+              ],
+              "value": ["Dos", "Tres", "Cuatro", "Cinco", "Padre"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Crimson\",\"Purple\",\"Tan\",\"Sky\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["10.0", "10.0", "10.0", "10.0"],
+              "identifier": ["crimson", "purple", "tan", "sky"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003015",
+                "7000000000000003016",
+                "7000000000000003017",
+                "7000000000000003019"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_sky.png"
+              ],
+              "value": ["Crimson", "Purple", "Tan", "Sky"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_sky.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14022"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+      "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["639.99", "659.99"],
+        "groupListPriceRange": ["700.0", "700.0"],
+        "groupCount": 5,
+        "groupOwner": "14027",
+        "groupMaxPriceValue": "659.99",
+        "groupHero": "14028",
+        "groupMinPriceValue": "639.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0003",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme Rocoz Vintage Sofa Chair",
+      "seo": {
+        "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "700.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "639.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\",\"Standin\",\"Purple\",\"Airforce\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "6.0", "10.0", "10.0", "10.0"],
+              "identifier": [
+                "grey",
+                "lightgrey",
+                "standin",
+                "purple",
+                "airforce"
+              ],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003003",
+                "7000000000000003006",
+                "7000000000000003013",
+                "7000000000000003016",
+                "7000000000000003021"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_standin.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+              ],
+              "value": ["Grey", "Light Grey", "Standin", "Purple", "Airforce"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_standin.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14027"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair4_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair4_a1_350.jpg",
+      "shortDescription": "Very cozy short design single sofa.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 4,
+        "groupOwner": "14033",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14034",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0004",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stonehenge",
+      "seller": "",
+      "name": "Stonehenge UltraCozy Single Sofa",
+      "seo": {
+        "href": "/stonehenge-ultracozy-single-sofa-lr-fntr-0004"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Dark Grey\",\"Seaweed\",\"Denim\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "10.0", "10.0", "10.0"],
+              "identifier": ["brown", "darkgrey", "seaweed", "denim"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003010",
+                "7000000000000003014",
+                "7000000000000003020"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_denim.png"
+              ],
+              "value": ["Brown", "Dark Grey", "Seaweed", "Denim"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_denim.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14033"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+      "shortDescription": "InOffice sofas are made for the typical office environment.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["899.99", "899.99"],
+        "groupListPriceRange": ["1000.0", "2500.0"],
+        "groupCount": 5,
+        "groupOwner": "14038",
+        "groupMaxPriceValue": "899.99",
+        "groupHero": "14039",
+        "groupMinPriceValue": "899.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0005",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Style Home InOffice Single Sofa",
+      "seo": {
+        "href": "/style-home-inoffice-single-sofa-lr-fntr-0005"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "1000.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "899.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\",\"Coffee\",\"Crimson\",\"Airforce\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "6.0", "9.0", "10.0", "10.0"],
+              "identifier": [
+                "grey",
+                "lightgrey",
+                "coffee",
+                "crimson",
+                "airforce"
+              ],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003003",
+                "7000000000000003006",
+                "7000000000000003009",
+                "7000000000000003015",
+                "7000000000000003021"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+              ],
+              "value": ["Grey", "Light Grey", "Coffee", "Crimson", "Airforce"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14038"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair6_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair6_a1_350.jpg",
+      "shortDescription": "A modern single sofa with leather seat and steel legs.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["499.99", "499.99"],
+        "groupListPriceRange": ["500.0", "500.0"],
+        "groupCount": 4,
+        "groupOwner": "14044",
+        "groupMaxPriceValue": "499.99",
+        "groupHero": "14045",
+        "groupMinPriceValue": "499.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0006",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stonehenge",
+      "seller": "",
+      "name": "Stonehenge Modern Steelet Single Sofa",
+      "seo": {
+        "href": "/stonehenge-modern-steelet-single-sofa-lr-fntr-0006"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "500.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "499.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Dark Grey\",\"Purple\",\"Airforce\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "10.0", "10.0", "10.0"],
+              "identifier": ["brown", "darkgrey", "purple", "airforce"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003010",
+                "7000000000000003016",
+                "7000000000000003021"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+              ],
+              "value": ["Brown", "Dark Grey", "Purple", "Airforce"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14044"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/rustic_chair_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/rustic_chair_a1_350.jpg",
+      "shortDescription": "Essential piece of furniture finished in a medium-brown polish.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["349.99", "349.99"],
+        "groupListPriceRange": ["399.99", "399.99"],
+        "groupCount": 3,
+        "groupOwner": "14049",
+        "groupMaxPriceValue": "349.99",
+        "groupHero": "14050",
+        "groupMinPriceValue": "349.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0007",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Home Design",
+      "seller": "",
+      "name": "Rustic Stained Wood Chair",
+      "seo": {
+        "href": "/rustic-stained-wood-chair-lr-fntr-0007"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "399.99"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "349.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Oak\",\"Mahogany\",\"Walnut\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["10.0", "10.0", "10.0"],
+              "identifier": ["oak", "mahogany", "walnut"],
+              "unitOfMeasure": ["one", "one", "one"],
+              "unitID": ["C62", "C62", "C62"],
+              "id": [
+                "7000000000000003025",
+                "7000000000000003026",
+                "7000000000000003027"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_mahogany.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_walnut.png"
+              ],
+              "value": ["Oak", "Mahogany", "Walnut"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_mahogany.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_walnut.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14049"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+      "shortDescription": "This classic chair marries form and function together to provide timeless appeal, comfort and stability.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["229.99", "229.99"],
+        "groupListPriceRange": ["249.99", "249.99"],
+        "groupCount": 3,
+        "groupOwner": "14053",
+        "groupMaxPriceValue": "229.99",
+        "groupHero": "14054",
+        "groupMinPriceValue": "229.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0008",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Home Design",
+      "seller": "",
+      "name": "Wooden Cafe Chair",
+      "seo": {
+        "href": "/wooden-cafe-chair-lr-fntr-0008"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "249.99"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "229.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Pine\",\"Oak\",\"Mahogany\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["10.0", "10.0", "10.0"],
+              "identifier": ["pine", "oak", "mahogany"],
+              "unitOfMeasure": ["one", "one", "one"],
+              "unitID": ["C62", "C62", "C62"],
+              "id": [
+                "7000000000000003024",
+                "7000000000000003025",
+                "7000000000000003026"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_pine.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_mahogany.png"
+              ],
+              "value": ["Pine", "Oak", "Mahogany"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_pine.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_mahogany.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14053"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch1_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch1_a1_350.jpg",
+      "shortDescription": "Sophisticated modern sofa design.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 8,
+        "groupOwner": "14057",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14058",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0001",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Style Home Modern Plain Single Large Sofa",
+      "seo": {
+        "href": "/style-home-modern-plain-single-large-sofa-lr-fntr-co-0001"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Grey\",\"Dark Grey\",\"Standin\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "3.0", "10.0", "10.0"],
+              "identifier": ["brown", "grey", "darkgrey", "standin"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003003",
+                "7000000000000003010",
+                "7000000000000003013"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_standin.png"
+              ],
+              "value": ["Brown", "Grey", "Dark Grey", "Standin"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_standin.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14057"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+      "shortDescription": "InOffice sofas are made for the typical office environment.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "589.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 10,
+        "groupOwner": "14066",
+        "groupMaxPriceValue": "589.99",
+        "groupHero": "14073",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0002",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Style Home InOffice Double Sofa",
+      "seo": {
+        "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Dark Grey\",\"Blue\",\"Crimson\",\"Apple\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "10.0", "9.0", "10.0", "10.0"],
+              "identifier": ["grey", "darkgrey", "blue", "crimson", "apple"],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003003",
+                "7000000000000003010",
+                "7000000000000003011",
+                "7000000000000003015",
+                "7000000000000003022"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_apple.png"
+              ],
+              "value": ["Grey", "Dark Grey", "Blue", "Crimson", "Apple"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_apple.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14066"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch3_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch3_a1_350.jpg",
+      "shortDescription": "An extra long, extra wide sofa that comfortably seats 3 or more guests. Ideal for very large living spaces or theatre rooms.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["639.99", "659.99"],
+        "groupListPriceRange": ["700.0", "700.0"],
+        "groupCount": 4,
+        "groupOwner": "14077",
+        "groupMaxPriceValue": "659.99",
+        "groupHero": "14078",
+        "groupMinPriceValue": "639.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0003",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Theatre Sofa",
+      "seo": {
+        "href": "/theatre-sofa-lr-fntr-co-0003"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "700.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "639.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "6.0"],
+              "identifier": ["grey", "lightgrey"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003003", "7000000000000003006"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+              ],
+              "value": ["Grey", "Light Grey"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14077"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch4_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch4_a1_350.jpg",
+      "shortDescription": "A versatile and interesting approach to the modern leather soda, idea for cozy living spaces.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 8,
+        "groupOwner": "14082",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14083",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0004",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Plump Leather Sofa",
+      "seo": {
+        "href": "/plump-leather-sofa-lr-fntr-co-0004"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Light Grey\",\"Toffee\",\"Coffee\",\"Blue\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["6.0", "8.0", "9.0", "9.0"],
+              "identifier": ["lightgrey", "toffee", "coffee", "blue"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003006",
+                "7000000000000003008",
+                "7000000000000003009",
+                "7000000000000003011"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ],
+              "value": ["Light Grey", "Toffee", "Coffee", "Blue"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14082"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch5_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch5_a1_350.jpg",
+      "shortDescription": "A warm and cozy leather sofa that offers superior comfort and lounge room styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 8,
+        "groupOwner": "14091",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14092",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0005",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Vintage Leather Sofa",
+      "seo": {
+        "href": "/vintage-leather-sofa-lr-fntr-co-0005"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Grey\",\"Dark Grey\",\"Blue\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "3.0", "10.0", "9.0"],
+              "identifier": ["brown", "grey", "darkgrey", "blue"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003003",
+                "7000000000000003010",
+                "7000000000000003011"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ],
+              "value": ["Brown", "Grey", "Dark Grey", "Blue"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14091"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch6_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch6_a1_350.jpg",
+      "shortDescription": "A casual yet elegant sofa that offers comfort and modern styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "589.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 10,
+        "groupOwner": "14100",
+        "groupMaxPriceValue": "589.99",
+        "groupHero": "14101",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0006",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Moderno",
+      "seller": "",
+      "name": "Casual Sofa",
+      "seo": {
+        "href": "/casual-sofa-lr-fntr-co-0006"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Grey\",\"Light Grey\",\"Toffee\",\"Blue\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "3.0", "6.0", "8.0", "9.0"],
+              "identifier": ["brown", "grey", "lightgrey", "toffee", "blue"],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003003",
+                "7000000000000003006",
+                "7000000000000003008",
+                "7000000000000003011"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ],
+              "value": ["Brown", "Grey", "Light Grey", "Toffee", "Blue"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14100"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch7_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch7_a1_350.jpg",
+      "shortDescription": "An extra soft, extra plush sofa that comfortably seats you and your guests. Ideal for placing along far-reaching walls or corridors.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["639.99", "659.99"],
+        "groupListPriceRange": ["700.0", "700.0"],
+        "groupCount": 4,
+        "groupOwner": "14111",
+        "groupMaxPriceValue": "659.99",
+        "groupHero": "14112",
+        "groupMinPriceValue": "639.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0007",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Moderno",
+      "seller": "",
+      "name": "Soft Plush Sofa",
+      "seo": {
+        "href": "/soft-plush-sofa-lr-fntr-co-0007"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "700.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "639.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Chrome\",\"Light Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "6.0"],
+              "identifier": ["chrome", "lightgrey"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003001", "7000000000000003006"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_whitegrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+              ],
+              "value": ["Chrome", "Light Grey"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_whitegrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14111"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+      "shortDescription": "Very cozy short design Large sofa.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 8,
+        "groupOwner": "14116",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14123",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0008",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Style Home UltraCozy Large Sofa",
+      "seo": {
+        "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Coffee\",\"Dark Grey\",\"Purple\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "9.0", "10.0", "10.0"],
+              "identifier": ["brown", "coffee", "darkgrey", "purple"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003009",
+                "7000000000000003010",
+                "7000000000000003016"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+              ],
+              "value": ["Brown", "Coffee", "Dark Grey", "Purple"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14116"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+      "shortDescription": "A modern sofa that can be used to open up your living room space.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 10,
+        "groupOwner": "14125",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14126",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0009",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Floating Sofa",
+      "seo": {
+        "href": "/floating-sofa-lr-fntr-co-0009"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\",\"Blue\",\"Tan\",\"Cream\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "6.0", "9.0", "10.0", "10.0"],
+              "identifier": ["grey", "lightgrey", "blue", "tan", "cream"],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003003",
+                "7000000000000003006",
+                "7000000000000003011",
+                "7000000000000003017",
+                "7000000000000003023"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_cream.png"
+              ],
+              "value": ["Grey", "Light Grey", "Blue", "Tan", "Cream"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cream.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14125"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch10_b1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch10_b1_350.jpg",
+      "shortDescription": "A long cozy double sofa for lounges.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "549.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 1,
+        "groupOwner": "14201",
+        "groupMaxPriceValue": "549.99",
+        "groupHero": "14201",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0010-GREY",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme LoungeStyle Double Sofa",
+      "parentCatalogEntryID": "14136",
+      "seo": {
+        "href": "/grey-supreme-loungestyle-double-sofa-lr-fntr-co-0010"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0"],
+              "identifier": ["48x6x48"],
+              "unitOfMeasure": ["one"],
+              "unitID": ["C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003028"],
+              "value": ["48\"x6\"x48\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "-1.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "3.0"],
+              "identifier": ["grey", "grey"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003003", "7000000000000003003"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+              ],
+              "value": ["Grey", "Grey"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "variant",
+      "id": "14201"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch10_c1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch10_c1_350.jpg",
+      "shortDescription": "A long cozy double sofa for lounges.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "549.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 1,
+        "groupOwner": "14202",
+        "groupMaxPriceValue": "549.99",
+        "groupHero": "14202",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0010-DARKGREY",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme LoungeStyle Double Sofa",
+      "parentCatalogEntryID": "14136",
+      "seo": {
+        "href": "/darkgrey-supreme-loungestyle-double-sofa-lr-fntr-co-0010"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0"],
+              "identifier": ["48x6x48"],
+              "unitOfMeasure": ["one"],
+              "unitID": ["C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003028"],
+              "value": ["48\"x6\"x48\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "-1.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Dark Grey\",\"Dark Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["10.0", "10.0"],
+              "identifier": ["darkgrey", "darkgrey"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003010", "7000000000000003010"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+              ],
+              "value": ["Dark Grey", "Dark Grey"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "variant",
+      "id": "14202"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch10_e1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch10_e1_350.jpg",
+      "shortDescription": "A long cozy double sofa for lounges.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "549.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 1,
+        "groupOwner": "14203",
+        "groupMaxPriceValue": "549.99",
+        "groupHero": "14203",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0010-SEAWEED",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme LoungeStyle Double Sofa",
+      "parentCatalogEntryID": "14136",
+      "seo": {
+        "href": "/seaweed-supreme-loungestyle-double-sofa-lr-fntr-co-0010"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0"],
+              "identifier": ["48x6x48"],
+              "unitOfMeasure": ["one"],
+              "unitID": ["C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003028"],
+              "value": ["48\"x6\"x48\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "-1.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Seaweed\",\"Seaweed\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["10.0", "10.0"],
+              "identifier": ["seaweed", "seaweed"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003014", "7000000000000003014"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+              ],
+              "value": ["Seaweed", "Seaweed"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "variant",
+      "id": "14203"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch10_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch10_a1_350.jpg",
+      "shortDescription": "A long cozy double sofa for lounges.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "549.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 1,
+        "groupOwner": "14204",
+        "groupMaxPriceValue": "549.99",
+        "groupHero": "14204",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0010-CRIMSON",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme LoungeStyle Double Sofa",
+      "parentCatalogEntryID": "14136",
+      "seo": {
+        "href": "/crimson-supreme-loungestyle-double-sofa-lr-fntr-co-0010"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0"],
+              "identifier": ["48x6x48"],
+              "unitOfMeasure": ["one"],
+              "unitID": ["C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003028"],
+              "value": ["48\"x6\"x48\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "-1.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Crimson\",\"Crimson\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["10.0", "10.0"],
+              "identifier": ["crimson", "crimson"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003015", "7000000000000003015"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+              ],
+              "value": ["Crimson", "Crimson"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "5.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "variant",
+      "id": "14204"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch10_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch10_a1_350.jpg",
+      "shortDescription": "A long cozy double sofa for lounges.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "589.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 10,
+        "groupOwner": "14136",
+        "groupMaxPriceValue": "589.99",
+        "groupHero": "14137",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0010",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme LoungeStyle Double Sofa",
+      "seo": {
+        "href": "/supreme-loungestyle-double-sofa-lr-fntr-co-0010"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Dark Grey\",\"Blue\",\"Seaweed\",\"Crimson\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["3.0", "10.0", "9.0", "10.0", "10.0"],
+              "identifier": ["grey", "darkgrey", "blue", "seaweed", "crimson"],
+              "unitOfMeasure": ["one", "one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003003",
+                "7000000000000003010",
+                "7000000000000003011",
+                "7000000000000003014",
+                "7000000000000003015"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+              ],
+              "value": ["Grey", "Dark Grey", "Blue", "Seaweed", "Crimson"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14136"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch10_d1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch10_d1_350.jpg",
+      "shortDescription": "A long cozy double sofa for lounges.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "549.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 1,
+        "groupOwner": "14200",
+        "groupMaxPriceValue": "549.99",
+        "groupHero": "14200",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0010-BLUE",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "seller": "",
+      "name": "Supreme LoungeStyle Double Sofa",
+      "parentCatalogEntryID": "14136",
+      "seo": {
+        "href": "/blue-supreme-loungestyle-double-sofa-lr-fntr-co-0010"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0"],
+              "identifier": ["48x6x48"],
+              "unitOfMeasure": ["one"],
+              "unitID": ["C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003028"],
+              "value": ["48\"x6\"x48\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "-1.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Blue\",\"Blue\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["9.0", "9.0"],
+              "identifier": ["blue", "blue"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "bindToVariant": true,
+              "id": ["7000000000000003011", "7000000000000003011"],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ],
+              "value": ["Blue", "Blue"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "variant",
+      "id": "14200"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch11_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch11_a1_350.jpg",
+      "shortDescription": "3 piece sofa set with a very modern design.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 8,
+        "groupOwner": "14147",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14148",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0011",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Style Home Modern Rimmed 3 Piece Sofa Set",
+      "seo": {
+        "href": "/style-home-modern-rimmed-3-piece-sofa-set-lr-fntr-co-0011"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Dark Grey\",\"Blue\",\"Purple\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "10.0", "9.0", "10.0"],
+              "identifier": ["brown", "darkgrey", "blue", "purple"],
+              "unitOfMeasure": ["one", "one", "one", "one"],
+              "unitID": ["C62", "C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003010",
+                "7000000000000003011",
+                "7000000000000003016"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+              ],
+              "value": ["Brown", "Dark Grey", "Blue", "Purple"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14147"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_350.jpg",
+      "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["115.0", "115.0"],
+        "groupListPriceRange": ["120.0", "120.0"],
+        "groupCount": 3,
+        "groupOwner": "14156",
+        "groupMaxPriceValue": "115.0",
+        "groupHero": "14157",
+        "groupMinPriceValue": "115.0"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-TB-0001",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Abstract Wooden Coffee Table",
+      "seo": {
+        "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0001"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "120.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "115.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Blonde\",\"Crimson\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["2.0", "5.0", "10.0"],
+              "identifier": ["brown", "blonde", "crimson"],
+              "unitOfMeasure": ["one", "one", "one"],
+              "unitID": ["C62", "C62", "C62"],
+              "id": [
+                "7000000000000003002",
+                "7000000000000003005",
+                "7000000000000003015"
+              ],
+              "image1": [
+                "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+                "/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+              ],
+              "value": ["Brown", "Blonde", "Crimson"],
+              "image1path": [
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+                "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14156"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_350.jpg",
+      "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["160.0", "160.0"],
+        "groupListPriceRange": ["180.0", "180.0"],
+        "groupCount": 1,
+        "groupOwner": "14160",
+        "groupMaxPriceValue": "160.0",
+        "groupHero": "14161",
+        "groupMinPriceValue": "160.0"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-TB-0002",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Abstract Wooden Coffee Table",
+      "seo": {
+        "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0002"
+      },
+      "relationship.item.id": "14161",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "180.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "160.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Dark Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "darkgrey",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003010",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+              "value": "Dark Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14160"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+      "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["145.0", "145.0"],
+        "groupListPriceRange": ["155.0", "155.0"],
+        "groupCount": 1,
+        "groupOwner": "14162",
+        "groupMaxPriceValue": "145.0",
+        "groupHero": "14163",
+        "groupMinPriceValue": "145.0"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-TB-0003",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Moderno",
+      "seller": "",
+      "name": "Abstract Glass Coffee Table",
+      "seo": {
+        "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003"
+      },
+      "relationship.item.id": "14163",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "155.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "145.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Tan\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "tan",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003017",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+              "value": "Tan",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14162"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+      "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["145.0", "145.0"],
+        "groupListPriceRange": ["155.0", "155.0"],
+        "groupCount": 1,
+        "groupOwner": "14164",
+        "groupMaxPriceValue": "145.0",
+        "groupHero": "14165",
+        "groupMinPriceValue": "145.0"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-TB-0004",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Pub-style Coffee Table",
+      "seo": {
+        "href": "/pub-style-coffee-table-lr-fntr-tb-0004"
+      },
+      "relationship.item.id": "14165",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "155.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "145.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Toffee\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "toffee",
+              "sequence": "8.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003008",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+              "value": "Toffee",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14164"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniture1_a1_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniture1_a1_600.png",
+      "shortDescription": "A compact modern armchair that offers comfortable and sleek styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 2,
+        "groupOwner": "14166",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14167",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FUCH-0001",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Modern Armchair",
+      "seo": {
+        "href": "/modern-armchair-lr-fuch-0001"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Blue\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "blue",
+              "sequence": "9.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003011",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+              "value": "Blue",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ProductDimensions",
+          "attribute.group": " ",
+          "attribute.natural": "[\"24\\\"x40\\\"x30\\\"\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "24x40x30",
+              "sequence": "1.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003078",
+              "value": "24\"x40\"x30\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Product Dimensions",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000510",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ItemWeight",
+          "attribute.group": " ",
+          "attribute.natural": "[\"23 lbs\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "23lbs",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003098",
+              "value": "23 lbs"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Item Weight",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000511",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Polyester, Cotton, Wood\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "polyester-cotton-wood",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003041",
+              "value": "Polyester, Cotton, Wood"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Pattern",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Solid\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "Solid",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003109",
+              "value": "Solid"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "Pattern",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000512",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14166"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniture2_a1_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniture2_a1_600.png",
+      "shortDescription": "A casual yet vibrant armchair that offers comfort and contemporary styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["549.99", "579.99"],
+        "groupListPriceRange": ["600.0", "600.0"],
+        "groupCount": 2,
+        "groupOwner": "14169",
+        "groupMaxPriceValue": "579.99",
+        "groupHero": "14170",
+        "groupMinPriceValue": "549.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FUCH-0002",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Casual Armchair",
+      "seo": {
+        "href": "/casual-armchair-lr-fuch-0002"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Cedar\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "cedar",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003018",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_cedar.png",
+              "value": "Cedar",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cedar.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ProductDimensions",
+          "attribute.group": " ",
+          "attribute.natural": "[\"30\\\"x40\\\"x35\\\"\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "30x40x35",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003079",
+              "value": "30\"x40\"x35\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Product Dimensions",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000510",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ItemWeight",
+          "attribute.group": " ",
+          "attribute.natural": "[\"30 lbs\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "30lbs",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003099",
+              "value": "30 lbs"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Item Weight",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000511",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Polyester, Cotton, Wood\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "polyester-cotton-wood",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003041",
+              "value": "Polyester, Cotton, Wood"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Pattern",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Textured\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "Textured",
+              "sequence": "1.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003108",
+              "value": "Textured"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "Pattern",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000512",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14169"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniture3_a1_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniture3_a1_600.png",
+      "shortDescription": "A warm and cozy armchair that offers superior comfort and lounge room styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["639.99", "659.99"],
+        "groupListPriceRange": ["700.0", "700.0"],
+        "groupCount": 2,
+        "groupOwner": "14172",
+        "groupMaxPriceValue": "659.99",
+        "groupHero": "14173",
+        "groupMinPriceValue": "639.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FUCH-0003",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "seller": "",
+      "name": "Soft Vintage Armchair",
+      "seo": {
+        "href": "/soft-vintage-armchair-lr-fuch-0003"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "700.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "639.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Warm Brown\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "warmbrown",
+              "sequence": "4.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003004",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_warmbrown.png",
+              "value": "Warm Brown",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_warmbrown.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ProductDimensions",
+          "attribute.group": " ",
+          "attribute.natural": "[\"40\\\"x36\\\"x36\\\"\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "40x36x36",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003080",
+              "value": "40\"x36\"x36\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Product Dimensions",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000510",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ItemWeight",
+          "attribute.group": " ",
+          "attribute.natural": "[\"45 lbs\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "45lbs",
+              "sequence": "4.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003100",
+              "value": "45 lbs"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Item Weight",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000511",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Microfibre, Cotton, Wood\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "microfibre-cotton-wood",
+              "sequence": "11.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003042",
+              "value": "Microfibre, Cotton, Wood"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Pattern",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Textured\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "Textured",
+              "sequence": "1.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003108",
+              "value": "Textured"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "Pattern",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000512",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14172"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniture4_a1_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniture4_a1_600.png",
+      "shortDescription": "A simple and modern casual sofa that offers comfort and contemporary styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["749.99", "749.99"],
+        "groupListPriceRange": ["800.0", "800.0"],
+        "groupCount": 2,
+        "groupOwner": "14175",
+        "groupMaxPriceValue": "749.99",
+        "groupHero": "14177",
+        "groupMinPriceValue": "749.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FUCH-0004",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Stockholm",
+      "seller": "",
+      "name": "Nordic Sofa",
+      "seo": {
+        "href": "/nordic-sofa-lr-fuch-0004"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "grey",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003003",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+              "value": "Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ProductDimensions",
+          "attribute.group": " ",
+          "attribute.natural": "[\"30\\\"x24\\\"x24\\\"\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "30x24x24",
+              "sequence": "4.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003081",
+              "value": "30\"x24\"x24\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Product Dimensions",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000510",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ItemWeight",
+          "attribute.group": " ",
+          "attribute.natural": "[\"30 lbs\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "30lbs",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003099",
+              "value": "30 lbs"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Item Weight",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000511",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Polyester, Cotton, Steel\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "polyester-cotton-steel",
+              "sequence": "12.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003043",
+              "value": "Polyester, Cotton, Steel"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Pattern",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Solid\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "Solid",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003109",
+              "value": "Solid"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "Pattern",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000512",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14175"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniture5_a1_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniture5_a1_600.png",
+      "shortDescription": "A simple and modern casual loveseat that offers comfort and contemporary styling to accent your home's living room.",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["1999.99", "1999.99"],
+        "groupListPriceRange": ["2500.0", "2500.0"],
+        "groupCount": 2,
+        "groupOwner": "14178",
+        "groupMaxPriceValue": "1999.99",
+        "groupHero": "14179",
+        "groupMinPriceValue": "1999.99"
+      },
+      "_ignored": "default.completion",
+      "partNumber": "LR-FUCH-0005",
+      "storeID": "11",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Home Design",
+      "seller": "",
+      "name": "Nordic Loveseat",
+      "seo": {
+        "href": "/nordic-loveseat-lr-fuch-0005"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "2500.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "1999.99"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "grey",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003003",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+              "value": "Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ProductDimensions",
+          "attribute.group": " ",
+          "attribute.natural": "[\"56\\\"x24\\\"x24\\\"\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "56x24x24",
+              "sequence": "5.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003082",
+              "value": "56\"x24\"x24\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Product Dimensions",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000510",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "ItemWeight",
+          "attribute.group": " ",
+          "attribute.natural": "[\"150 lbs\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "150lbs",
+              "sequence": "5.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003101",
+              "value": "150 lbs"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Item Weight",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000511",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "2.0"],
+              "identifier": ["48x6x48", "52x6x52"],
+              "unitOfMeasure": ["one", "one"],
+              "unitID": ["C62", "C62"],
+              "id": ["7000000000000003028", "7000000000000003029"],
+              "value": ["48\"x6\"x48\"", "52\"x6\"x52\""]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Materials",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Polyester, Cotton, Steel\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "polyester-cotton-steel",
+              "sequence": "12.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003043",
+              "value": "Polyester, Cotton, Steel"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "Material",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000503",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Pattern",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Solid\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "Solid",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003109",
+              "value": "Solid"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "Pattern",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000512",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "14178"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniture4_a5_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniture4_a5_600.png",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Nordic",
+      "shortDescription": "The nordic style arrangement features modern and sleek furniture that brightens up and accents your home's living room.",
+      "seller": "",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["2999.97", "2999.97"],
+        "groupListPriceRange": ["3600.0", "3600.0"],
+        "groupCount": 1,
+        "groupOwner": "14205",
+        "groupMaxPriceValue": "2999.97",
+        "groupHero": "14205",
+        "groupMinPriceValue": "2999.97"
+      },
+      "_ignored": "default.completion",
+      "name": "Nordic Style",
+      "partNumber": "LR-FUCH-NORDIC-0001",
+      "storeID": "11",
+      "seo": {
+        "href": "/nordic-style-lr-fuch-nordic-0001"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "3600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "2999.97"
+        }
+      ],
+      "type": "bundle",
+      "id": "14205"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/furniturekit1_600.png",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/furniturekit1_600.png",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Nordic",
+      "shortDescription": "A simple and modern sofa set that offers comfort and contemporary styling to accent your home's living room.",
+      "seller": "",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["2099.99", "2099.99"],
+        "groupListPriceRange": ["2300.0", "2300.0"],
+        "groupCount": 1,
+        "groupOwner": "14206",
+        "groupMaxPriceValue": "2099.99",
+        "groupHero": "14206",
+        "groupMinPriceValue": "2099.99"
+      },
+      "_ignored": "default.completion",
+      "name": "Nordic Sofa Set",
+      "partNumber": "LR-FUCH-NORDICSET-0001",
+      "storeID": "11",
+      "seo": {
+        "href": "/nordic-sofa-set-lr-fuch-nordicset-0001"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "2300.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-11005",
+          "description": "I",
+          "currency": "USD",
+          "value": "2099.99"
+        }
+      ],
+      "type": "package",
+      "id": "14206"
+    }
+  ],
+  "facets": [
+    {
+      "entry": [
+        {
+          "count": 17,
+          "label": "({* TO 599])",
+          "value": "price_usd%3A%28%7B*+TO+599%5D%29",
+          "extendedData": {
+            "uniqueId": "1121141059910195117115100584012342328479325357579341"
+          }
+        },
+        {
+          "count": 15,
+          "label": "({599 TO 1198])",
+          "value": "price_usd%3A%28%7B599+TO+1198%5D%29",
+          "extendedData": {
+            "uniqueId": "1121141059910195117115100584012353575732847932494957569341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({1198 TO 1797])",
+          "value": "price_usd%3A%28%7B1198+TO+1797%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019511711510058401234949575632847932495557559341"
+          }
+        },
+        {
+          "count": 2,
+          "label": "({1797 TO 2396])",
+          "value": "price_usd%3A%28%7B1797+TO+2396%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019511711510058401234955575532847932505157549341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({2396 TO 2995])",
+          "value": "price_usd%3A%28%7B2396+TO+2995%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019511711510058401235051575432847932505757539341"
+          }
+        },
+        {
+          "count": 1,
+          "label": "({2995 TO * ])",
+          "value": "price_usd%3A%28%7B2995+TO+*+%5D%29",
+          "extendedData": {
+            "uniqueId": "11211410599101951171151005840123505757533284793242329341"
+          }
+        }
+      ],
+      "value": "price_usd",
+      "name": "OfferPrice_usd"
+    },
+    {
+      "value": "manufacturer.raw",
+      "name": "Brand",
+      "entry": [
+        {
+          "label": "Home Design",
+          "value": "manufacturer.raw%3A%22Home+Design%22",
+          "count": "4",
+          "extendedData": {
+            "uniqueId": "721111091013268101115105103110"
+          }
+        },
+        {
+          "label": "Moderno",
+          "value": "manufacturer.raw%3A%22Moderno%22",
+          "count": "3",
+          "extendedData": {
+            "uniqueId": "77111100101114110111"
+          }
+        },
+        {
+          "label": "Nordic",
+          "value": "manufacturer.raw%3A%22Nordic%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "7811111410010599"
+          }
+        },
+        {
+          "label": "Stockholm",
+          "value": "manufacturer.raw%3A%22Stockholm%22",
+          "count": "7",
+          "extendedData": {
+            "uniqueId": "8311611199107104111108109"
+          }
+        },
+        {
+          "label": "Stonehenge",
+          "value": "manufacturer.raw%3A%22Stonehenge%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "83116111110101104101110103101"
+          }
+        },
+        {
+          "label": "Style Home",
+          "value": "manufacturer.raw%3A%22Style+Home%22",
+          "count": "10",
+          "extendedData": {
+            "uniqueId": "831161211081013272111109101"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Brand",
+        "propertyvalue": "manufacturer.raw",
+        "maximumValuesToDisplay": "6",
+        "displayable": "true",
+        "allValuesReturned": "false",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "0.0",
+        "name": "Brand",
+        "sortorder": "1",
+        "max_display": "6",
+        "fdesc": "The manufacturer",
+        "propertyId": "manufacturer.raw"
+      }
+    },
+    {
+      "value": "facets.7000000000000000510.value.raw",
+      "name": "Product Dimensions",
+      "entry": [
+        {
+          "label": "24\"x40\"x30\"",
+          "value": "facets.7000000000000000510.value.raw%3A%2224%5C%22x40%5C%22x30%5C%22%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "505234120524834120514834",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "30\"x24\"x24\"",
+          "value": "facets.7000000000000000510.value.raw%3A%2230%5C%22x24%5C%22x24%5C%22%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "514834120505234120505234",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "40\"x36\"x36\"",
+          "value": "facets.7000000000000000510.value.raw%3A%2240%5C%22x36%5C%22x36%5C%22%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "524834120515434120515434",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "56\"x24\"x24\"",
+          "value": "facets.7000000000000000510.value.raw%3A%2256%5C%22x24%5C%22x24%5C%22%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "535434120505234120505234",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "30\"x40\"x35\"",
+          "value": "facets.7000000000000000510.value.raw%3A%2230%5C%22x40%5C%22x35%5C%22%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "514834120524834120515334",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Product Dimensions",
+        "propertyvalue": "ProductDimensions",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "1.0",
+        "name": "Product Dimensions",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "Product Dimensions",
+        "propertyId": "7000000000000000510"
+      }
+    },
+    {
+      "value": "facets.7000000000000000501.value.raw",
+      "name": "Color",
+      "entry": [
+        {
+          "label": "Grey",
+          "value": "facets.7000000000000000501.value.raw%3A%22Grey%22",
+          "count": "12",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+          "extendedData": {
+            "uniqueId": "71114101121",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "3.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+          }
+        },
+        {
+          "label": "Dark Grey",
+          "value": "facets.7000000000000000501.value.raw%3A%22Dark+Grey%22",
+          "count": "10",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+          "extendedData": {
+            "uniqueId": "68971141073271114101121",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+          }
+        },
+        {
+          "label": "Blue",
+          "value": "facets.7000000000000000501.value.raw%3A%22Blue%22",
+          "count": "9",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+          "extendedData": {
+            "uniqueId": "66108117101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "9.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+          }
+        },
+        {
+          "label": "Brown",
+          "value": "facets.7000000000000000501.value.raw%3A%22Brown%22",
+          "count": "8",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+          "extendedData": {
+            "uniqueId": "66114111119110",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "2.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+          }
+        },
+        {
+          "label": "Light Grey",
+          "value": "facets.7000000000000000501.value.raw%3A%22Light+Grey%22",
+          "count": "7",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+          "extendedData": {
+            "uniqueId": "761051031041163271114101121",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "6.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+          }
+        },
+        {
+          "label": "Crimson",
+          "value": "facets.7000000000000000501.value.raw%3A%22Crimson%22",
+          "count": "6",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+          "extendedData": {
+            "uniqueId": "67114105109115111110",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+          }
+        },
+        {
+          "label": "Purple",
+          "value": "facets.7000000000000000501.value.raw%3A%22Purple%22",
+          "count": "5",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+          "extendedData": {
+            "uniqueId": "80117114112108101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+          }
+        },
+        {
+          "label": "Coffee",
+          "value": "facets.7000000000000000501.value.raw%3A%22Coffee%22",
+          "count": "4",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+          "extendedData": {
+            "uniqueId": "67111102102101101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "9.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_coffee.png"
+          }
+        },
+        {
+          "label": "Toffee",
+          "value": "facets.7000000000000000501.value.raw%3A%22Toffee%22",
+          "count": "3",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+          "extendedData": {
+            "uniqueId": "84111102102101101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "8.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+          }
+        },
+        {
+          "label": "Tan",
+          "value": "facets.7000000000000000501.value.raw%3A%22Tan%22",
+          "count": "3",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+          "extendedData": {
+            "uniqueId": "8497110",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+          }
+        },
+        {
+          "label": "Airforce",
+          "value": "facets.7000000000000000501.value.raw%3A%22Airforce%22",
+          "count": "3",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png",
+          "extendedData": {
+            "uniqueId": "6510511410211111499101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+          }
+        },
+        {
+          "label": "Seaweed",
+          "value": "facets.7000000000000000501.value.raw%3A%22Seaweed%22",
+          "count": "3",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+          "extendedData": {
+            "uniqueId": "8310197119101101100",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+          }
+        },
+        {
+          "label": "Standin",
+          "value": "facets.7000000000000000501.value.raw%3A%22Standin%22",
+          "count": "2",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_standin.png",
+          "extendedData": {
+            "uniqueId": "8311697110100105110",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_standin.png"
+          }
+        },
+        {
+          "label": "Cedar",
+          "value": "facets.7000000000000000501.value.raw%3A%22Cedar%22",
+          "count": "2",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cedar.png",
+          "extendedData": {
+            "uniqueId": "6710110097114",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_cedar.png"
+          }
+        },
+        {
+          "label": "Mahogany",
+          "value": "facets.7000000000000000501.value.raw%3A%22Mahogany%22",
+          "count": "2",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_mahogany.png",
+          "extendedData": {
+            "uniqueId": "779710411110397110121",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_mahogany.png"
+          }
+        },
+        {
+          "label": "Oak",
+          "value": "facets.7000000000000000501.value.raw%3A%22Oak%22",
+          "count": "2",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+          "extendedData": {
+            "uniqueId": "7997107",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_oak.png"
+          }
+        },
+        {
+          "label": "Blonde",
+          "value": "facets.7000000000000000501.value.raw%3A%22Blonde%22",
+          "count": "2",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+          "extendedData": {
+            "uniqueId": "66108111110100101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "5.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_blonde.png"
+          }
+        },
+        {
+          "label": "Walnut",
+          "value": "facets.7000000000000000501.value.raw%3A%22Walnut%22",
+          "count": "1",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_walnut.png",
+          "extendedData": {
+            "uniqueId": "8797108110117116",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_walnut.png"
+          }
+        },
+        {
+          "label": "Pine",
+          "value": "facets.7000000000000000501.value.raw%3A%22Pine%22",
+          "count": "1",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_pine.png",
+          "extendedData": {
+            "uniqueId": "80105110101",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "10.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_pine.png"
+          }
+        },
+        {
+          "label": "Warm Brown",
+          "value": "facets.7000000000000000501.value.raw%3A%22Warm+Brown%22",
+          "count": "1",
+          "image": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_warmbrown.png",
+          "extendedData": {
+            "uniqueId": "87971141093266114111119110",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "4.0",
+            "image1": "/EmeraldCAS/images/catalog/swatches/sw_warmbrown.png"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Color",
+        "propertyvalue": "Color",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "false",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "1.0",
+        "name": "Color",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "Color",
+        "propertyId": "7000000000000000501"
+      }
+    },
+    {
+      "value": "facets.7000000000000000502.value.raw",
+      "name": "Size",
+      "entry": [
+        {
+          "label": "52\"x6\"x52\"",
+          "value": "facets.7000000000000000502.value.raw%3A%2252%5C%22x6%5C%22x52%5C%22%22",
+          "count": "21",
+          "extendedData": {
+            "uniqueId": "5350341205434120535034",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "2.0"
+          }
+        },
+        {
+          "label": "48\"x6\"x48\"",
+          "value": "facets.7000000000000000502.value.raw%3A%2248%5C%22x6%5C%22x48%5C%22%22",
+          "count": "21",
+          "extendedData": {
+            "uniqueId": "5256341205434120525634",
+            "unitID": "C62",
+            "unitOfMeasure": "one",
+            "sequence": "1.0"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Size",
+        "propertyvalue": "Size",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "2.0",
+        "name": "Size",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "Size",
+        "propertyId": "7000000000000000502"
+      }
+    },
+    {
+      "value": "facets.7000000000000000511.value.raw",
+      "name": "Item Weight",
+      "entry": [
+        {
+          "label": "30 lbs",
+          "value": "facets.7000000000000000511.value.raw%3A%2230+lbs%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "51483210898115",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "23 lbs",
+          "value": "facets.7000000000000000511.value.raw%3A%2223+lbs%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "50513210898115",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "150 lbs",
+          "value": "facets.7000000000000000511.value.raw%3A%22150+lbs%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "4953483210898115",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "45 lbs",
+          "value": "facets.7000000000000000511.value.raw%3A%2245+lbs%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "52533210898115",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Item Weight",
+        "propertyvalue": "ItemWeight",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "2.0",
+        "name": "Item Weight",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "Item Weight",
+        "propertyId": "7000000000000000511"
+      }
+    },
+    {
+      "value": "facets.7000000000000000503.value.raw",
+      "name": "Material",
+      "entry": [
+        {
+          "label": "Dos",
+          "value": "facets.7000000000000000503.value.raw%3A%22Dos%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "68111115",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Polyester, Cotton, Wood",
+          "value": "facets.7000000000000000503.value.raw%3A%22Polyester%2C+Cotton%2C+Wood%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "80111108121101115116101114443267111116116111110443287111111100",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Polyester, Cotton, Steel",
+          "value": "facets.7000000000000000503.value.raw%3A%22Polyester%2C+Cotton%2C+Steel%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "80111108121101115116101114443267111116116111110443283116101101108",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Tres",
+          "value": "facets.7000000000000000503.value.raw%3A%22Tres%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "84114101115",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Cuatro",
+          "value": "facets.7000000000000000503.value.raw%3A%22Cuatro%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "6711797116114111",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Padre",
+          "value": "facets.7000000000000000503.value.raw%3A%22Padre%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "8097100114101",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Microfibre, Cotton, Wood",
+          "value": "facets.7000000000000000503.value.raw%3A%22Microfibre%2C+Cotton%2C+Wood%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "771059911411110210598114101443267111116116111110443287111111100",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Cinco",
+          "value": "facets.7000000000000000503.value.raw%3A%22Cinco%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "6710511099111",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Material",
+        "propertyvalue": "Materials",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "3.0",
+        "name": "Material",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "Material",
+        "propertyId": "7000000000000000503"
+      }
+    },
+    {
+      "value": "facets.7000000000000000512.value.raw",
+      "name": "Pattern",
+      "entry": [
+        {
+          "label": "Solid",
+          "value": "facets.7000000000000000512.value.raw%3A%22Solid%22",
+          "count": "3",
+          "extendedData": {
+            "uniqueId": "83111108105100",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        },
+        {
+          "label": "Textured",
+          "value": "facets.7000000000000000512.value.raw%3A%22Textured%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "84101120116117114101100",
+            "unitID": "C62",
+            "unitOfMeasure": "one"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Pattern",
+        "propertyvalue": "Pattern",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "4.0",
+        "name": "Pattern",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "Pattern",
+        "propertyId": "7000000000000000512"
+      }
+    }
+  ],
+  "previous": "/search/resources/api/v2/products?storeId=11&categoryId=10502&limit=40&offset=0",
+  "total": 35
+}
