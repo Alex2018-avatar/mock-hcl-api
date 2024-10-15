@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838490",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715841096",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2c-marketing-content-widget_12608",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_conoce_mas_tecnologia",
+          "contentClickAction": "None",
+          "contentId": "715838490",
+          "baseMarketingSpotActivityID": "715838490",
+          "contentName": "content_home_conoce_mas_tecnologia",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<!-- Tecnologia --><div class=\"section-learn-more\">  <h2>Tecnologia<a class=\"link-home-section\" href=\"/computadores-y-tablets\">Conoce más      &gt;</a></h2>  <div class=\"learn-more-three-column-split\">    <div class=\"learn-more-item\">      <a href=\"/audifonos-samsung-galaxy-buds3-pro\">        <picture>          <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/buds_3_pro_02oct_D.webp            \" />          <img            src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/buds_3_pro_02oct_D.webp\"            alt=\"Descripción de la imagen\"          />        </picture>      </a>    </div>    <div class=\"learn-more-item\">      <a href=\"/audifonos-samsung-galaxy-buds3-pro\">        <picture>          <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/tv_samsung_a55_02oct_D.webp            \" />          <img            src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/tv_samsung_a55_02oct_M.webp\"            alt=\"Descripción de la imagen\"          />        </picture>      </a>    </div>    <div class=\"learn-more-item\">      <a href=\"/quiero-un-plan-postpago-claro\">        <picture>          <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/pc_hp_maleta_02oct_D.webp            \" />          <img            src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/pc_hp_maleta_02oct_M.webp\"            alt=\"Descripción de la imagen\"          />        </picture>      </a>    </div>  </div></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_clarob2c-marketing-content-widget_12608?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

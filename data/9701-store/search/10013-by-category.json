@@ -1,0 +1,342 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "breadCrumbTrailEntryView": [
+    {
+      "label": "Tecnología",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10002",
+      "seo": {
+        "href": "/tecnología"
+      }
+    },
+    {
+      "label": "Computadores",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10013",
+      "seo": {
+        "href": "/computadores"
+      }
+    }
+  ],
+  "contents": [
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "sellerId": "7333333333333333435",
+      "name": "Portatil HP 240 G9 14Pulgadas 6K015LT",
+      "shortDescription": "Portatil HP 240 G9 14Pulgadas 6K015LT",
+      "manufacturer": "HP",
+      "parentCatalogGroupID": "/10002/10013",
+      "thumbnailRaw": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/portatil-hp-240-g9-14-pulgadas-6k015lt-plata.jpg",
+      "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/portatil-hp-240-g9-14-pulgadas-6k015lt-plata.jpg",
+      "seo": {
+        "href": "/portatil-hp-240-g9-14pulgadas-6k015lt-po-tec7018263p"
+      },
+      "partNumber": "PO_Tec7018263P",
+      "storeID": "9701",
+      "relationship.item.id": "10102",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "1861900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000003",
+          "description": "I",
+          "currency": "COP",
+          "value": "1899900.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "10101"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "sellerId": "7333333333333333435",
+      "name": "Portatil HP 245 G9 14Pulgadas AMD R3",
+      "shortDescription": "Portatil HP 245 G9 14Pulgadas AMD R3",
+      "manufacturer": "HP",
+      "parentCatalogGroupID": "/10002/10013",
+      "thumbnailRaw": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/portatil-hp-245-g9-14-pulgadas-amd-r3-gris.jpg",
+      "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/portatil-hp-245-g9-14-pulgadas-amd-r3-gris.jpg",
+      "seo": {
+        "href": "/portatil-hp-245-g9-14pulgadas-amd-r3-po-tec7019013p"
+      },
+      "partNumber": "PO_Tec7019013P",
+      "storeID": "9701",
+      "relationship.item.id": "10104",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "2017900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000003",
+          "description": "I",
+          "currency": "COP",
+          "value": "2017900.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "10103"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "sellerId": "7333333333333333435",
+      "name": "Bomb Intel Kall Led Btwfi 8.5W",
+      "shortDescription": "Bomb Intel Kall Led Btwfi 8.5W",
+      "manufacturer": "KALLEY",
+      "parentCatalogGroupID": "/10002/10013",
+      "thumbnailRaw": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/bomb-intel-kall-led-btwfi-85W.jpg",
+      "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/bomb-intel-kall-led-btwfi-85W.jpg",
+      "seo": {
+        "href": "/bomb-intel-kall-led-btwfi-85w-po-tec7019255p"
+      },
+      "partNumber": "PO_Tec7019255P",
+      "storeID": "9701",
+      "relationship.item.id": "10112",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "66900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000003",
+          "description": "I",
+          "currency": "COP",
+          "value": "52900.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "10111"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "sellerId": "7333333333333333435",
+      "name": "Toma Corrient Int Kalley K-Ei1",
+      "shortDescription": "Toma Corrient Int Kalley K-Ei1",
+      "manufacturer": "KALLEY",
+      "parentCatalogGroupID": "/10002/10013",
+      "thumbnailRaw": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/toma-corrient-int-kalley-k-ei1.jpg",
+      "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/toma-corrient-int-kalley-k-ei1.jpg",
+      "seo": {
+        "href": "/toma-corrient-int-kalley-k-ei1-po-tec7019212p"
+      },
+      "partNumber": "PO_Tec7019212P",
+      "storeID": "9701",
+      "relationship.item.id": "10114",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "66900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000003",
+          "description": "I",
+          "currency": "COP",
+          "value": "52900.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "10113"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "sellerId": "7333333333333333435",
+      "name": "Roseta Inteligente Kall K-Rs1",
+      "shortDescription": "Roseta Inteligente Kall K-Rs1",
+      "manufacturer": "KALLEY",
+      "parentCatalogGroupID": "/10002/10013",
+      "thumbnailRaw": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/roseta-inteligente-kall-k-rs1.jpg",
+      "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/roseta-inteligente-kall-k-rs1.jpg",
+      "seo": {
+        "href": "/roseta-inteligente-kall-k-rs1-po-tec7019211p"
+      },
+      "partNumber": "PO_Tec7019211P",
+      "storeID": "9701",
+      "relationship.item.id": "10116",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "83900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000003",
+          "description": "I",
+          "currency": "COP",
+          "value": "65900.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "10115"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "sellerId": "7333333333333333435",
+      "name": "Barra de sonido Aiwa AWSBH1",
+      "shortDescription": "Barra de sonido Aiwa AWSBH1",
+      "manufacturer": "AIWA",
+      "parentCatalogGroupID": "/10002/10013",
+      "thumbnailRaw": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/barra-de-sonido-aiwa-awsbh1.jpg",
+      "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/barra-de-sonido-aiwa-awsbh1.jpg",
+      "seo": {
+        "href": "/barra-de-sonido-aiwa-awsbh1-po-tec7019284p"
+      },
+      "partNumber": "PO_Tec7019284P",
+      "storeID": "9701",
+      "relationship.item.id": "10118",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "412900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000003",
+          "description": "I",
+          "currency": "COP",
+          "value": "412900.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "10117"
+    }
+  ],
+  "facets": [
+    {
+      "value": "manufacturer.raw",
+      "name": "Marca",
+      "entry": [
+        {
+          "label": "KALLEY",
+          "value": "manufacturer.raw%3A%22KALLEY%22",
+          "count": "3",
+          "key": "KALLEY",
+          "extendedData": {
+            "uniqueId": "756576766989"
+          }
+        },
+        {
+          "label": "HP",
+          "value": "manufacturer.raw%3A%22HP%22",
+          "count": "2",
+          "key": "HP",
+          "extendedData": {
+            "uniqueId": "7280"
+          }
+        },
+        {
+          "label": "AIWA",
+          "value": "manufacturer.raw%3A%22AIWA%22",
+          "count": "1",
+          "key": "AIWA",
+          "extendedData": {
+            "uniqueId": "65738765"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Marca",
+        "propertyvalue": "manufacturer.raw",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "false",
+        "displaySequence": "0.0",
+        "name": "Marca",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "El fabricante",
+        "propertyId": "manufacturer.raw"
+      }
+    },
+    {
+      "value": "facets.10051.value.raw",
+      "name": "Color",
+      "entry": [
+        {
+          "label": "BLANCO",
+          "value": "facets.10051.value.raw%3A%22BLANCO%22",
+          "count": "3",
+          "key": "BLANCO###BLANCO",
+          "image": "",
+          "extendedData": {
+            "uniqueId": "667665786779",
+            "sequence": "7.0",
+            "image1": ""
+          }
+        },
+        {
+          "label": "NEGRO",
+          "value": "facets.10051.value.raw%3A%22NEGRO%22",
+          "count": "2",
+          "key": "NEGRO###NEGRO",
+          "image": "",
+          "extendedData": {
+            "uniqueId": "7869718279",
+            "sequence": "1.0",
+            "image1": ""
+          }
+        },
+        {
+          "label": "GRIS",
+          "value": "facets.10051.value.raw%3A%22GRIS%22",
+          "count": "1",
+          "key": "GRIS###GRIS",
+          "image": "",
+          "extendedData": {
+            "uniqueId": "71827383",
+            "sequence": "2.0",
+            "image1": ""
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Color",
+        "zero_display": "false",
+        "propertyvalue": "Color",
+        "allowMultipleValueSelection": "false",
+        "maximumValuesToDisplay": "20",
+        "displaySequence": "1.0",
+        "name": "Color",
+        "displayable": "false",
+        "allValuesReturned": "true",
+        "sortorder": "0",
+        "max_display": "20",
+        "propertyId": "10051"
+      }
+    }
+  ],
+  "total": 6
+}

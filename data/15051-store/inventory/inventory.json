@@ -1,0 +1,15 @@
+{
+  "InventoryAvailability": [
+    {
+      "availableQuantity": "181.0",
+      "onlineStoreName": "AuroraESite",
+      "productId": "3074457345616683171",
+      "unitOfMeasure": "C62",
+      "inventoryStatus": "Available",
+      "partNumber": "PO_Equ70038567",
+      "onlineStoreId": "1"
+    }
+  ],
+  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/15051/inventoryavailability/byPartNumber/PO_Equ70038567",
+  "resourceName": "inventoryavailability"
+}

@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838502",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715841090",
+      "behavior": "0",
+      "eSpotName": "Widget_content-recommendation-widget_12605",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_servicios",
+          "contentClickAction": "None",
+          "contentId": "715838502",
+          "baseMarketingSpotActivityID": "715838502",
+          "contentName": "content_home_servicios",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>    .services {      box-sizing: border-box;      text-align: center;      display: flex;      flex-direction: column;      align-items: center;      margin: auto;      width: 80%;    }    .services__tabs-input {      display: none;    }    .services__tabs {      display: flex;      width: 100%;      justify-content: space-between;      overflow-x: hidden;      padding: 0;      margin-bottom: 0;      list-style: none;    }    .services__title {      font-family: 'AMX-Bold';      font-size: 32px;      margin-top: 0rem;    }    .services__tab {      padding: 10px;      min-width: 183px;      cursor: pointer;    }    .services__tab-label {      cursor: pointer;    }    .services__tab-icon {      height: 60px;    }    .services__tab-text {      margin: 0;      font-weight: normal;      font-size: 1rem;      font-family: 'Roboto-Medium';    }    .services__description {      display: flex;      flex-direction: column;      align-items: center;      width: 100%;    }    .services__description-content {      display: none;    }    .services__description-text {      color: #000000;      font-family: 'Roboto-Regular';      font-size: 20px;      margin: 1.7rem 0;    }    .services__description-link {      display: inline-block;      width: 264px;      padding: 0.4rem 1rem;      background-color: #DA291C;      color: #FFFFFF;      border: none;      border-radius: 20px;      text-decoration: none;      text-align: center;      font-size: 18px;      font-family: 'Roboto-Regular';    }    .services__divider {      border: 0.5px solid #E7E7E7;      width: 100%;    }    .services__tabs-input:nth-of-type(1):checked~.services__tabs .services__tab:nth-of-type(1),    .services__tabs-input:nth-of-type(2):checked~.services__tabs .services__tab:nth-of-type(2),    .services__tabs-input:nth-of-type(3):checked~.services__tabs .services__tab:nth-of-type(3),    .services__tabs-input:nth-of-type(4):checked~.services__tabs .services__tab:nth-of-type(4),    .services__tabs-input:nth-of-type(5):checked~.services__tabs .services__tab:nth-of-type(5) {      border-bottom: 6px solid #E03224;      color: #000000;      font-family: 'Roboto-Bold';    }    .services__tabs-input:nth-of-type(1):checked~.services__description #description1,    .services__tabs-input:nth-of-type(2):checked~.services__description #description2,    .services__tabs-input:nth-of-type(3):checked~.services__description #description3,    .services__tabs-input:nth-of-type(4):checked~.services__description #description4,    .services__tabs-input:nth-of-type(5):checked~.services__description #description5 {      display: block;    }    /* Scrollbar oculto */    div::-webkit-scrollbar {      display: none;    }    @media screen and (max-width: 1200px) {      .services__tab {        min-width: 90px;      }      .services {        width: 90%;      }    }    @media screen and (max-width: 768px) {      .services {        /* margin: auto 1rem; */        padding: 1.5rem 0rem;        background: #FDFDFF;        box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.3);        border-radius: 10px;        width: 100%;      }      .services__tabs {        width: 80vw;        overflow-x: auto;      }      .services__title {        font-size: 1.125rem;      }      .services__tab-icon {        height: 40px;      }      .services__description-text {        font-size: 14px;        /* max-width: 80vw; */      }      .services__description-link {        width: 200px;      }      .services__divider {        display: none;      }      .services__description {        padding: 0 3rem;      }    }  </style>  <div class=\"services\">    <input type=\"radio\" id=\"service1\" name=\"css-tabs\" class=\"services__tabs-input\" checked>    <input type=\"radio\" id=\"service2\" name=\"css-tabs\" class=\"services__tabs-input\">    <input type=\"radio\" id=\"service3\" name=\"css-tabs\" class=\"services__tabs-input\">    <input type=\"radio\" id=\"service4\" name=\"css-tabs\" class=\"services__tabs-input\">    <input type=\"radio\" id=\"service5\" name=\"css-tabs\" class=\"services__tabs-input\">    <h2 class=\"services__title\">Nuestros servicios</h2>    <ul class=\"services__tabs\">      <li class=\"services__tab\">        <label for=\"service1\" class=\"services__tab-label\">          <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/v9/assets/red/home/pospago.png\" alt=\"Pásate a Postpago\"            class=\"services__tab-icon\">          <p class=\"services__tab-text\">Pásate a Postpago</p>        </label>      </li>      <li class=\"services__tab\">        <label for=\"service2\" class=\"services__tab-label\">          <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/v9/assets/red/home/planes_hogar.png\" alt=\"Planes Hogar\"            class=\"services__tab-icon\">          <p class=\"services__tab-text\">Planes Hogar</p>        </label>      </li>      <li class=\"services__tab\">        <label for=\"service3\" class=\"services__tab-label\">          <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/v9/assets/red/home/kit_prepago.png\" alt=\"Kit Prepago\"            class=\"services__tab-icon\">          <p class=\"services__tab-text\">Kit Prepago</p>        </label>      </li>      <li class=\"services__tab\">        <label for=\"service4\" class=\"services__tab-label\">          <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/v9/assets/red/home/plan_pospago.png\" alt=\"Postpago\"            class=\"services__tab-icon\">          <p class=\"services__tab-text\">Postpago</p>        </label>      </li>      <li class=\"services__tab\">        <label for=\"service5\" class=\"services__tab-label\">          <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/v9/assets/red/home/internet_de_las_cosas.png\"            alt=\"Internet de las cosas\" class=\"services__tab-icon\">          <p class=\"services__tab-text\">Internet de las cosas</p>        </label>      </li>    </ul>    <div class=\"services__divider\"></div>    <div class=\"services__description\">      <div id=\"description1\" class=\"services__description-content\">        <p class=\"services__description-text\">Obtén el primer mes gratis pasándote a postpago con tu número.</p>        <a href=\"/product-detail/conectados-l-lite-mx-tmk-bu-movposplanconectadosllitemxtmkp\"          class=\"services__description-link\">Conoce más</a>      </div>      <div id=\"description2\" class=\"services__description-content\">        <p class=\"services__description-text\">Descubre el paquete ideal de entretenimiento para tu hogar.</p>        <a href=\"/armatuplay\" class=\"services__description-link\">Conoce más</a>      </div>      <div id=\"description3\" class=\"services__description-content\">        <p class=\"services__description-text\">Obtén el primer mes gratis pasándote a postpago con tu número.</p>        <a href=\"/claro/kit-prepago\" class=\"services__description-link\">Conoce más</a>      </div>      <div id=\"description4\" class=\"services__description-content\">        <p class=\"services__description-text\">Encuentra el plan ideal para navegar sin preocupaciones.</p>        <a href=\"/claro/linea-nueva1\" class=\"services__description-link\">Conoce más</a>      </div>      <div id=\"description5\" class=\"services__description-content\">        <p class=\"services__description-text\">Cuida a quienes más quieres y conecta tu vida con la red más grande del          país.</p>        <a href=\"/claro/internet-de-las-cosas\" class=\"services__description-link\">Conoce más</a>      </div>    </div>  </div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_content-recommendation-widget_12605?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

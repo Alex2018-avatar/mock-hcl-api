@@ -1,0 +1,23 @@
+{
+  "recordSetCount": 4,
+  "resourceId": "",
+  "resourceName": "xstoreparameters",
+  "xstoreparameters": [
+    {
+      "name": "wc.clarob2b.google.recaptcha.site.key.web",
+      "value": "6LfHngwqAAAAANECDjB5pjj5gk1NW-35FeI1Q13Z"
+    },
+    {
+      "name": "wc.clarob2b.google.recaptcha.api.loginb2b.action",
+      "value": "LOGIN"
+    },
+    {
+      "name": "wc.clarob2b.google.recaptcha.api.tracking.action",
+      "value": "TRACKING_GUEST"
+    },
+    {
+      "name": "wc.clarob2b.google.recaptcha.enable",
+      "value": "true"
+    }
+  ]
+}

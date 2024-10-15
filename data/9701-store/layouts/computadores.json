@@ -1,0 +1,160 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "previewReport": ["UseDefaultLayout"],
+        "id": "11101",
+        "name": "ProductListB2C",
+        "containerName": "product-listing-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "12102",
+                "name": "B2C Indicación de ruta",
+                "widgetName": "clarob2c-breadcrumb-trail-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "isStaticPage": "false",
+                  "goBackLabel": "Volver",
+                  "path1": "null",
+                  "path2": "null",
+                  "path3": "null",
+                  "showGoBackInMobille": "false"
+                }
+              },
+              {
+                "id": "15101",
+                "name": "Indicación de ruta",
+                "widgetName": "breadcrumb-trail-widget",
+                "sequence": 1.0
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "12105",
+                "name": "Navegación por facetas",
+                "widgetName": "facet-navigation-widget",
+                "sequence": 0.0
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": [
+              {
+                "id": "12103",
+                "name": "Lista de producto",
+                "widgetName": "catalog-entry-list-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "emsName": "Widget_catalog-entry-list-widget_12103",
+                  "emsId": "715840084"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "computadores",
+      "store.type": "CPS",
+      "tokenName": "CategoryToken",
+      "tokenExternalValue": "COMPUTADORES",
+      "language": "es_ES",
+      "id": "11113",
+      "page": {
+        "imageAlternateDescription": "Imagen para Computadores de ClaroB2C",
+        "name": "CATEGORY_PAGE",
+        "type": "ProductListPage",
+        "title": "Computadores | ClaroB2C",
+        "metaDescription": "Computadores",
+        "metaKeyword": ""
+      },
+      "storeId": "9701",
+      "tokenValue": "10013",
+      "status": 1
+    },
+    {
+      "layout": {
+        "previewReport": ["UseDefaultLayout"],
+        "id": "11101",
+        "name": "ProductListB2C",
+        "containerName": "product-listing-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "12102",
+                "name": "B2C Indicación de ruta",
+                "widgetName": "clarob2c-breadcrumb-trail-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "isStaticPage": "false",
+                  "goBackLabel": "Volver",
+                  "path1": "null",
+                  "path2": "null",
+                  "path3": "null",
+                  "showGoBackInMobille": "false"
+                }
+              },
+              {
+                "id": "15101",
+                "name": "Indicación de ruta",
+                "widgetName": "breadcrumb-trail-widget",
+                "sequence": 1.0
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "12105",
+                "name": "Navegación por facetas",
+                "widgetName": "facet-navigation-widget",
+                "sequence": 0.0
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": [
+              {
+                "id": "12103",
+                "name": "Lista de producto",
+                "widgetName": "catalog-entry-list-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "emsName": "Widget_catalog-entry-list-widget_12103",
+                  "emsId": "715840084"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "computadores",
+      "store.type": "MHS",
+      "tokenName": "CategoryToken",
+      "tokenExternalValue": "COMPUTADORES",
+      "language": "es_ES",
+      "id": "13602",
+      "page": {
+        "imageAlternateDescription": "Imagen para Computadores de ClaroB2C",
+        "name": "CATEGORY_PAGE",
+        "type": "ProductListPage",
+        "title": "Computadores | ClaroB2C",
+        "metaDescription": "Computadores",
+        "metaKeyword": ""
+      },
+      "storeId": "9701",
+      "tokenValue": "10102",
+      "status": 1
+    }
+  ]
+}

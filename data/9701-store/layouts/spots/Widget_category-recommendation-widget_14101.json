@@ -1,0 +1,121 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "10001",
+          "resultFormat": "Category",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "10002",
+          "resultFormat": "Category",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "10011",
+          "resultFormat": "Category",
+          "displaySequence": "3.0"
+        },
+        {
+          "resultId": "10013",
+          "resultFormat": "Category",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "10003",
+          "resultFormat": "Category",
+          "displaySequence": "5.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715842084",
+      "behavior": "0",
+      "eSpotName": "Widget_category-recommendation-widget_14101",
+      "baseMarketingSpotActivityData": [
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10001",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10001"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10002",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10002"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10011",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10011"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10013",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10013"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10003",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "5.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10003"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_category-recommendation-widget_14101?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

@@ -1,5 +1,5 @@
 import express from 'express';
-import countriesJSON from '../../../data/country_state.json' assert { type: "json" };
+// import countriesJSON from '../../../data/country_state.json' assert { type: "json" };
 // import onlineStoreJSON from '../../../data/online_store.json' assert { type: "json" };
 
 const app = express();

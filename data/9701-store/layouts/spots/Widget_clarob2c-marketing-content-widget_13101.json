@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838503",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715841584",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2c-marketing-content-widget_13101",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_terminos_condiciones",
+          "contentClickAction": "None",
+          "contentId": "715838503",
+          "baseMarketingSpotActivityID": "715838503",
+          "contentName": "content_home_terminos_condiciones",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>* {padding: 0;margin: 0;box-sizing: border-box;}.wrapper-accordion-vcquispe {display: flex;align-items: center;margin-top: 20px;font-family: \"Roboto\";width: 100%;}.accordion-vcquispe {align-items: center;background-color: #f9f9f9;padding: 10px;border-radius: 10px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);width: 100%;}.accordion-vcquispe-header label {display: flex;align-items: center;cursor: pointer;transition: background-color 0.3s;border-bottom: 1px solid;justify-content: space-between;}.accordion-vcquispe-header label span {margin: 0;font-family: \"Roboto\" !important;font-size: 17px !important;color: #28848f;font-weight: bold;margin-right: 10px;}.accordion-vcquispe-content {display: none;margin-top: 20px;text-align: left;color: #4d4d4d;}.accordion-vcquispe-content h3 {font-size: 18px;margin-bottom: 10px;color: #000;font-weight: 400;}.accordion-vcquispe-content h4 {font-size: 16px;margin-top: 20px;margin-bottom: 11px;font-weight: 400;color: #000;}.accordion-vcquispe-content p {font-size: 14px;margin-bottom: 10px;text-align: justify;}.accordion-vcquispe-header label::after {content: \"\\25B6\";float: right;transform: rotate(90deg);transition: transform 0.3s ease;}input.accordeon-check-vcquispe:checked + .accordion-vcquispe-header label::after {transform: rotate(270deg);}input.accordeon-check-vcquispe {display: none;}input.accordeon-check-vcquispe:checked ~ .accordion-vcquispe-content {display: block;}</style><div class=\"wrapper-accordion-vcquispe\"><div class=\"accordion-vcquispe\"><input class=\"accordeon-check-vcquispe\" type=\"checkbox\" id=\"terminos-condiciones-vcquispe\" /><div class=\"accordion-vcquispe-header\"><label for=\"terminos-condiciones-vcquispe\"><span>Consulta T&eacute;rminos y Condiciones de las promociones vigentes</span></label></div><div class=\"accordion-vcquispe-content\"><h3>T&eacute;rminos y condiciones</h3><h4>T&eacute;rminos y condiciones Celulares y Tecnolog&iacute;a:</h4><p>Oferta v&aacute;lida para Tienda Online Claro del 01 al 31 de octubre de 2024 ohasta agotar 140 unidades del Celular Honor 200 256GB 5G con obsequio,100 unidades del Celular Oppo A80 256GB 5G, 50 unidades del Celular vivoV40 512GB 5G con obsequio, 50 unidades del Celular Motorola Moto G85256GB 5G, 40 unidades del Celular iPhone 15 128GB 5G, 100 unidades delCelular Xiaomi Redmi Note 13 256GB 5G, 5 TV Samsung 50\" Crystal 4K UHDUN50DU8200, 5 unidades del TV TCL 58\" LED 4K UHD GOOGLE TV 58P635, 5unidades de los Aud&iacute;fonos Samsung Galaxy Buds3 Pro, 5 unidades delPort&aacute;til HP 245 G9 14 AMD R3 + Maleta. Im&aacute;genes de referencia. Lamemoria interna y RAM del equipo (sistema operativo y las aplicacionesprecargadas del equipo ocupan una parte del espacio) de acuerdo con elart&iacute;culo 424 del Estatuto Tributario, modificado por la Ley 1819 de 2016(los dispositivos m&oacute;viles inteligentes (tabletas y celulares) cuyo valorno exceda de 22 UVT ($1.035.430) y los computadores personales deescritorio o port&aacute;tiles, cuyo valor no exceda de 50 UVT ($2.353.250)est&aacute;n habitualmente exentos de IVA) m&aacute;s la oferta de Claro. La exenci&oacute;nno es una promoci&oacute;n. El env&iacute;o a domicilio tendr&aacute; un valor de $15.000 IVAincluido. La caracter&iacute;stica informada 5G de los equipos catalogados comotal se refiere a la tecnolog&iacute;a soportada por el equipo m&oacute;vil y no a unatributo y/o funcionalidad de la red Claro. El canal de WhatsApp no est&aacute;autorizado para recibir PQR's. Si necesitas presentar una petici&oacute;n,queja o reclamo consulta los canales disponibles en claro.com.co.Algunos servicios estar&aacute;n sujetos a disponibilidad de horario. Conocem&aacute;s en claro.com.co Oferta ADDI: V&aacute;lida &uacute;nicamente para Tienda OnlineClaro. Consulta t&eacute;rminos y condiciones de financiaci&oacute;n con ADDI entienda.claro.com.co/claro/addi La aprobaci&oacute;n est&aacute; sujeta a estudio decr&eacute;dito realizado por ADDI. La tasa de inter&eacute;s para la financiaci&oacute;n esdefinida por ADDI. Conoce cobertura, restricciones de la oferta,t&eacute;rminos y condiciones en claro.com.co. Conoce cobertura, restriccionesde la oferta, t&eacute;rminos y condiciones en claro.com.co.</p><h4>T&eacute;rminos y condiciones Postpago:</h4><p>Oferta v&aacute;lida al 31 de octubre de 2024. Aplica solo para planesadquiridos en Tienda Virtual: TIENDA.CLARO.COM.CO Los clientes querealicen proceso de PORTACI&oacute;N, MIGRACI&oacute;N Y L&iacute;NEA NUEVA; se les otorgar&aacute;la promoci&oacute;n de \"El beneficio del 20% de descuento por 5 meses, aplicaen las facturas de los cinco primeros meses, contados a partir de laactivaci&oacute;n. La promoci&oacute;n del descuento en el cargo fijo mensual noaplica sobre servicios adicionales como carga distancia, SMS, contenido,servicios de streaming, paquetes de datos y dem&aacute;s servicios adicionalesque no hacen parte del paquete de voz y datos. Estas promociones noaplican para Paquetes y planes power Para hacer uso de los servicios 5Gdebes contar con un equipo y una SIM card que soporten la tecnolog&iacute;a yestar en una zona de cobertura 5G. Puedes adquirir el celular 5G y elplan por separado, no debes comprar el celular en Claro. Laimplementaci&oacute;n de la red 5G se realizar&aacute; de forma gradual en sectores yciudades espec&iacute;ficas del territorio colombiano en el transcurso del 2024y estar&aacute; sujeta a cobertura, planes habilitados y disponibilidad.Consulta cobertura condiciones y restricciones de la oferta enclaro.com.co</p><h4>T&eacute;rminos y condiciones planes Hogar:</h4><p>• Oferta valida del 1 de septiembre al 31 de octubre de 2024. Aplicapara estratos del 1 al 6 y solo para personas naturales. La oferta de 6meses de descuento del 33,34% en la factura solo aplica para el paqueteTripleplay con MAX incluido y no aplica para otros serviciosadicionales, upgrade, migraciones y equipos. Las megas contratadasdeterminan la velocidad de navegaci&oacute;n que recibes en el m&oacute;dem, lascuales podr&aacute;n reducirse si utilizas wifi y de acuerdo con la ubicaci&oacute;ndel m&oacute;dem. Si cancelas anticipadamente alg&uacute;n(os) servicio(s), seaplicar&aacute; la tarifa m&iacute;nima de acuerdo con las pol&iacute;ticas vigentes. Laoferta Tripleplay de servicios fijos con Claro incluye internet,televisi&oacute;n y telefon&iacute;a fija. Todas las tarifas incluyen IVA, a excepci&oacute;ndel servicio de internet en los estratos 1 y 2 donde est&aacute; exento, yestrato 3 donde est&aacute; excluido por regulaci&oacute;n. Servicios y beneficiossujetos a disponibilidad de cobertura y viabilidad t&eacute;cnica. Conocecondiciones, cobertura de servicios y restricciones en claro.com.co</p></div></div></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_clarob2c-marketing-content-widget_13101?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

@@ -1,0 +1,316 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "10101",
+        "name": "HomeLayoutB2C",
+        "containerName": "clarob2c-home-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "12612",
+                "name": "Banner principal",
+                "widgetName": "clarob2c-content-carousel-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "showTitle": "false",
+                  "containerClass": "main-banner-class",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-content-carousel-widget_12612",
+                  "emsId": "715841100",
+                  "loop": "true",
+                  "dots": "true",
+                  "infinite": "true",
+                  "autoPlay": "true",
+                  "interval": "4000",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "14602",
+                "name": "B2C Recomendar productos",
+                "widgetName": "clarob2c-catalog-entry-recommendation-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "interval": "3000",
+                  "showMoreButtonLabel": "Ver más",
+                  "showMoreButtonUrl": "https://tiendaonline.claro.com.co/",
+                  "autoPlay": "false",
+                  "emsName": "Widget_clarob2c-mas-ofertas-para-ti-widget_14602",
+                  "showTitle": "true",
+                  "containerClass": "product-recommendation-class",
+                  "loop": "true",
+                  "dots": "true",
+                  "displayShowMoreButton": "true",
+                  "title": "Te puede interesar",
+                  "infinite": "false",
+                  "populationChoice": "useCatalogEntry",
+                  "emsId": "715842587"
+                }
+              },
+              {
+                "id": "14101",
+                "name": "Recomendar categorías",
+                "widgetName": "category-recommendation-widget",
+                "sequence": 1.0,
+                "properties": {
+                  "emsName": "Widget_category-recommendation-widget_14101",
+                  "emsId": "715842084",
+                  "populationChoice": "useCategory"
+                }
+              },
+              {
+                "id": "15102",
+                "name": "Sección categorías",
+                "widgetName": "clarob2c-categoria-recomendados-widget",
+                "sequence": 2.0,
+                "properties": {
+                  "containerClass": "main-banner-class",
+                  "autoPlay": "false",
+                  "interval": "3000",
+                  "emsName": "Widget_clarob2c-categoria-recomendados-widget_15102",
+                  "emsId": "715843085",
+                  "showTitle": "true",
+                  "loop": "true",
+                  "dots": "true",
+                  "infinite": "true",
+                  "title": "compras por categoria",
+                  "populationChoice": "useCategory"
+                }
+              },
+              {
+                "id": "12604",
+                "name": "Beneficios",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 3.0,
+                "properties": {
+                  "populationChoice": "useDefaultContent",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12604",
+                  "emsId": "715841089",
+                  "title": "Mi contenido favorito",
+                  "showTitle": "false"
+                }
+              },
+              {
+                "id": "12608",
+                "name": "Conoce mas tecnologia",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 4.0,
+                "properties": {
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12608",
+                  "emsId": "715841096",
+                  "populationChoice": "useDefaultContent"
+                }
+              },
+              {
+                "id": "12607",
+                "name": "Conoce mas Celular",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 5.0,
+                "properties": {
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12607",
+                  "populationChoice": "useDefaultContent",
+                  "emsId": "715841094"
+                }
+              },
+              {
+                "id": "12611",
+                "name": "Conoce mas hogar",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 6.0,
+                "properties": {
+                  "populationChoice": "useDefaultContent",
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12611",
+                  "emsId": "715841099"
+                }
+              },
+              {
+                "id": "12609",
+                "name": "Conoce mas postpago",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 7.0,
+                "properties": {
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12609",
+                  "emsId": "715841097",
+                  "populationChoice": "useDefaultContent"
+                }
+              },
+              {
+                "id": "12610",
+                "name": "Conoce mas prepago",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 8.0,
+                "properties": {
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12610",
+                  "emsId": "715841098",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": [
+              {
+                "id": "12606",
+                "name": "Ofertas",
+                "widgetName": "clarob2c-content-carousel-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "containerClass": "ofertas-container-class",
+                  "populationChoice": "useDefaultContent",
+                  "loop": "true",
+                  "dots": "true",
+                  "autoPlay": "false",
+                  "interval": "3000",
+                  "emsName": "Widget_clarob2c-content-carousel-widget_12606",
+                  "emsId": "715841091",
+                  "showTitle": "true",
+                  "infinite": "true",
+                  "title": "Más ofertas para ti"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "widgets": [
+              {
+                "id": "13601",
+                "name": "B2C Novedades",
+                "widgetName": "clarob2c-news-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "useDefaultTitle": "false",
+                  "uploadImageDesktop1": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Desktop/contrata_netflix_19agos_D.webp",
+                  "urlSection1": "https://tienda.claro.com.co/claro/suscribetenetflix",
+                  "loop": "true",
+                  "autoPlay": "false",
+                  "dots": "true",
+                  "interval": "3000",
+                  "infinite": "false",
+                  "containerClass": "ofertas-container-class",
+                  "showTitle": "true",
+                  "title": "Descubre las mejores novedades",
+                  "uploadImageMobile1": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Mobile/contrata_netflix_19agos.M.webp",
+                  "uploadImageMobile2": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Mobile/contrata_netflix_19agos.M.webp",
+                  "uploadImageMobile3": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Mobile/contrata_win_19ago_M.webp",
+                  "uploadImageMobile4": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Mobile/disney_24jul_M.webp",
+                  "uploadImageMobile5": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Mobile/max_24jul_M.webp",
+                  "uploadImageDesktop2": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Desktop/contrata_prime_19agos_D.webp",
+                  "uploadImageDesktop3": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Desktop/contrata_win_19ago_D.webp",
+                  "uploadImageDesktop4": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Desktop/disney_24jul_D.webp",
+                  "uploadImageDesktop5": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Desktop/max_24jul_D.webp",
+                  "urlSection2": "https://tienda.claro.com.co/claro/suscribete-primevideo",
+                  "urlSection3": "https://tienda.claro.com.co/claro/win-sport",
+                  "urlSection4": "https://tienda.claro.com.co/claro/disney-plus",
+                  "urlSection5": "https://cdn.claro.com.co/imagenes/v9/assets/red/Novedades/Desktop/max_24jul_D.webp"
+                }
+              },
+              {
+                "id": "12603",
+                "name": "Atencion al cliente",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 1.0,
+                "properties": {
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_12603",
+                  "populationChoice": "useDefaultContent",
+                  "emsId": "715841088"
+                }
+              },
+              {
+                "id": "12605",
+                "name": "servicios",
+                "widgetName": "content-recommendation-widget",
+                "sequence": 2.0,
+                "properties": {
+                  "populationChoice": "useDefaultContent",
+                  "emsName": "Widget_content-recommendation-widget_12605",
+                  "emsId": "715841090"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "widgets": [
+              {
+                "id": "12602",
+                "name": "Seccion Marcas",
+                "widgetName": "clarob2c-content-carousel-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "autoPlay": "false",
+                  "interval": "3000",
+                  "emsName": "Widget_clarob2c-content-carousel-widget_12602",
+                  "emsId": "715841085",
+                  "infinite": "true",
+                  "dots": "false",
+                  "showTitle": "true",
+                  "containerClass": "marcas-container-class",
+                  "loop": "true",
+                  "title": "Tus marcas favoritas en un solo lugar",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "widgets": [
+              {
+                "id": "13101",
+                "name": "Terminos y condiciones",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "showTitle": "false",
+                  "title": "titulo",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_13101",
+                  "emsId": "715841584",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "home",
+      "store.type": "MHS",
+      "tokenName": "StaticPagesToken",
+      "tokenExternalValue": "HomeB2C",
+      "language": "es_ES",
+      "id": "14601",
+      "page": {
+        "imageAlternateDescription": "",
+        "name": "Content_1101",
+        "type": "ContentPage",
+        "title": "home",
+        "metaDescription": "home",
+        "metaKeyword": "home"
+      },
+      "storeId": "9701",
+      "tokenValue": "1101",
+      "status": 1
+    }
+  ]
+}

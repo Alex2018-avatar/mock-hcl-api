@@ -1,0 +1,307 @@
+{
+  "contents": [
+    {
+      "uniqueID": "10001",
+      "parentCatalogGroupID": "/10001",
+      "seo": {
+        "href": "/celulares"
+      },
+      "name": "Celulares",
+      "identifier": "CELULARES",
+      "shortDescription": "Celulares",
+      "storeID": "9701",
+      "sequence": "1.0",
+      "id": "10001",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=-1"
+        },
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=10001"
+        }
+      },
+      "description": "Celulares",
+      "children": [
+        {
+          "name": "Solo Equipo",
+          "identifier": "CELULARESTL",
+          "shortDescription": "Solo Equipo",
+          "longDescription": "Solo Equipo",
+          "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/categories?depthAndLimit=1,-1,-1,-1,-1&langId=-5&storeId=15051",
+          "uniqueID": "3074457345616679169",
+          "parentCatalogGroupID": "/3074457345616679168/3074457345616679169",
+          "seo": {
+            "href": "/solo-equipo"
+          },
+          "storeID": "15051",
+          "sequence": "1.0",
+          "id": "3074457345616679169",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679168"
+            },
+            "children": [
+              "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616680168",
+              "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616679668"
+            ],
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679169"
+            }
+          },
+          "description": "Solo Equipo"
+        }
+      ]
+    },
+    {
+      "uniqueID": "10002",
+      "parentCatalogGroupID": "/10002",
+      "seo": {
+        "href": "/tecnología"
+      },
+      "name": "Tecnología",
+      "identifier": "TECNOLOGIA",
+      "shortDescription": "Tecnología",
+      "storeID": "9701",
+      "sequence": "1.0",
+      "children": [
+        {
+          "uniqueID": "10011",
+          "parentCatalogGroupID": "/10002/10011",
+          "seo": {
+            "href": "/internet-de-las-cosas"
+          },
+          "name": "Internet de las cosas",
+          "identifier": "Internetdelascosas",
+          "shortDescription": "Internet de las cosas",
+          "storeID": "9701",
+          "sequence": "1.0",
+          "longDescription": "Internet de las cosas",
+          "id": "10011",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10002"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10011"
+            }
+          },
+          "description": "Internet de las cosas"
+        }
+      ],
+      "id": "10002",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=9701&id=10011",
+          "href: /search/resources/api/v2/categories?storeId=9701&id=10013",
+          "href: /search/resources/api/v2/categories?storeId=9701&id=10003"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=10002"
+        }
+      },
+      "description": "Tecnología"
+    },
+    {
+      "uniqueID": "10201",
+      "parentCatalogGroupID": "/10201",
+      "seo": {
+        "href": "/marketplace"
+      },
+      "name": "Marketplace",
+      "identifier": "MARKETPLACE",
+      "shortDescription": "Marketplace",
+      "storeID": "9701",
+      "sequence": "1.0",
+      "children": [
+        {
+          "name": "Electromenores",
+          "identifier": "ELECTROMENORES",
+          "shortDescription": "Electromenores",
+          "longDescription": "Electromenores",
+          "uniqueID": "10208",
+          "parentCatalogGroupID": "/10201/10208",
+          "seo": {
+            "href": "/electromenores"
+          },
+          "storeID": "9701",
+          "sequence": "1.0",
+          "children": [
+            {
+              "uniqueID": "10228",
+              "parentCatalogGroupID": "/10201/10208/10228",
+              "seo": {
+                "href": "/otros"
+              },
+              "name": "Otros",
+              "identifier": "OTROS",
+              "shortDescription": "Otros",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Otros",
+              "id": "10228",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10228"
+                }
+              },
+              "description": "Otros"
+            },
+            {
+              "uniqueID": "10227",
+              "parentCatalogGroupID": "/10201/10208/10227",
+              "seo": {
+                "href": "/ventiladores-y-calentadores"
+              },
+              "name": "Ventiladores y calentadores",
+              "identifier": "VENTILADORESYCALENTADORES",
+              "shortDescription": "Ventiladores y calentadores",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Ventiladores y calentadores",
+              "id": "10227",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10227"
+                }
+              },
+              "description": "Ventiladores y calentadores"
+            },
+            {
+              "uniqueID": "10224",
+              "parentCatalogGroupID": "/10201/10208/10224",
+              "seo": {
+                "href": "/parrillas-y-asadores"
+              },
+              "name": "Parrillas y asadores",
+              "identifier": "PARRILLASYASADORES",
+              "shortDescription": "Parrillas y asadores",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Parrillas y asadores",
+              "id": "10224",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10224"
+                }
+              },
+              "description": "Parrillas y asadores"
+            },
+            {
+              "uniqueID": "10223",
+              "parentCatalogGroupID": "/10201/10208/10223",
+              "seo": {
+                "href": "/aspiradoras"
+              },
+              "name": "Aspiradoras",
+              "identifier": "ASPIRADORAS",
+              "shortDescription": "Aspiradoras",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Aspiradoras",
+              "id": "10223",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10223"
+                }
+              },
+              "description": "Aspiradoras"
+            },
+            {
+              "uniqueID": "10226",
+              "parentCatalogGroupID": "/10201/10208/10226",
+              "seo": {
+                "href": "/sanducheras-y-wafleras"
+              },
+              "name": "Sanducheras y wafleras",
+              "identifier": "SANDUCHERASYWAFLERAS",
+              "shortDescription": "Sanducheras y wafleras",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Sanducheras y wafleras",
+              "id": "10226",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10226"
+                }
+              },
+              "description": "Sanducheras y wafleras"
+            },
+            {
+              "uniqueID": "10225",
+              "parentCatalogGroupID": "/10201/10208/10225",
+              "seo": {
+                "href": "/planchas-y-vaporizadores"
+              },
+              "name": "Planchas y vaporizadores",
+              "identifier": "PLANCHASYVAPORIZADORES",
+              "shortDescription": "Planchas y vaporizadores",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Planchas y vaporizadores",
+              "id": "10225",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10225"
+                }
+              },
+              "description": "Planchas y vaporizadores"
+            }
+          ],
+          "id": "10208",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10201"
+            },
+            "children": [
+              "href: /search/resources/api/v2/categories?storeId=9701&id=10228",
+              "href: /search/resources/api/v2/categories?storeId=9701&id=10227",
+              "href: /search/resources/api/v2/categories?storeId=9701&id=10224",
+              "href: /search/resources/api/v2/categories?storeId=9701&id=10223",
+              "href: /search/resources/api/v2/categories?storeId=9701&id=10226",
+              "href: /search/resources/api/v2/categories?storeId=9701&id=10225"
+            ],
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+            }
+          },
+          "description": "Electromenores"
+        }
+      ],
+      "id": "10201",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=9701&id=10208",
+          "href: /search/resources/api/v2/categories?storeId=9701&id=10209"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=10201"
+        }
+      },
+      "description": "Marketplace"
+    }
+  ]
+}

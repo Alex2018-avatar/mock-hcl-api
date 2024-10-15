@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "14122",
+        "name": "B2CProductListingPageLayout",
+        "containerName": "product-listing-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "10140",
+                "name": "Indicación de ruta",
+                "widgetName": "breadcrumb-trail-widget",
+                "sequence": 0.0
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "10141",
+                "name": "Navegación por facetas",
+                "widgetName": "facet-navigation-widget",
+                "sequence": 0.0
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": [
+              {
+                "id": "10142",
+                "name": "Lista de producto",
+                "widgetName": "catalog-entry-list-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "emsName": "Widget_catalog-entry-list-widget_10142",
+                  "emsId": "715849094"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "solo-equipo",
+      "store.type": "BMH",
+      "tokenName": "CategoryToken",
+      "tokenExternalValue": "CELULARESTL",
+      "language": "es_ES",
+      "id": "73103",
+      "page": {
+        "imageAlternateDescription": "Imagen para Solo Equipo de ClaroB2B",
+        "name": "CATEGORY_PAGE",
+        "type": "ProductListPage",
+        "title": "Solo Equipo | ClaroB2B",
+        "metaDescription": "Solo Equipo",
+        "metaKeyword": ""
+      },
+      "storeId": "15051",
+      "tokenValue": "3074457345616679169",
+      "status": 1
+    }
+  ]
+}

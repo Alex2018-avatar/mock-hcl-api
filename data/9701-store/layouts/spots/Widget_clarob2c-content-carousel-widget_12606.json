@@ -1,0 +1,118 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838499",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "715838500",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "715838501",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "3.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715841091",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2c-content-carousel-widget_12606",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_oferta01",
+          "contentClickAction": "None",
+          "contentId": "715838499",
+          "baseMarketingSpotActivityID": "715838499",
+          "contentName": "content_home_oferta01",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>  #content {    width: 85%;    border: 1px solid;  }  .section-offers {    width: 100%;    position: relative;    display: flex;  }  .section-offers picture img,  .section-offers picture  {    width: 100%;    height: auto;  }  .section-offers .button-offerts{    width: 25%;    border-radius: 20px;    background-color: #da291c;    color: #fff;    bottom: 70px;    position: absolute;    z-index: 1;    cursor: pointer;     bottom: 70px;    right: 16%;    border: 1px solid #da291c;    text-align: center;    padding: 10px 0px;    font-family: Roboto-Regular;    text-decoration: none;  }  @media (max-width: 960px) {    .section-offers .button-offerts{      font-size: 14px;      bottom: 40px;    }  }</style><!-- OFERTAS --><div class=\"section-offers\"> <picture>   <!-- Imagen para pantallas con resolución alta -->   <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/Mas_ofertas/Desktop/honor_x8b_D.jpg\" />   <!-- Imagen por defecto para pantallas con resolución baja o desconocida -->   <img      src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/Mas_ofertas/Mobile/honor_x8b_M.jpg\"      alt=\"alt\"    /> </picture> <a href=\"#\" class=\"button-offerts\">Conoce más</a></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_oferta02",
+          "contentClickAction": "None",
+          "contentId": "715838500",
+          "baseMarketingSpotActivityID": "715838500",
+          "contentName": "content_home_oferta02",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<div class=\"section-offers\"> <picture>   <!-- Imagen para pantallas con resolución alta -->   <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/Mas_ofertas/Desktop/moto_razr_50_D.jpg\" />   <!-- Imagen por defecto para pantallas con resolución baja o desconocida -->   <img      src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/Mas_ofertas/Mobile/moto_razr_50_M.jpg\"      alt=\"alt\"    /> </picture> <a href=\"/celular-motorola-razr-50-512gb-buds\" class=\"button-offerts\">Conoce más</a></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_oferta03",
+          "contentClickAction": "None",
+          "contentId": "715838501",
+          "baseMarketingSpotActivityID": "715838501",
+          "contentName": "content_home_oferta03",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<div class=\"section-offers\"> <picture>   <!-- Imagen para pantallas con resolución alta -->   <source media=\"(min-width: 960px)\" srcset=\"https://cdn.claro.com.co/imagenes/v9/assets/red/Mas_ofertas/Desktop/combo_pc_D.jpg\" />   <!-- Imagen por defecto para pantallas con resolución baja o desconocida -->   <img      src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/Mas_ofertas/Mobile/combo_pc_M.jpg\"      alt=\"alt\"    /> </picture> <a href=\"#\" class=\"button-offerts\">Conoce más</a></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_clarob2c-content-carousel-widget_12606?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

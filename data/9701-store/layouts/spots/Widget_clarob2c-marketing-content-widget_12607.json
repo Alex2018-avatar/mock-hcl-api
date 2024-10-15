@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838486",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715841094",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2c-marketing-content-widget_12607",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_conoce_mas_celulares",
+          "contentClickAction": "None",
+          "contentId": "715838486",
+          "baseMarketingSpotActivityID": "715838486",
+          "contentName": "content_home_conoce_mas_celulares",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>  .section-learn-more {    width: 100%;    margin-bottom: 20px;  }  .section-learn-more h2 {    font-size: 32px;    display: flex;    gap: 15px;    align-items: flex-end;    font-family: Roboto-Light;    margin-bottom: 15px;    font-weight: normal;  }  .section-learn-more h2 a {    font-size: 15px;    text-decoration: underline;    color: rgb(31, 151, 174);    margin-bottom: 2px;  }  /* 1 columnas en desktop */  .section-learn-more .learn-more-one-columns {    display: grid;    grid-template-columns: repeat(1, 1fr);    margin-bottom: 20px;  }  /* 2 columnas en desktop */  .section-learn-more .learn-more-two-columns {    display: grid;    grid-template-columns: repeat(2, 1fr);    gap: 20px;    row-gap: 15px;    margin-bottom: 20px;  }  /* 3 columnas en desktop */  .section-learn-more .learn-more-containers {    display: grid;    grid-template-columns: repeat(3, 1fr);    gap: 20px;    row-gap: 15px;    margin-bottom: 20px;  }  /* Primer elemento 50%, otros dos 25% */  .section-learn-more .learn-more-three-column-split {    display: grid;    grid-template-columns: 2fr 1fr 1fr;    column-gap: 15px;    margin-bottom: 20px;  }  .section-learn-more .learn-more-container .learn-more-item {    display: flex;    justify-content: center;    align-items: center;  }  .section-learn-more .learn-more-one-columns.learn-more-item {    display: flex;    justify-content: center;    align-items: center;    width: 100%;  }  .section-learn-more .learn-more-one-columns img {    width: 100%;  }  .section-learn-more .learn-more-three-column-split img{    height: 100%;  }  @media (max-width: 960px) {    .section-learn-more h2 {      font-size: 23px;    }    /* 2 columnas en desktop */    .section-learn-more .learn-more-two-columns {      grid-template-columns: 1fr;    }    /* Primer elemento 50%, otros dos 25% */    .section-learn-more .learn-more-three-column-split {      display: grid;      grid-template-columns: 1fr;    }  }</style><!-- Celulares --><div class=\"section-learn-more\"><h2>Celulares<a class=\"link-home-section\" href=\"/celulares-1-3074457345616680669--1\">Conoce m&aacute;s &gt;</a></h2><div class=\"learn-more-one-columns\"><div class=\"learn-more-item\"><a href=\"/celular-honor200-256gb-5g-con-obsequio\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/honor200_02oct_D.webp            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/honor200_02oct_M.webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div></div><div class=\"learn-more-three-column-split\"><div class=\"learn-more-item\"><a href=\"/celular-xiaomi-redmi-note13-256gb-5g\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/redmi_note_13_02oct_D.webp            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/redmi_note_13_02oct_M.webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div><div class=\"learn-more-item\"><a href=\"/iphone-15-128gb\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/iphone_15_02oct_D.webp            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/iphone_15_02oct_M.webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div><div class=\"learn-more-item\"><a href=\"/celular-motorola-moto-g85-256gb-5g\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/moto_g85_02oct_D.webp            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/tv_samsung_a55_02oct_D.webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div></div><div class=\"learn-more-one-columns\"><div class=\"learn-more-item\"><a href=\"/celulares\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Julio_2024/addi_10jul_D.png            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Julio_2024/addi_10jul_M.png\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div></div><div class=\"learn-more-two-columns\"><div class=\"learn-more-item\"><a href=\"/celular-vivo-v40-512gb-5g-con-obsequio\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/vivo_v40_02oct_D.webp            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/vivo_v40_02oct_M.webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div><div class=\"learn-more-item\"><a href=\"/celular-oppo-a80-256gb-5g\"> <picture> <source media=\"(min-width: 960px)\" srcset=\"             https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/oppo_a80_02oct_D.webp            \"> <img src=\"https://cdn.claro.com.co/imagenes/claroshop/marketing/bannersHome/Octubre_2024/oppo_a80_02oct_M.webp\" alt=\"Descripci&oacute;n de la imagen\"> </picture> </a></div></div></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_clarob2c-marketing-content-widget_12607?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
