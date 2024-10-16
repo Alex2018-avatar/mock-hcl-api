@@ -18,6 +18,7 @@ seoUrlRouter.get('/urls', async (req, res) => {
   const { storeId, identifier } = req.query;
   console.log('identifier: ', identifier);
   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/layouts/${identifier}.json`);
+  console.log('URL filePath: ', filePath);
   // read file
   try {
     const data = await fsPromises.readFile(filePath, 'utf8');

@@ -56,17 +56,6 @@
                 }
               },
               {
-                "id": "14101",
-                "name": "Recomendar categorías",
-                "widgetName": "category-recommendation-widget",
-                "sequence": 1.0,
-                "properties": {
-                  "emsName": "Widget_category-recommendation-widget_14101",
-                  "emsId": "715842084",
-                  "populationChoice": "useCategory"
-                }
-              },
-              {
                 "id": "15102",
                 "name": "Sección categorías",
                 "widgetName": "clarob2c-categoria-recomendados-widget",

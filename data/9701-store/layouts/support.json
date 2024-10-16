@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "11601",
+        "name": "Landing de ayuda - prueba",
+        "containerName": "home-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "16102",
+                "name": "B2C Indicación de ruta",
+                "widgetName": "clarob2c-breadcrumb-trail-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "path1": "Ayuda|/ayuda",
+                  "goBackLabel": "Volver",
+                  "path2": "null",
+                  "path3": "null",
+                  "showGoBack": "true",
+                  "isStaticPage": "true"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "16104",
+                "name": "B2C Marketing Content",
+                "widgetName": "clarob2c-marketing-content-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "title": "Prueba",
+                  "populationChoice": "useDefaultContent",
+                  "emsName": "Widget_clarob2c-marketing-content-widget_16104",
+                  "emsId": "715843586",
+                  "showTitle": "true"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "support",
+      "store.type": "MHS",
+      "tokenName": "StaticPagesToken",
+      "tokenExternalValue": "Pagina de ayuda",
+      "language": "es_ES",
+      "id": "16602",
+      "page": {
+        "imageAlternateDescription": "",
+        "name": "Content_1601",
+        "type": "ContentPage",
+        "title": "Pagina de ayuda",
+        "metaDescription": "ayuda",
+        "metaKeyword": "ayuda"
+      },
+      "storeId": "9701",
+      "tokenValue": "1601",
+      "status": 1
+    }
+  ]
+}

@@ -53,10 +53,10 @@
           }
         ]
       },
-      "identifier": "solo-equipo",
+      "identifier": "celulares",
       "store.type": "BMH",
       "tokenName": "CategoryToken",
-      "tokenExternalValue": "CELULARESTL",
+      "tokenExternalValue": "CELULARESTLT",
       "language": "es_ES",
       "id": "73103",
       "page": {
@@ -68,7 +68,7 @@
         "metaKeyword": ""
       },
       "storeId": "15051",
-      "tokenValue": "3074457345616679169",
+      "tokenValue": "3074457345616680171",
       "status": 1
     }
   ]

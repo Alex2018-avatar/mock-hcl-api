@@ -13,18 +13,25 @@ const __dirname = path.dirname(__filename);
 
 // /search/resources/api/v2/categories?storeId=11&depthAndLimit=11%2C11&contractId=-11005&langId=-1
 categoriesRouter.get('/categories', async (req, res) => {
-  const { storeId } = req.query;
-  const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/categories.json`);
-  // read file
-  const data = await fsPromises.readFile(filePath, 'utf8');
-  const response = JSON.parse(data);
-  res.status(200).json(response);
+  const { storeId, identifier } = req.query;
+  try {
+    if (identifier) {
+      const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/category/${identifier}.json`);
+      // read file
+      const data = await fsPromises.readFile(filePath, 'utf8');
+      const response = JSON.parse(data);
+      res.status(200).json(response);
+    } else {
+      const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/categories.json`);
+      // read file
+      const data = await fsPromises.readFile(filePath, 'utf8');
+      const response = JSON.parse(data);
+      res.status(200).json(response);
+    }
+  } catch (error) {
+    res.status(200).json({ contents: [] });
+  }
 })
-
-// /wcs/resources/store/11/country/country_state_list?langId=-1
-// categoriesRouter.get('/:storeId/country/country_state_list', (req, res) => {
-//   res.status(200).json(countriesJSON);
-// })
 
 
 export default categoriesRouter;
