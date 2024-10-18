@@ -13,7 +13,6 @@ const __dirname = path.dirname(__filename);
 
 // /search/resources/api/v2/categories?storeId=11&depthAndLimit=11%2C11&contractId=-11005&langId=-1
 categoriesRouter.get('/categories', async (req, res) => {
-  console.log('req categories: ', req.query);
   const { storeId, identifier, id } = req.query;
   try {
     if (identifier) {

@@ -7,7 +7,10 @@ import categoriesRouter from './routes/search/categories/categories.js';
 import seoUrlRouter from './routes/search/seo_url/seoUrl.js';
 import productsRouter from './routes/search/products/products.js';
 import eSpotRouter from './routes/transaction/espot/espot.js';
+import authRouter from './routes/transaction/auth/login.js';
+import userRouter from './routes/transaction/user/user.js';
 import { config } from './conf/config.js';
+import { logger, morganMiddleware } from './config/logger.js';
 
 const app = express();
 const __filename = fileURLToPath(import.meta.url);
@@ -19,6 +22,8 @@ app.get('/', (req, res) => {
 })
 
 app.use(express.static(path.join(__dirname, 'public')))
+app.use(express.json());
+app.use(morganMiddleware);
 
 // transactionContextPath is '/wcs/resources/store'
 app.use(config.transactionContextPath, storeRouter);
@@ -27,7 +32,15 @@ app.use(config.v2SearchContextPath, categoriesRouter);
 app.use(config.v2SearchContextPath, seoUrlRouter);
 app.use(config.v2SearchContextPath, productsRouter);
 app.use(config.transactionContextPath, eSpotRouter);
+app.use(config.transactionContextPath, authRouter);
+app.use(config.transactionContextPath, userRouter);
+
+// Middleware para manejar 404
+app.use((req, res, next) => {
+  logger.error(`${req.method} ${req.originalUrl}`);
+  res.status(404).json({});
+});
 
 app.listen(3000, () => {
-  console.log('Server is running on port 3000');
+  logger.info(`[SERVER] Server is running on: http://localhost:3000`);
 })

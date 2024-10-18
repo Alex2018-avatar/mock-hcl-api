@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838491",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715840591",
+      "behavior": "0",
+      "eSpotName": "content_home_footer",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "content_home_footer",
+          "contentClickAction": "None",
+          "contentId": "715838491",
+          "baseMarketingSpotActivityID": "715838491",
+          "contentName": "content_home_footer",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>    .socials {      position: relative;      display: flex;      justify-content: center;      border-bottom: 1px solid gray;    }    .socials,    .about-claro,    .rights-reserved__wrapper {      width: 90%;      max-width: 1200px;      margin: 0 auto;    }    .rights-reserved {      background-color: #5e5e5e;      display: flex;      justify-content: center;    }    .rights-reserved__wrapper {      display: flex;      flex: 1;      align-items: center;      padding: 10px 0;    }    .socials .socials__wrapper {      display: flex;      gap: 3rem;      padding: 2rem;    }    .socials__wrapper img {      height: 2rem;      width: auto;    }    .about-claro {      display: flex;      justify-content: space-between;      align-items: start;      padding: 12px 0;    }    .about-claro__left,    .about-claro__right,    .rights-reserved__left,    .rights-reserved__right {      flex: 1;    }    .rights-reserved__right,    .about-claro__right {      text-align: right;      display: flex;      justify-content: space-between;      padding: 1rem 0;    }    .about-claro .about-claro__left .about-claro__accordion {      padding: 1rem 0;      background: rgba(255, 255, 255, 0);      color: #f5f5f5;      border: 0px transparent;      outline: none;    }    .about-claro__accordion {      display: flex;      flex-direction: column;      justify-content: space-between;      gap: 11px;      padding-bottom: 0 !important;    }    .about-claro__accordion input {      position: absolute;      opacity: 0;      z-index: -1;    }    .about-claro__accordion input:checked~.about-claro__panel {      max-height: 10rem;    }    .about-claro__label {      display: flex;      cursor: pointer;    }    .about-claro__label::after {      content: '\\276F';      width: 1em;      height: 1em;      text-align: center;      transform: rotate(90deg);      transition: all 0.35s;      margin-left: 1rem;    }    .about-claro input:checked+.about-claro__label::after {      transform: rotate(270deg);    }    .about-claro__panel {      display: grid;      grid-template-columns: repeat(2, 1fr);      overflow: hidden;      max-height: 0;      transition: all 0.35s;    }    .about-claro__panel a {      color: #b3b3b3;      text-decoration: none;      font-size: 14px;      line-height: 1.5;    }    .about-claro .about-claro__right a,    .rights-reserved .rights-reserved__right a {      color: #f5f5f5;    }    .about-claro__right a:nth-of-type(1),    .rights-reserved__right a:nth-of-type(1) {      margin-left: 13rem;    }    @media (max-width: 599.95px) {}  </style><section class=\"socials\"><div class=\"socials__wrapper\"><div><a class=\"twitter-icon\" href=\"https://twitter.com/ClaroColombia?t=5UbKrn6HTnr06oO4u-RO5Q&amp;s=09\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/icons-footer/Icono_twitter_movilesr.svg\" alt=\"twitter-icon\"> </a></div><div><a class=\"instagram-icon\" href=\"https://www.instagram.com/clarocolombia/?igshid=MzRlODBiNWFlZA%3D%3D\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/icons-footer/Icono_instagram_movilesr.svg\" alt=\"instagram-icon\"> </a></div><div><a class=\"facebook-icon\" href=\"https://www.facebook.com/ClaroCol?mibextid=b06tZ0\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/icons-footer/Icono_facebook_movilesr.svg\" alt=\"facebook-icon\"> </a></div><div><a class=\"whatsapp-icon\" href=\"https://api.whatsapp.com/send/?phone=573205000000&amp;text=Quiero+comprar+con+un+asesor&amp;app_absent=0\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/icons-footer/Icono_whatsapp_movilesr.svg\" alt=\"whatsapp-icon\"> </a></div></div></section><section class=\"about-claro\"><div class=\"about-claro__left\"><div class=\"about-claro__accordion\"><input type=\"checkbox\" name=\"accordion-1\" id=\"cb1\" checked=\"checked\"> <label for=\"cb1\" class=\"about-claro__label\">Acerca de Claro</label><div class=\"about-claro__panel\"><a href=\"http://catalogo.claro.com.co/\">Nuestro Cat&aacute;logo</a> <a href=\"https://tienda.claro.com.co/wcsstore/Claro/images/contenidos/Reversion.pdf\" target=\"_blank\" rel=\"noopener\">Condiciones revisi&oacute;n de pagos</a> <a href=\"https://www2.claro.com.co/portal/recursos/co/legal-regulatorio/pdf/1585141155930-Archivo.pdf\">Ejerce tu derecho de retracto</a> <a href=\"https://www.sic.gov.co/\">Ir a Superintendencia de industria y Comercio</a> <a href=\"https://www.claro.com.co/personas/legal-y-regulatorio/anexo2/\">Administra tu IMEI</a></div></div></div><div class=\"about-claro__right\"><a href=\"https://www.claro.com.co/personas/cavs/\" target=\"_blank\" rel=\"noopener\">Nuestras tiendas</a> <a href=\"/support\">Preguntas frecuentes</a></div></section><section class=\"rights-reserved\"><div class=\"rights-reserved__wrapper\"><div class=\"rights-reserved__left\"><p>Todos los derechos reservados, Claro 2024</p></div><div class=\"rights-reserved__right\"><a href=\"https://tienda.claro.com.co/wcsstore/Claro/images/contenidos/Terminos%20y%20Condiciones.pdf\">T&eacute;rminos y condiciones</a> <a href=\"https://www2.claro.com.co/personas/legal-y-regulatorio/\" target=\"_blank\" rel=\"noopener\">Legal y regulatorio</a></div></div></section>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/content_home_footer?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
