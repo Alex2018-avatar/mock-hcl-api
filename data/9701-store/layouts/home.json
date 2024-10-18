@@ -34,6 +34,25 @@
             "id": "2",
             "widgets": [
               {
+                "id": "15102",
+                "name": "Sección categorías",
+                "widgetName": "clarob2c-categoria-recomendados-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "containerClass": "category-container-class",
+                  "autoPlay": "false",
+                  "interval": "3000",
+                  "emsName": "Widget_clarob2c-categoria-recomendados-widget_15102",
+                  "emsId": "715843085",
+                  "showTitle": "true",
+                  "loop": "true",
+                  "dots": "true",
+                  "infinite": "true",
+                  "title": "compras por categoria",
+                  "populationChoice": "useCategory"
+                }
+              },
+              {
                 "id": "14602",
                 "name": "B2C Recomendar productos",
                 "widgetName": "clarob2c-catalog-entry-recommendation-widget",
@@ -55,25 +74,7 @@
                   "emsId": "715842587"
                 }
               },
-              {
-                "id": "15102",
-                "name": "Sección categorías",
-                "widgetName": "clarob2c-categoria-recomendados-widget",
-                "sequence": 2.0,
-                "properties": {
-                  "containerClass": "main-banner-class",
-                  "autoPlay": "false",
-                  "interval": "3000",
-                  "emsName": "Widget_clarob2c-categoria-recomendados-widget_15102",
-                  "emsId": "715843085",
-                  "showTitle": "true",
-                  "loop": "true",
-                  "dots": "true",
-                  "infinite": "true",
-                  "title": "compras por categoria",
-                  "populationChoice": "useCategory"
-                }
-              },
+
               {
                 "id": "12604",
                 "name": "Beneficios",

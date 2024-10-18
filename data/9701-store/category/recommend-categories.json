@@ -1,0 +1,198 @@
+{
+  "contents": [
+    {
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/celu_11jul.png",
+      "name": "Estrena celular",
+      "identifier": "celulares",
+      "shortDescription": "Bring your living space together with comfort and style",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/celu_11jul.png",
+      "parentCatalogGroupID": "/10501",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "10001",
+      "sequence": "1.0",
+      "storeID": "10001",
+      "seo": {
+        "href": "/celulares"
+      },
+      "id": "10001",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10503",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10502",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10504"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10501"
+        }
+      },
+      "description": "Bring your living space together with comfort and style"
+    },
+    {
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/pc_11jul.png",
+      "name": "PC y Tablets",
+      "identifier": "pc-y-tablets",
+      "shortDescription": "Entertain your guests with dining room furniture and decor that fits any space",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/pc_11jul.png",
+      "parentCatalogGroupID": "/10505",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "10002",
+      "sequence": "4.0",
+      "storeID": "10002",
+      "seo": {
+        "href": "/pc-y-tablets"
+      },
+      "id": "10002",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10507",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10506",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10508"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10505"
+        }
+      },
+      "description": "Entertain your guests with dining room furniture and decor that fits any space"
+    },
+    {
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/Televisores.png",
+      "name": "Televisores",
+      "identifier": "televisores",
+      "shortDescription": "Modernize your bath space with a variety of vanity fixtures and lighting options",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/Televisores.png",
+      "parentCatalogGroupID": "/10509",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "12001",
+      "sequence": "2.0",
+      "storeID": "12001",
+      "seo": {
+        "href": "/televisores"
+      },
+      "id": "10201",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10510",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10512",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10511"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10509"
+        }
+      },
+      "description": "Modernize your bath space with a variety of vanity fixtures and lighting options"
+    },
+    {
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/pospago.png",
+      "name": "Postpago",
+      "identifier": "postpago",
+      "shortDescription": "Create a kitchen that suits your needs and fits your lifestyle",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/pospago.png",
+      "parentCatalogGroupID": "/10516",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "10011",
+      "sequence": "5.0",
+      "storeID": "10011",
+      "seo": {
+        "href": "/postpago"
+      },
+      "id": "10011",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=-1"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10518",
+          "href: /search/resources/api/v2/categories?storeId=12001&id=10517"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10516"
+        }
+      },
+      "description": "Create a kitchen that suits your needs and fits your lifestyle"
+    },
+    {
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/hogar_11jul.png",
+      "name": "Arma tu plan hogar",
+      "identifier": "armatuplanhogar",
+      "shortDescription": "Beautiful chairs, couches and tables that fit any decor",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/assets/red/home/categorias/hogar_11jul.png",
+      "parentCatalogGroupID": "/10501/10502",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "10013",
+      "sequence": "1.0",
+      "storeID": "10013",
+      "seo": {
+        "href": "/armatuplanhogar"
+      },
+      "id": "10013",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10501"
+        },
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10502"
+        }
+      },
+      "description": "Beautiful chairs, couches and tables that fit any decor"
+    },
+    {
+      "thumbnail": "https://www.claro.com.pe/portal/pe/recursos_contenido/chip_prepago.png",
+      "name": "Prepago",
+      "identifier": "prepago",
+      "shortDescription": "Beautiful chairs, couches and tables that fit any decor",
+      "fullImage": "https://www.claro.com.pe/portal/pe/recursos_contenido/chip_prepago.png",
+      "parentCatalogGroupID": "/10501/10502",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "10003",
+      "sequence": "1.0",
+      "storeID": "10003",
+      "seo": {
+        "href": "/furniture"
+      },
+      "id": "10003",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10501"
+        },
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10502"
+        }
+      },
+      "description": "Beautiful chairs, couches and tables that fit any decor"
+    },
+    {
+      "thumbnail": "https://www.claro.com.pe/portal/pe/recursos_contenido/prepago_tun.png",
+      "name": "Audifonos",
+      "identifier": "audifonos",
+      "shortDescription": "Beautiful chairs, couches and tables that fit any decor",
+      "fullImage": "https://www.claro.com.pe/portal/pe/recursos_contenido/prepago_tun.png",
+      "parentCatalogGroupID": "/10501/10502",
+      "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com/search/resources/api/v2/categories?storeId=11&id=10501&id=10509&id=10505&id=10516&id=10502&contractId=-11005&langId=-1",
+      "uniqueID": "10020",
+      "sequence": "1.0",
+      "storeID": "10020",
+      "seo": {
+        "href": "/audifonos"
+      },
+      "id": "10020",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10501"
+        },
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=12001&id=10502"
+        }
+      },
+      "description": "Beautiful chairs, couches and tables that fit any decor"
+    }
+  ]
+}

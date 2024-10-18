@@ -903,6 +903,7 @@
               "unitID": "NEGRO",
               "id": "7741124012283336835",
               "value": "NEGRO",
+              "image1": "http://localhost:3000/images/swatches/NEGRO.png",
               "image1Path": "http://localhost:3000/images/swatches/NEGRO.png"
             }
           ],

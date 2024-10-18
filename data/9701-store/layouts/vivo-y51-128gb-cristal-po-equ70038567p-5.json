@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "14123",
+        "name": "B2BProductPageLayout",
+        "containerName": "b2b-product-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "16602",
+                "name": "B2C Indicación de ruta",
+                "widgetName": "clarob2c-breadcrumb-trail-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "isStaticPage": "false",
+                  "goBackLabel": "Volver",
+                  "path1": "null",
+                  "path2": "null",
+                  "path3": "null",
+                  "showGoBack": "false"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "16603",
+                "name": "Detalles del producto",
+                "widgetName": "product-details-widget",
+                "sequence": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "vivo-y51-128gb-cristal-po-equ70038567p-5",
+      "store.type": "CPS",
+      "tokenName": "ProductToken",
+      "tokenExternalValue": "PO_Equ70038567P",
+      "language": "es_ES",
+      "id": "72104",
+      "page": {
+        "imageAlternateDescription": "Imagen para Vivo Y51 128Gb Cristal z de ClaroB2B",
+        "name": "PRODUCT_PAGE",
+        "type": "ProductPage",
+        "title": "Vivo Y51 128Gb Cristal z | ClaroB2B",
+        "metaDescription": "Vivo Y51 128Gb Cristal",
+        "metaKeyword": " VIVO"
+      },
+      "storeId": "9701",
+      "tokenValue": "3074457345616683170",
+      "status": 1
+    }
+  ]
+}

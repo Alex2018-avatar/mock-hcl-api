@@ -1,0 +1,11 @@
+import { productsMapData } from "../config/products-map.js";
+
+export const productsMap = productsMapData.reduce((map, product) => {
+  map[product.id] = product;
+  map[product.partNumber] = product;
+  return map;
+}, {});
+
+export const getProductByIdOrPartNumber = (query) => {
+  return productsMap[query] || null;
+};

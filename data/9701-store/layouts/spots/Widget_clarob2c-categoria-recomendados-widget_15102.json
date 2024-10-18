@@ -1,0 +1,163 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "10001",
+          "resultFormat": "Category",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "10002",
+          "resultFormat": "Category",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "10201",
+          "resultFormat": "Category",
+          "displaySequence": "3.0"
+        },
+        {
+          "resultId": "10011",
+          "resultFormat": "Category",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "10013",
+          "resultFormat": "Category",
+          "displaySequence": "5.0"
+        },
+        {
+          "resultId": "10003",
+          "resultFormat": "Category",
+          "displaySequence": "6.0"
+        },
+        {
+          "resultId": "10020",
+          "resultFormat": "Category",
+          "displaySequence": "7.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715843085",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2c-categoria-recomendados-widget_15102",
+      "baseMarketingSpotActivityData": [
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10001",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10001"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10002",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10002"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10201",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10201"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10011",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10011"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10013",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "5.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10013"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10003",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10003"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "10020",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "7.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "10020"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_clarob2c-categoria-recomendados-widget_15102?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
