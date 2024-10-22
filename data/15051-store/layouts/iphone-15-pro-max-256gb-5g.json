@@ -12,7 +12,7 @@
               {
                 "id": "16602",
                 "name": "B2C Indicación de ruta",
-                "widgetName": "clarob2c-breadcrumb-trail-widget",
+                "widgetName": "clarob2b-breadcrumb-trail-widget",
                 "sequence": 0.0,
                 "properties": {
                   "isStaticPage": "false",
@@ -31,17 +31,17 @@
               {
                 "id": "16603",
                 "name": "Detalles del producto",
-                "widgetName": "product-details-widget",
+                "widgetName": "product-information-widget",
                 "sequence": 0.0
               }
             ]
           }
         ]
       },
-      "identifier": "vivo-y51-128gb-cristal-po-equ70038567p-5",
+      "identifier": "iphone-15-pro-max-256gb-5g",
       "store.type": "CPS",
       "tokenName": "ProductToken",
-      "tokenExternalValue": "PO_Equ70038567P",
+      "tokenExternalValue": "PO_Equ70055637P",
       "language": "es_ES",
       "id": "72104",
       "page": {
@@ -52,8 +52,8 @@
         "metaDescription": "Vivo Y51 128Gb Cristal",
         "metaKeyword": " VIVO"
       },
-      "storeId": "9701",
-      "tokenValue": "3074457345616683170",
+      "storeId": "15051",
+      "tokenValue": "3074457345616817096",
       "status": 1
     }
   ]

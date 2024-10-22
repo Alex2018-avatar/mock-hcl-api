@@ -9,6 +9,8 @@ import productsRouter from './routes/search/products/products.js';
 import eSpotRouter from './routes/transaction/espot/espot.js';
 import authRouter from './routes/transaction/auth/login.js';
 import userRouter from './routes/transaction/user/user.js';
+import inventoryRouter from './routes/transaction/inventory/inventory.js';
+import promotionRouter from './routes/transaction/promotions/promotions.js';
 import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
 
@@ -34,6 +36,8 @@ app.use(config.v2SearchContextPath, productsRouter);
 app.use(config.transactionContextPath, eSpotRouter);
 app.use(config.transactionContextPath, authRouter);
 app.use(config.transactionContextPath, userRouter);
+app.use(config.transactionContextPath, inventoryRouter);
+app.use(config.transactionContextPath, promotionRouter);
 
 // Middleware para manejar 404
 app.use((req, res, next) => {
