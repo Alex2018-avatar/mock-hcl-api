@@ -11,6 +11,9 @@ import authRouter from './routes/transaction/auth/login.js';
 import userRouter from './routes/transaction/user/user.js';
 import inventoryRouter from './routes/transaction/inventory/inventory.js';
 import promotionRouter from './routes/transaction/promotions/promotions.js';
+import shippingRouter from './routes/transaction/shipping/shipping.js';
+import xparametersRouter from './routes/transaction/xparameters/index.js';
+import cartRoutes from './routes/transaction/cart/index.js';
 import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
 
@@ -38,6 +41,9 @@ app.use(config.transactionContextPath, authRouter);
 app.use(config.transactionContextPath, userRouter);
 app.use(config.transactionContextPath, inventoryRouter);
 app.use(config.transactionContextPath, promotionRouter);
+app.use(config.transactionContextPath, shippingRouter);
+app.use(config.transactionContextPath, xparametersRouter);
+app.use(config.transactionContextPath, cartRoutes);
 
 // Middleware para manejar 404
 app.use((req, res, next) => {

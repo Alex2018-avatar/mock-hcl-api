@@ -32,7 +32,39 @@
                 "id": "16603",
                 "name": "Detalles del producto",
                 "widgetName": "product-details-widget",
-                "sequence": 0.0
+                "sequence": 0.0,
+                "properties": {
+                  "showGroup1": "true",
+                  "groupTitle1": "Cámara",
+                  "groupAttributes1": "MPX_CAMARA_SELFIE,CANT_CAMARA_PRINCIPAL",
+                  "showGroup2": "true",
+                  "groupTitle2": "Memoria",
+                  "groupAttributes2": "SOPORTA_MEMORIA_EXPANDIBLE,MEMORIA_INTERNA",
+                  "showGroup3": "true",
+                  "groupTitle3": "Pantalla",
+                  "groupAttributes3": "RESOLUCION_DE_PANTALLA,TIPO_DE_PANTALLA",
+                  "showGroup4": "true",
+                  "groupTitle4": "Conectividad",
+                  "groupAttributes4": "CONECTIVIDAD",
+                  "showGroup5": "true",
+                  "groupTitle5": "Batería",
+                  "groupAttributes5": "SOPORTA_CARGA_INALAMBRICA",
+                  "showGroup6": "true",
+                  "groupTitle6": "Procesador",
+                  "groupAttributes6": "CANTIDAD_DE_NUCLEOS_TOTAL",
+                  "showGroup7": "true",
+                  "groupTitle7": "Generales",
+                  "groupAttributes7": "SISTEMA_OPERATIVO",
+                  "showGroup8": "true",
+                  "groupTitle8": "Adicionales",
+                  "groupAttributes8": "NOMBRE_COMERCIAL",
+                  "showGroup9": "true",
+                  "groupTitle9": "Otros",
+                  "groupAttributes9": "CATEGORIA_DE_USO",
+                  "showGroup10": "true",
+                  "groupTitle10": "Red",
+                  "roupAttributes10": "TECNOLOGIA"
+                }
               }
             ]
           }

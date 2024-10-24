@@ -10,7 +10,7 @@
       "name": "IPHONE 15 PRO MAX 256GB 5G",
       "shortDescription": "IPHONE 15 PRO MAX 256GB 5G",
       "manufacturer": "IPHONE",
-      "longDescription": "IPHONE 15 PRO MAX 256GB 5G",
+      "longDescription": "<p>Celular Xiaomi Redmi Note 13 Pro 256GB 5G</p><p> Conoce el celular Xiaomi Redmi Note 13 Pro 256GB 5G; Adqui&eacute;relo en Kit Amigo y por tu primera recarga de $2.000 o m&aacute;s, te daremos un Paquete de Bienvenida. Inicialmente la red 5G estar&aacute; disponible solo para planes postpago desde $42.900 y en algunas ciudades principales.</p>",
       "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-blanco.jpg",
       "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-blanco.jpg",
       "seo": {
@@ -20,13 +20,7 @@
       "storeID": "1",
       "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055637.jpg",
       "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055637.jpg",
-      "parentCatalogGroupID": [
-        "/3074457345616680168/3074457345616680171",
-        "/3074457345616680168/3074457345616680170",
-        "/3074457345616680172/3074457345616680179/3074457345616680184",
-        "/3074457345616680168/3074457345616680169",
-        "/3074457345616680172/3074457345616680173/3074457345616680177"
-      ],
+      "parentCatalogGroupID": ["/3074457345616680168/3074457345616680171"],
       "price": [
         {
           "usage": "Display",
@@ -1040,10 +1034,6 @@
           "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055665.jpg",
           "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055665.jpg",
           "parentCatalogGroupID": [
-            "/3074457345616680168/3074457345616680171",
-            "/3074457345616680168/3074457345616680170",
-            "/3074457345616680172/3074457345616680179/3074457345616680184",
-            "/3074457345616680168/3074457345616680169",
             "/3074457345616680172/3074457345616680173/3074457345616680177"
           ],
           "price": [
@@ -2074,13 +2064,7 @@
           "parentCatalogEntryID": "3074457345616817096",
           "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055641.jpg",
           "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055641.jpg",
-          "parentCatalogGroupID": [
-            "/3074457345616680168/3074457345616680171",
-            "/3074457345616680168/3074457345616680170",
-            "/3074457345616680172/3074457345616680179/3074457345616680184",
-            "/3074457345616680168/3074457345616680169",
-            "/3074457345616680172/3074457345616680173/3074457345616680177"
-          ],
+          "parentCatalogGroupID": ["/3074457345616680168/3074457345616680171"],
           "price": [
             {
               "usage": "Display",
@@ -3109,13 +3093,7 @@
           "parentCatalogEntryID": "3074457345616817096",
           "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055659.jpg",
           "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055659.jpg",
-          "parentCatalogGroupID": [
-            "/3074457345616680168/3074457345616680171",
-            "/3074457345616680168/3074457345616680170",
-            "/3074457345616680172/3074457345616680179/3074457345616680184",
-            "/3074457345616680168/3074457345616680169",
-            "/3074457345616680172/3074457345616680173/3074457345616680177"
-          ],
+          "parentCatalogGroupID": ["/3074457345616680168/3074457345616680171"],
           "price": [
             {
               "usage": "Display",

@@ -294,6 +294,29 @@
                 }
               },
               "description": "Planchas y vaporizadores"
+            },
+            {
+              "uniqueID": "102254",
+              "parentCatalogGroupID": "/10201/10208/10225",
+              "seo": {
+                "href": "/planchas-y-vaporizadores"
+              },
+              "name": "Planchas y vaporizadores",
+              "identifier": "PLANCHASYVAPORIZADORES",
+              "shortDescription": "Planchas y vaporizadores",
+              "storeID": "9701",
+              "sequence": "1.0",
+              "longDescription": "Planchas y vaporizadores",
+              "id": "102254",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10208"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10225"
+                }
+              },
+              "description": "Planchas y vaporizadores"
             }
           ],
           "id": "10208",
