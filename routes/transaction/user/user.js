@@ -103,7 +103,7 @@ userRouter.get("/:storeId/person/:userId", async (req, res) => {
 
 userRouter.put("/:storeId/person/@self", async (req, res) => {
   const { storeId, emsName } = req.params;
-  const { phone1, phone2, fax2 = "jeke" } = req.body;
+  const { phone1, phone2, fax2 } = req.body;
   if (!phone1 || !fax2)
     return res.status(400).json({
       errors: [
