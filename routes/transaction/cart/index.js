@@ -11,11 +11,16 @@ const __dirname = path.dirname(__filename);
 
 // /wcs/resources/store/15051/cart/@self?langId=-5&sortOrder=desc
 cartRouter.get('/:storeId/cart/@self', async (req, res) => {
-  const { storeId, emsName } = req.params;
-  const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/cart/cart.json`);
-  const data = await fsPromises.readFile(filePath, 'utf8');
-  const response = JSON.parse(data);
-  res.status(200).json(response);
+  try {
+    const { storeId, emsName } = req.params;
+    const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/cart/cart.json`);
+    const data = await fsPromises.readFile(filePath, 'utf8');
+    const response = JSON.parse(data);
+    res.status(200).json(response);
+  } catch (error) {
+    res.status(404).json({});
+
+  }
 });
 
 // /wcs/resources/store/15051/cart

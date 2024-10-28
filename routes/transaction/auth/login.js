@@ -49,7 +49,16 @@ const handleLoginIdentity = (req, res) => {
       "WCTrustedToken": "1002%2CGl%2BWZiFvtHRe%2F7YfZSsDG1D2%2FrrcSCEX08mjCcSRQ28%3D"
     });
   } else {
-    res.status(401).json({ error: 'Invalid credentials' });
+    res.status(401).json({
+      "errors": [
+        {
+          "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+          "errorParameters": "",
+          "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
+          "errorCode": "1000"
+        }
+      ]
+    });
   }
 };
 
