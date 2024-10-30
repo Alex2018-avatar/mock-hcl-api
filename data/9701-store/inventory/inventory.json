@@ -16,7 +16,7 @@
 		"unitOfMeasure": "C62",
 		"inventoryStatus": "Available",
 		"partNumber": "PO_Equ70055665",
-		"x_inventoryStatus": "No disponible",
+		"x_inventoryStatus": "Pocas unidades disponibles",
 		"onlineStoreId": "1"
 	},
 	{
@@ -26,7 +26,7 @@
 		"unitOfMeasure": "C62",
 		"inventoryStatus": "Available",
 		"partNumber": "PO_Equ70055659",
-		"x_inventoryStatus": "Pocas unidades disponibles",
+		"x_inventoryStatus": "No disponible",
 		"onlineStoreId": "1"
 	}
 ]
