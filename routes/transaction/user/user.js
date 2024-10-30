@@ -103,34 +103,65 @@ userRouter.get("/:storeId/person/:userId", async (req, res) => {
 
 userRouter.put("/:storeId/person/@self", async (req, res) => {
   const { storeId, emsName } = req.params;
-  const { phone1, phone2, fax2 } = req.body;
-  // if (!phone1 || !fax2)
-  //   return res.status(400).json({
-  //     errors: [
-  //       {
-  //         errorKey: "_INF_TEXT",
-  //         errorParameters:
-  //           "No pudimos actualizar tus datos, ingresa más tarde.",
-  //         errorMessage: "No pudimos actualizar tus datos, ingresa más tarde.",
-  //         errorCode: "ERR_GENERAL",
-  //       },
-  //     ],
-  //   });
-  // res.status(200).json({
-  //   resourceName: "person",
-  //   userId: "18004",
-  //   addressId: "3074457375142411703",
-  // });
-  res.status(400).json({
-    "errors": [
-      {
-        "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
-        "errorParameters": "",
-        "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
-        "errorCode": "1000"
+  const { phone1, phone2, fax2, resetPassword, xcred_validationCode } = req.body;
+
+  // RESET PASSWORD
+  if (resetPassword) {
+    if (xcred_validationCode) {
+      // ERROR WAY
+      // res.status(400).json({
+      //   "errors": [
+      //     {
+      //       "errorKey": "_ERR_CMD_INVALID_PARAM",
+      //       "errorParameters": "validationCode",
+      //       "errorMessage": "The value of the parameter validationCode is not correct.",
+      //       "errorCode": "2190"
+      //     }
+      //   ]
+      // });
+
+      // SUCCESS WAY
+      res.status(200).json({ "resourceName": "person", "userId": "3" });
+    } else {
+      // CAMBIAR PASSWORD MI CUENTA
+      if (xcred_logonPasswordOld && xcred_logonPasswordVerify) {
+        // SUCCESS WAY
+        res.status(200).json({ "resourceName": "person", "userId": "3" });
+        // ERROR WAY
+        // TODO: Agregar error
+      } else {
+        res.status(200).json({ "resourceName": "person", "userId": "3" });
       }
-    ]
-  });
+    }
+  } else {
+    // if (!phone1 || !fax2)
+    //   return res.status(400).json({
+    //     errors: [
+    //       {
+    //         errorKey: "_INF_TEXT",
+    //         errorParameters:
+    //           "No pudimos actualizar tus datos, ingresa más tarde.",
+    //         errorMessage: "No pudimos actualizar tus datos, ingresa más tarde.",
+    //         errorCode: "ERR_GENERAL",
+    //       },
+    //     ],
+    //   });
+    // res.status(200).json({
+    //   resourceName: "person",
+    //   userId: "18004",
+    //   addressId: "3074457375142411703",
+    // });
+    res.status(400).json({
+      "errors": [
+        {
+          "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+          "errorParameters": "",
+          "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
+          "errorCode": "1000"
+        }
+      ]
+    });
+  }
 });
 
 // /wcs/resources/store/9701/person?updateCookies=true
