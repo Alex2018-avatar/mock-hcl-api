@@ -133,4 +133,11 @@ userRouter.put("/:storeId/person/@self", async (req, res) => {
   });
 });
 
+// /wcs/resources/store/9701/person?updateCookies=true
+userRouter.post("/:storeId/person", async (req, res) => {
+  res.status(201).json({
+    message: "Hello World",
+  });
+});
+
 export default userRouter;
