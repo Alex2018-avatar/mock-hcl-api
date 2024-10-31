@@ -2070,14 +2070,14 @@
               "usage": "Display",
               "description": "L",
               "currency": "COP",
-              "value": "6298960.0"
+              "value": "5187850.0"
             },
             {
               "usage": "Offer",
               "contractId": "10005",
               "description": "I",
               "currency": "COP",
-              "value": "6259960.0"
+              "value": "5148850.0"
             }
           ],
           "attributes": [
@@ -3099,14 +3099,14 @@
               "usage": "Display",
               "description": "L",
               "currency": "COP",
-              "value": "6298960.0"
+              "value": "406740.0"
             },
             {
               "usage": "Offer",
               "contractId": "10005",
               "description": "I",
               "currency": "COP",
-              "value": "6259960.0"
+              "value": "4037740.0"
             }
           ],
           "attributes": [
