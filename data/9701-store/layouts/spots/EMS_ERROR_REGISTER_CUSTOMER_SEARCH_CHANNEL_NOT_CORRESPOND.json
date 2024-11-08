@@ -4,22 +4,22 @@
       "nextTimeLimit": "-1",
       "defaultContentDisplaySequence": [
         {
-          "resultId": "715841985",
+          "resultId": "715841988",
           "resultFormat": "MarketingContent",
           "displaySequence": "1.0"
         }
       ],
-      "marketingSpotIdentifier": "715846585",
+      "marketingSpotIdentifier": "715846588",
       "behavior": "0",
-      "eSpotName": "EMS_ERROR_REGISTER_CUSTOMER_SAVE_ERROR",
+      "eSpotName": "EMS_ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND",
       "baseMarketingSpotActivityData": [
         {
           "contentFormatName": "Text",
-          "baseMarketingSpotActivityName": "EMS_ERROR_REGISTER_CUSTOMER_SAVE_ERROR",
+          "baseMarketingSpotActivityName": "EMS_ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND",
           "contentClickAction": "None",
-          "contentId": "715841985",
-          "baseMarketingSpotActivityID": "715841985",
-          "contentName": "EMS_ERROR_REGISTER_CUSTOMER_SAVE_ERROR",
+          "contentId": "715841988",
+          "baseMarketingSpotActivityID": "715841988",
+          "contentName": "EMS_ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND",
           "baseMarketingSpotDataType": "MarketingContent",
           "activityIdentifierID": "0",
           "MarketingContentDescription": [
@@ -27,7 +27,7 @@
           ],
           "marketingContentDescription": [
             {
-              "marketingText": "<p>Te invitamos a realizar tu compra en unos minutos.</p>",
+              "marketingText": "<p className='font-bold'>Verifica los datos que ingresaste e intentalo de nuevo</p><p>Modifica la información o inicia sesión con tu usuario y contraseña.</p><p>Recuerda que si ya tienes usuario y contraseña activos en Mi claro, puedes usarlo para iniciar sesión en Tienda Claro</p>",
               "language": "-5"
             }
           ],
@@ -47,6 +47,6 @@
       ]
     }
   ],
-  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_REGISTER_CUSTOMER_SAVE_ERROR?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

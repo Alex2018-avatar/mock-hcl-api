@@ -88,19 +88,19 @@ authRouter.post('/:storeId/syncRegister/registerCommerce', async (req, res) => {
   const { logonId } = body;
 
   // SUCCESS WAY
-  // res.status(201).json({
-  //   "success": true,
-  //   "message": "Registro exitoso en Commerce",
-  //   "status": 200
-  // });
+  res.status(201).json({
+    "success": true,
+    "message": "Registro exitoso en Commerce",
+    "status": 200
+  });
 
   // Error Way
-  res.status(400).json({
-    "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
-    "errorParameters": "\u00ef\u00bf\u00bdUps!, parec\u00ef\u00bf\u00bd que algo sali\u00ef\u00bf\u00bd mal, int\u00ef\u00bf\u00bdntalo nuevamente o si prefieres comunicate con nosotros a la l\u00ef\u00bf\u00bdnea (601)7457466.",
-    "errorMessage": "Usuario no registrado.",
-    "errorCode": "1001"
-  });
+  // res.status(400).json({
+  //   "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+  //   "errorParameters": "\u00ef\u00bf\u00bdUps!, parec\u00ef\u00bf\u00bd que algo sali\u00ef\u00bf\u00bd mal, int\u00ef\u00bf\u00bdntalo nuevamente o si prefieres comunicate con nosotros a la l\u00ef\u00bf\u00bdnea (601)7457466.",
+  //   "errorMessage": "Usuario no registrado.",
+  //   "errorCode": "1001"
+  // });
 
   // res.status(201).json({
   //   "errorKey": "_ERROR_TOKEN_REQUIRED_FILEDS",
