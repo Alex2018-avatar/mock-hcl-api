@@ -4,7 +4,7 @@
       "layout": {
         "id": "14123",
         "name": "B2BProductPageLayout",
-        "containerName": "b2b-product-page",
+        "containerName": "product-page",
         "slots": [
           {
             "id": "1",
@@ -29,10 +29,10 @@
             "id": "2",
             "widgets": [
               {
-                "id": "16603",
-                "name": "Detalles del producto",
-                "widgetName": "product-details-widget",
-                "sequence": 0.0,
+                "id": "19602",
+                "name": "B2C Detalles del producto",
+                "widgetName": "clarob2c-product-details-widget",
+                "sequence": 1.0,
                 "properties": {
                   "showGroup1": "true",
                   "groupTitle1": "Cámara",
@@ -63,7 +63,7 @@
                   "groupAttributes9": "CATEGORIA_DE_USO",
                   "showGroup10": "true",
                   "groupTitle10": "Red",
-                  "roupAttributes10": "TECNOLOGIA"
+                  "groupAttributes10": "TECNOLOGIA"
                 }
               }
             ]

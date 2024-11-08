@@ -9,6 +9,7 @@ const fsPromises = fs.promises;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // /wcs/resources/store/11/person/@self?langId=-1
 userRouter.get("/:storeId/person/@self", async (req, res) => {
   const { storeId, emsName } = req.params;
@@ -103,7 +104,10 @@ userRouter.get("/:storeId/person/:userId", async (req, res) => {
 
 userRouter.put("/:storeId/person/@self", async (req, res) => {
   const { storeId, emsName } = req.params;
-  const { phone1, phone2, fax2, resetPassword, xcred_validationCode } = req.body;
+  const { phone1, phone2, fax2,
+    resetPassword, xcred_logonPasswordOld, xcred_validationCode,
+    xcred_logonPasswordVerify
+  } = req.body;
 
   // RESET PASSWORD
   if (resetPassword) {
@@ -157,7 +161,7 @@ userRouter.put("/:storeId/person/@self", async (req, res) => {
           "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
           "errorParameters": "",
           "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
-          "errorCode": "1000"
+          "errorCode": "1001"
         }
       ]
     });
@@ -166,9 +170,35 @@ userRouter.put("/:storeId/person/@self", async (req, res) => {
 
 // /wcs/resources/store/9701/person?updateCookies=true
 userRouter.post("/:storeId/person", async (req, res) => {
-  res.status(201).json({
-    message: "Hello World",
-  });
+  const { storeId } = req.params;
+
+  await delay(1200);
+
+  if (storeId === "9701") {
+    const { xcont_paramPreValidation } = req.body;
+    if (xcont_paramPreValidation === "true") {
+      res.status(400).json({
+        "errors": [
+          {
+            "errorKey": "_ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED",
+            "errorParameters": "ï¿½Ups!, parecï¿½ que algo saliï¿½ mal, intï¿½ntalo nuevamente o si prefieres comunicate con nosotros a la lï¿½nea (601)7457466.",
+            "errorMessage": "Usuario no registrado.",
+            "errorCode": "0000"
+          }
+        ]
+      });
+    } else {
+      res.status(201).json({
+        "resourceName": "person",
+        "userId": "9011",
+        "addressId": "3074457351658731456"
+      });
+    }
+  } else {
+    res.status(201).json({
+      message: "Hello World",
+    });
+  }
 });
 
 export default userRouter;

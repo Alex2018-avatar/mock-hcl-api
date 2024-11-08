@@ -2,7 +2,7 @@ import express from 'express';
 import path from 'node:path';
 import fs from 'node:fs';
 import { fileURLToPath } from 'url';
-import { logger, morganMiddleware } from '../../../config/logger.js';
+import { logger } from '../../../config/logger.js';
 
 const app = express();
 const eSpotRouter = app.router;

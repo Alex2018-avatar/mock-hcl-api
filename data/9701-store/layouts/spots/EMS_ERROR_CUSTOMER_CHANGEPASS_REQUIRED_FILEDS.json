@@ -4,22 +4,22 @@
       "nextTimeLimit": "-1",
       "defaultContentDisplaySequence": [
         {
-          "resultId": "715840485",
+          "resultId": "715840986",
           "resultFormat": "MarketingContent",
           "displaySequence": "1.0"
         }
       ],
-      "marketingSpotIdentifier": "715845085",
+      "marketingSpotIdentifier": "715845593",
       "behavior": "0",
-      "eSpotName": "EMS_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+      "eSpotName": "EMS_ERROR_CUSTOMER_CHANGEPASS_REQUIRED_FILEDS",
       "baseMarketingSpotActivityData": [
         {
           "contentFormatName": "Text",
-          "baseMarketingSpotActivityName": "CONTENT_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+          "baseMarketingSpotActivityName": "EMS_ERROR_CUSTOMER_CHANGEPASS_REQUIRED_FILEDS",
           "contentClickAction": "None",
-          "contentId": "715840485",
-          "baseMarketingSpotActivityID": "715840485",
-          "contentName": "CONTENT_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+          "contentId": "715840986",
+          "baseMarketingSpotActivityID": "715840986",
+          "contentName": "EMS_ERROR_CUSTOMER_CHANGEPASS_REQUIRED_FILEDS",
           "baseMarketingSpotDataType": "MarketingContent",
           "activityIdentifierID": "0",
           "MarketingContentDescription": [
@@ -27,7 +27,7 @@
           ],
           "marketingContentDescription": [
             {
-              "marketingText": "<b>Usuario y/o contrase&ntilde;a incorrecto,</b> verifica tus datos y vuelve a intentarlo",
+              "marketingText": "Por el momento no podemos actualizar tu contrasenia",
               "language": "-5"
             }
           ],
@@ -47,6 +47,6 @@
       ]
     }
   ],
-  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_CUSTOMER_CHANGEPASS_REQUIRED_FILEDS?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

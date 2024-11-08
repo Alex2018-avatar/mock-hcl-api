@@ -1,0 +1,110 @@
+{
+  "recordSetCount": "10",
+  "resourceId": "https://www.b2cdev3auth.claro.com.co:5443/wcs/resources/store/15051/geonode/byParentGeoNode/715846887",
+  "GeoNode": [
+    {
+      "Description": [
+        {
+          "shortDescription": "ARAUCA"
+        }
+      ],
+      "name": "CO-03-01",
+      "type": "CITY",
+      "uniqueID": "715847069"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ARAUQUITA"
+        }
+      ],
+      "name": "CO-03-02",
+      "type": "CITY",
+      "uniqueID": "715847070"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CA\u00d1O LIMON"
+        }
+      ],
+      "name": "CO-03-03",
+      "type": "CITY",
+      "uniqueID": "715847071"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "FORTUL"
+        }
+      ],
+      "name": "CO-03-04",
+      "type": "CITY",
+      "uniqueID": "715847072"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA ESMERALDA"
+        }
+      ],
+      "name": "CO-03-05",
+      "type": "CITY",
+      "uniqueID": "715847073"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA PESQUERA"
+        }
+      ],
+      "name": "CO-03-06",
+      "type": "CITY",
+      "uniqueID": "715847074"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "POZO CARICARE"
+        }
+      ],
+      "name": "CO-03-07",
+      "type": "CITY",
+      "uniqueID": "715847075"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUERTO RONDON"
+        }
+      ],
+      "name": "CO-03-08",
+      "type": "CITY",
+      "uniqueID": "715847076"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SARAVENA"
+        }
+      ],
+      "name": "CO-03-09",
+      "type": "CITY",
+      "uniqueID": "715847077"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TAME"
+        }
+      ],
+      "name": "CO-03-10",
+      "type": "CITY",
+      "uniqueID": "715847078"
+    }
+  ],
+  "recordSetStartNumber": "0",
+  "resourceName": "geonode",
+  "recordSetTotal": "10",
+  "recordSetComplete": "true"
+}

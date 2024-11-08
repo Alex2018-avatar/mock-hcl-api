@@ -14,6 +14,8 @@ import promotionRouter from './routes/transaction/promotions/promotions.js';
 import shippingRouter from './routes/transaction/shipping/shipping.js';
 import xparametersRouter from './routes/transaction/xparameters/index.js';
 import cartRoutes from './routes/transaction/cart/index.js';
+import geoNodeRouter from './routes/transaction/geonode/geonode.js';
+import addressRouter from './routes/transaction/address/address.js';
 import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
 
@@ -44,6 +46,8 @@ app.use(config.transactionContextPath, promotionRouter);
 app.use(config.transactionContextPath, shippingRouter);
 app.use(config.transactionContextPath, xparametersRouter);
 app.use(config.transactionContextPath, cartRoutes);
+app.use(config.transactionContextPath, geoNodeRouter);
+app.use(config.transactionContextPath, addressRouter);
 
 // Middleware para manejar 404
 app.use((req, res, next) => {

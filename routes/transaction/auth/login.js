@@ -55,13 +55,12 @@ const handleLoginIdentity = (req, res) => {
           "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
           "errorParameters": "",
           "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
-          "errorCode": "1000"
+          "errorCode": "1001"
         }
       ]
     });
   }
 };
-
 
 // /resources/store/9701/loginidentity?updateCookies=true
 authRouter.post('/:storeId/loginidentity', handleLoginIdentity);
@@ -72,5 +71,53 @@ authRouter.post('/:storeId/b2b/loginidentity', handleLoginIdentity);
 
 */
 
+authRouter.delete('/:storeId/loginidentity/@self', (req, res) => {
+  res.clearCookie('JSESSIONID');
+  res.clearCookie('WC_SESSION_ESTABLISHED');
+  res.clearCookie('WC_AUTHENTICATION_1002');
+  res.clearCookie('WC_ACTIVEPOINTER');
+  res.clearCookie('WC_USERACTIVITY_1002');
+  res.clearCookie('WCToken');
+  res.clearCookie('userId');
+  res.clearCookie('WCTrustedToken');
+  res.status(200).json({});
+});
+
+authRouter.post('/:storeId/syncRegister/registerCommerce', async (req, res) => {
+  const { body } = req;
+  const { logonId } = body;
+
+  // SUCCESS WAY
+  // res.status(201).json({
+  //   "success": true,
+  //   "message": "Registro exitoso en Commerce",
+  //   "status": 200
+  // });
+
+  // Error Way
+  res.status(400).json({
+    "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+    "errorParameters": "\u00ef\u00bf\u00bdUps!, parec\u00ef\u00bf\u00bd que algo sali\u00ef\u00bf\u00bd mal, int\u00ef\u00bf\u00bdntalo nuevamente o si prefieres comunicate con nosotros a la l\u00ef\u00bf\u00bdnea (601)7457466.",
+    "errorMessage": "Usuario no registrado.",
+    "errorCode": "1001"
+  });
+
+  // res.status(201).json({
+  //   "errorKey": "_ERROR_TOKEN_REQUIRED_FILEDS",
+  //   "errorParameters": "Te invitamos a realizar tu compra en unos minutos.",
+  //   "errorMessage": "Error de campos Obligatorios.",
+  //   "errorCode": "1001"
+  // });
+});
 
 export default authRouter;
+
+/*
+{
+    "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+    "errorParameters": "\u00ef\u00bf\u00bdUps!, parec\u00ef\u00bf\u00bd que algo sali\u00ef\u00bf\u00bd mal, int\u00ef\u00bf\u00bdntalo nuevamente o si prefieres comunicate con nosotros a la l\u00ef\u00bf\u00bdnea (601)7457466.",
+    "errorMessage": "Usuario no registrado.",
+    "errorCode": "1001"
+}
+
+*/
