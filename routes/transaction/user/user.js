@@ -54,6 +54,27 @@ userRouter.get("/:storeId/person/@self", async (req, res) => {
         value: "false",
       },
     ],
+    contact: [
+      {
+        "lastName": "grillo",
+        "zipCode": "12345",
+        "country": "Peru",
+        "city": "Lima",
+        "nickName": "casa",
+        "addressType": "ShippingAndBilling",
+        "addressLine": [
+          "mi casa ",
+          "cerca del metro",
+          ""
+        ],
+        "addressId": "3074457362951363813",
+        "phone1": "87878878",
+        "firstName": "pepe",
+        "email1": "poxx2@gmail.com",
+        "state": "Lima",
+        "primary": "false"
+      }
+    ],
   });
 });
 
@@ -99,6 +120,7 @@ userRouter.get("/:storeId/person/:userId", async (req, res) => {
       fax1: "",
       lastSession: "18 de octubre de 2024 14:17",
       logonPasswordVerify: "************",
+
     });
   }
 });
