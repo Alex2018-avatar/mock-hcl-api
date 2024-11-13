@@ -9,4 +9,9 @@ export const productsMapData = [
     partNumber: 'PO_Equ70038567P',
     jsonName: 'vivo-y51-128gb-cristal-po-equ70038567p-5'
   },
+  {
+    id: '3074457345616817100',
+    partNumber: 'PO_Equ70055665',
+    jsonName: 'iphone-15-pro-max-256gb-po-equ70055665'
+  }
 ]
