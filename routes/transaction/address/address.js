@@ -22,4 +22,52 @@ addressRouter.get('/:storeId/person/addressInfoByType/:addressType', async (req,
   }
 });
 
+// /wcs/resources/store/41/person/@self/contact?addressType=Billing
+addressRouter.get('/:storeId/person/@self/contact', async (req, res) => {
+  res.status(200).json({
+    "resourceId": "https:\/\/commerce-preview.sbx0394.play.hclsofy.com:5443\/wcs\/resources\/store\/41\/person\/@self\/contact?addressType=Shipping",
+    "contact": [
+      {
+        "lastName": "grillo",
+        "zipCode": "12345",
+        "country": "Peru",
+        "city": "Lima",
+        "addressType": "ShippingAndBilling",
+        "nickName": "casa",
+        "addressLine": [
+          "mi casa ",
+          "cerca del metro",
+          ""
+        ],
+        "addressId": "3074457362951363813",
+        "phone1": "87878878",
+        "firstName": "pepe",
+        "email1": "poxx2@gmail.com",
+        "state": "Lima",
+        "primary": "false"
+      },
+      {
+        "lastName": "Grillo",
+        "firstName": "Pepe",
+        "email1": "poxx@gmail.com",
+        "addressType": "ShippingAndBilling",
+        "nickName": "poxx@gmail.com",
+        "addressId": "3074457362950387085",
+        "primary": "true"
+      }
+    ],
+    "resourceName": "person",
+    "userId": "17"
+  });
+});
+
+// /wcs/resources/store/41/person/@self/checkoutProfile?langId=-1&responseFormat=json
+addressRouter.get('/:storeId/person/@self/checkoutProfile', async (req, res) => {
+  res.status(200).json({
+    "resourceId": "https:\/\/commerce-preview.sbx0394.play.hclsofy.com:5443\/wcs\/resources\/store\/41\/person\/@self\/checkoutProfile?langId=-1&responseFormat=json",
+    "resourceName": "person",
+    "userId": "17"
+  });
+});
+
 export default addressRouter;

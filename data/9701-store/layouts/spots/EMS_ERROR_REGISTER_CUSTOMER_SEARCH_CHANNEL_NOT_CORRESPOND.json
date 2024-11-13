@@ -27,7 +27,7 @@
           ],
           "marketingContentDescription": [
             {
-              "marketingText": "<p className='font-bold'>Verifica los datos que ingresaste e intentalo de nuevo</p><p>Modifica la información o inicia sesión con tu usuario y contraseña.</p><p>Recuerda que si ya tienes usuario y contraseña activos en Mi claro, puedes usarlo para iniciar sesión en Tienda Claro</p>",
+              "marketingText": "<p class=\"font-bold\">Verifica los datos que ingresaste e intentalo de nuevo</p><p>Modifica la informaci&oacute;n o inicia sesi&oacute;n con tu usuario y contrase&ntilde;a.</p><p>Recuerda que si ya tienes usuario y contrase&ntilde;a activos en Mi claro, puedes usarlo para iniciar sesi&oacute;n en Tienda Claro</p>",
               "language": "-5"
             }
           ],

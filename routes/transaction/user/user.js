@@ -2,6 +2,7 @@ import express from "express";
 import path from "node:path";
 import fs from "node:fs";
 import { fileURLToPath } from "url";
+import { generateWCSError } from "../../../utils/error-utils.js";
 
 const userRouter = express.Router();
 const fsPromises = fs.promises;
@@ -176,23 +177,62 @@ userRouter.post("/:storeId/person", async (req, res) => {
 
   if (storeId === "9701") {
     const { xcont_paramPreValidation } = req.body;
+    const commonErrorProperties = {
+      "errorParameters": "error",
+      "errorMessage": "error message",
+    }
+    // REGISTER CUSTOMER
     if (xcont_paramPreValidation === "true") {
-      res.status(400).json({
-        "errors": [
-          {
-            "errorKey": "_ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED",
-            "errorParameters": "ï¿½Ups!, parecï¿½ que algo saliï¿½ mal, intï¿½ntalo nuevamente o si prefieres comunicate con nosotros a la lï¿½nea (601)7457466.",
-            "errorMessage": "Usuario no registrado.",
-            "errorCode": "0000"
-          }
-        ]
-      });
+      // SUCCESS WAY - enable address form
+      // res.status(201).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED", "0000"));
+
+      // _ERROR_REGISTER_CUSTOMER_VALIDATE_CHANNEL_NOT_CORRESPOND
+      //res.status(201).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_VALIDATE_CHANNEL_NOT_CORRESPOND", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_VALIDATE_ERROR_LEGADO
+      // res.status(201).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_VALIDATE_ERROR_LEGADO", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_VALIDATE_ERROR
+      // res.status(500).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_VALIDATE_ERROR", "1001"));
+
+      // _ERROR_REGISTER_CUSTOMER_VALIDATE_REGISTERED
+      //        "errorMessage": "Usuario ya registrado.",
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_VALIDATE_REGISTERED", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_SEARCH_REGISTERED
+      // res.status(500).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_REGISTERED", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND
+      // res.status(500).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_SEARCH_CHANNEL_NOT_CORRESPOND
+      // res.status(500).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS", "1003"));
+
+      // _ERROR_REGISTER_CUSTOMER_SEARCH_ERROR
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_ERROR", "1001"));
+
+      // _ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED
+      res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED", "0000"));
+
+      // _ERROR_REGISTER_CUSTOMER_SAVE_CHANNEL_NOT_CORRESPOND
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SAVE_CHANNEL_NOT_CORRESPOND", "1005"));
+
+      // _ERROR_REGISTER_CUSTOMER_SAVE_REQUIRED_FIELDS
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SAVE_REQUIRED_FIELDS", "1005"));
+
+      // _ERROR_REGISTER_CUSTOMER_SAVE_ERROR_LEGADO
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SAVE_ERROR_LEGADO", "1005"));
+
     } else {
       res.status(201).json({
         "resourceName": "person",
         "userId": "9011",
         "addressId": "3074457351658731456"
       });
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS", "1003"));
     }
   } else {
     res.status(201).json({
