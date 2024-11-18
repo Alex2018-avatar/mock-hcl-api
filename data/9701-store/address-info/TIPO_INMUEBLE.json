@@ -1,0 +1,77 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "Apartamento",
+      "value": "APARTAMENTO"
+    },
+    {
+      "description": "Administraci\u00f3n",
+      "value": "ADMINISTRACION"
+    },
+    {
+      "description": "Bodega",
+      "value": "BODEGA"
+    },
+    {
+      "description": "Casa",
+      "value": "CASA"
+    },
+    {
+      "description": "Casa + Piso",
+      "value": "CASA + PISO"
+    },
+    {
+      "description": "Interior",
+      "value": "INTERIOR"
+    },
+    {
+      "description": "Local",
+      "value": "LOCAL"
+    },
+    {
+      "description": "Lote",
+      "value": "LOTE"
+    },
+    {
+      "description": "Mezzanine",
+      "value": "MEZZANINE"
+    },
+    {
+      "description": "Oficina",
+      "value": "OFICINA"
+    },
+    {
+      "description": "Piso",
+      "value": "PISO"
+    },
+    {
+      "description": "Piso + Apartamento",
+      "value": "PISO + APTO"
+    },
+    {
+      "description": "Piso + Interior",
+      "value": "PISO + INTERIOR"
+    },
+    {
+      "description": "Piso + Local",
+      "value": "PISO + LOCAL"
+    },
+    {
+      "description": "Porter\u00eda",
+      "value": "PORTERIA"
+    },
+    {
+      "description": "S\u00f3tano",
+      "value": "SOTANO"
+    },
+    {
+      "description": "Otros",
+      "value": "OTROS"
+    },
+    {
+      "description": "Sal\u00f3n Comunal",
+      "value": "S COMUNAL"
+    }
+  ]
+}

@@ -18,6 +18,14 @@
     {
       "name": "wc.clarob2b.google.recaptcha.enable",
       "value": "true"
+    },
+    {
+      "name": "wc.clarob2c.ficha.monto.minimo.addi",
+      "value": "50000"
+    },
+    {
+      "name": "wc.clarob2c.ficha.cantidad.tope",
+      "value": "7"
     }
   ]
 }

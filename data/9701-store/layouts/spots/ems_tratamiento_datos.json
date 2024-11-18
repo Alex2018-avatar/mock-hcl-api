@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715838491",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715840591",
+      "behavior": "0",
+      "eSpotName": "ems_tratamiento_datos",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ems_tratamiento_datos",
+          "contentClickAction": "None",
+          "contentId": "715838491",
+          "baseMarketingSpotActivityID": "715838491",
+          "contentName": "ems_tratamiento_datos",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style type=\"text/css\">.text-section { color: #2d2d2d; line-height: 18px; overflow-y: scroll; height: 360px; }</style><div><h4>TRATAMIENTO DE DATOS Y CONSULTA EN CENTRALES DE RIESGO</h4><div class=\"text-section\"><p>El usuario autoriza, de manera libre y expresa a COMCEL S.A. en adelante CLARO, para que:</p><p>De conformidad con lo dispuesto en el artículo 6 del Decreto 1377 de 2013, y sin perjuicio del derecho que me asiste de no autorizar el tratamiento de mis datos sensibles, manifiesta que autoriza de manera libre, previa, informada, voluntaria y expresa el tratamiento de sus datos sensibles: (i) De huella dactilar, con la ÚNICA finalidad de que se valide identidad a través del proceso de autenticación electrónica ante la Base de Datos de la Registraduría Nacional del Estado Civil, de manera previa al proceso de venta; y (ii) voz y rostro con la finalidad igualmente de validación de identidad y prevención del fraude.</p><p>Consulte de cualquier fuente o reporte de información y actualice a cualquier operador de información sobre sus datos personales de nombre, apellidos y documento de identificación, mi comportamiento y crédito comercial, hábitos de pago, manejo de su(s) cuenta(s) bancaria(s) y en general el cumplimiento de mis obligaciones comerciales y pecuniarias, con el fin de verificar sus condiciones para acceder y/o modificar productos o servicios en CLARO y para actualización de operadores de información. A estos efectos la autorización otorgada resulta irrevocable mientras subsistan obligaciones legales o contractuales. que me imponga el deber de permanecer en las bases de datos de CLARO Lleve a cabo el tratamiento de SUS datos personales para los siguientes propósitos: consulta y reporte de información ante operadores de bancos de datos de contenido crediticio, financiero y perfilamiento, para fines relacionados con la prestación del servicio, la relación contractual, la prevención del fraude, del lavado de activos, la financiación del terrorismo, financiamiento de la proliferación de armas de destrucción masiva, corrupción, soborno y otras actividades ilegales; así como con fines comerciales y/o publicitarios de opciones y productos propios o de terceros ofrecidos al público a través de cualquier medio electrónico, entre ellos WhatsApp a la línea móvil suministrada. Esta información será conservada por CLARO con la debida diligencia. En todo caso se reserva la posibilidad de ejercer los siguientes derechos previstos en el artículo 8 de la Ley 1581 de 2012 en cualquier momento: a) Conocer, actualizar y rectificar sus datos personales b) Solicitar prueba de la autorización otorgada al Responsable del Tratamiento; c) Ser informado, previa solicitud, respecto del uso que le ha dado a sus datos personales; d) Presentar ante la Superintendencia de Industria y Comercio quejas por infracciones a lo dispuesto en la Ley 1581 de 2012 y las demás normas que la modifiquen, adicionen o complementen; e) Revocar la autorización y/o solicitar la supresión del dato cuando en el tratamiento no se respeten los principios, derechos y garantías constitucionales y legales. La revocatoria y/o supresión procederá cuando la Superintendencia de Industria y Comercio haya determinado que, en el tratamiento, el Responsable o Encargado han incurrido en conductas contrarias a la Ley y a la Constitución. Sin perjuicio del derecho que asiste a los titulares de la información de solicitar revocatoria o supresión de la información, con los siguientes datos: nombre y apellidos, domicilio a efectos de notificaciones, petición en que se concreta la solicitud, fecha, firma de la persona interesada, éstas medidas no procederán cuando exista una obligación legal o contractual que imponga el deber de permanecer en las bases de datos de CLARO f) Acceder en forma gratuita a mis datos personales que hayan sido objeto de tratamiento. Como titular de la información manifiesto que los datos suministrados son ciertos y que no ha sido omitida o alterada ninguna información, quedando informado que la falsedad u omisión de algún dato supondrá la imposibilidad de prestar correctamente el servicio.</p><p>El responsable del tratamiento de la información es COMCEL S.A. con NIT 800.153.993-7, dirección principal Carrera 68 A No. 24 B - 10 y teléfono 6017429797 en Bogotá. Le invitamos a consultar las Políticas de Tratamiento de la Información de CLARO que se encuentran publicadas en la página web www.claro.com.co.</p></div></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/content_home_footer?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

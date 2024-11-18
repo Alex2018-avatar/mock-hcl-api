@@ -24,6 +24,7 @@ productsRouter.get('/products', async (req, res) => {
       res.status(200).json(response);
     } else if (partNumber || id) {
       const data = getProductByIdOrPartNumber(partNumber || id);
+      console.log('data: ', data);
       const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/product/${data.jsonName}.json`);
       const jsonData = await fsPromises.readFile(filePath, 'utf8');
       const response = JSON.parse(jsonData);

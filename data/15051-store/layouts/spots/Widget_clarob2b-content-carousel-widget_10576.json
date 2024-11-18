@@ -1,0 +1,340 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715875943",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "715875944",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "715875945",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "3.0"
+        },
+        {
+          "resultId": "715875946",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "715875947",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "5.0"
+        },
+        {
+          "resultId": "715875948",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "6.0"
+        },
+        {
+          "resultId": "715875949",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "7.0"
+        },
+        {
+          "resultId": "715875950",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "8.0"
+        },
+        {
+          "resultId": "715875951",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "9.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715882989",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2b-content-carousel-widget_10576",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca01",
+          "contentClickAction": "None",
+          "contentId": "715875943",
+          "baseMarketingSpotActivityID": "715875943",
+          "contentName": "Marca01",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"#\"><img src=\"/images/marcas/marca01.png\" alt=\"marca 1\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca02",
+          "contentClickAction": "None",
+          "contentId": "715875944",
+          "baseMarketingSpotActivityID": "715875944",
+          "contentName": "Marca02",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca02.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca03",
+          "contentClickAction": "None",
+          "contentId": "715875945",
+          "baseMarketingSpotActivityID": "715875945",
+          "contentName": "Marca03",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca03.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca04",
+          "contentClickAction": "None",
+          "contentId": "715875946",
+          "baseMarketingSpotActivityID": "715875946",
+          "contentName": "Marca04",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca04.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca05",
+          "contentClickAction": "None",
+          "contentId": "715875947",
+          "baseMarketingSpotActivityID": "715875947",
+          "contentName": "Marca05",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca05.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "5.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca06",
+          "contentClickAction": "None",
+          "contentId": "715875948",
+          "baseMarketingSpotActivityID": "715875948",
+          "contentName": "Marca06",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca01.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca07",
+          "contentClickAction": "None",
+          "contentId": "715875949",
+          "baseMarketingSpotActivityID": "715875949",
+          "contentName": "Marca07",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca02.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "7.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca08",
+          "contentClickAction": "None",
+          "contentId": "715875950",
+          "baseMarketingSpotActivityID": "715875950",
+          "contentName": "Marca08",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca03.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "8.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Marca09",
+          "contentClickAction": "None",
+          "contentId": "715875951",
+          "baseMarketingSpotActivityID": "715875951",
+          "contentName": "Marca09",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca04.png\" alt=\"marca&nbsp;2\"></a></p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "9.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15051"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://tsapp.b2cdev3auth.claro.com.co:5443/wcs/resources/store/15051/espot/Widget_clarob2b-content-carousel-widget_10576?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

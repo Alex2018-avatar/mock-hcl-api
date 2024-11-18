@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715840990",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715845597",
+      "behavior": "0",
+      "eSpotName": "EMS_ERROR_CUSTOMER_RECOVERYPASS_USER_NOT_REGISTERED",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "EMS_ERROR_CUSTOMER_RECOVERYPASS_USER_NOT_REGISTERED",
+          "contentClickAction": "None",
+          "contentId": "715840990",
+          "baseMarketingSpotActivityID": "715840990",
+          "contentName": "EMS_ERROR_CUSTOMER_RECOVERYPASS_USER_NOT_REGISTERED",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<b>¡Ups!,</b> parecé que algo salió mal, inténtalo nuevamente o si prefieres comunicate con nosotros a la línea en Bogotá (601)7457466 o déjanos tus datos dando clic en Aceptar.",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_CUSTOMER_RECOVERYPASS_USER_NOT_REGISTERED?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

@@ -1,0 +1,340 @@
+{
+  "recordSetCount": "33",
+  "resourceId": "https://www.b2cdev3auth.claro.com.co:5443/wcs/resources/store/15051/geonode/byParentGeoNode/715846884",
+  "GeoNode": [
+    {
+      "Description": [
+        {
+          "shortDescription": "AMAZONAS"
+        }
+      ],
+      "name": "CO-01",
+      "type": "DPTO",
+      "uniqueID": "715846885"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ANTIOQUIA"
+        }
+      ],
+      "name": "CO-02",
+      "type": "DPTO",
+      "uniqueID": "715846886"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ARAUCA"
+        }
+      ],
+      "name": "CO-03",
+      "type": "DPTO",
+      "uniqueID": "715846887"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ATLANTICO"
+        }
+      ],
+      "name": "CO-04",
+      "type": "DPTO",
+      "uniqueID": "715846888"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BOGOTA"
+        }
+      ],
+      "name": "CO-05",
+      "type": "DPTO",
+      "uniqueID": "715846889"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BOGOTA, D.C."
+        }
+      ],
+      "name": "CO-06",
+      "type": "DPTO",
+      "uniqueID": "715846890"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BOLIVAR"
+        }
+      ],
+      "name": "CO-07",
+      "type": "DPTO",
+      "uniqueID": "715846891"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BOYACA"
+        }
+      ],
+      "name": "CO-08",
+      "type": "DPTO",
+      "uniqueID": "715846892"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CALDAS"
+        }
+      ],
+      "name": "CO-09",
+      "type": "DPTO",
+      "uniqueID": "715846893"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAQUETA"
+        }
+      ],
+      "name": "CO-10",
+      "type": "DPTO",
+      "uniqueID": "715846894"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CASANARE"
+        }
+      ],
+      "name": "CO-11",
+      "type": "DPTO",
+      "uniqueID": "715846895"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAUCA"
+        }
+      ],
+      "name": "CO-12",
+      "type": "DPTO",
+      "uniqueID": "715846896"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CESAR"
+        }
+      ],
+      "name": "CO-13",
+      "type": "DPTO",
+      "uniqueID": "715846897"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CHOCO"
+        }
+      ],
+      "name": "CO-14",
+      "type": "DPTO",
+      "uniqueID": "715846898"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CORDOBA"
+        }
+      ],
+      "name": "CO-15",
+      "type": "DPTO",
+      "uniqueID": "715846899"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CUNDINAMARCA"
+        }
+      ],
+      "name": "CO-16",
+      "type": "DPTO",
+      "uniqueID": "715846900"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GUAINIA"
+        }
+      ],
+      "name": "CO-17",
+      "type": "DPTO",
+      "uniqueID": "715846901"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GUAVIARE"
+        }
+      ],
+      "name": "CO-18",
+      "type": "DPTO",
+      "uniqueID": "715846902"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "HUILA"
+        }
+      ],
+      "name": "CO-19",
+      "type": "DPTO",
+      "uniqueID": "715846903"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA GUAJIRA"
+        }
+      ],
+      "name": "CO-20",
+      "type": "DPTO",
+      "uniqueID": "715846904"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MAGDALENA"
+        }
+      ],
+      "name": "CO-21",
+      "type": "DPTO",
+      "uniqueID": "715846905"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "META"
+        }
+      ],
+      "name": "CO-22",
+      "type": "DPTO",
+      "uniqueID": "715846906"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "NARI\u00d1O"
+        }
+      ],
+      "name": "CO-23",
+      "type": "DPTO",
+      "uniqueID": "715846907"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "NORTE DE SANTANDER"
+        }
+      ],
+      "name": "CO-24",
+      "type": "DPTO",
+      "uniqueID": "715846908"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUTUMAYO"
+        }
+      ],
+      "name": "CO-25",
+      "type": "DPTO",
+      "uniqueID": "715846909"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "QUINDIO"
+        }
+      ],
+      "name": "CO-26",
+      "type": "DPTO",
+      "uniqueID": "715846910"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "RISARALDA"
+        }
+      ],
+      "name": "CO-27",
+      "type": "DPTO",
+      "uniqueID": "715846911"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN ANDRES"
+        }
+      ],
+      "name": "CO-28",
+      "type": "DPTO",
+      "uniqueID": "715846912"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTANDER"
+        }
+      ],
+      "name": "CO-29",
+      "type": "DPTO",
+      "uniqueID": "715846913"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SUCRE"
+        }
+      ],
+      "name": "CO-30",
+      "type": "DPTO",
+      "uniqueID": "715846914"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TOLIMA"
+        }
+      ],
+      "name": "CO-31",
+      "type": "DPTO",
+      "uniqueID": "715846915"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VALLE DEL CAUCA"
+        }
+      ],
+      "name": "CO-32",
+      "type": "DPTO",
+      "uniqueID": "715846916"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VICHADA"
+        }
+      ],
+      "name": "CO-33",
+      "type": "DPTO",
+      "uniqueID": "715846917"
+    }
+  ],
+  "recordSetStartNumber": "0",
+  "resourceName": "geonode",
+  "recordSetTotal": "33",
+  "recordSetComplete": "true"
+}

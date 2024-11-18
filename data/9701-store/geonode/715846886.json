@@ -1,0 +1,1510 @@
+{
+  "recordSetCount": "150",
+  "resourceId": "https://www.b2cdev3auth.claro.com.co:5443/wcs/resources/store/15051/geonode/byParentGeoNode/715846886",
+  "GeoNode": [
+    {
+      "Description": [
+        {
+          "shortDescription": "ABEJORRAL"
+        }
+      ],
+      "name": "CO-02-01",
+      "type": "CITY",
+      "uniqueID": "715846919"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ABRIAQUI"
+        }
+      ],
+      "name": "CO-02-02",
+      "type": "CITY",
+      "uniqueID": "715846920"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ALEJANDRIA"
+        }
+      ],
+      "name": "CO-02-03",
+      "type": "CITY",
+      "uniqueID": "715846921"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ALTAMIRA"
+        }
+      ],
+      "name": "CO-02-04",
+      "type": "CITY",
+      "uniqueID": "715846922"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "AMAGA"
+        }
+      ],
+      "name": "CO-02-05",
+      "type": "CITY",
+      "uniqueID": "715846923"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "AMALFI"
+        }
+      ],
+      "name": "CO-02-06",
+      "type": "CITY",
+      "uniqueID": "715846924"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ANDES"
+        }
+      ],
+      "name": "CO-02-07",
+      "type": "CITY",
+      "uniqueID": "715846925"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ANGELOPOLIS"
+        }
+      ],
+      "name": "CO-02-08",
+      "type": "CITY",
+      "uniqueID": "715846926"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ANGOSTURA"
+        }
+      ],
+      "name": "CO-02-09",
+      "type": "CITY",
+      "uniqueID": "715846927"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ANORI"
+        }
+      ],
+      "name": "CO-02-10",
+      "type": "CITY",
+      "uniqueID": "715846928"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ANZA"
+        }
+      ],
+      "name": "CO-02-11",
+      "type": "CITY",
+      "uniqueID": "715846929"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "APARTADO"
+        }
+      ],
+      "name": "CO-02-12",
+      "type": "CITY",
+      "uniqueID": "715846930"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ARBOLETES"
+        }
+      ],
+      "name": "CO-02-13",
+      "type": "CITY",
+      "uniqueID": "715846931"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ARMENIA MANTEQUILLA"
+        }
+      ],
+      "name": "CO-02-14",
+      "type": "CITY",
+      "uniqueID": "715846932"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BARBOSA"
+        }
+      ],
+      "name": "CO-02-15",
+      "type": "CITY",
+      "uniqueID": "715846933"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BELEN"
+        }
+      ],
+      "name": "CO-02-16",
+      "type": "CITY",
+      "uniqueID": "715846934"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BELLO"
+        }
+      ],
+      "name": "CO-02-17",
+      "type": "CITY",
+      "uniqueID": "715846935"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BELMIRA"
+        }
+      ],
+      "name": "CO-02-18",
+      "type": "CITY",
+      "uniqueID": "715846936"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BETANIA"
+        }
+      ],
+      "name": "CO-02-19",
+      "type": "CITY",
+      "uniqueID": "715846937"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BETULIA"
+        }
+      ],
+      "name": "CO-02-20",
+      "type": "CITY",
+      "uniqueID": "715846938"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BOLOMBOLO"
+        }
+      ],
+      "name": "CO-02-21",
+      "type": "CITY",
+      "uniqueID": "715846939"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BRICE\u00d1O"
+        }
+      ],
+      "name": "CO-02-22",
+      "type": "CITY",
+      "uniqueID": "715846940"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "BURITICA"
+        }
+      ],
+      "name": "CO-02-23",
+      "type": "CITY",
+      "uniqueID": "715846941"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CACERES"
+        }
+      ],
+      "name": "CO-02-24",
+      "type": "CITY",
+      "uniqueID": "715846942"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAICEDO"
+        }
+      ],
+      "name": "CO-02-25",
+      "type": "CITY",
+      "uniqueID": "715846943"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CALDAS"
+        }
+      ],
+      "name": "CO-02-26",
+      "type": "CITY",
+      "uniqueID": "715846944"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAMPAMENTO"
+        }
+      ],
+      "name": "CO-02-27",
+      "type": "CITY",
+      "uniqueID": "715846945"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CA\u00d1ASGORDAS"
+        }
+      ],
+      "name": "CO-02-28",
+      "type": "CITY",
+      "uniqueID": "715846946"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CARACOLI"
+        }
+      ],
+      "name": "CO-02-29",
+      "type": "CITY",
+      "uniqueID": "715846947"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CARAMANTA"
+        }
+      ],
+      "name": "CO-02-30",
+      "type": "CITY",
+      "uniqueID": "715846948"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAREPA"
+        }
+      ],
+      "name": "CO-02-31",
+      "type": "CITY",
+      "uniqueID": "715846949"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CARMEN DE VIBORAL"
+        }
+      ],
+      "name": "CO-02-32",
+      "type": "CITY",
+      "uniqueID": "715846950"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAROLINA DEL PRINCIPE"
+        }
+      ],
+      "name": "CO-02-33",
+      "type": "CITY",
+      "uniqueID": "715846951"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CAUCASIA"
+        }
+      ],
+      "name": "CO-02-34",
+      "type": "CITY",
+      "uniqueID": "715846952"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CHIGORODO"
+        }
+      ],
+      "name": "CO-02-35",
+      "type": "CITY",
+      "uniqueID": "715846953"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CISNEROS"
+        }
+      ],
+      "name": "CO-02-36",
+      "type": "CITY",
+      "uniqueID": "715846954"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CIUDAD BOLIVAR"
+        }
+      ],
+      "name": "CO-02-37",
+      "type": "CITY",
+      "uniqueID": "715846955"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "COCORNA"
+        }
+      ],
+      "name": "CO-02-38",
+      "type": "CITY",
+      "uniqueID": "715846956"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CONCEPCION"
+        }
+      ],
+      "name": "CO-02-39",
+      "type": "CITY",
+      "uniqueID": "715846957"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CONCORDIA"
+        }
+      ],
+      "name": "CO-02-40",
+      "type": "CITY",
+      "uniqueID": "715846958"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "COPACABANA"
+        }
+      ],
+      "name": "CO-02-41",
+      "type": "CITY",
+      "uniqueID": "715846959"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CURITI"
+        }
+      ],
+      "name": "CO-02-42",
+      "type": "CITY",
+      "uniqueID": "715846960"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "CURRULAO"
+        }
+      ],
+      "name": "CO-02-43",
+      "type": "CITY",
+      "uniqueID": "715846961"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "DABEIBA"
+        }
+      ],
+      "name": "CO-02-44",
+      "type": "CITY",
+      "uniqueID": "715846962"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "DON MATIAS"
+        }
+      ],
+      "name": "CO-02-45",
+      "type": "CITY",
+      "uniqueID": "715846963"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "DORADAL"
+        }
+      ],
+      "name": "CO-02-46",
+      "type": "CITY",
+      "uniqueID": "715846964"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EBEJICO"
+        }
+      ],
+      "name": "CO-02-47",
+      "type": "CITY",
+      "uniqueID": "715846965"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL BAGRE"
+        }
+      ],
+      "name": "CO-02-48",
+      "type": "CITY",
+      "uniqueID": "715846966"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL PE\u00d1OL"
+        }
+      ],
+      "name": "CO-02-49",
+      "type": "CITY",
+      "uniqueID": "715846967"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL REPOSO ZONA URABA"
+        }
+      ],
+      "name": "CO-02-50",
+      "type": "CITY",
+      "uniqueID": "715846968"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL RETIRO"
+        }
+      ],
+      "name": "CO-02-51",
+      "type": "CITY",
+      "uniqueID": "715846969"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL TOTUMO"
+        }
+      ],
+      "name": "CO-02-52",
+      "type": "CITY",
+      "uniqueID": "715846970"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL TOTUMO ZONA URABA"
+        }
+      ],
+      "name": "CO-02-53",
+      "type": "CITY",
+      "uniqueID": "715846971"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "EL TRES ZONA URABA"
+        }
+      ],
+      "name": "CO-02-54",
+      "type": "CITY",
+      "uniqueID": "715846972"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ENTRERRIOS"
+        }
+      ],
+      "name": "CO-02-55",
+      "type": "CITY",
+      "uniqueID": "715846973"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ENVIGADO"
+        }
+      ],
+      "name": "CO-02-56",
+      "type": "CITY",
+      "uniqueID": "715846974"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "FREDONIA"
+        }
+      ],
+      "name": "CO-02-57",
+      "type": "CITY",
+      "uniqueID": "715846975"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "FRONTINO"
+        }
+      ],
+      "name": "CO-02-58",
+      "type": "CITY",
+      "uniqueID": "715846976"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GIRALDO"
+        }
+      ],
+      "name": "CO-02-59",
+      "type": "CITY",
+      "uniqueID": "715846977"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GIRARDOTA"
+        }
+      ],
+      "name": "CO-02-60",
+      "type": "CITY",
+      "uniqueID": "715846978"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GOMEZ PLATA"
+        }
+      ],
+      "name": "CO-02-61",
+      "type": "CITY",
+      "uniqueID": "715846979"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GRANADA"
+        }
+      ],
+      "name": "CO-02-62",
+      "type": "CITY",
+      "uniqueID": "715846980"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GUADALUPE"
+        }
+      ],
+      "name": "CO-02-63",
+      "type": "CITY",
+      "uniqueID": "715846981"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GUARNE"
+        }
+      ],
+      "name": "CO-02-64",
+      "type": "CITY",
+      "uniqueID": "715846982"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "GUATAPE"
+        }
+      ],
+      "name": "CO-02-65",
+      "type": "CITY",
+      "uniqueID": "715846983"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "HELICONIA"
+        }
+      ],
+      "name": "CO-02-66",
+      "type": "CITY",
+      "uniqueID": "715846984"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "HISPANIA"
+        }
+      ],
+      "name": "CO-02-67",
+      "type": "CITY",
+      "uniqueID": "715846985"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ITAGUI"
+        }
+      ],
+      "name": "CO-02-68",
+      "type": "CITY",
+      "uniqueID": "715846986"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ITUANGO"
+        }
+      ],
+      "name": "CO-02-69",
+      "type": "CITY",
+      "uniqueID": "715846987"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "JARDIN"
+        }
+      ],
+      "name": "CO-02-70",
+      "type": "CITY",
+      "uniqueID": "715846988"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "JERICO"
+        }
+      ],
+      "name": "CO-02-71",
+      "type": "CITY",
+      "uniqueID": "715846989"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA CEJA"
+        }
+      ],
+      "name": "CO-02-72",
+      "type": "CITY",
+      "uniqueID": "715846990"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA CRUZADA"
+        }
+      ],
+      "name": "CO-02-73",
+      "type": "CITY",
+      "uniqueID": "715846991"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA ESTRELLA"
+        }
+      ],
+      "name": "CO-02-74",
+      "type": "CITY",
+      "uniqueID": "715846992"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA PINTADA"
+        }
+      ],
+      "name": "CO-02-75",
+      "type": "CITY",
+      "uniqueID": "715846993"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA PLATA"
+        }
+      ],
+      "name": "CO-02-76",
+      "type": "CITY",
+      "uniqueID": "715846994"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA SIERRA"
+        }
+      ],
+      "name": "CO-02-77",
+      "type": "CITY",
+      "uniqueID": "715846995"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA TABLAZA"
+        }
+      ],
+      "name": "CO-02-78",
+      "type": "CITY",
+      "uniqueID": "715846996"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LA UNION"
+        }
+      ],
+      "name": "CO-02-79",
+      "type": "CITY",
+      "uniqueID": "715846997"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "LIBORINA"
+        }
+      ],
+      "name": "CO-02-80",
+      "type": "CITY",
+      "uniqueID": "715846998"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MACEO"
+        }
+      ],
+      "name": "CO-02-81",
+      "type": "CITY",
+      "uniqueID": "715846999"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MARINILLA"
+        }
+      ],
+      "name": "CO-02-82",
+      "type": "CITY",
+      "uniqueID": "715847000"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MARSELLA"
+        }
+      ],
+      "name": "CO-02-83",
+      "type": "CITY",
+      "uniqueID": "715847001"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MEDELLIN"
+        }
+      ],
+      "name": "CO-02-84",
+      "type": "CITY",
+      "uniqueID": "715847002"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MONTEBELLO"
+        }
+      ],
+      "name": "CO-02-85",
+      "type": "CITY",
+      "uniqueID": "715847003"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "MUTATA"
+        }
+      ],
+      "name": "CO-02-86",
+      "type": "CITY",
+      "uniqueID": "715847004"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "NARI\u00d1O"
+        }
+      ],
+      "name": "CO-02-87",
+      "type": "CITY",
+      "uniqueID": "715847005"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "NECOCLI"
+        }
+      ],
+      "name": "CO-02-88",
+      "type": "CITY",
+      "uniqueID": "715847006"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "NUEVA COLONIA ZONA URABA"
+        }
+      ],
+      "name": "CO-02-89",
+      "type": "CITY",
+      "uniqueID": "715847007"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "OLAYA"
+        }
+      ],
+      "name": "CO-02-90",
+      "type": "CITY",
+      "uniqueID": "715847008"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PALERMO"
+        }
+      ],
+      "name": "CO-02-91",
+      "type": "CITY",
+      "uniqueID": "715847009"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PALMITAS"
+        }
+      ],
+      "name": "CO-02-92",
+      "type": "CITY",
+      "uniqueID": "715847010"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PEQUE"
+        }
+      ],
+      "name": "CO-02-93",
+      "type": "CITY",
+      "uniqueID": "715847011"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUEBLORRICO"
+        }
+      ],
+      "name": "CO-02-94",
+      "type": "CITY",
+      "uniqueID": "715847012"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUERTO BERRIO"
+        }
+      ],
+      "name": "CO-02-95",
+      "type": "CITY",
+      "uniqueID": "715847013"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUERTO COLOMBIA"
+        }
+      ],
+      "name": "CO-02-96",
+      "type": "CITY",
+      "uniqueID": "715847014"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUERTO NARE"
+        }
+      ],
+      "name": "CO-02-97",
+      "type": "CITY",
+      "uniqueID": "715847015"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUERTO TRIUNFO"
+        }
+      ],
+      "name": "CO-02-98",
+      "type": "CITY",
+      "uniqueID": "715847016"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "PUERTO VALDIVIA"
+        }
+      ],
+      "name": "CO-02-99",
+      "type": "CITY",
+      "uniqueID": "715847017"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "REMEDIOS"
+        }
+      ],
+      "name": "CO-02-100",
+      "type": "CITY",
+      "uniqueID": "715847018"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "RIONEGRO"
+        }
+      ],
+      "name": "CO-02-101",
+      "type": "CITY",
+      "uniqueID": "715847019"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SABANALARGA"
+        }
+      ],
+      "name": "CO-02-102",
+      "type": "CITY",
+      "uniqueID": "715847020"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SABANETA"
+        }
+      ],
+      "name": "CO-02-103",
+      "type": "CITY",
+      "uniqueID": "715847021"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SALGAR"
+        }
+      ],
+      "name": "CO-02-104",
+      "type": "CITY",
+      "uniqueID": "715847022"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN ANDRES DE CUERQUIA"
+        }
+      ],
+      "name": "CO-02-105",
+      "type": "CITY",
+      "uniqueID": "715847023"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN ANTONIO DE PEREIRA"
+        }
+      ],
+      "name": "CO-02-106",
+      "type": "CITY",
+      "uniqueID": "715847024"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN ANTONIO DE PRADO"
+        }
+      ],
+      "name": "CO-02-107",
+      "type": "CITY",
+      "uniqueID": "715847025"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN CARLOS"
+        }
+      ],
+      "name": "CO-02-108",
+      "type": "CITY",
+      "uniqueID": "715847026"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN CRISTOBAL"
+        }
+      ],
+      "name": "CO-02-109",
+      "type": "CITY",
+      "uniqueID": "715847027"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN DIEGO"
+        }
+      ],
+      "name": "CO-02-110",
+      "type": "CITY",
+      "uniqueID": "715847028"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN FRANCISCO"
+        }
+      ],
+      "name": "CO-02-111",
+      "type": "CITY",
+      "uniqueID": "715847029"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN JERONIMO"
+        }
+      ],
+      "name": "CO-02-112",
+      "type": "CITY",
+      "uniqueID": "715847030"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN JOSE DE LA MONTA\u00d1A"
+        }
+      ],
+      "name": "CO-02-113",
+      "type": "CITY",
+      "uniqueID": "715847031"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN JOSE DEL NUS"
+        }
+      ],
+      "name": "CO-02-114",
+      "type": "CITY",
+      "uniqueID": "715847032"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN JUAN DE URABA"
+        }
+      ],
+      "name": "CO-02-115",
+      "type": "CITY",
+      "uniqueID": "715847033"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN LUIS"
+        }
+      ],
+      "name": "CO-02-116",
+      "type": "CITY",
+      "uniqueID": "715847034"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN PEDRO DE LOS MILAGROS"
+        }
+      ],
+      "name": "CO-02-117",
+      "type": "CITY",
+      "uniqueID": "715847035"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN PEDRO DE URABA"
+        }
+      ],
+      "name": "CO-02-118",
+      "type": "CITY",
+      "uniqueID": "715847036"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN RAFAEL"
+        }
+      ],
+      "name": "CO-02-119",
+      "type": "CITY",
+      "uniqueID": "715847037"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN ROQUE"
+        }
+      ],
+      "name": "CO-02-120",
+      "type": "CITY",
+      "uniqueID": "715847038"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SAN VICENTE"
+        }
+      ],
+      "name": "CO-02-121",
+      "type": "CITY",
+      "uniqueID": "715847039"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTA BARBARA"
+        }
+      ],
+      "name": "CO-02-122",
+      "type": "CITY",
+      "uniqueID": "715847040"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTA ELENA"
+        }
+      ],
+      "name": "CO-02-123",
+      "type": "CITY",
+      "uniqueID": "715847041"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTA ISABEL"
+        }
+      ],
+      "name": "CO-02-124",
+      "type": "CITY",
+      "uniqueID": "715847042"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTA ROSA DE OSOS"
+        }
+      ],
+      "name": "CO-02-125",
+      "type": "CITY",
+      "uniqueID": "715847043"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTAFE DE ANTIOQUIA"
+        }
+      ],
+      "name": "CO-02-126",
+      "type": "CITY",
+      "uniqueID": "715847044"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTIAGO"
+        }
+      ],
+      "name": "CO-02-127",
+      "type": "CITY",
+      "uniqueID": "715847045"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTO DOMINGO"
+        }
+      ],
+      "name": "CO-02-128",
+      "type": "CITY",
+      "uniqueID": "715847046"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SANTUARIO"
+        }
+      ],
+      "name": "CO-02-129",
+      "type": "CITY",
+      "uniqueID": "715847047"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SEGOVIA"
+        }
+      ],
+      "name": "CO-02-130",
+      "type": "CITY",
+      "uniqueID": "715847048"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SEVILLA"
+        }
+      ],
+      "name": "CO-02-131",
+      "type": "CITY",
+      "uniqueID": "715847049"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SONSON"
+        }
+      ],
+      "name": "CO-02-132",
+      "type": "CITY",
+      "uniqueID": "715847050"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "SOPETRAN"
+        }
+      ],
+      "name": "CO-02-133",
+      "type": "CITY",
+      "uniqueID": "715847051"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TAMESIS"
+        }
+      ],
+      "name": "CO-02-134",
+      "type": "CITY",
+      "uniqueID": "715847052"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TARAZA"
+        }
+      ],
+      "name": "CO-02-135",
+      "type": "CITY",
+      "uniqueID": "715847053"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TARSO"
+        }
+      ],
+      "name": "CO-02-136",
+      "type": "CITY",
+      "uniqueID": "715847054"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TITIRIBI"
+        }
+      ],
+      "name": "CO-02-137",
+      "type": "CITY",
+      "uniqueID": "715847055"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TOLEDO"
+        }
+      ],
+      "name": "CO-02-138",
+      "type": "CITY",
+      "uniqueID": "715847056"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "TURBO"
+        }
+      ],
+      "name": "CO-02-139",
+      "type": "CITY",
+      "uniqueID": "715847057"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "URRAO"
+        }
+      ],
+      "name": "CO-02-140",
+      "type": "CITY",
+      "uniqueID": "715847058"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VALDIVIA"
+        }
+      ],
+      "name": "CO-02-141",
+      "type": "CITY",
+      "uniqueID": "715847059"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VALPARAISO"
+        }
+      ],
+      "name": "CO-02-142",
+      "type": "CITY",
+      "uniqueID": "715847060"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VEGACHI"
+        }
+      ],
+      "name": "CO-02-143",
+      "type": "CITY",
+      "uniqueID": "715847061"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VENECIA"
+        }
+      ],
+      "name": "CO-02-144",
+      "type": "CITY",
+      "uniqueID": "715847062"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "VERSALLES"
+        }
+      ],
+      "name": "CO-02-145",
+      "type": "CITY",
+      "uniqueID": "715847063"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "YALI"
+        }
+      ],
+      "name": "CO-02-146",
+      "type": "CITY",
+      "uniqueID": "715847064"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "YARUMAL"
+        }
+      ],
+      "name": "CO-02-147",
+      "type": "CITY",
+      "uniqueID": "715847065"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "YOLOMBO"
+        }
+      ],
+      "name": "CO-02-148",
+      "type": "CITY",
+      "uniqueID": "715847066"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "YONDO"
+        }
+      ],
+      "name": "CO-02-149",
+      "type": "CITY",
+      "uniqueID": "715847067"
+    },
+    {
+      "Description": [
+        {
+          "shortDescription": "ZARAGOZA"
+        }
+      ],
+      "name": "CO-02-150",
+      "type": "CITY",
+      "uniqueID": "715847068"
+    }
+  ],
+  "recordSetStartNumber": "0",
+  "resourceName": "geonode",
+  "recordSetTotal": "150",
+  "recordSetComplete": "true"
+}
