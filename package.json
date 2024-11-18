@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node --watch index.js",
-    "load:ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems.js"
+    "load:ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems.js",
+    "load:b2b-ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems-b2b.js"
   },
   "keywords": [],
   "author": "",

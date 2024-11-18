@@ -1,0 +1,184 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "3074457345616691668",
+          "resultFormat": "Category",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "3074457345616691670",
+          "resultFormat": "Category",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "3074457345616691671",
+          "resultFormat": "Category",
+          "displaySequence": "5.0"
+        },
+        {
+          "resultId": "3074457345616691672",
+          "resultFormat": "Category",
+          "displaySequence": "6.0"
+        },
+        {
+          "resultId": "3074457345616691674",
+          "resultFormat": "Category",
+          "displaySequence": "7.0"
+        },
+        {
+          "resultId": "3074457345616691669",
+          "resultFormat": "Category",
+          "displaySequence": "8.0"
+        },
+        {
+          "resultId": "3074457345616690668",
+          "resultFormat": "Category",
+          "displaySequence": "8.0"
+        },
+        {
+          "resultId": "3074457345616691673",
+          "resultFormat": "Category",
+          "displaySequence": "9.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715883994",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2b-category-recommendation-widget_11055",
+      "baseMarketingSpotActivityData": [
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691668",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691668"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691670",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691670"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691671",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "5.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691671"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691672",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691672"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691674",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "7.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691674"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691669",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "8.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691669"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616690668",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "8.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616690668"
+        },
+        {
+          "baseMarketingSpotDataType": "Category",
+          "baseMarketingSpotActivityName": "3074457345616691673",
+          "activityIdentifierID": "0",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "9.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "baseMarketingSpotActivityID": "3074457345616691673"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://tsapp.b2cdev3auth.claro.com.co:5443/wcs/resources/store/15051/espot/Widget_clarob2b-category-recommendation-widget_11055?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

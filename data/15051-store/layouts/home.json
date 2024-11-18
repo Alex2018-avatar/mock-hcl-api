@@ -177,6 +177,22 @@
             ]
           },
           {
+            "id": "8",
+            "widgets": [
+              {
+                "id": "10575",
+                "name": "Atención al Cliente y Soporte",
+                "widgetName": "content-recommendation-widget",
+                "sequence": 1.0,
+                "properties": {
+                  "emsName": "Widget_content-recommendation-widget_10575",
+                  "emsId": "715882501",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          },
+          {
             "id": "9",
             "widgets": [
               {
