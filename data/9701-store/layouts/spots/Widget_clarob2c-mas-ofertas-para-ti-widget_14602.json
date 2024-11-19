@@ -4,7 +4,7 @@
       "nextTimeLimit": "-1",
       "defaultContentDisplaySequence": [
         {
-          "resultId": "10001",
+          "resultId": "3074457345617889169",
           "resultFormat": "CatalogEntry",
           "displaySequence": "1.0"
         },
@@ -60,7 +60,7 @@
       "baseMarketingSpotActivityData": [
         {
           "baseMarketingSpotActivityName": "Nokia 215 4G",
-          "productId": "10001",
+          "productId": "3074457345617889169",
           "description": [
             {
               "longDescription": "Nokia 215 4G",
@@ -74,9 +74,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "239900.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10001",
+          "baseMarketingSpotActivityID": "3074457345617889169",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70038158P",
+          "productPartNumber": "PO_Equ70058702P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [

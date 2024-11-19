@@ -9,3 +9,4 @@ export const productsMap = productsMapData.reduce((map, product) => {
 export const getProductByIdOrPartNumber = (query) => {
   return productsMap[query] || null;
 };
+export const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
