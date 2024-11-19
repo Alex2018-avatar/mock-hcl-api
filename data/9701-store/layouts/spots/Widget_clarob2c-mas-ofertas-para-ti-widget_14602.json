@@ -9,32 +9,32 @@
           "displaySequence": "1.0"
         },
         {
-          "resultId": "10003",
+          "resultId": "3074457345617885668",
           "resultFormat": "CatalogEntry",
           "displaySequence": "2.0"
         },
         {
-          "resultId": "10005",
+          "resultId": "3074457345617899176",
           "resultFormat": "CatalogEntry",
           "displaySequence": "3.0"
         },
         {
-          "resultId": "10051",
+          "resultId": "3074457345617886669",
           "resultFormat": "CatalogEntry",
           "displaySequence": "4.0"
         },
         {
-          "resultId": "10053",
+          "resultId": "3074457345617883668",
           "resultFormat": "CatalogEntry",
           "displaySequence": "5.0"
         },
         {
-          "resultId": "10055",
+          "resultId": "3074457345617895169",
           "resultFormat": "CatalogEntry",
           "displaySequence": "6.0"
         },
         {
-          "resultId": "10057",
+          "resultId": "3074457345616817089",
           "resultFormat": "CatalogEntry",
           "displaySequence": "7.0"
         },
@@ -113,7 +113,7 @@
         },
         {
           "baseMarketingSpotActivityName": "HUA NOVA10PRO256G PL",
-          "productId": "10003",
+          "productId": "3074457345617885668",
           "description": [
             {
               "longDescription": "HUA NOVA10PRO256G PL",
@@ -127,9 +127,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "1498900.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10003",
+          "baseMarketingSpotActivityID": "3074457345617885668",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70049663P",
+          "productPartNumber": "PO_Equ70055299P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [
@@ -166,7 +166,7 @@
         },
         {
           "baseMarketingSpotActivityName": "HOR X9 128GB NG AUDKODP200",
-          "productId": "10005",
+          "productId": "3074457345617899176",
           "description": [
             {
               "longDescription": "HOR X9 128GB NG AUDKODP200",
@@ -180,9 +180,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "1783691.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10005",
+          "baseMarketingSpotActivityID": "3074457345617899176",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70050844P",
+          "productPartNumber": "PO_Equ70060041P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [
@@ -219,7 +219,7 @@
         },
         {
           "baseMarketingSpotActivityName": "Samsung Galaxy A21S 128 GB",
-          "productId": "10051",
+          "productId": "3074457345617886669",
           "description": [
             {
               "longDescription": "Samsung Galaxy A21S 128 GB",
@@ -233,9 +233,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "780000.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10051",
+          "baseMarketingSpotActivityID": "3074457345617886669",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70036676P",
+          "productPartNumber": "PO_Equ70059283P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [
@@ -272,7 +272,7 @@
         },
         {
           "baseMarketingSpotActivityName": "Vivo Y51 128Gb Cristal",
-          "productId": "10053",
+          "productId": "3074457345617883668",
           "description": [
             {
               "longDescription": "Vivo Y51 128Gb Cristal",
@@ -286,9 +286,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "780000.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10053",
+          "baseMarketingSpotActivityID": "3074457345617883668",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70038567P",
+          "productPartNumber": "PO_Equ70057205P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [
@@ -325,7 +325,7 @@
         },
         {
           "baseMarketingSpotActivityName": "Xiaomi Redmi Note 10 128 GB 5G Gis",
-          "productId": "10055",
+          "productId": "3074457345617895169",
           "description": [
             {
               "longDescription": "Xiaomi Redmi Note 10 128 GB 5G Gis",
@@ -339,9 +339,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "780000.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10055",
+          "baseMarketingSpotActivityID": "3074457345617895169",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70039566P",
+          "productPartNumber": "PO_Equ70060615P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [
@@ -378,7 +378,7 @@
         },
         {
           "baseMarketingSpotActivityName": "Motorola Moto G20 64 GB Azul",
-          "productId": "10057",
+          "productId": "3074457345616817089",
           "description": [
             {
               "longDescription": "Motorola Moto G20 64 GB Azul",
@@ -392,9 +392,9 @@
           "listPriceCurrency": "COP",
           "standardPrice": "780000.00",
           "ownerID": "7333333333333333435",
-          "baseMarketingSpotActivityID": "10057",
+          "baseMarketingSpotActivityID": "3074457345616817089",
           "baseMarketingSpotDataType": "CatalogEntry",
-          "productPartNumber": "PO_Equ70038877P",
+          "productPartNumber": "PO_Equ70055579P",
           "activityIdentifierID": "0",
           "standardPriceCurrency": "COP",
           "contractPrice": [

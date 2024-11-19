@@ -6,20 +6,20 @@
     {
       "hasSingleSKU": false,
       "buyable": "true",
-      "resourceId": "https://search.b2cprodlive.claro.com.co/search/resources/api/v2/products?productId=3074457345617889169&storeId=1&catalogId=3074457345616678668&currency=COP&langId=-1",
-      "name": "HUAWEI NOVA 12S 256GB 4G",
-      "shortDescription": "HUAWEI NOVA 12S 256GB 4G",
-      "manufacturer": "HUAWEI",
-      "longDescription": "HUAWEI NOVA 12S 256GB 4G",
-      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
-      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
+      "resourceId": "https://search.b2cprodlive.claro.com.co/search/resources/api/v2/products?productId=3074457345617899176&storeId=1&catalogId=3074457345616678668&currency=COP&langId=-1",
+      "name": "HONOR X8B 512GB 4G",
+      "shortDescription": "HONOR X8B 512GB 4G",
+      "manufacturer": "HONOR",
+      "longDescription": "HONOR X8B 512GB 4G",
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
       "seo": {
-        "href": "/huawei-nova-12s-256gb-4g"
+        "href": "/honor-x8b-512gb-4g"
       },
-      "partNumber": "PO_Equ70058702P",
+      "partNumber": "PO_Equ70060041P",
       "storeID": "1",
-      "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
-      "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
+      "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
       "parentCatalogGroupID": [
         "/3074457345616680168/3074457345616680171",
         "/3074457345616680168/3074457345616680170",
@@ -32,51 +32,29 @@
           "usage": "Display",
           "description": "L",
           "currency": "COP",
-          "value": "1699900.0"
+          "value": "1399900.0"
         },
         {
           "usage": "Offer",
           "contractId": "10005",
           "description": "I",
           "currency": "COP",
-          "value": "1599900.0"
+          "value": "1299900.0"
         }
       ],
       "numberOfSKUs": 2,
       "attributes": [
-        {
-          "identifier": "CODIGO_DE_COLOR_HEXADECIMAL",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "unitID": "PULGADASFFFFFF",
-              "id": "7741124012284720341",
-              "value": "PULGADASFFFFFF"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "CODIGO DE COLOR HEXADECIMAL",
-          "facetable": "false",
-          "id": "7741124012283341341",
-          "comparable": "true",
-          "swatchable": "false"
-        },
         {
           "identifier": "SOPORTA_CARGA_RAPIDA_WATTS",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "66W",
-              "id": "7741124012284720366",
-              "value": "66W"
+              "unitID": "35W",
+              "id": "7741124012284730492",
+              "value": "35W"
             }
           ],
           "displayable": "false",
@@ -89,24 +67,24 @@
           "swatchable": "false"
         },
         {
-          "identifier": "CONECTIVIDAD",
+          "identifier": "CODIGO_DE_COLOR_HEXADECIMAL",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "USB",
-              "id": "7741124012284720342",
-              "value": "BLUETOOTH - WIFI - GPS - USB"
+              "unitID": "PULGADASBEBEBE",
+              "id": "7741124012284730467",
+              "value": "PULGADASBEBEBE"
             }
           ],
           "displayable": "false",
           "searchable": "false",
           "sequence": "1.0",
-          "name": "CONECTIVIDAD",
+          "name": "CODIGO DE COLOR HEXADECIMAL",
           "facetable": "false",
-          "id": "7741124012283341342",
+          "id": "7741124012283341341",
           "comparable": "true",
           "swatchable": "false"
         },
@@ -116,10 +94,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "NO",
-              "id": "7741124012284720367",
+              "id": "7741124012284730493",
               "value": "NO"
             }
           ],
@@ -133,16 +111,38 @@
           "swatchable": "false"
         },
         {
+          "identifier": "CONECTIVIDAD",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitID": "USB",
+              "id": "7741124012284730468",
+              "value": "BLUETOOTH - WIFI - GPS - USB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "CONECTIVIDAD",
+          "facetable": "false",
+          "id": "7741124012283341342",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
           "identifier": "SISTEMA_OPERATIVO",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "EMUI",
-              "id": "7741124012284720364",
-              "value": "EMUI"
+              "unitID": "ANDROID",
+              "id": "7741124012284730490",
+              "value": "ANDROID"
             }
           ],
           "displayable": "false",
@@ -155,37 +155,15 @@
           "swatchable": "false"
         },
         {
-          "identifier": "CLASIFICACION",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "unitID": "second",
-              "id": "7741124012284720340",
-              "value": "HUAWEI NOVA 12S 256GB"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "CLASIFICACION",
-          "facetable": "false",
-          "id": "7741124012283341340",
-          "comparable": "true",
-          "swatchable": "false"
-        },
-        {
           "identifier": "SOPORTA_CARGA_INALAMBRICA",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "NO",
-              "id": "7741124012284720365",
+              "id": "7741124012284730491",
               "value": "NO"
             }
           ],
@@ -199,24 +177,24 @@
           "swatchable": "false"
         },
         {
-          "identifier": "GAMA",
+          "identifier": "CLASIFICACION",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "ALTA",
-              "id": "7741124012284720345",
-              "value": "ALTA"
+              "unitID": "512GB",
+              "id": "7741124012284730466",
+              "value": "HONOR X8B 512GB"
             }
           ],
           "displayable": "false",
           "searchable": "false",
           "sequence": "1.0",
-          "name": "GAMA",
+          "name": "CLASIFICACION",
           "facetable": "false",
-          "id": "7741124012283341345",
+          "id": "7741124012283341340",
           "comparable": "true",
           "swatchable": "false"
         },
@@ -226,10 +204,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "4G",
-              "id": "7741124012284720370",
+              "id": "7741124012284730496",
               "value": "2G - 3G - 4G"
             }
           ],
@@ -243,23 +221,24 @@
           "swatchable": "false"
         },
         {
-          "identifier": "GARANTIA_MESES",
+          "identifier": "GAMA",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "id": "7741124012284720346",
-              "value": "12"
+              "unitID": "ALTA",
+              "id": "7741124012284730471",
+              "value": "ALTA"
             }
           ],
           "displayable": "false",
           "searchable": "false",
           "sequence": "1.0",
-          "name": "GARANTIA MESES",
+          "name": "GAMA",
           "facetable": "false",
-          "id": "7741124012283341346",
+          "id": "7741124012283341345",
           "comparable": "true",
           "swatchable": "false"
         },
@@ -269,10 +248,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "SMARTPHONE",
-              "id": "7741124012284720372",
+              "id": "7741124012284730498",
               "value": "SMARTPHONE"
             }
           ],
@@ -286,25 +265,23 @@
           "swatchable": "false"
         },
         {
-          "identifier": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+          "identifier": "GARANTIA_MESES",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitOfMeasure": " ",
-              "unitID": ".",
-              "id": "7741124012284720343",
-              "value": "161.29 X 74.96 X 6.88"
+              "id": "7741124012284730472",
+              "value": "12"
             }
           ],
           "displayable": "false",
           "searchable": "false",
           "sequence": "1.0",
-          "name": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+          "name": "GARANTIA MESES",
           "facetable": "false",
-          "id": "7741124012283341343",
+          "id": "7741124012283341346",
           "comparable": "true",
           "swatchable": "false"
         },
@@ -314,9 +291,9 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "id": "7741124012284720368",
+              "id": "7741124012284730494",
               "value": "6.7"
             }
           ],
@@ -330,15 +307,60 @@
           "swatchable": "false"
         },
         {
+          "identifier": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitOfMeasure": " ",
+              "unitID": ".",
+              "id": "7741124012284730469",
+              "value": "161.05 X 74.55 X 6.78"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+          "facetable": "false",
+          "id": "7741124012283341343",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TASA_DE_REFRESCO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitID": "90HZ",
+              "id": "7741124012284730495",
+              "value": "90HZ"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "TASA DE REFRESCO",
+          "facetable": "false",
+          "id": "7741124012283341366",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
           "identifier": "DUAL_SIM",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "NO",
-              "id": "7741124012284720344",
+              "id": "7741124012284730470",
               "value": "NO"
             }
           ],
@@ -352,37 +374,15 @@
           "swatchable": "false"
         },
         {
-          "identifier": "TASA_DE_REFRESCO",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "unitID": "120HZ",
-              "id": "7741124012284720369",
-              "value": "120HZ"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "TASA DE REFRESCO",
-          "facetable": "false",
-          "id": "7741124012283341366",
-          "comparable": "true",
-          "swatchable": "false"
-        },
-        {
           "identifier": "MEMORIA_RAM",
           "attribute.natural": "[\"8GB\"]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "8GB",
-              "id": "7741124012284720353",
+              "id": "7741124012284730479",
               "value": "8GB"
             }
           ],
@@ -401,10 +401,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "QUALCOMM",
-              "id": "7741124012284720349",
+              "id": "7741124012284730475",
               "value": "QUALCOMM"
             }
           ],
@@ -418,37 +418,15 @@
           "swatchable": "false"
         },
         {
-          "identifier": "INCLUYE_CARGADOR_CARGA_RAPIDA",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "unitID": "SI",
-              "id": "7741124012284720347",
-              "value": "SI"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "INCLUYE CARGADOR CARGA RAPIDA",
-          "facetable": "false",
-          "id": "7741124012283341347",
-          "comparable": "true",
-          "swatchable": "false"
-        },
-        {
           "identifier": "TIPO_DE_SIM",
           "attribute.natural": "[\"SIM CARD\"]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "CARD",
-              "id": "7741124012284720373",
+              "id": "7741124012284730499",
               "value": "SIM CARD"
             }
           ],
@@ -462,15 +440,37 @@
           "swatchable": "false"
         },
         {
+          "identifier": "INCLUYE_CARGADOR_CARGA_RAPIDA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitID": "SI",
+              "id": "7741124012284730473",
+              "value": "SI"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "INCLUYE CARGADOR CARGA RAPIDA",
+          "facetable": "false",
+          "id": "7741124012283341347",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
           "identifier": "LINEA_DE_PRODUCTO",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "INTRODUCCION",
-              "id": "7741124012284720348",
+              "id": "7741124012284730474",
               "value": "INTRODUCCION"
             }
           ],
@@ -489,11 +489,11 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "4K",
-              "id": "7741124012284720363",
-              "value": "4K"
+              "unitID": "1080P",
+              "id": "7741124012284730489",
+              "value": "1080P"
             }
           ],
           "displayable": "false",
@@ -511,11 +511,11 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "778G",
-              "id": "7741124012284720354",
-              "value": "SNAPDRAGON 778G"
+              "unitID": "SNAPDRAGON",
+              "id": "7741124012284730480",
+              "value": "SNAPDRAGON 680"
             }
           ],
           "displayable": "false",
@@ -529,15 +529,15 @@
         },
         {
           "identifier": "MPX_CAMARA_PRINCIPAL",
-          "attribute.natural": "[\"50 MPX + 8 MPX\"]",
+          "attribute.natural": "[\"108 MPX + 5 MPX + 2 MPX\"]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "MPX",
-              "id": "7741124012284720355",
-              "value": "50 MPX + 8 MPX"
+              "id": "7741124012284730481",
+              "value": "108 MPX + 5 MPX + 2 MPX"
             }
           ],
           "displayable": "false",
@@ -550,37 +550,15 @@
           "swatchable": "false"
         },
         {
-          "identifier": "MARCA",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "unitID": "HUAWEI",
-              "id": "7741124012284720350",
-              "value": "HUAWEI"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "MARCA",
-          "facetable": "false",
-          "id": "7741124012283341350",
-          "comparable": "true",
-          "swatchable": "false"
-        },
-        {
           "identifier": "VERSION_SISTEMA_OPERATIVO",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "id": "7741124012284720376",
-              "value": "14"
+              "id": "7741124012284730502",
+              "value": "13"
             }
           ],
           "displayable": "false",
@@ -593,16 +571,38 @@
           "swatchable": "false"
         },
         {
+          "identifier": "MARCA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitID": "HONOR",
+              "id": "7741124012284730476",
+              "value": "HONOR"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "MARCA",
+          "facetable": "false",
+          "id": "7741124012283341350",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
           "identifier": "MODELO_DEL_PRODUCTO",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "NOVA12S",
-              "id": "7741124012284720351",
-              "value": "NOVA12S"
+              "unitID": "X8B",
+              "id": "7741124012284730477",
+              "value": "X8B"
             }
           ],
           "displayable": "false",
@@ -620,10 +620,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "NA",
-              "id": "7741124012284720359",
+              "id": "7741124012284730485",
               "value": "NA"
             }
           ],
@@ -642,10 +642,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "MAH",
-              "id": "7741124012284720335",
+              "id": "7741124012284730461",
               "value": "4.500 MAH"
             }
           ],
@@ -664,10 +664,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "id": "7741124012284720360",
-              "value": "168"
+              "id": "7741124012284730486",
+              "value": "166"
             }
           ],
           "displayable": "false",
@@ -681,15 +681,15 @@
         },
         {
           "identifier": "MPX_CAMARA_SELFIE",
-          "attribute.natural": "[\"60 MPX\"]",
+          "attribute.natural": "[\"50 MPX\"]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "MPX",
-              "id": "7741124012284720356",
-              "value": "60 MPX"
+              "id": "7741124012284730482",
+              "value": "50 MPX"
             }
           ],
           "displayable": "false",
@@ -707,10 +707,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "C45",
-              "id": "7741124012284720357",
+              "id": "7741124012284730483",
               "value": "6 NM"
             }
           ],
@@ -729,10 +729,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "SENCILLA",
-              "id": "7741124012284720338",
+              "id": "7741124012284730464",
               "value": "SENCILLA"
             }
           ],
@@ -751,10 +751,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "year",
-              "id": "7741124012284720339",
+              "id": "7741124012284730465",
               "value": "VOZ Y DATOS"
             }
           ],
@@ -768,36 +768,15 @@
           "swatchable": "false"
         },
         {
-          "identifier": "CANTIDAD_DE_NUCLEOS_TOTAL",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "id": "7741124012284720336",
-              "value": "8"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "CANTIDAD DE NUCLEOS TOTAL",
-          "facetable": "false",
-          "id": "7741124012283341336",
-          "comparable": "true",
-          "swatchable": "false"
-        },
-        {
           "identifier": "PROTECCION_POLVO_AGUA",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "NO",
-              "id": "7741124012284720361",
+              "id": "7741124012284730487",
               "value": "NO"
             }
           ],
@@ -811,24 +790,23 @@
           "swatchable": "false"
         },
         {
-          "identifier": "CANT_CAMARA_PRINCIPAL",
-          "attribute.natural": "[\"DOBLE\"]",
+          "identifier": "CANTIDAD_DE_NUCLEOS_TOTAL",
+          "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "DOBLE",
-              "id": "7741124012284720337",
-              "value": "DOBLE"
+              "id": "7741124012284730462",
+              "value": "8"
             }
           ],
           "displayable": "false",
-          "searchable": "true",
+          "searchable": "false",
           "sequence": "1.0",
-          "name": "Cámara principal",
-          "facetable": "true",
-          "id": "7741124012283341337",
+          "name": "CANTIDAD DE NUCLEOS TOTAL",
+          "facetable": "false",
+          "id": "7741124012283341336",
           "comparable": "true",
           "swatchable": "false"
         },
@@ -838,12 +816,12 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitOfMeasure": " ",
               "unitID": ".",
-              "id": "7741124012284720362",
-              "value": "2.408 X 1.080"
+              "id": "7741124012284730488",
+              "value": "2.412 X 1.080"
             }
           ],
           "displayable": "false",
@@ -856,16 +834,38 @@
           "swatchable": "false"
         },
         {
-          "identifier": "MEMORIA_INTERNA",
-          "attribute.natural": "[\"256GB\"]",
+          "identifier": "CANT_CAMARA_PRINCIPAL",
+          "attribute.natural": "[\"TRIPLE\"]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
-              "unitID": "256GB",
-              "id": "7741124012284720352",
-              "value": "256GB"
+              "unitID": "TRIPLE",
+              "id": "7741124012284730463",
+              "value": "TRIPLE"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Cámara principal",
+          "facetable": "true",
+          "id": "7741124012283341337",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MEMORIA_INTERNA",
+          "attribute.natural": "[\"512GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitID": "512GB",
+              "id": "7741124012284730478",
+              "value": "512GB"
             }
           ],
           "displayable": "false",
@@ -879,15 +879,15 @@
         },
         {
           "identifier": "Color",
-          "attribute.natural": "[\"AZUL\",\"BLANCO\"]",
+          "attribute.natural": "[\"AZUL\",\"PLATA\"]",
           "usage": "Defining",
           "values": [
             {
-              "identifier": "BLANCO",
-              "sequence": "3.0",
-              "unitID": "BLANCO",
-              "id": "7741124012283336841",
-              "value": "BLANCO"
+              "identifier": "PLATA",
+              "sequence": "2.0",
+              "unitID": "PLATA",
+              "id": "7741124012283336842",
+              "value": "PLATA"
             },
             {
               "identifier": "AZUL",
@@ -912,10 +912,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "OLED",
-              "id": "7741124012284720371",
+              "id": "7741124012284730497",
               "value": "OLED"
             }
           ],
@@ -934,10 +934,10 @@
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "POSTPAGO",
-              "id": "7741124012284720374",
+              "id": "7741124012284730500",
               "value": "POSTPAGO"
             }
           ],
@@ -951,37 +951,15 @@
           "swatchable": "false"
         },
         {
-          "identifier": "NOMBRE_COMERCIAL",
-          "attribute.natural": "[]",
-          "usage": "Descriptive",
-          "values": [
-            {
-              "identifier": "PO_Equ70058702P",
-              "sequence": "0.0",
-              "unitID": "second",
-              "id": "7741124012284720358",
-              "value": "HUAWEI NOVA 12S 256GB"
-            }
-          ],
-          "displayable": "false",
-          "searchable": "false",
-          "sequence": "1.0",
-          "name": "NOMBRE COMERCIAL",
-          "facetable": "false",
-          "id": "7741124012283339837",
-          "comparable": "true",
-          "swatchable": "false"
-        },
-        {
           "identifier": "VELOCIDAD_MAX_NUCLEOS",
           "attribute.natural": "[]",
           "usage": "Descriptive",
           "values": [
             {
-              "identifier": "PO_Equ70058702P",
+              "identifier": "PO_Equ70060041P",
               "sequence": "0.0",
               "unitID": "GHZ",
-              "id": "7741124012284720375",
+              "id": "7741124012284730501",
               "value": "2.4 GHZ"
             }
           ],
@@ -993,34 +971,56 @@
           "id": "7741124012283341371",
           "comparable": "true",
           "swatchable": "false"
+        },
+        {
+          "identifier": "NOMBRE_COMERCIAL",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70060041P",
+              "sequence": "0.0",
+              "unitID": "512GB",
+              "id": "7741124012284730484",
+              "value": "HONOR X8B 512GB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "NOMBRE COMERCIAL",
+          "facetable": "false",
+          "id": "7741124012283339837",
+          "comparable": "true",
+          "swatchable": "false"
         }
       ],
       "images": [
         {
-          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
           "sequence": "-1000.0",
-          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
-          "name": "HUAWEI NOVA 12S 256GB 4G Main Image",
-          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
-          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg"
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
+          "name": "HONOR X8B 512GB 4G Main Image",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg"
         }
       ],
       "type": "product",
-      "id": "3074457345617889169",
+      "id": "3074457345617899176",
       "items": [
         {
           "hasSingleSKU": false,
           "buyable": "true",
-          "shortDescription": "HUAWEI NOVA 12S 256GB 4G",
-          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
-          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
-          "partNumber": "PO_Equ70058702",
+          "shortDescription": "HONOR X8B 512GB 4G",
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
+          "partNumber": "PO_Equ70060041",
           "storeID": "1",
-          "name": "HUAWEI NOVA 12S 256GB 4G",
-          "manufacturer": "HUAWEI",
-          "parentCatalogEntryID": "3074457345617889169",
-          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
-          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
+          "name": "HONOR X8B 512GB 4G",
+          "manufacturer": "HONOR",
+          "parentCatalogEntryID": "3074457345617899176",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
           "parentCatalogGroupID": [
             "/3074457345616680168/3074457345616680171",
             "/3074457345616680168/3074457345616680170",
@@ -1033,14 +1033,14 @@
               "usage": "Display",
               "description": "L",
               "currency": "COP",
-              "value": "1699900.0"
+              "value": "1399900.0"
             },
             {
               "usage": "Offer",
               "contractId": "10005",
               "description": "I",
               "currency": "COP",
-              "value": "1599900.0"
+              "value": "1299900.0"
             }
           ],
           "attributes": [
@@ -1050,11 +1050,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "66W",
-                  "id": "7741124012284720366",
-                  "value": "66W"
+                  "unitID": "35W",
+                  "id": "7741124012284730492",
+                  "value": "35W"
                 }
               ],
               "displayable": "false",
@@ -1072,11 +1072,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "PULGADASFFFFFF",
-                  "id": "7741124012284720341",
-                  "value": "PULGADASFFFFFF"
+                  "unitID": "PULGADASBEBEBE",
+                  "id": "7741124012284730467",
+                  "value": "PULGADASBEBEBE"
                 }
               ],
               "displayable": "false",
@@ -1094,10 +1094,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720367",
+                  "id": "7741124012284730493",
                   "value": "NO"
                 }
               ],
@@ -1116,10 +1116,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "USB",
-                  "id": "7741124012284720342",
+                  "id": "7741124012284730468",
                   "value": "BLUETOOTH - WIFI - GPS - USB"
                 }
               ],
@@ -1138,11 +1138,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "EMUI",
-                  "id": "7741124012284720364",
-                  "value": "EMUI"
+                  "unitID": "ANDROID",
+                  "id": "7741124012284730490",
+                  "value": "ANDROID"
                 }
               ],
               "displayable": "false",
@@ -1160,10 +1160,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720365",
+                  "id": "7741124012284730491",
                   "value": "NO"
                 }
               ],
@@ -1182,11 +1182,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "second",
-                  "id": "7741124012284720340",
-                  "value": "HUAWEI NOVA 12S 256GB"
+                  "unitID": "512GB",
+                  "id": "7741124012284730466",
+                  "value": "HONOR X8B 512GB"
                 }
               ],
               "displayable": "false",
@@ -1204,10 +1204,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "4G",
-                  "id": "7741124012284720370",
+                  "id": "7741124012284730496",
                   "value": "2G - 3G - 4G"
                 }
               ],
@@ -1226,10 +1226,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "ALTA",
-                  "id": "7741124012284720345",
+                  "id": "7741124012284730471",
                   "value": "ALTA"
                 }
               ],
@@ -1248,10 +1248,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "SMARTPHONE",
-                  "id": "7741124012284720372",
+                  "id": "7741124012284730498",
                   "value": "SMARTPHONE"
                 }
               ],
@@ -1270,9 +1270,9 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720346",
+                  "id": "7741124012284730472",
                   "value": "12"
                 }
               ],
@@ -1291,9 +1291,9 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720368",
+                  "id": "7741124012284730494",
                   "value": "6.7"
                 }
               ],
@@ -1312,12 +1312,12 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitOfMeasure": " ",
                   "unitID": ".",
-                  "id": "7741124012284720343",
-                  "value": "161.29 X 74.96 X 6.88"
+                  "id": "7741124012284730469",
+                  "value": "161.05 X 74.55 X 6.78"
                 }
               ],
               "displayable": "false",
@@ -1335,11 +1335,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "120HZ",
-                  "id": "7741124012284720369",
-                  "value": "120HZ"
+                  "unitID": "90HZ",
+                  "id": "7741124012284730495",
+                  "value": "90HZ"
                 }
               ],
               "displayable": "false",
@@ -1357,10 +1357,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720344",
+                  "id": "7741124012284730470",
                   "value": "NO"
                 }
               ],
@@ -1379,10 +1379,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "8GB",
-                  "id": "7741124012284720353",
+                  "id": "7741124012284730479",
                   "value": "8GB"
                 }
               ],
@@ -1401,10 +1401,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "QUALCOMM",
-                  "id": "7741124012284720349",
+                  "id": "7741124012284730475",
                   "value": "QUALCOMM"
                 }
               ],
@@ -1423,10 +1423,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "CARD",
-                  "id": "7741124012284720373",
+                  "id": "7741124012284730499",
                   "value": "SIM CARD"
                 }
               ],
@@ -1445,10 +1445,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "SI",
-                  "id": "7741124012284720347",
+                  "id": "7741124012284730473",
                   "value": "SI"
                 }
               ],
@@ -1467,10 +1467,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "INTRODUCCION",
-                  "id": "7741124012284720348",
+                  "id": "7741124012284730474",
                   "value": "INTRODUCCION"
                 }
               ],
@@ -1489,11 +1489,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "4K",
-                  "id": "7741124012284720363",
-                  "value": "4K"
+                  "unitID": "1080P",
+                  "id": "7741124012284730489",
+                  "value": "1080P"
                 }
               ],
               "displayable": "false",
@@ -1511,11 +1511,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "778G",
-                  "id": "7741124012284720354",
-                  "value": "SNAPDRAGON 778G"
+                  "unitID": "SNAPDRAGON",
+                  "id": "7741124012284730480",
+                  "value": "SNAPDRAGON 680"
                 }
               ],
               "displayable": "false",
@@ -1529,15 +1529,15 @@
             },
             {
               "identifier": "MPX_CAMARA_PRINCIPAL",
-              "attribute.natural": "[\"50 MPX + 8 MPX\"]",
+              "attribute.natural": "[\"108 MPX + 5 MPX + 2 MPX\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "MPX",
-                  "id": "7741124012284720355",
-                  "value": "50 MPX + 8 MPX"
+                  "id": "7741124012284730481",
+                  "value": "108 MPX + 5 MPX + 2 MPX"
                 }
               ],
               "displayable": "false",
@@ -1555,10 +1555,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720376",
-                  "value": "14"
+                  "id": "7741124012284730502",
+                  "value": "13"
                 }
               ],
               "displayable": "false",
@@ -1576,11 +1576,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "HUAWEI",
-                  "id": "7741124012284720350",
-                  "value": "HUAWEI"
+                  "unitID": "HONOR",
+                  "id": "7741124012284730476",
+                  "value": "HONOR"
                 }
               ],
               "displayable": "false",
@@ -1598,11 +1598,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "NOVA12S",
-                  "id": "7741124012284720351",
-                  "value": "NOVA12S"
+                  "unitID": "X8B",
+                  "id": "7741124012284730477",
+                  "value": "X8B"
                 }
               ],
               "displayable": "false",
@@ -1620,10 +1620,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NA",
-                  "id": "7741124012284720359",
+                  "id": "7741124012284730485",
                   "value": "NA"
                 }
               ],
@@ -1642,10 +1642,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "MAH",
-                  "id": "7741124012284720335",
+                  "id": "7741124012284730461",
                   "value": "4.500 MAH"
                 }
               ],
@@ -1664,10 +1664,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720360",
-                  "value": "168"
+                  "id": "7741124012284730486",
+                  "value": "166"
                 }
               ],
               "displayable": "false",
@@ -1681,15 +1681,15 @@
             },
             {
               "identifier": "MPX_CAMARA_SELFIE",
-              "attribute.natural": "[\"60 MPX\"]",
+              "attribute.natural": "[\"50 MPX\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "MPX",
-                  "id": "7741124012284720356",
-                  "value": "60 MPX"
+                  "id": "7741124012284730482",
+                  "value": "50 MPX"
                 }
               ],
               "displayable": "false",
@@ -1707,10 +1707,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "C45",
-                  "id": "7741124012284720357",
+                  "id": "7741124012284730483",
                   "value": "6 NM"
                 }
               ],
@@ -1729,10 +1729,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "SENCILLA",
-                  "id": "7741124012284720338",
+                  "id": "7741124012284730464",
                   "value": "SENCILLA"
                 }
               ],
@@ -1751,10 +1751,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "year",
-                  "id": "7741124012284720339",
+                  "id": "7741124012284730465",
                   "value": "VOZ Y DATOS"
                 }
               ],
@@ -1773,10 +1773,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720361",
+                  "id": "7741124012284730487",
                   "value": "NO"
                 }
               ],
@@ -1795,9 +1795,9 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720336",
+                  "id": "7741124012284730462",
                   "value": "8"
                 }
               ],
@@ -1816,12 +1816,12 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitOfMeasure": " ",
                   "unitID": ".",
-                  "id": "7741124012284720362",
-                  "value": "2.408 X 1.080"
+                  "id": "7741124012284730488",
+                  "value": "2.412 X 1.080"
                 }
               ],
               "displayable": "false",
@@ -1835,15 +1835,15 @@
             },
             {
               "identifier": "CANT_CAMARA_PRINCIPAL",
-              "attribute.natural": "[\"DOBLE\"]",
+              "attribute.natural": "[\"TRIPLE\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "DOBLE",
-                  "id": "7741124012284720337",
-                  "value": "DOBLE"
+                  "unitID": "TRIPLE",
+                  "id": "7741124012284730463",
+                  "value": "TRIPLE"
                 }
               ],
               "displayable": "false",
@@ -1857,15 +1857,15 @@
             },
             {
               "identifier": "MEMORIA_INTERNA",
-              "attribute.natural": "[\"256GB\"]",
+              "attribute.natural": "[\"512GB\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "256GB",
-                  "id": "7741124012284720352",
-                  "value": "256GB"
+                  "unitID": "512GB",
+                  "id": "7741124012284730478",
+                  "value": "512GB"
                 }
               ],
               "displayable": "false",
@@ -1879,15 +1879,15 @@
             },
             {
               "identifier": "Color",
-              "attribute.natural": "[\"BLANCO\"]",
+              "attribute.natural": "[\"PLATA\"]",
               "usage": "Defining",
               "values": [
                 {
-                  "identifier": "BLANCO",
-                  "sequence": "3.0",
-                  "unitID": "BLANCO",
-                  "id": "7741124012283336841",
-                  "value": "BLANCO"
+                  "identifier": "PLATA",
+                  "sequence": "2.0",
+                  "unitID": "PLATA",
+                  "id": "7741124012283336842",
+                  "value": "PLATA"
                 }
               ],
               "displayable": "false",
@@ -1905,10 +1905,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "OLED",
-                  "id": "7741124012284720371",
+                  "id": "7741124012284730497",
                   "value": "OLED"
                 }
               ],
@@ -1927,10 +1927,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "POSTPAGO",
-                  "id": "7741124012284720374",
+                  "id": "7741124012284730500",
                   "value": "POSTPAGO"
                 }
               ],
@@ -1949,10 +1949,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "GHZ",
-                  "id": "7741124012284720375",
+                  "id": "7741124012284730501",
                   "value": "2.4 GHZ"
                 }
               ],
@@ -1971,11 +1971,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "second",
-                  "id": "7741124012284720358",
-                  "value": "HUAWEI NOVA 12S 256GB"
+                  "unitID": "512GB",
+                  "id": "7741124012284730484",
+                  "value": "HONOR X8B 512GB"
                 }
               ],
               "displayable": "false",
@@ -1990,85 +1990,67 @@
           ],
           "images": [
             {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
               "sequence": "-1000.0",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-blanco.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G Main Image",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg"
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-plata.jpg",
+              "name": "HONOR X8B 512GB 4G Main Image",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg"
             },
             {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702.jpg",
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041.jpg",
               "sequence": "1.0",
-              "catentry_id": "3074457345617889170",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702.jpg"
+              "catentry_id": "3074457345617899177",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041.jpg"
             },
             {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_2.jpg",
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041_2.jpg",
               "sequence": "2.0",
-              "catentry_id": "3074457345617889170",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_2.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_2.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_2.jpg"
+              "catentry_id": "3074457345617899177",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041_2.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041_2.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041_2.jpg"
             },
             {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_3.jpg",
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041_3.jpg",
               "sequence": "3.0",
-              "catentry_id": "3074457345617889170",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_3.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_3.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_3.jpg"
+              "catentry_id": "3074457345617899177",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041_3.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041_3.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041_3.jpg"
             },
             {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_4.jpg",
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041_4.jpg",
               "sequence": "4.0",
-              "catentry_id": "3074457345617889170",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_4.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_4.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_4.jpg"
-            },
-            {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_5.jpg",
-              "sequence": "5.0",
-              "catentry_id": "3074457345617889170",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_5.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_5.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_5.jpg"
-            },
-            {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_6.jpg",
-              "sequence": "6.0",
-              "catentry_id": "3074457345617889170",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058702_6.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_6.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058702_6.jpg"
+              "catentry_id": "3074457345617899177",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060041_4.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041_4.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060041_4.jpg"
             }
           ],
           "parent": "/search/resources/api/v2/categories?storeId=1&id=3074457345616680171",
-          "id": "3074457345617889170",
+          "id": "3074457345617899177",
           "type": "item"
         },
         {
           "hasSingleSKU": false,
           "buyable": "true",
-          "name": "HUAWEI NOVA 12S 256GB 4G",
-          "shortDescription": "HUAWEI NOVA 12S 256GB 4G",
-          "manufacturer": "HUAWEI",
-          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-azul.jpg",
-          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-azul.jpg",
-          "parentCatalogEntryID": "3074457345617889169",
-          "partNumber": "PO_Equ70058708",
+          "shortDescription": "HONOR X8B 512GB 4G",
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-azul.jpg",
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-azul.jpg",
+          "partNumber": "PO_Equ70060069",
           "storeID": "1",
-          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058708.jpg",
-          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058708.jpg",
+          "name": "HONOR X8B 512GB 4G",
+          "manufacturer": "HONOR",
+          "parentCatalogEntryID": "3074457345617899176",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069.jpg",
           "parentCatalogGroupID": [
             "/3074457345616680168/3074457345616680171",
             "/3074457345616680168/3074457345616680170",
@@ -2081,14 +2063,14 @@
               "usage": "Display",
               "description": "L",
               "currency": "COP",
-              "value": "1699900.0"
+              "value": "1399900.0"
             },
             {
               "usage": "Offer",
               "contractId": "10005",
               "description": "I",
               "currency": "COP",
-              "value": "1599900.0"
+              "value": "1299900.0"
             }
           ],
           "attributes": [
@@ -2098,11 +2080,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "66W",
-                  "id": "7741124012284720366",
-                  "value": "66W"
+                  "unitID": "35W",
+                  "id": "7741124012284730492",
+                  "value": "35W"
                 }
               ],
               "displayable": "false",
@@ -2120,11 +2102,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "PULGADASFFFFFF",
-                  "id": "7741124012284720341",
-                  "value": "PULGADASFFFFFF"
+                  "unitID": "PULGADASBEBEBE",
+                  "id": "7741124012284730467",
+                  "value": "PULGADASBEBEBE"
                 }
               ],
               "displayable": "false",
@@ -2142,10 +2124,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720367",
+                  "id": "7741124012284730493",
                   "value": "NO"
                 }
               ],
@@ -2164,10 +2146,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "USB",
-                  "id": "7741124012284720342",
+                  "id": "7741124012284730468",
                   "value": "BLUETOOTH - WIFI - GPS - USB"
                 }
               ],
@@ -2186,11 +2168,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "EMUI",
-                  "id": "7741124012284720364",
-                  "value": "EMUI"
+                  "unitID": "ANDROID",
+                  "id": "7741124012284730490",
+                  "value": "ANDROID"
                 }
               ],
               "displayable": "false",
@@ -2208,10 +2190,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720365",
+                  "id": "7741124012284730491",
                   "value": "NO"
                 }
               ],
@@ -2230,11 +2212,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "second",
-                  "id": "7741124012284720340",
-                  "value": "HUAWEI NOVA 12S 256GB"
+                  "unitID": "512GB",
+                  "id": "7741124012284730466",
+                  "value": "HONOR X8B 512GB"
                 }
               ],
               "displayable": "false",
@@ -2252,10 +2234,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "4G",
-                  "id": "7741124012284720370",
+                  "id": "7741124012284730496",
                   "value": "2G - 3G - 4G"
                 }
               ],
@@ -2274,10 +2256,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "ALTA",
-                  "id": "7741124012284720345",
+                  "id": "7741124012284730471",
                   "value": "ALTA"
                 }
               ],
@@ -2296,10 +2278,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "SMARTPHONE",
-                  "id": "7741124012284720372",
+                  "id": "7741124012284730498",
                   "value": "SMARTPHONE"
                 }
               ],
@@ -2318,9 +2300,9 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720346",
+                  "id": "7741124012284730472",
                   "value": "12"
                 }
               ],
@@ -2339,9 +2321,9 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720368",
+                  "id": "7741124012284730494",
                   "value": "6.7"
                 }
               ],
@@ -2360,12 +2342,12 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitOfMeasure": " ",
                   "unitID": ".",
-                  "id": "7741124012284720343",
-                  "value": "161.29 X 74.96 X 6.88"
+                  "id": "7741124012284730469",
+                  "value": "161.05 X 74.55 X 6.78"
                 }
               ],
               "displayable": "false",
@@ -2383,11 +2365,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "120HZ",
-                  "id": "7741124012284720369",
-                  "value": "120HZ"
+                  "unitID": "90HZ",
+                  "id": "7741124012284730495",
+                  "value": "90HZ"
                 }
               ],
               "displayable": "false",
@@ -2405,10 +2387,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720344",
+                  "id": "7741124012284730470",
                   "value": "NO"
                 }
               ],
@@ -2422,37 +2404,15 @@
               "swatchable": "false"
             },
             {
-              "identifier": "MARCA_PROCESADOR",
-              "attribute.natural": "[]",
-              "usage": "Descriptive",
-              "values": [
-                {
-                  "identifier": "PO_Equ70058702P",
-                  "sequence": "0.0",
-                  "unitID": "QUALCOMM",
-                  "id": "7741124012284720349",
-                  "value": "QUALCOMM"
-                }
-              ],
-              "displayable": "false",
-              "searchable": "false",
-              "sequence": "1.0",
-              "name": "MARCA PROCESADOR",
-              "facetable": "false",
-              "id": "7741124012283341349",
-              "comparable": "true",
-              "swatchable": "false"
-            },
-            {
               "identifier": "MEMORIA_RAM",
               "attribute.natural": "[\"8GB\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "8GB",
-                  "id": "7741124012284720353",
+                  "id": "7741124012284730479",
                   "value": "8GB"
                 }
               ],
@@ -2466,15 +2426,37 @@
               "swatchable": "false"
             },
             {
+              "identifier": "MARCA_PROCESADOR",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70060041P",
+                  "sequence": "0.0",
+                  "unitID": "QUALCOMM",
+                  "id": "7741124012284730475",
+                  "value": "QUALCOMM"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "MARCA PROCESADOR",
+              "facetable": "false",
+              "id": "7741124012283341349",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
               "identifier": "TIPO_DE_SIM",
               "attribute.natural": "[\"SIM CARD\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "CARD",
-                  "id": "7741124012284720373",
+                  "id": "7741124012284730499",
                   "value": "SIM CARD"
                 }
               ],
@@ -2493,10 +2475,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "SI",
-                  "id": "7741124012284720347",
+                  "id": "7741124012284730473",
                   "value": "SI"
                 }
               ],
@@ -2515,10 +2497,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "INTRODUCCION",
-                  "id": "7741124012284720348",
+                  "id": "7741124012284730474",
                   "value": "INTRODUCCION"
                 }
               ],
@@ -2537,11 +2519,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "4K",
-                  "id": "7741124012284720363",
-                  "value": "4K"
+                  "unitID": "1080P",
+                  "id": "7741124012284730489",
+                  "value": "1080P"
                 }
               ],
               "displayable": "false",
@@ -2559,11 +2541,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "778G",
-                  "id": "7741124012284720354",
-                  "value": "SNAPDRAGON 778G"
+                  "unitID": "SNAPDRAGON",
+                  "id": "7741124012284730480",
+                  "value": "SNAPDRAGON 680"
                 }
               ],
               "displayable": "false",
@@ -2577,15 +2559,15 @@
             },
             {
               "identifier": "MPX_CAMARA_PRINCIPAL",
-              "attribute.natural": "[\"50 MPX + 8 MPX\"]",
+              "attribute.natural": "[\"108 MPX + 5 MPX + 2 MPX\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "MPX",
-                  "id": "7741124012284720355",
-                  "value": "50 MPX + 8 MPX"
+                  "id": "7741124012284730481",
+                  "value": "108 MPX + 5 MPX + 2 MPX"
                 }
               ],
               "displayable": "false",
@@ -2603,10 +2585,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720376",
-                  "value": "14"
+                  "id": "7741124012284730502",
+                  "value": "13"
                 }
               ],
               "displayable": "false",
@@ -2624,11 +2606,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "HUAWEI",
-                  "id": "7741124012284720350",
-                  "value": "HUAWEI"
+                  "unitID": "HONOR",
+                  "id": "7741124012284730476",
+                  "value": "HONOR"
                 }
               ],
               "displayable": "false",
@@ -2646,11 +2628,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "NOVA12S",
-                  "id": "7741124012284720351",
-                  "value": "NOVA12S"
+                  "unitID": "X8B",
+                  "id": "7741124012284730477",
+                  "value": "X8B"
                 }
               ],
               "displayable": "false",
@@ -2668,10 +2650,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NA",
-                  "id": "7741124012284720359",
+                  "id": "7741124012284730485",
                   "value": "NA"
                 }
               ],
@@ -2690,10 +2672,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "MAH",
-                  "id": "7741124012284720335",
+                  "id": "7741124012284730461",
                   "value": "4.500 MAH"
                 }
               ],
@@ -2712,10 +2694,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720360",
-                  "value": "168"
+                  "id": "7741124012284730486",
+                  "value": "166"
                 }
               ],
               "displayable": "false",
@@ -2729,15 +2711,15 @@
             },
             {
               "identifier": "MPX_CAMARA_SELFIE",
-              "attribute.natural": "[\"60 MPX\"]",
+              "attribute.natural": "[\"50 MPX\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "MPX",
-                  "id": "7741124012284720356",
-                  "value": "60 MPX"
+                  "id": "7741124012284730482",
+                  "value": "50 MPX"
                 }
               ],
               "displayable": "false",
@@ -2755,10 +2737,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "C45",
-                  "id": "7741124012284720357",
+                  "id": "7741124012284730483",
                   "value": "6 NM"
                 }
               ],
@@ -2777,10 +2759,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "SENCILLA",
-                  "id": "7741124012284720338",
+                  "id": "7741124012284730464",
                   "value": "SENCILLA"
                 }
               ],
@@ -2799,10 +2781,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "year",
-                  "id": "7741124012284720339",
+                  "id": "7741124012284730465",
                   "value": "VOZ Y DATOS"
                 }
               ],
@@ -2821,10 +2803,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "NO",
-                  "id": "7741124012284720361",
+                  "id": "7741124012284730487",
                   "value": "NO"
                 }
               ],
@@ -2843,9 +2825,9 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "id": "7741124012284720336",
+                  "id": "7741124012284730462",
                   "value": "8"
                 }
               ],
@@ -2864,12 +2846,12 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitOfMeasure": " ",
                   "unitID": ".",
-                  "id": "7741124012284720362",
-                  "value": "2.408 X 1.080"
+                  "id": "7741124012284730488",
+                  "value": "2.412 X 1.080"
                 }
               ],
               "displayable": "false",
@@ -2883,15 +2865,15 @@
             },
             {
               "identifier": "CANT_CAMARA_PRINCIPAL",
-              "attribute.natural": "[\"DOBLE\"]",
+              "attribute.natural": "[\"TRIPLE\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "DOBLE",
-                  "id": "7741124012284720337",
-                  "value": "DOBLE"
+                  "unitID": "TRIPLE",
+                  "id": "7741124012284730463",
+                  "value": "TRIPLE"
                 }
               ],
               "displayable": "false",
@@ -2905,15 +2887,15 @@
             },
             {
               "identifier": "MEMORIA_INTERNA",
-              "attribute.natural": "[\"256GB\"]",
+              "attribute.natural": "[\"512GB\"]",
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "256GB",
-                  "id": "7741124012284720352",
-                  "value": "256GB"
+                  "unitID": "512GB",
+                  "id": "7741124012284730478",
+                  "value": "512GB"
                 }
               ],
               "displayable": "false",
@@ -2953,10 +2935,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "OLED",
-                  "id": "7741124012284720371",
+                  "id": "7741124012284730497",
                   "value": "OLED"
                 }
               ],
@@ -2975,10 +2957,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "POSTPAGO",
-                  "id": "7741124012284720374",
+                  "id": "7741124012284730500",
                   "value": "POSTPAGO"
                 }
               ],
@@ -2997,10 +2979,10 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
                   "unitID": "GHZ",
-                  "id": "7741124012284720375",
+                  "id": "7741124012284730501",
                   "value": "2.4 GHZ"
                 }
               ],
@@ -3019,11 +3001,11 @@
               "usage": "Descriptive",
               "values": [
                 {
-                  "identifier": "PO_Equ70058702P",
+                  "identifier": "PO_Equ70060041P",
                   "sequence": "0.0",
-                  "unitID": "second",
-                  "id": "7741124012284720358",
-                  "value": "HUAWEI NOVA 12S 256GB"
+                  "unitID": "512GB",
+                  "id": "7741124012284730484",
+                  "value": "HONOR X8B 512GB"
                 }
               ],
               "displayable": "false",
@@ -3038,16 +3020,52 @@
           ],
           "images": [
             {
-              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-azul.jpg",
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-azul.jpg",
               "sequence": "-1000.0",
-              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-4g-azul.jpg",
-              "name": "HUAWEI NOVA 12S 256GB 4G Main Image",
-              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058708.jpg",
-              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70058708.jpg"
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-x8b-512gb-4g-azul.jpg",
+              "name": "HONOR X8B 512GB 4G Main Image",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069.jpg",
+              "sequence": "1.0",
+              "catentry_id": "3074457345617899178",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069_2.jpg",
+              "sequence": "2.0",
+              "catentry_id": "3074457345617899178",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069_2.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069_2.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069_2.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069_3.jpg",
+              "sequence": "3.0",
+              "catentry_id": "3074457345617899178",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069_3.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069_3.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069_3.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069_4.jpg",
+              "sequence": "4.0",
+              "catentry_id": "3074457345617899178",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70060069_4.jpg",
+              "name": "HONOR X8B 512GB 4G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069_4.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70060069_4.jpg"
             }
           ],
           "parent": "/search/resources/api/v2/categories?storeId=1&id=3074457345616680171",
-          "id": "3074457345617895168",
+          "id": "3074457345617899178",
           "type": "item"
         }
       ]
