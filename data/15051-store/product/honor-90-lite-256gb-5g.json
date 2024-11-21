@@ -1,0 +1,2054 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://search.b2cprodlive.claro.com.co/search/resources/api/v2/products?productId=3074457345617885668&storeId=1&catalogId=3074457345616678668&currency=COP&langId=-1",
+      "name": "HONOR 90 LITE 256GB 5G",
+      "shortDescription": "HONOR 90 LITE 256GB 5G",
+      "manufacturer": "HONOR",
+      "longDescription": "HONOR 90 LITE 256GB 5G",
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-azul.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-azul.jpg",
+      "seo": {
+        "href": "/honor-90-lite-256gb-5g"
+      },
+      "partNumber": "PO_Equ70055299P",
+      "storeID": "1",
+      "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055299.jpg",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055299.jpg",
+      "parentCatalogGroupID": [
+        "/3074457345616680168/3074457345616680171",
+        "/3074457345616680168/3074457345616680170",
+        "/3074457345616680172/3074457345616680179/3074457345616680184",
+        "/3074457345616680168/3074457345616680169",
+        "/3074457345616680172/3074457345616680173/3074457345616680177"
+      ],
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "899900.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "10005",
+          "description": "I",
+          "currency": "COP",
+          "value": "999900.0"
+        }
+      ],
+      "numberOfSKUs": 1,
+      "attributes": [
+        {
+          "identifier": "SOPORTA_CARGA_RAPIDA_WATTS",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "id": "7741124012284716866",
+              "value": "22.5W"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "SOPORTA CARGA RAPIDA WATTS",
+          "facetable": "false",
+          "id": "7741124012283341363",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CODIGO_DE_COLOR_HEXADECIMAL",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "PULGADAS0000FF",
+              "id": "7741124012284716841",
+              "value": "PULGADAS0000FF"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "CODIGO DE COLOR HEXADECIMAL",
+          "facetable": "false",
+          "id": "7741124012283341341",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "SOPORTA_MEMORIA_EXPANDIBLE",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "NO",
+              "id": "7741124012284716867",
+              "value": "NO"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "SOPORTA MEMORIA EXPANDIBLE",
+          "facetable": "false",
+          "id": "7741124012283341364",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CONECTIVIDAD",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "USB",
+              "id": "7741124012284716842",
+              "value": "BLUETOOTH - WIFI - GPS - USB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "CONECTIVIDAD",
+          "facetable": "false",
+          "id": "7741124012283341342",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "SISTEMA_OPERATIVO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "ANDROID",
+              "id": "7741124012284716864",
+              "value": "ANDROID"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "SISTEMA OPERATIVO",
+          "facetable": "false",
+          "id": "7741124012283341361",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "SOPORTA_CARGA_INALAMBRICA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "SI",
+              "id": "7741124012284716865",
+              "value": "SI"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "SOPORTA CARGA INALAMBRICA",
+          "facetable": "false",
+          "id": "7741124012283341362",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CLASIFICACION",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "256GB",
+              "id": "7741124012284716840",
+              "value": "HONOR 90 LITE 256GB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "CLASIFICACION",
+          "facetable": "false",
+          "id": "7741124012283341340",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TECNOLOGIA",
+          "attribute.natural": "[\"2G - 3G - 4G - 5G\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "5G",
+              "id": "7741124012284716870",
+              "value": "2G - 3G - 4G - 5G"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Red",
+          "facetable": "true",
+          "id": "7741124012283341367",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "GAMA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "ALTA",
+              "id": "7741124012284716845",
+              "value": "ALTA"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "GAMA",
+          "facetable": "false",
+          "id": "7741124012283341345",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TIPO_DE_PRODUCTO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "SMARTPHONE",
+              "id": "7741124012284716872",
+              "value": "SMARTPHONE"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "TIPO DE PRODUCTO",
+          "facetable": "false",
+          "id": "7741124012283341368",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "GARANTIA_MESES",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "id": "7741124012284716846",
+              "value": "12"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "GARANTIA MESES",
+          "facetable": "false",
+          "id": "7741124012283341346",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TAMANO_DE_PANTALLA_PULGADAS",
+          "attribute.natural": "[\"6.7\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "id": "7741124012284716868",
+              "value": "6.7"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Tamaño pantalla",
+          "facetable": "true",
+          "id": "7741124012283341365",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitOfMeasure": " ",
+              "unitID": ".",
+              "id": "7741124012284716843",
+              "value": "162.9 X 74.5 X 7.48"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+          "facetable": "false",
+          "id": "7741124012283341343",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TASA_DE_REFRESCO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "90HZ",
+              "id": "7741124012284716869",
+              "value": "90HZ"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "TASA DE REFRESCO",
+          "facetable": "false",
+          "id": "7741124012283341366",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "DUAL_SIM",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "NO",
+              "id": "7741124012284716844",
+              "value": "NO"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "DUAL SIM",
+          "facetable": "false",
+          "id": "7741124012283341344",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MEMORIA_RAM",
+          "attribute.natural": "[\"8GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "8GB",
+              "id": "7741124012284716853",
+              "value": "8GB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Memoria RAM",
+          "facetable": "true",
+          "id": "7741124012283334352",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MARCA_PROCESADOR",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "MEDIATEK",
+              "id": "7741124012284716849",
+              "value": "MEDIATEK"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "MARCA PROCESADOR",
+          "facetable": "false",
+          "id": "7741124012283341349",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TIPO_DE_SIM",
+          "attribute.natural": "[\"SIM CARD\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "CARD",
+              "id": "7741124012284716873",
+              "value": "SIM CARD"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Tipo SIM",
+          "facetable": "true",
+          "id": "7741124012283341369",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "INCLUYE_CARGADOR_CARGA_RAPIDA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "NO",
+              "id": "7741124012284716847",
+              "value": "NO"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "INCLUYE CARGADOR CARGA RAPIDA",
+          "facetable": "false",
+          "id": "7741124012283341347",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "LINEA_DE_PRODUCTO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "SALIDA",
+              "id": "7741124012284716848",
+              "value": "SALIDA"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "LINEA DE PRODUCTO",
+          "facetable": "false",
+          "id": "7741124012283341348",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "RESOLUCION_DE_VIDEO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "1440P",
+              "id": "7741124012284716863",
+              "value": "1440P"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "RESOLUCION DE VIDEO",
+          "facetable": "false",
+          "id": "7741124012283341360",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MODELO_PROCESADOR",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "DIMENSITY",
+              "id": "7741124012284716854",
+              "value": "DIMENSITY 6020"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "MODELO PROCESADOR",
+          "facetable": "false",
+          "id": "7741124012283341352",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MPX_CAMARA_PRINCIPAL",
+          "attribute.natural": "[\"100 MPX + 5 MPX + 2 MPX\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "MPX",
+              "id": "7741124012284716855",
+              "value": "100 MPX + 5 MPX + 2 MPX"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "MPX Cámara principal",
+          "facetable": "true",
+          "id": "7741124012283341353",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "VERSION_SISTEMA_OPERATIVO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "id": "7741124012284716876",
+              "value": "13"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "VERSION SISTEMA OPERATIVO",
+          "facetable": "false",
+          "id": "7741124012283341372",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MARCA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "HONOR",
+              "id": "7741124012284716850",
+              "value": "HONOR"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "MARCA",
+          "facetable": "false",
+          "id": "7741124012283341350",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MODELO_DEL_PRODUCTO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "LITE",
+              "id": "7741124012284716851",
+              "value": "90 LITE"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "MODELO DEL PRODUCTO",
+          "facetable": "false",
+          "id": "7741124012283341351",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "OBSEQUIO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "NA",
+              "id": "7741124012284716859",
+              "value": "NA"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "OBSEQUIO",
+          "facetable": "false",
+          "id": "7741124012283341356",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "BATERIA",
+          "attribute.natural": "[\"4.500 MAH\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "MAH",
+              "id": "7741124012284716835",
+              "value": "4.500 MAH"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Batería",
+          "facetable": "true",
+          "id": "7741124012283341335",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "PESO_GRAMOS",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "id": "7741124012284716860",
+              "value": "179"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "PESO GRAMOS",
+          "facetable": "false",
+          "id": "7741124012283341357",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MPX_CAMARA_SELFIE",
+          "attribute.natural": "[\"16 MPX\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "MPX",
+              "id": "7741124012284716856",
+              "value": "16 MPX"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "MPX Cámara frontal",
+          "facetable": "true",
+          "id": "7741124012283341354",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "NANOMETROS_CHIPSET",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "C45",
+              "id": "7741124012284716857",
+              "value": "7 NM"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "NANOMETROS CHIPSET",
+          "facetable": "false",
+          "id": "7741124012283341355",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CANT_CAMARA_SELFIE",
+          "attribute.natural": "[\"SENCILLA\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "SENCILLA",
+              "id": "7741124012284716838",
+              "value": "SENCILLA"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Cámara frontal",
+          "facetable": "true",
+          "id": "7741124012283341338",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CATEGORIA_DE_USO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "year",
+              "id": "7741124012284716839",
+              "value": "VOZ Y DATOS"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "CATEGORIA DE USO",
+          "facetable": "false",
+          "id": "7741124012283341339",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "PROTECCION_POLVO_AGUA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "NO",
+              "id": "7741124012284716861",
+              "value": "NO"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "PROTECCION POLVO AGUA",
+          "facetable": "false",
+          "id": "7741124012283341358",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CANTIDAD_DE_NUCLEOS_TOTAL",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "id": "7741124012284716836",
+              "value": "8"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "CANTIDAD DE NUCLEOS TOTAL",
+          "facetable": "false",
+          "id": "7741124012283341336",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "RESOLUCION_DE_PANTALLA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitOfMeasure": " ",
+              "unitID": ".",
+              "id": "7741124012284716862",
+              "value": "2.388 X 1.080"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "RESOLUCION DE PANTALLA",
+          "facetable": "false",
+          "id": "7741124012283341359",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "CANT_CAMARA_PRINCIPAL",
+          "attribute.natural": "[\"TRIPLE\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "TRIPLE",
+              "id": "7741124012284716837",
+              "value": "TRIPLE"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Cámara principal",
+          "facetable": "true",
+          "id": "7741124012283341337",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "MEMORIA_INTERNA",
+          "attribute.natural": "[\"256GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "256GB",
+              "id": "7741124012284716852",
+              "value": "256GB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Memoria interna",
+          "facetable": "true",
+          "id": "7741124012283334349",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"NEGRO\",\"AZUL\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "NEGRO",
+              "sequence": "4.0",
+              "unitID": "NEGRO",
+              "id": "7741124012283336835",
+              "value": "NEGRO"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283334345",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TIPO_DE_PANTALLA",
+          "attribute.natural": "[\"LCD TFT\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "TFT",
+              "id": "7741124012284716871",
+              "value": "LCD TFT"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "name": "TIPO DE PANTALLA",
+          "facetable": "false",
+          "id": "7741124012283334343",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "TIPO_DE_VENTA",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "POSTPAGO",
+              "id": "7741124012284716874",
+              "value": "POSTPAGO"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "TIPO DE VENTA",
+          "facetable": "false",
+          "id": "7741124012283341370",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "VELOCIDAD_MAX_NUCLEOS",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "GHZ",
+              "id": "7741124012284716875",
+              "value": "2.2 GHZ"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "VELOCIDAD MAX NUCLEOS",
+          "facetable": "false",
+          "id": "7741124012283341371",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "NOMBRE_COMERCIAL",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055299P",
+              "sequence": "0.0",
+              "unitID": "256GB",
+              "id": "7741124012284716858",
+              "value": "HONOR 90 LITE 256GB"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "NOMBRE COMERCIAL",
+          "facetable": "false",
+          "id": "7741124012283339837",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-azul.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-azul.jpg",
+          "name": "HONOR 90 LITE 256GB 5G Main Image",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055299.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055299.jpg"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345617885668",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "shortDescription": "HONOR 90 LITE 256GB 5G",
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-negro.jpg",
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-negro.jpg",
+          "partNumber": "PO_Equ70055327",
+          "storeID": "1",
+          "name": "HONOR 90 LITE 256GB 5G",
+          "manufacturer": "HONOR",
+          "parentCatalogEntryID": "3074457345617885668",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327.jpg",
+          "parentCatalogGroupID": [
+            "/3074457345616680168/3074457345616680171",
+            "/3074457345616680168/3074457345616680170",
+            "/3074457345616680172/3074457345616680179/3074457345616680184",
+            "/3074457345616680168/3074457345616680169",
+            "/3074457345616680172/3074457345616680173/3074457345616680177"
+          ],
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "COP",
+              "value": "899900.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "10005",
+              "description": "I",
+              "currency": "COP",
+              "value": "999900.0"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "SOPORTA_CARGA_RAPIDA_WATTS",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "id": "7741124012284716866",
+                  "value": "22.5W"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "SOPORTA CARGA RAPIDA WATTS",
+              "facetable": "false",
+              "id": "7741124012283341363",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CODIGO_DE_COLOR_HEXADECIMAL",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "PULGADAS0000FF",
+                  "id": "7741124012284716841",
+                  "value": "PULGADAS0000FF"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "CODIGO DE COLOR HEXADECIMAL",
+              "facetable": "false",
+              "id": "7741124012283341341",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "SOPORTA_MEMORIA_EXPANDIBLE",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "NO",
+                  "id": "7741124012284716867",
+                  "value": "NO"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "SOPORTA MEMORIA EXPANDIBLE",
+              "facetable": "false",
+              "id": "7741124012283341364",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CONECTIVIDAD",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "USB",
+                  "id": "7741124012284716842",
+                  "value": "BLUETOOTH - WIFI - GPS - USB"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "CONECTIVIDAD",
+              "facetable": "false",
+              "id": "7741124012283341342",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "SISTEMA_OPERATIVO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "ANDROID",
+                  "id": "7741124012284716864",
+                  "value": "ANDROID"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "SISTEMA OPERATIVO",
+              "facetable": "false",
+              "id": "7741124012283341361",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "SOPORTA_CARGA_INALAMBRICA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "SI",
+                  "id": "7741124012284716865",
+                  "value": "SI"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "SOPORTA CARGA INALAMBRICA",
+              "facetable": "false",
+              "id": "7741124012283341362",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CLASIFICACION",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "256GB",
+                  "id": "7741124012284716840",
+                  "value": "HONOR 90 LITE 256GB"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "CLASIFICACION",
+              "facetable": "false",
+              "id": "7741124012283341340",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TECNOLOGIA",
+              "attribute.natural": "[\"2G - 3G - 4G - 5G\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "5G",
+                  "id": "7741124012284716870",
+                  "value": "2G - 3G - 4G - 5G"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Red",
+              "facetable": "true",
+              "id": "7741124012283341367",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "GAMA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "ALTA",
+                  "id": "7741124012284716845",
+                  "value": "ALTA"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "GAMA",
+              "facetable": "false",
+              "id": "7741124012283341345",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TIPO_DE_PRODUCTO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "SMARTPHONE",
+                  "id": "7741124012284716872",
+                  "value": "SMARTPHONE"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "TIPO DE PRODUCTO",
+              "facetable": "false",
+              "id": "7741124012283341368",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "GARANTIA_MESES",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "id": "7741124012284716846",
+                  "value": "12"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "GARANTIA MESES",
+              "facetable": "false",
+              "id": "7741124012283341346",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TAMANO_DE_PANTALLA_PULGADAS",
+              "attribute.natural": "[\"6.7\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "id": "7741124012284716868",
+                  "value": "6.7"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Tamaño pantalla",
+              "facetable": "true",
+              "id": "7741124012283341365",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitOfMeasure": " ",
+                  "unitID": ".",
+                  "id": "7741124012284716843",
+                  "value": "162.9 X 74.5 X 7.48"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "DIMENSIONES_LARGO_ANCHO_ALTO_",
+              "facetable": "false",
+              "id": "7741124012283341343",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TASA_DE_REFRESCO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "90HZ",
+                  "id": "7741124012284716869",
+                  "value": "90HZ"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "TASA DE REFRESCO",
+              "facetable": "false",
+              "id": "7741124012283341366",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "DUAL_SIM",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "NO",
+                  "id": "7741124012284716844",
+                  "value": "NO"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "DUAL SIM",
+              "facetable": "false",
+              "id": "7741124012283341344",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MEMORIA_RAM",
+              "attribute.natural": "[\"8GB\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "8GB",
+                  "id": "7741124012284716853",
+                  "value": "8GB"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Memoria RAM",
+              "facetable": "true",
+              "id": "7741124012283334352",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MARCA_PROCESADOR",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "MEDIATEK",
+                  "id": "7741124012284716849",
+                  "value": "MEDIATEK"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "MARCA PROCESADOR",
+              "facetable": "false",
+              "id": "7741124012283341349",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TIPO_DE_SIM",
+              "attribute.natural": "[\"SIM CARD\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "CARD",
+                  "id": "7741124012284716873",
+                  "value": "SIM CARD"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Tipo SIM",
+              "facetable": "true",
+              "id": "7741124012283341369",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "INCLUYE_CARGADOR_CARGA_RAPIDA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "NO",
+                  "id": "7741124012284716847",
+                  "value": "NO"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "INCLUYE CARGADOR CARGA RAPIDA",
+              "facetable": "false",
+              "id": "7741124012283341347",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "LINEA_DE_PRODUCTO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "SALIDA",
+                  "id": "7741124012284716848",
+                  "value": "SALIDA"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "LINEA DE PRODUCTO",
+              "facetable": "false",
+              "id": "7741124012283341348",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "RESOLUCION_DE_VIDEO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "1440P",
+                  "id": "7741124012284716863",
+                  "value": "1440P"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "RESOLUCION DE VIDEO",
+              "facetable": "false",
+              "id": "7741124012283341360",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MODELO_PROCESADOR",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "DIMENSITY",
+                  "id": "7741124012284716854",
+                  "value": "DIMENSITY 6020"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "MODELO PROCESADOR",
+              "facetable": "false",
+              "id": "7741124012283341352",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MPX_CAMARA_PRINCIPAL",
+              "attribute.natural": "[\"100 MPX + 5 MPX + 2 MPX\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "MPX",
+                  "id": "7741124012284716855",
+                  "value": "100 MPX + 5 MPX + 2 MPX"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "MPX Cámara principal",
+              "facetable": "true",
+              "id": "7741124012283341353",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "VERSION_SISTEMA_OPERATIVO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "id": "7741124012284716876",
+                  "value": "13"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "VERSION SISTEMA OPERATIVO",
+              "facetable": "false",
+              "id": "7741124012283341372",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MARCA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "HONOR",
+                  "id": "7741124012284716850",
+                  "value": "HONOR"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "MARCA",
+              "facetable": "false",
+              "id": "7741124012283341350",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MODELO_DEL_PRODUCTO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "LITE",
+                  "id": "7741124012284716851",
+                  "value": "90 LITE"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "MODELO DEL PRODUCTO",
+              "facetable": "false",
+              "id": "7741124012283341351",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "OBSEQUIO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "NA",
+                  "id": "7741124012284716859",
+                  "value": "NA"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "OBSEQUIO",
+              "facetable": "false",
+              "id": "7741124012283341356",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "BATERIA",
+              "attribute.natural": "[\"4.500 MAH\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "MAH",
+                  "id": "7741124012284716835",
+                  "value": "4.500 MAH"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Batería",
+              "facetable": "true",
+              "id": "7741124012283341335",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "PESO_GRAMOS",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "id": "7741124012284716860",
+                  "value": "179"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "PESO GRAMOS",
+              "facetable": "false",
+              "id": "7741124012283341357",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MPX_CAMARA_SELFIE",
+              "attribute.natural": "[\"16 MPX\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "MPX",
+                  "id": "7741124012284716856",
+                  "value": "16 MPX"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "MPX Cámara frontal",
+              "facetable": "true",
+              "id": "7741124012283341354",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "NANOMETROS_CHIPSET",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "C45",
+                  "id": "7741124012284716857",
+                  "value": "7 NM"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "NANOMETROS CHIPSET",
+              "facetable": "false",
+              "id": "7741124012283341355",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CANT_CAMARA_SELFIE",
+              "attribute.natural": "[\"SENCILLA\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "SENCILLA",
+                  "id": "7741124012284716838",
+                  "value": "SENCILLA"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Cámara frontal",
+              "facetable": "true",
+              "id": "7741124012283341338",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CATEGORIA_DE_USO",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "year",
+                  "id": "7741124012284716839",
+                  "value": "VOZ Y DATOS"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "CATEGORIA DE USO",
+              "facetable": "false",
+              "id": "7741124012283341339",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "PROTECCION_POLVO_AGUA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "NO",
+                  "id": "7741124012284716861",
+                  "value": "NO"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "PROTECCION POLVO AGUA",
+              "facetable": "false",
+              "id": "7741124012283341358",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CANTIDAD_DE_NUCLEOS_TOTAL",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "id": "7741124012284716836",
+                  "value": "8"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "CANTIDAD DE NUCLEOS TOTAL",
+              "facetable": "false",
+              "id": "7741124012283341336",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "RESOLUCION_DE_PANTALLA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitOfMeasure": " ",
+                  "unitID": ".",
+                  "id": "7741124012284716862",
+                  "value": "2.388 X 1.080"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "RESOLUCION DE PANTALLA",
+              "facetable": "false",
+              "id": "7741124012283341359",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "CANT_CAMARA_PRINCIPAL",
+              "attribute.natural": "[\"TRIPLE\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "TRIPLE",
+                  "id": "7741124012284716837",
+                  "value": "TRIPLE"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Cámara principal",
+              "facetable": "true",
+              "id": "7741124012283341337",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "MEMORIA_INTERNA",
+              "attribute.natural": "[\"256GB\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "256GB",
+                  "id": "7741124012284716852",
+                  "value": "256GB"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Memoria interna",
+              "facetable": "true",
+              "id": "7741124012283334349",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Color",
+              "attribute.natural": "[\"NEGRO\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "NEGRO",
+                  "sequence": "4.0",
+                  "unitID": "NEGRO",
+                  "id": "7741124012283336835",
+                  "value": "NEGRO"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "Color",
+              "facetable": "true",
+              "id": "7741124012283334345",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TIPO_DE_PANTALLA",
+              "attribute.natural": "[\"LCD TFT\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "TFT",
+                  "id": "7741124012284716871",
+                  "value": "LCD TFT"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "name": "TIPO DE PANTALLA",
+              "facetable": "false",
+              "id": "7741124012283334343",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "TIPO_DE_VENTA",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "POSTPAGO",
+                  "id": "7741124012284716874",
+                  "value": "POSTPAGO"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "TIPO DE VENTA",
+              "facetable": "false",
+              "id": "7741124012283341370",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "VELOCIDAD_MAX_NUCLEOS",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "GHZ",
+                  "id": "7741124012284716875",
+                  "value": "2.2 GHZ"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "VELOCIDAD MAX NUCLEOS",
+              "facetable": "false",
+              "id": "7741124012283341371",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "NOMBRE_COMERCIAL",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055299P",
+                  "sequence": "0.0",
+                  "unitID": "256GB",
+                  "id": "7741124012284716858",
+                  "value": "HONOR 90 LITE 256GB"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "NOMBRE COMERCIAL",
+              "facetable": "false",
+              "id": "7741124012283339837",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-negro.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-5g-negro.jpg",
+              "name": "HONOR 90 LITE 256GB 5G Main Image",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327.jpg",
+              "sequence": "1.0",
+              "catentry_id": "3074457345616839805",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327.jpg",
+              "name": "HONOR 90 LITE 256GB 5G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_2.jpg",
+              "sequence": "2.0",
+              "catentry_id": "3074457345616839805",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_2.jpg",
+              "name": "HONOR 90 LITE 256GB 5G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_2.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_2.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_3.jpg",
+              "sequence": "3.0",
+              "catentry_id": "3074457345616839805",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_3.jpg",
+              "name": "HONOR 90 LITE 256GB 5G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_3.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_3.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_4.jpg",
+              "sequence": "4.0",
+              "catentry_id": "3074457345616839805",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_4.jpg",
+              "name": "HONOR 90 LITE 256GB 5G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_4.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_4.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_5.jpg",
+              "sequence": "5.0",
+              "catentry_id": "3074457345616839805",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_5.jpg",
+              "name": "HONOR 90 LITE 256GB 5G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_5.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_5.jpg"
+            },
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_6.jpg",
+              "sequence": "6.0",
+              "catentry_id": "3074457345616839805",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70055327_6.jpg",
+              "name": "HONOR 90 LITE 256GB 5G",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_6.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055327_6.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=1&id=3074457345616680171",
+          "id": "3074457345616839805",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}
