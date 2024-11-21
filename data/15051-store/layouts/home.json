@@ -36,7 +36,7 @@
               {
                 "id": "15102",
                 "name": "Sección categorías",
-                "widgetName": "clarob2b-categoria-recomendados-widget",
+                "widgetName": "clarob2b-category-recommendation-widget",
                 "sequence": 0.0,
                 "properties": {
                   "containerClass": "category-container-class",
