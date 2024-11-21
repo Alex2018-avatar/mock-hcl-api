@@ -1,0 +1,596 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "3074457345617889169",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "3074457345617885668",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "3074457345617899176",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "3.0"
+        },
+        {
+          "resultId": "3074457345617886669",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "4.0"
+        },
+        {
+          "resultId": "3074457345617883668",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "5.0"
+        },
+        {
+          "resultId": "3074457345617895169",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "6.0"
+        },
+        {
+          "resultId": "3074457345616817089",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "7.0"
+        },
+        {
+          "resultId": "10063",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "8.0"
+        },
+        {
+          "resultId": "10061",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "9.0"
+        },
+        {
+          "resultId": "10059",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "10.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715842587",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2c-mas-ofertas-para-ti-widget_14602",
+      "baseMarketingSpotActivityData": [
+        {
+          "baseMarketingSpotActivityName": "Nokia 215 4G",
+          "productId": "3074457345617889169",
+          "description": [
+            {
+              "longDescription": "Nokia 215 4G",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/nokia-215-4g-negro.jpg",
+              "language": "-5",
+              "shortDescription": "Nokia 215 4G",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70038158.jpg",
+              "productName": "Nokia 215 4G"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "239900.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345617889169",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70058702P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "239900.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "239900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "HUA NOVA10PRO256G PL",
+          "productId": "3074457345617885668",
+          "description": [
+            {
+              "longDescription": "HUA NOVA10PRO256G PL",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei_blanco.jpg",
+              "language": "-5",
+              "shortDescription": "HUA NOVA10PRO256G PL",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70049663.jpg",
+              "productName": "HUA NOVA10PRO256G PL"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "1498900.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345617885668",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70055299P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "1498900.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "1498900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "HOR X9 128GB NG AUDKODP200",
+          "productId": "3074457345617899176",
+          "description": [
+            {
+              "longDescription": "HOR X9 128GB NG AUDKODP200",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-5g-negro.jpg",
+              "language": "-5",
+              "shortDescription": "HOR X9 128GB NG AUDKODP200",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70050844.jpg",
+              "productName": "HOR X9 128GB NG AUDKODP200"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "1783691.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345617899176",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70060041P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "1783691.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "1783691.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "Samsung Galaxy A21S 128 GB",
+          "productId": "3074457345617886669",
+          "description": [
+            {
+              "longDescription": "Samsung Galaxy A21S 128 GB",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/Samsung-Galaxy-A21S-128-GB.jpg",
+              "language": "-5",
+              "shortDescription": "Samsung Galaxy A21S 128 GB",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70036678.jpg",
+              "productName": "Samsung Galaxy A21S 128 GB"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345617886669",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70059283P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "4.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "Vivo Y51 128Gb Cristal",
+          "productId": "3074457345617883668",
+          "description": [
+            {
+              "longDescription": "Vivo Y51 128Gb Cristal",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/Vivo-Y51-128Gb-Cristal.jpg",
+              "language": "-5",
+              "shortDescription": "Vivo Y51 128Gb Cristal",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70038566.jpg",
+              "productName": "Vivo Y51 128Gb Cristal"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345617883668",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70057205P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "5.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "Xiaomi Redmi Note 10 128 GB 5G Gis",
+          "productId": "3074457345617895169",
+          "description": [
+            {
+              "longDescription": "Xiaomi Redmi Note 10 128 GB 5G Gis",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/Xiaomi-Redmi-Note-10-128-GB-5G-Gis.jpg",
+              "language": "-5",
+              "shortDescription": "Xiaomi Redmi Note 10 128 GB 5G Gis",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70039545.jpg",
+              "productName": "Xiaomi Redmi Note 10 128 GB 5G Gis"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345617895169",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70060615P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "6.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "Motorola Moto G20 64 GB Azul",
+          "productId": "3074457345616817089",
+          "description": [
+            {
+              "longDescription": "Motorola Moto G20 64 GB Azul",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/Motorola-Moto-G20-64-GB-Azul.jpg",
+              "language": "-5",
+              "shortDescription": "Motorola Moto G20 64 GB Azul",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70038876.jpg",
+              "productName": "Motorola Moto G20 64 GB Azul"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345616817089",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70055579P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "7.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "ZTE Blade A530 Azul con regalo",
+          "productId": "10063",
+          "description": [
+            {
+              "longDescription": "ZTE Blade A530 Azul",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/ZTE-Blade-A530-Azul.jpg",
+              "language": "-5",
+              "shortDescription": "ZTE Blade A530 Azul",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70030424.jpg",
+              "productName": "ZTE Blade A530 Azul con regalo"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "10063",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70030313P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "8.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "Samsung Galaxy A32 128 GB",
+          "productId": "10061",
+          "description": [
+            {
+              "longDescription": "Samsung Galaxy A32 128 GB",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/Samsung-Galaxy-A32-128-GB.jpg",
+              "language": "-5",
+              "shortDescription": "Samsung Galaxy A32 128 GB",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70039116.jpg",
+              "productName": "Samsung Galaxy A32 128 GB"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "10061",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70039118P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "9.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        },
+        {
+          "baseMarketingSpotActivityName": "Samsung Galaxy A12 128 GB",
+          "productId": "10059",
+          "description": [
+            {
+              "longDescription": "Samsung Galaxy A12 128 GB",
+              "thumbnail": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/200x310/Samsung-Galaxy-A12-128-GB.jpg",
+              "language": "-5",
+              "shortDescription": "Samsung Galaxy A12 128 GB",
+              "fullImage": "https://cdn.demoqafront.claro.com.co/imagenes/v9/catalogo/646x1000/70039002.jpg",
+              "productName": "Samsung Galaxy A12 128 GB"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "780000.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "10059",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70039280P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "780000.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "10.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "778900.00"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/Widget_clarob2c-mas-ofertas-para-ti-widget_14602?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
