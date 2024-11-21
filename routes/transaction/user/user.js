@@ -131,7 +131,7 @@ userRouter.put("/:storeId/person/@self", async (req, res) => {
     resetPassword, xcred_logonPasswordOld, xcred_validationCode,
     xcred_logonPasswordVerify
   } = req.body;
-
+  await delay(1200);
   // RESET PASSWORD
   if (resetPassword) {
     if (xcred_validationCode) {
@@ -195,7 +195,7 @@ userRouter.put("/:storeId/person/@self", async (req, res) => {
 userRouter.post("/:storeId/person", async (req, res) => {
   const { storeId } = req.params;
 
-  await delay(1200);
+  await delay(2200);
 
   if (storeId === "9701") {
     const { xcont_paramPreValidation } = req.body;
@@ -212,7 +212,7 @@ userRouter.post("/:storeId/person", async (req, res) => {
       //res.status(201).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_VALIDATE_CHANNEL_NOT_CORRESPOND", "1003"));
 
       // _ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS
-      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS", "1003"));
+      res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_REQUIRED_FIELDS", "1003"));
 
       // _ERROR_REGISTER_CUSTOMER_VALIDATE_ERROR_LEGADO
       // res.status(201).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_VALIDATE_ERROR_LEGADO", "1003"));
@@ -237,7 +237,7 @@ userRouter.post("/:storeId/person", async (req, res) => {
       // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_ERROR", "1001"));
 
       // _ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED
-      res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED", "0000"));
+      // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SEARCH_NOT_REGISTERED", "0000"));
 
       // _ERROR_REGISTER_CUSTOMER_SAVE_CHANNEL_NOT_CORRESPOND
       // res.status(400).json(generateWCSError("_ERROR_REGISTER_CUSTOMER_SAVE_CHANNEL_NOT_CORRESPOND", "1005"));

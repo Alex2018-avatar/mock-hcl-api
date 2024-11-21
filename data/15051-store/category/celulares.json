@@ -1,0 +1,26 @@
+{
+  "contents": [
+    {
+      "uniqueID": "3074457345616680171",
+      "parentCatalogGroupID": "/10001",
+      "seo": {
+        "href": "/celulares"
+      },
+      "name": "Estrena celular",
+      "identifier": "CELULARESTLT",
+      "shortDescription": "Estrena celular",
+      "storeID": "9701",
+      "longDescription": "Estrena celular",
+      "id": "3074457345616680171",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=-1"
+        },
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=10001"
+        }
+      },
+      "description": "Celulares"
+    }
+  ]
+}

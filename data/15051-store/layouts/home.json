@@ -34,6 +34,25 @@
             "id": "2",
             "widgets": [
               {
+                "id": "15102",
+                "name": "Sección categorías",
+                "widgetName": "clarob2b-categoria-recomendados-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "containerClass": "category-container-class",
+                  "autoPlay": "false",
+                  "interval": "3000",
+                  "emsName": "Widget_clarob2c-categoria-recomendados-widget_15102",
+                  "emsId": "715843085",
+                  "showTitle": "true",
+                  "loop": "true",
+                  "dots": "true",
+                  "infinite": "true",
+                  "title": "compras por categoria",
+                  "populationChoice": "useCategory"
+                }
+              },
+              {
                 "id": "13606",
                 "name": "Descubre las mejores novedades",
                 "widgetName": "clarob2b-news-widget",

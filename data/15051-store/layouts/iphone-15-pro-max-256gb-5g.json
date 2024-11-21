@@ -15,12 +15,9 @@
                 "widgetName": "clarob2b-breadcrumb-trail-widget",
                 "sequence": 0.0,
                 "properties": {
-                  "isStaticPage": "false",
-                  "goBackLabel": "Volver",
-                  "path1": "null",
-                  "path2": "null",
-                  "path3": "null",
-                  "showGoBack": "false"
+                  "isStaticPageOrCustomBreadcrumb": "false",
+                  "textNavigate": "Volver",
+                  "showTextNavigate": "false"
                 }
               }
             ]
@@ -32,7 +29,50 @@
                 "id": "16603",
                 "name": "Detalles del producto",
                 "widgetName": "product-information-widget",
-                "sequence": 0.0
+                "sequence": 0.0,
+                "properties": {
+                  "textName1": "Diseño",
+                  "textAttributes1": "MARCA,TAMANO_DEL_EQUIPO",
+                  "textName2": "Cámara",
+                  "textAttributes2": "CANT_CAMARA_PRINCIPAL,CANT_CAMARA_SELFIE,MPX_CAMARA_PRINCIPAL",
+                  "textName3": "Memoria",
+                  "textName4": "Pantalla",
+                  "textName7": "null",
+                  "textAttributes7": "null",
+                  "textAttributes3": "MEMORIA_INTERNA,MEMORIA_RAM",
+                  "textAttributes4": "RESOLUCION_DE_PANTALLA,TIPO_DE_PANTALLA,TAMANO_DE_PANTALLA_PULGADAS,TASA_DE_REFRESCO",
+                  "textName5": "Batería",
+                  "textAttributes5": "BATERIA,SOPORTA_CARGA_RAPIDA_WATTS,INCLUYE_CARGADOR_CARGA_RAPIDA",
+                  "textName6": "Procesador",
+                  "textAttributes6": "MARCA_PROCESADOR,MODELO_PROCESADOR,TASA_DE_REFRESCO"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "widgets": [
+              {
+                "id": "10586",
+                "name": "Recomendados para ti",
+                "widgetName": "clarob2b-catalog-entry-recommendation-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "containerClass": "carrusel-container-class",
+                  "isLoop": "false",
+                  "isPlaying": "false",
+                  "interval": "3000",
+                  "playDirection": "forward",
+                  "isShowButton": "false",
+                  "buttonLabel": "Ver más",
+                  "buttonUrl": "https://tiendaonline.claro.com.co/",
+                  "emsName": "Widget_clarob2b-catalog-entry-recommendation-widget_10586",
+                  "emsId": "715882507",
+                  "infinite": "false",
+                  "useDefaultTitle": "true",
+                  "populationChoice": "useCatalogEntry",
+                  "isDots": "true"
+                }
               }
             ]
           }

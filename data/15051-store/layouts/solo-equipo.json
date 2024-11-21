@@ -34,7 +34,7 @@
               {
                 "id": "10142",
                 "name": "Lista de producto",
-                "widgetName": "catalog-entry-list-widget",
+                "widgetName": "clarob2b-catalog-entry-list-widget",
                 "sequence": 0.0,
                 "properties": {
                   "emsName": "Widget_catalog-entry-list-widget_10142",

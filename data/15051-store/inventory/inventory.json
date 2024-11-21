@@ -2,28 +2,31 @@
   {
     "availableQuantity": "20.0",
     "onlineStoreName": "AuroraESite",
-    "productId": "3074457345616683171",
+    "productId": "3074457345616817098",
     "unitOfMeasure": "C62",
     "inventoryStatus": "Available",
     "partNumber": "PO_Equ70055641",
+    "x_inventoryStatus": "Disponible",
     "onlineStoreId": "1"
   },
   {
     "availableQuantity": "9.0",
     "onlineStoreName": "AuroraESite",
-    "productId": "3074457345616683171",
+    "productId": "3074457345616817100",
     "unitOfMeasure": "C62",
     "inventoryStatus": "Available",
     "partNumber": "PO_Equ70055665",
+    "x_inventoryStatus": "Pocas unidades disponibles",
     "onlineStoreId": "1"
   },
   {
-    "availableQuantity": "20.0",
+    "availableQuantity": "0.0",
     "onlineStoreName": "AuroraESite",
-    "productId": "3074457345616683171",
+    "productId": "3074457345616817099",
     "unitOfMeasure": "C62",
     "inventoryStatus": "Available",
     "partNumber": "PO_Equ70055659",
+    "x_inventoryStatus": "No disponible",
     "onlineStoreId": "1"
   }
 ]

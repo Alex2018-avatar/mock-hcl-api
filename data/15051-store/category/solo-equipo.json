@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "name": "Solo Equipo",
+      "identifier": "CELULARESTL",
+      "shortDescription": "Solo Equipo",
+      "longDescription": "Solo Equipo",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/categories?depthAndLimit=1,-1,-1,-1,-1&langId=-5&storeId=15051",
+      "uniqueID": "3074457345616679169",
+      "parentCatalogGroupID": "/3074457345616679168/3074457345616679169",
+      "seo": {
+        "href": "/solo-equipo"
+      },
+      "storeID": "9701",
+      "sequence": "1.0",
+      "id": "3074457345616679169",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679168"
+        },
+        "children": [
+          "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616680168",
+          "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616679668"
+        ],
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679169"
+        }
+      },
+      "description": "Solo Equipo"
+    }
+  ]
+}
