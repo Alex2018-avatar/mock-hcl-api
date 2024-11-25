@@ -48,6 +48,15 @@ userRouter.get("/:storeId/person/@self", async (req, res) => {
     registrationApprovalStatus: "Approved",
     passwordExpired: "false",
     primary: "true",
+    "city": "MEDELLIN",
+    "state": "ANTIOQUIA",
+    "addressLine": [
+      "mi casa ",
+      "cerca del metro",
+      "Barrio viejo"
+    ],
+    "businessTitle": "Agrupacion|44",
+    "internalOfficeAddress": "Apartamento|33",
     receiveSMSPreference: [
       {
         storeID: "11",
@@ -82,7 +91,7 @@ userRouter.get("/:storeId/person/@self", async (req, res) => {
         "firstName": "Pepe",
         "email1": "poxx@gmail.com",
         "addressType": "ShippingAndBilling",
-        "nickName": "poxx@gmail.com",
+        "nickName": "mi departamento",
         "addressId": "3074457362950387085",
         "primary": "true",
         "addressLine": [
@@ -173,6 +182,48 @@ userRouter.get("/:storeId/person/@self", async (req, res) => {
         ],
         "geographicalShippingCode": "carca del hotel cielo",
         "addressId": "3074457361088205520",
+        "firstName": "Alex",
+        "email1": "demo@gmail.com",
+        "businessTitle": "Agrupacion|44",
+        "internalOfficeAddress": "Apartamento|33",
+        "state": "ANTIOQUIA",
+        "primary": "false"
+      },
+      {
+        "lastName": "Flores",
+        "zipCode": "12345",
+        "country": "Colombia",
+        "city": "ALEJANDRIA",
+        "addressType": "Billing",
+        "nickName": "entrega factura03",
+        "addressLine": [
+          "00|11|22",
+          "Manzana",
+          "Nombre del Barrio"
+        ],
+        "geographicalShippingCode": "carca del hotel cielo",
+        "addressId": "3074457361088205521",
+        "firstName": "Alex",
+        "email1": "demo@gmail.com",
+        "businessTitle": "Agrupacion|44",
+        "internalOfficeAddress": "Apartamento|33",
+        "state": "ANTIOQUIA",
+        "primary": "false"
+      },
+      {
+        "lastName": "Flores",
+        "zipCode": "12345",
+        "country": "Colombia",
+        "city": "ALEJANDRIA",
+        "addressType": "Billing",
+        "nickName": "entrega factura 02",
+        "addressLine": [
+          "00|11|22",
+          "Manzana",
+          "Nombre del Barrio"
+        ],
+        "geographicalShippingCode": "carca del hotel cielo",
+        "addressId": "3074457361088205523",
         "firstName": "Alex",
         "email1": "demo@gmail.com",
         "businessTitle": "Agrupacion|44",
