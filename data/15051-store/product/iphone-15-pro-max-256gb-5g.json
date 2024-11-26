@@ -506,6 +506,50 @@
           "swatchable": "false"
         },
         {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055637P",
+              "sequence": "0.0",
+              "unitID": "NO",
+              "id": "7741124012283589871",
+              "value": "Terminos y condiciones"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "INCLUYE CARGADOR CARGA RAPIDA",
+          "facetable": "false",
+          "id": "7741124012283341311",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055637P",
+              "sequence": "0.0",
+              "unitID": "NO",
+              "id": "7741124012283589871",
+              "value": "Al utilizar este servicio, aceptas cumplir con los presentes Términos y Condiciones. Este servicio está diseñado para usuarios mayores de 18 años, o menores con autorización de un tutor legal, y debe utilizarse únicamente para fines legales. Todo el contenido, incluyendo textos, imágenes y software, es propiedad intelectual de la empresa y está protegido por leyes aplicables. Nos reservamos el derecho de modificar, suspender o descontinuar el servicio en cualquier momento sin previo aviso. No nos hacemos responsables de daños directos o indirectos derivados del uso del servicio. Para más información, consulta nuestra Política de Privacidad o contáctanos en [correo@example.com]."
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "INCLUYE CARGADOR CARGA RAPIDA",
+          "facetable": "false",
+          "id": "7741124012283341310",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
           "identifier": "LINEA_DE_PRODUCTO",
           "attribute.natural": "[]",
           "usage": "Descriptive",
@@ -1081,6 +1125,50 @@
               "name": "SOPORTA CARGA RAPIDA WATTS",
               "facetable": "false",
               "id": "7741124012283341363",
+              "comparable": "false",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "caja_b_nombre",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055637P",
+                  "sequence": "0.0",
+                  "unitID": "NO",
+                  "id": "7741124012283589871",
+                  "value": "Terminos y condiciones"
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "INCLUYE CARGADOR CARGA RAPIDA",
+              "facetable": "false",
+              "id": "7741124012283341311",
+              "comparable": "false",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "caja_b_desc",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70055637P",
+                  "sequence": "0.0",
+                  "unitID": "NO",
+                  "id": "7741124012283589871",
+                  "value": "Al utilizar este servicio, aceptas cumplir con los presentes Términos y Condiciones. Este servicio está diseñado para usuarios mayores de 18 años, o menores con autorización de un tutor legal, y debe utilizarse únicamente para fines legales. Todo el contenido, incluyendo textos, imágenes y software, es propiedad intelectual de la empresa y está protegido por leyes aplicables. Nos reservamos el derecho de modificar, suspender o descontinuar el servicio en cualquier momento sin previo aviso. No nos hacemos responsables de daños directos o indirectos derivados del uso del servicio. Para más información, consulta nuestra Política de Privacidad o contáctanos en [correo@example.com]."
+                }
+              ],
+              "displayable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "name": "INCLUYE CARGADOR CARGA RAPIDA",
+              "facetable": "false",
+              "id": "7741124012283341310",
               "comparable": "false",
               "swatchable": "false"
             },
