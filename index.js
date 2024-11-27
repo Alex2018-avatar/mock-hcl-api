@@ -19,6 +19,7 @@ import geoNodeRouter from './routes/transaction/geonode/geonode.js';
 import addressRouter from './routes/transaction/address/address.js';
 import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
+import cookieParser from 'cookie-parser';
 
 const app = express();
 const __filename = fileURLToPath(import.meta.url);
@@ -32,6 +33,7 @@ app.get('/', (req, res) => {
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.json());
 app.use(morganMiddleware);
+app.use(cookieParser());
 // Configurar sesiones
 app.use(
   session({

@@ -3,6 +3,7 @@ import path from "node:path";
 import fs from "node:fs";
 import { fileURLToPath } from "url";
 import { generateWCSError } from "../../../utils/error-utils.js";
+import { identifyUserType } from "../../../middleware/auth.js";
 
 const userRouter = express.Router();
 const fsPromises = fs.promises;
@@ -12,245 +13,266 @@ const __dirname = path.dirname(__filename);
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // /wcs/resources/store/11/person/@self?langId=-1
-userRouter.get("/:storeId/person/@self", async (req, res) => {
+userRouter.get("/:storeId/person/@self", identifyUserType, async (req, res) => {
   const { storeId, emsName } = req.params;
-  console.log("emsName: ", req.body);
-  res.status(200).json({
-    lastName: "Ramos",
-    registrationStatus: "RegisteredPerson",
-    preferredLanguage: "es_ES",
-    resourceId:
-      "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/11/person/@self?langId=-1",
-    preferredCurrency: "USD",
-    distinguishedName:
-      "uid=demo@gmail.com,o=default organization,o=root organization",
-    orgizationId: "-2000",
-    addressId: "3074457362980024554",
-    accountStatus: "Enabled",
-    email1: "demo@gmail.com",
-    profileType: "Consumer",
-    challengeQuestion: "-",
-    nickName: "demo@gmail.com",
-    addressType: "ShippingAndBilling",
-    resourceName: "person",
-    userId: "1002",
-    registrationDateTime: "2024-10-18T17:34:12.767Z",
-    organizationDistinguishedName: "o=default organization,o=root organization",
-    firstName: "Juan",
-    logonId: "demo@gmail.com",
-    receiveEmailPreference: [
-      {
-        storeID: "11",
-        value: "true",
-      },
-    ],
-    lastUpdate: "2024-10-18T17:34:12.767Z",
-    registrationApprovalStatus: "Approved",
-    passwordExpired: "false",
-    primary: "true",
-    "city": "MEDELLIN",
-    "state": "ANTIOQUIA",
-    "addressLine": [
-      "mi casa ",
-      "cerca del metro",
-      "Barrio viejo"
-    ],
-    "businessTitle": "Agrupacion|44",
-    "internalOfficeAddress": "Apartamento|33",
-    receiveSMSPreference: [
-      {
-        storeID: "11",
-        value: "false",
-      },
-    ],
-    contact: [
-      {
-        "lastName": "grillo",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "MEDELLIN",
-        "addressType": "ShippingAndBilling",
-        "nickName": "casa",
-        "addressLine": [
-          "mi casa ",
-          "cerca del metro",
-          "Barrio viejo"
-        ],
-        "addressId": "3074457362951363813",
-        "phone1": "87878878",
-        "firstName": "pepe",
-        "email1": "poxx2@gmail.com",
-        "primary": "false",
-        "geographicalShippingCode": "carca del hotel cielo",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-      },
-      {
-        "lastName": "Grillo",
-        "firstName": "Pepe",
-        "email1": "poxx@gmail.com",
-        "addressType": "ShippingAndBilling",
-        "nickName": "mi departamento",
-        "addressId": "3074457362950387085",
-        "primary": "true",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "city": "MEDELLÍN",
-      },
-      {
-        "lastName": "Flores",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "MEDELLÍN",
-        "addressType": "ShippingAndBilling",
-        "nickName": "mi casa",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "addressId": "3074457361090203510",
-        "firstName": "Alex",
-        "email1": "demo@gmail.com",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "primary": "false"
-      },
-      {
-        "lastName": "Flores",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "ALEJANDRIA",
-        "addressType": "ShippingAndBilling",
-        "nickName": "mi oficina",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "addressId": "3074457361088642674",
-        "firstName": "Alex",
-        "email1": "demo@gmail.com",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "primary": "false"
-      },
-      {
-        "lastName": "Flores",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "ALEJANDRIA",
-        "addressType": "ShippingAndBilling",
-        "nickName": "wqdsfsd",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "addressId": "3074457361088205870",
-        "firstName": "Alex",
-        "email1": "demo@gmail.com",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "primary": "false"
-      },
-      {
-        "lastName": "Flores",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "ALEJANDRIA",
-        "addressType": "Billing",
-        "nickName": "entrega factura",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "addressId": "3074457361088205520",
-        "firstName": "Alex",
-        "email1": "demo@gmail.com",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "primary": "false"
-      },
-      {
-        "lastName": "Flores",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "ALEJANDRIA",
-        "addressType": "Billing",
-        "nickName": "entrega factura03",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "addressId": "3074457361088205521",
-        "firstName": "Alex",
-        "email1": "demo@gmail.com",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "primary": "false"
-      },
-      {
-        "lastName": "Flores",
-        "zipCode": "12345",
-        "country": "Colombia",
-        "city": "ALEJANDRIA",
-        "addressType": "Billing",
-        "nickName": "entrega factura 02",
-        "addressLine": [
-          "00|11|22",
-          "Manzana",
-          "Nombre del Barrio"
-        ],
-        "geographicalShippingCode": "carca del hotel cielo",
-        "addressId": "3074457361088205523",
-        "firstName": "Alex",
-        "email1": "demo@gmail.com",
-        "businessTitle": "Agrupacion|44",
-        "internalOfficeAddress": "Apartamento|33",
-        "state": "ANTIOQUIA",
-        "primary": "false"
-      }
-    ],
-  });
+  console.log("userType: ", req.logged);
+  const isLogged = req.logged;
+  if (isLogged) {
+    res.status(200).json({
+      lastName: "Ramos",
+      registrationStatus: "RegisteredPerson",
+      preferredLanguage: "es_ES",
+      resourceId:
+        "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/11/person/@self?langId=-1",
+      preferredCurrency: "USD",
+      distinguishedName:
+        "uid=demo@gmail.com,o=default organization,o=root organization",
+      orgizationId: "-2000",
+      addressId: "3074457362980024554",
+      accountStatus: "Enabled",
+      email1: "demo@gmail.com",
+      profileType: "Consumer",
+      challengeQuestion: "-",
+      nickName: "demo@gmail.com",
+      addressType: "ShippingAndBilling",
+      resourceName: "person",
+      userId: "1002",
+      registrationDateTime: "2024-10-18T17:34:12.767Z",
+      organizationDistinguishedName: "o=default organization,o=root organization",
+      firstName: "Juan",
+      logonId: "demo@gmail.com",
+      receiveEmailPreference: [
+        {
+          storeID: "11",
+          value: "true",
+        },
+      ],
+      lastUpdate: "2024-10-18T17:34:12.767Z",
+      registrationApprovalStatus: "Approved",
+      passwordExpired: "false",
+      primary: "true",
+      "city": "MEDELLIN",
+      "state": "ANTIOQUIA",
+      "addressLine": [
+        "mi casa ",
+        "cerca del metro",
+        "Barrio viejo"
+      ],
+      "businessTitle": "Agrupacion|44",
+      "internalOfficeAddress": "Apartamento|33",
+      receiveSMSPreference: [
+        {
+          storeID: "11",
+          value: "false",
+        },
+      ],
+      contact: [
+        {
+          "lastName": "grillo",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "MEDELLIN",
+          "addressType": "ShippingAndBilling",
+          "nickName": "casa",
+          "addressLine": [
+            "mi casa ",
+            "cerca del metro",
+            "Barrio viejo"
+          ],
+          "addressId": "3074457362951363813",
+          "phone1": "87878878",
+          "firstName": "pepe",
+          "email1": "poxx2@gmail.com",
+          "primary": "false",
+          "geographicalShippingCode": "carca del hotel cielo",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+        },
+        {
+          "lastName": "Grillo",
+          "firstName": "Pepe",
+          "email1": "poxx@gmail.com",
+          "addressType": "ShippingAndBilling",
+          "nickName": "mi departamento",
+          "addressId": "3074457362950387085",
+          "primary": "true",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "city": "MEDELLÍN",
+        },
+        {
+          "lastName": "Flores",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "MEDELLÍN",
+          "addressType": "ShippingAndBilling",
+          "nickName": "mi casa",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "addressId": "3074457361090203510",
+          "firstName": "Alex",
+          "email1": "demo@gmail.com",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "primary": "false"
+        },
+        {
+          "lastName": "Flores",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "ALEJANDRIA",
+          "addressType": "ShippingAndBilling",
+          "nickName": "mi oficina",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "addressId": "3074457361088642674",
+          "firstName": "Alex",
+          "email1": "demo@gmail.com",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "primary": "false"
+        },
+        {
+          "lastName": "Flores",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "ALEJANDRIA",
+          "addressType": "ShippingAndBilling",
+          "nickName": "wqdsfsd",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "addressId": "3074457361088205870",
+          "firstName": "Alex",
+          "email1": "demo@gmail.com",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "primary": "false"
+        },
+        {
+          "lastName": "Flores",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "ALEJANDRIA",
+          "addressType": "Billing",
+          "nickName": "entrega factura",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "addressId": "3074457361088205520",
+          "firstName": "Alex",
+          "email1": "demo@gmail.com",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "primary": "false"
+        },
+        {
+          "lastName": "Flores",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "ALEJANDRIA",
+          "addressType": "Billing",
+          "nickName": "entrega factura03",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "addressId": "3074457361088205521",
+          "firstName": "Alex",
+          "email1": "demo@gmail.com",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "primary": "false"
+        },
+        {
+          "lastName": "Flores",
+          "zipCode": "12345",
+          "country": "Colombia",
+          "city": "ALEJANDRIA",
+          "addressType": "Billing",
+          "nickName": "entrega factura 02",
+          "addressLine": [
+            "00|11|22",
+            "Manzana",
+            "Nombre del Barrio"
+          ],
+          "geographicalShippingCode": "carca del hotel cielo",
+          "addressId": "3074457361088205523",
+          "firstName": "Alex",
+          "email1": "demo@gmail.com",
+          "businessTitle": "Agrupacion|44",
+          "internalOfficeAddress": "Apartamento|33",
+          "state": "ANTIOQUIA",
+          "primary": "false"
+        }
+      ],
+    });
+  } else {
+    res.status(200).json({
+      "organizationDistinguishedName": "o=default organization,o=root organization",
+      "resourceId": "https:\/\/commerce-preview.sbx0394.play.hclsofy.com:5443\/wcs\/resources\/store\/41\/person\/@self?langId=-1",
+      "resourceName": "person",
+      "userId": "37",
+      "orgizationId": "-2000"
+    });
+  }
 });
 
 // /store/{storeId}/person/{userId}
-userRouter.get("/:storeId/person/:userId", async (req, res) => {
+userRouter.get("/:storeId/person/:userId", identifyUserType, async (req, res) => {
   const { profileName } = req.query;
+  const isLogged = req.logged;
+  console.log('profileName: ', { profileName, isLogged });
   if (profileName) {
-    res.status(200).json({
-      rolesWithDetails: [
-        {
-          displayName: "Cliente registrado",
-          roleId: "-29",
-          name: "Registered Customer",
-          description: null,
-        },
-      ],
-      displayName: "",
-      userId: "1002",
-    });
+    if (isLogged) {
+      res.status(200).json({
+        rolesWithDetails: [
+          {
+            displayName: "Cliente registrado",
+            roleId: "-29",
+            name: "Registered Customer",
+            description: null,
+          },
+        ],
+        displayName: "",
+        userId: "1002",
+      });
+    } else {
+      res.status(200).json({
+        "rolesWithDetails": [],
+        "displayName": "",
+        "userId": "38"
+      });
+    }
   } else {
     console.log("Ruta completa: ", req.originalUrl);
     res.status(200).json({

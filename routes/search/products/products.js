@@ -14,7 +14,6 @@ const __dirname = path.dirname(__filename);
 // /search/resources/api/v2/products?storeId=11&categoryId=10502&limit=12&offset=0&contractId=-11005&currency=USD&langId=-1&profileName=HCL_V2_findProductsByCategoryWithPriceRange
 productsRouter.get('/products', async (req, res) => {
   const { storeId, partNumber, id, searchTerm, categoryId } = req.query;
-  console.log('{ storeId, partNumber, id, searchTerm, categoryId }: ', { storeId, partNumber, id, searchTerm, categoryId });
 
   try {
     if (categoryId) {

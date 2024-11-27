@@ -1,4 +1,5 @@
 import express from 'express';
+import { identifyUserType } from '../../../middleware/auth.js';
 // import countriesJSON from '../../../data/country_state.json' assert { type: "json" };
 // import onlineStoreJSON from '../../../data/online_store.json' assert { type: "json" };
 
@@ -11,11 +12,11 @@ organizationRouter.get('/:storeId/organization/@self/entitled_orgs', (req, res) 
 })
 
 // /wcs/resources/store/11/usercontext/@self/contextdata?langId=-1
-organizationRouter.get('/:storeId/usercontext/@self/contextdata', (req, res) => {
-  // console.log('req: ', req.headers);
+organizationRouter.get('/:storeId/usercontext/@self/contextdata', identifyUserType, (req, res) => {
+  const isLogged = req.logged;
   const { cookie } = req.headers;
-  console.log('cookie: ', cookie);
-  if (!cookie) {
+
+  if (!isLogged) {
     res.status(200).json({
       "globalization": {
         "preferredCurrency": "COP",
@@ -44,10 +45,10 @@ organizationRouter.get('/:storeId/usercontext/@self/contextdata', (req, res) => 
       },
       "isPartiallyAuthenticated": false,
       "basicInfo": {
-        "runAsId": -1002,
-        "callerId": -1002,
+        "runAsId": 38,
+        "callerId": 38,
         "registerType": "G",
-        "storeId": 11,
+        "storeId": 9701,
         "channelId": -1
       }
     });
