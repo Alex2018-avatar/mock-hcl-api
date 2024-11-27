@@ -4,7 +4,7 @@
       "layout": {
         "id": "14122",
         "name": "B2BProductListingPageLayout",
-        "containerName": "product-listing-page",
+        "containerName": "clarob2b-product-listing-page",
         "slots": [
           {
             "id": "1",
