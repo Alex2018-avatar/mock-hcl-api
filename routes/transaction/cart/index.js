@@ -156,5 +156,24 @@ cartRouter.get('/:storeId/order/:orderId', async (req, res) => {
   res.status(200).json(response);
 });
 
+// /wcs/resources/store/9701/validate/cartOrder
+cartRouter.post('/:storeId/validate/cartOrder', async (req, res) => {
+  res.status(200).json({
+    "success": true,
+    "message": "La cantidad y el monto del carrito es válido",
+    "status": 200
+  });
+
+  // ERRORS
+  // Response: Monto excede el límite
+  // res.status(400).json(generateWCSError("_ERROR_HANDLER_KEY_CART_LIMIT_EXCEEDED", "1001"));
+
+  // Response: Error Campos obligatorios
+  // res.status(400).json(generateWCSError("_ERROR_HANDLER_KEY_REQUIRED_FIELDS", "1001"));
+
+  // Response: Error geérico
+  // res.status(400).json(generateWCSError("_GENERIC_ERROR", "1001"));
+
+});
 
 export default cartRouter;

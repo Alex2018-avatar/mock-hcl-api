@@ -99,5 +99,23 @@
     "internalOfficeAddress": "Apartamento|33",
     "state": "ANTIOQUIA",
     "primary": "false"
+  },
+  {
+    "lastName": "becerra",
+    "zipCode": "715839466",
+    "country": "Colombia",
+    "city": "MEDELL\u00cdN",
+    "nickName": "mi colegio",
+    "addressType": "ShippingAndBilling",
+    "geographicalTaxCode": "BARRIO BARRIOS ALTOS MANZANA 13 MANZANA 23|844|14 MEZZANINE 11",
+    "addressLine": ["23|844|14", "MANZANA", "Barrios altos"],
+    "geographicalShippingCode": "carca del hotel cielo t3",
+    "addressId": "3074457368950583871",
+    "firstName": "Alex",
+    "email1": "abecerra@avatar-global.com",
+    "businessTitle": "MANZANA|13",
+    "internalOfficeAddress": "MEZZANINE|11",
+    "state": "ANTIOQUIA",
+    "primary": "false"
   }
 ]
