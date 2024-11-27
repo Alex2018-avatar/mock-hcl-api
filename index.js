@@ -1,5 +1,6 @@
 import express from 'express';
 import path from 'node:path';
+import session from 'express-session';
 import { fileURLToPath } from 'url';
 import storeRouter from './routes/transaction/store/store.js';
 import organizationRouter from './routes/transaction/organization/organization.js';
@@ -31,6 +32,15 @@ app.get('/', (req, res) => {
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.json());
 app.use(morganMiddleware);
+// Configurar sesiones
+app.use(
+  session({
+    secret: 'your-secret-key-sjdj@sjsjsjk-4sd4s4d4',
+    resave: false,
+    saveUninitialized: true,
+    cookie: { secure: false },
+  })
+);
 
 // transactionContextPath is '/wcs/resources/store'
 app.use(config.transactionContextPath, storeRouter);

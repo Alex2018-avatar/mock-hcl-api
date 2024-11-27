@@ -3,6 +3,9 @@ import path from 'node:path';
 import fs from 'node:fs';
 import { fileURLToPath } from 'url';
 import { delay } from '../../../utils/product-utils.js';
+import { generateWCSError } from '../../../utils/error-utils.js';
+import { addItemToArray, generateOrderItem, updateCartWithNewItem } from '../../../helpers/order-item-generator.js';
+import { generateShippingInfo } from '../../../helpers/shipping-info.js';
 
 const cartRouter = express.Router()
 const fsPromises = fs.promises;
@@ -11,34 +14,86 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // /wcs/resources/store/15051/cart/@self?langId=-5&sortOrder=desc
-cartRouter.get('/:storeId/cart/@self', async (req, res) => {
-  try {
-    const { storeId, emsName } = req.params;
-    const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/cart/cart.json`);
-    const data = await fsPromises.readFile(filePath, 'utf8');
-    const response = JSON.parse(data);
-    res.status(200).json(response);
-  } catch (error) {
-    res.status(404).json({});
+cartRouter.get('/:storeId/cart/@self', async (req, res, next) => {
+  const { storeId } = req.params;
+  // Si no hay carrito en sesión para esta tienda, cargarlo del archivo
+  if (!req.session.carts) {
+    req.session.carts = {};
+  }
 
+  if (req.session.carts[storeId]) {
+    res.status(200).json(req.session.carts[storeId]);
+  } else {
+    res.status(404).json({});
   }
 });
 
 // /wcs/resources/store/15051/cart
 cartRouter.post('/:storeId/cart', async (req, res) => {
   const { storeId, emsName } = req.params;
-  await delay(1000);
-  res.status(200).json({
-    "orderId": "369101762825",
-    "orderItem": [
-      {
-        "orderItemId": "1830001"
-      }
-    ],
-    "resourceName": "cart"
-  });
+  const { orderItem } = req.body;
+  try {
+    const generatedOrderItem = await generateOrderItem(orderItem[0]);
+    // ------------------------------------------------------
+    if (!req.session.carts) {
+      req.session.carts = {};
+    }
+
+    if (req.session.carts[storeId]) {
+      const cart = req.session.carts[storeId];
+      const updatedCart = updateCartWithNewItem(cart, generatedOrderItem);
+      req.session.carts[storeId] = updatedCart;
+    } else {
+      const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/cart/cart-base.json`);
+      const data = await fsPromises.readFile(filePath, 'utf8');
+      const cart = JSON.parse(data);
+      const newCart = { ...cart, orderItem: addItemToArray(cart.orderItem, generatedOrderItem) };
+      req.session.carts[storeId] = newCart;
+    }
+    // ------------------------------------------------------
+    await delay(1000);
+    res.status(200).json({
+      "orderId": "369101762825",
+      "orderItem": [
+        {
+          "orderItemId": "1830001"
+        }
+      ],
+      "resourceName": "cart"
+    });
+
+    // Error
+    // res.status(400).json(generateWCSError("_ERROR_DIFFERENT_CATEGORIES", "1005"));
+  } catch (error) {
+    console.log('error: ', error);
+  }
 });
 
+// /wcs/resources/store/15051/cart
+cartRouter.put('/:storeId/cart/@self/update_order_item', async (req, res) => {
+  const { storeId } = req.params;
+  const { orderId, orderItem } = req.body;
+  const { quantity, orderItemId } = orderItem[0];
+  const cart = req.session?.carts?.[storeId] || null;
+
+  if (cart) {
+    // Buscar el item en el carrito
+    const itemIndex = cart.orderItem.findIndex((item) => item.orderItemId === orderItemId);
+    await delay(1000);
+
+    if (quantity === '0') {
+      // Si la cantidad es 0, eliminar el item
+      cart.orderItem.splice(itemIndex, 1);
+      return res.json(cart);
+    } else {
+      // Actualizar la cantidad del item
+      cart.orderItem[itemIndex].quantity = quantity;
+      return res.json(cart);
+    }
+  } else {
+    res.status(200).json({ "orderId": "33485654", "resourceName": "cart" });
+  }
+});
 
 // /wcs/resources/store/9701/cart/@self/usable_shipping_info?langId=-5
 cartRouter.get('/:storeId/cart/@self/usable_shipping_info', async (req, res) => {
@@ -46,7 +101,13 @@ cartRouter.get('/:storeId/cart/@self/usable_shipping_info', async (req, res) => 
   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/cart/usable_shipping_info.json`);
   const data = await fsPromises.readFile(filePath, 'utf8');
   const response = JSON.parse(data);
-  res.status(200).json(response);
+  const cart = req.session?.carts?.[storeId] || null;
+  if (cart) {
+    const usableShippingInfo = await generateShippingInfo(response, cart, storeId)
+    res.status(200).json(usableShippingInfo);
+  } else {
+    res.status(404).json({});
+  }
 });
 
 // /wcs/resources/store/9701/cart/@self/payment_instruction?langId=-5

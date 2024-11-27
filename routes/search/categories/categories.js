@@ -25,7 +25,6 @@ categoriesRouter.get('/categories', async (req, res) => {
       const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/category/recommend-categories.json`);
       const data = await fsPromises.readFile(filePath, 'utf8');
       const response = JSON.parse(data);
-      console.log('data: ', data);
       const categoryFound = response.contents.find(category => category.id === id);
       res.status(200).json({
         contents: [categoryFound]

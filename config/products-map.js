@@ -49,4 +49,14 @@ export const productsMapData = [
     partNumber: 'PO_Equ70055579P',
     jsonName: 'iphone-15-128gb-5g'
   },
+  {
+    id: "3074457345616817098",
+    partNumber: "PO_Equ70055641",
+    jsonName: "iphone-15-pro-max-256gb-po-equ70055641"
+  },
+  {
+    id: "3074457345616817099",
+    partNumber: "PO_Equ70055659",
+    jsonName: "iphone-15-pro-max-256gb-po-equ70055659"
+  },
 ]
