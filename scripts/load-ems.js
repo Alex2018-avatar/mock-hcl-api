@@ -7,7 +7,7 @@ import { emsWidgets } from '../constants/b2c-ems.js';
 
 const fsPromises = fs.promises;
 const __dirname = path.resolve();
-const BASE_URL = 'https://10.82.2.78:9443';
+const BASE_URL = 'https://10.82.2.2:9443';
 const apiPath = '/wcs/resources/store/9701/espot'
 const apiParams = '?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5';
 // /wcs/resources/store/9701/espot/Widget_clarob2c-marketing-content-widget_12609?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5

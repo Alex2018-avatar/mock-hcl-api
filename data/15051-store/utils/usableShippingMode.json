@@ -1,0 +1,22 @@
+[
+  {
+    "shipModeCode": "PickupInStore",
+    "description": "Recoger en tienda",
+    "shipModeId": "715837884",
+    "language": "-5"
+  },
+  {
+    "carrier": "Express",
+    "shipModeCode": "Express",
+    "description": "Expresó",
+    "shipModeId": "715837934",
+    "language": "-5"
+  },
+  {
+    "carrier": "Mail",
+    "shipModeCode": "Mail",
+    "description": "Mail",
+    "shipModeId": "715837984",
+    "language": "-5"
+  }
+]

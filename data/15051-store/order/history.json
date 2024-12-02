@@ -1,0 +1,68 @@
+{
+  "Order": [
+    {
+      "orderTypeCode": "ORD",
+      "totalShippingCharge": "0",
+      "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/order/16781129755",
+      "orderId": "16781129755",
+      "lastUpdateDate": "2024-11-29T19:04:59.238Z",
+      "channel": {
+        "channelIdentifer": {
+          "channelName": "Web Channel",
+          "uniqueID": "-1"
+        },
+        "userData": null,
+        "description": {
+          "language": "-5",
+          "value": "Used when operations performed from a desktop browser."
+        }
+      },
+      "orderStatus": "M",
+      "x_isPurchaseOrderNumberRequired": "false",
+      "orderExtendAttribute": [
+        {
+          "attributeValue": "2024-12-04",
+          "attributeType": "string",
+          "attributeName": "FECHA_ENVIO"
+        }
+      ],
+      "totalShippingChargeCurrency": "COP",
+      "x_firstName": "Alex",
+      "buyerId": "13004",
+      "grandTotalCurrency": "COP",
+      "buyerDistinguishedName": "uid=abecerra@avatar-global.com,o=default organization,o=root organization",
+      "totalTaxByTaxCategory": [
+        {
+          "taxCategoryCode": "Impuesto IVA",
+          "currency": "COP",
+          "value": "380"
+        }
+      ],
+      "x_isPersonalAddressesAllowedForShipping": "true",
+      "storeNameIdentifier": "ClaroB2C",
+      "buyerPONumber": "",
+      "totalProductPriceCurrency": "COP",
+      "totalProductPrice": "599520",
+      "locked": "false",
+      "placedDate": "2024-11-29T19:04:59.068Z",
+      "totalAdjustmentCurrency": "COP",
+      "totalSalesTaxCurrency": "COP",
+      "totalSalesTax": "380",
+      "grandTotal": "599900",
+      "storeUniqueID": "9701",
+      "shipAsComplete": "true",
+      "x_trackingIds": "",
+      "totalShippingTax": "0",
+      "prepareIndicator": "true",
+      "totalShippingTaxCurrency": "COP",
+      "x_lastName": "becerra",
+      "totalAdjustment": "0"
+    }
+  ],
+  "recordSetCount": "1",
+  "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/order/byStatus/N,M,A,B,C,R,S,D,F,G,L,W,APP,RTN",
+  "recordSetStartNumber": "0",
+  "resourceName": "order",
+  "recordSetTotal": "1",
+  "recordSetComplete": "true"
+}

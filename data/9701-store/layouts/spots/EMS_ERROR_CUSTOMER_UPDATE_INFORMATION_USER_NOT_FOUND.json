@@ -4,22 +4,22 @@
       "nextTimeLimit": "-1",
       "defaultContentDisplaySequence": [
         {
-          "resultId": "715840516",
+          "resultId": "715843989",
           "resultFormat": "MarketingContent",
           "displaySequence": "1.0"
         }
       ],
-      "marketingSpotIdentifier": "715841624",
+      "marketingSpotIdentifier": "715845089",
       "behavior": "0",
-      "eSpotName": "EMS_ERROR_TOKEN_INVALID_CREDENTIAL",
+      "eSpotName": "EMS_ERROR_CUSTOMER_UPDATE_INFORMATION_USER_NOT_FOUND",
       "baseMarketingSpotActivityData": [
         {
           "contentFormatName": "Text",
-          "baseMarketingSpotActivityName": "EMS_ERROR_TOKEN_INVALID_CREDENTIAL",
+          "baseMarketingSpotActivityName": "EMS_ERROR_CUSTOMER_UPDATE_INFORMATION_USER_NOT_FOUND",
           "contentClickAction": "None",
-          "contentId": "715840516",
-          "baseMarketingSpotActivityID": "715840516",
-          "contentName": "EMS_ERROR_TOKEN_INVALID_CREDENTIAL",
+          "contentId": "715843989",
+          "baseMarketingSpotActivityID": "715843989",
+          "contentName": "EMS_ERROR_CUSTOMER_UPDATE_INFORMATION_USER_NOT_FOUND",
           "baseMarketingSpotDataType": "MarketingContent",
           "activityIdentifierID": "0",
           "MarketingContentDescription": [
@@ -27,7 +27,7 @@
           ],
           "marketingContentDescription": [
             {
-              "marketingText": "Te invitamos a realizar tu compra en unos minutos.",
+              "marketingText": "<p>No pudimos actualizar tus datos, ingresa más tarde.</p>",
               "language": "-5"
             }
           ],
@@ -47,6 +47,6 @@
       ]
     }
   ],
-  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_TOKEN_INVALID_CREDENTIAL?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_CUSTOMER_UPDATE_INFORMATION_USER_NOT_FOUND?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

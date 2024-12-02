@@ -148,13 +148,13 @@ cartRouter.post('/:storeId/cart/@self/checkout', async (req, res) => {
 });
 
 // /wcs/resources/store/9701/order/5245350969
-cartRouter.get('/:storeId/order/:orderId', async (req, res) => {
-  const { storeId, orderId } = req.params;
-  const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/order/order-${orderId}.json`);
-  const data = await fsPromises.readFile(filePath, 'utf8');
-  const response = JSON.parse(data);
-  res.status(200).json(response);
-});
+// cartRouter.get('/:storeId/order/:orderId', async (req, res) => {
+//   const { storeId, orderId } = req.params;
+//   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/order/order-${orderId}.json`);
+//   const data = await fsPromises.readFile(filePath, 'utf8');
+//   const response = JSON.parse(data);
+//   res.status(200).json(response);
+// });
 
 // /wcs/resources/store/9701/validate/cartOrder
 cartRouter.post('/:storeId/validate/cartOrder', async (req, res) => {

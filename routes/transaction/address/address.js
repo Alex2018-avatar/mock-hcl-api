@@ -167,4 +167,9 @@ addressRouter.get('/:storeId/person/@self/checkoutProfile', async (req, res) => 
   });
 });
 
+// /wcs/resources/store/9701/person/@self/contact/mi%20oficina
+addressRouter.put('/:storeId/person/@self/contact/:nickName', async (req, res) => {
+  res.status(200).json({ "resourceName": "person", "addressId": "3074457362978450855" });
+});
+
 export default addressRouter;
