@@ -7,7 +7,7 @@ import { logger } from '../config/logger.js';
 const fsPromises = fs.promises;
 const __dirname = path.resolve();
 const BASE_URL = 'https://tsapp.b2cdev3auth.claro.com.co';
-const apiPath = '/wcs/resources/store/15051/espot'
+const apiPath = '/wcs/resources/store/10251/espot'
 const apiParams = '?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5';
 // /wcs/resources/store/9701/espot/Widget_clarob2c-marketing-content-widget_12609?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5
 const emsWidgets = [
@@ -31,7 +31,7 @@ const httpsAgent = new https.Agent({
 
 // Función para guardar el widget en un archivo JSON
 const saveWidgetData = async (widgetName, data) => {
-  const filePath = path.resolve(__dirname, `./data/15051-store/layouts/spots/${widgetName}.json`);
+  const filePath = path.resolve(__dirname, `./data/10251-store/layouts/spots/${widgetName}.json`);
   try {
     await fsPromises.writeFile(filePath, JSON.stringify(data, null, 2));
     logger.info(`[SAVED] ${widgetName}`);

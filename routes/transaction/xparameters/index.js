@@ -9,7 +9,7 @@ const fsPromises = fs.promises;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// /api/resources/store/15051/xparameters/STORE_CONF?langId=-5
+// /api/resources/store/10251/xparameters/STORE_CONF?langId=-5
 parametersRouter.get('/:storeId/xparameters/:group', async (req, res) => {
   const { storeId, emsName } = req.params;
   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/xparameters.json`);

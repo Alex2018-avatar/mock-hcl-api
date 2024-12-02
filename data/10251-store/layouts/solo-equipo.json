@@ -3,25 +3,17 @@
     {
       "layout": {
         "id": "14122",
-        "name": "B2CProductListingPageLayout",
-        "containerName": "product-listing-page",
+        "name": "B2BProductListingPageLayout",
+        "containerName": "clarob2b-product-listing-page",
         "slots": [
           {
             "id": "1",
             "widgets": [
               {
-                "id": "16102",
-                "name": "B2C Indicación de ruta",
-                "widgetName": "clarob2c-breadcrumb-trail-widget",
-                "sequence": 0.0,
-                "properties": {
-                  "path1": "Ayuda|/ayuda",
-                  "goBackLabel": "Volver",
-                  "path2": "null",
-                  "path3": "null",
-                  "showGoBack": "false",
-                  "isStaticPage": "false"
-                }
+                "id": "10140",
+                "name": "Indicación de ruta",
+                "widgetName": "clarob2b-breadcrumb-trail-widget",
+                "sequence": 0.0
               }
             ]
           },
@@ -31,7 +23,7 @@
               {
                 "id": "10141",
                 "name": "Navegación por facetas",
-                "widgetName": "facet-navigation-widget",
+                "widgetName": "clarob2b-facet-navigation-widget",
                 "sequence": 0.0
               }
             ]
@@ -42,7 +34,7 @@
               {
                 "id": "10142",
                 "name": "Lista de producto",
-                "widgetName": "catalog-entry-list-widget",
+                "widgetName": "clarob2b-catalog-entry-list-widget",
                 "sequence": 0.0,
                 "properties": {
                   "emsName": "Widget_catalog-entry-list-widget_10142",
@@ -63,7 +55,7 @@
         "imageAlternateDescription": "Imagen para Solo Equipo de ClaroB2B",
         "name": "CATEGORY_PAGE",
         "type": "ProductListPage",
-        "title": "Solo Equipo | ClaroB2C",
+        "title": "Solo Equipo | ClaroB2B",
         "metaDescription": "Solo Equipo",
         "metaKeyword": ""
       },

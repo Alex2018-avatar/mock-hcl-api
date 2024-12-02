@@ -43,7 +43,7 @@ storeRouter.get('/:storeId/features', (req, res) => {
 // /wcs/resources/store/11/contract?q=eligible&langId=-1
 storeRouter.get('/:storeId/contract', (req, res) => {
   const { storeId } = req.params;
-  if (storeId === '15051') {
+  if (storeId === '10251') {
     res.status(200).json({
       "contracts": {
         "4000000000000003006": "Default Contract for ClaroB2B"
@@ -63,10 +63,10 @@ storeRouter.get('/:storeId/seo/token', (req, res) => {
   });
 })
 
-// /wcs/resources/store/11/seo/urlkeyword?q=byLanguageIdAndTokenNameValue&tokenName=StoreToken:CatalogToken&tokenValue=15051&languageId=-5
+// /wcs/resources/store/11/seo/urlkeyword?q=byLanguageIdAndTokenNameValue&tokenName=StoreToken:CatalogToken&tokenValue=10251&languageId=-5
 storeRouter.get('/:storeId/seo/urlkeyword', (req, res) => {
   res.status(200).json({
-    "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/11/seo/urlkeyword?q=byLanguageIdAndTokenNameValue&tokenName=StoreToken:CatalogToken&tokenValue=15051&languageId=-5",
+    "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/11/seo/urlkeyword?q=byLanguageIdAndTokenNameValue&tokenName=StoreToken:CatalogToken&tokenValue=10251&languageId=-5",
     "resourceName": "urlkeyword",
     "resultList": [
       {}
