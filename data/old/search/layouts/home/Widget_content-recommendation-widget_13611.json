@@ -40,11 +40,11 @@
               "baseMarketingKey": "displaySequence"
             }
           ],
-          "contentStoreId": "15051"
+          "contentStoreId": "10251"
         }
       ]
     }
   ],
-  "resourceId": "https://10.82.2.25:443/wcs/resources/store/15051/espot/Widget_content-recommendation-widget_13611?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://10.82.2.25:443/wcs/resources/store/10251/espot/Widget_content-recommendation-widget_13611?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

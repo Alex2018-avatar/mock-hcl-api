@@ -52,11 +52,6 @@
           "resultId": "3074457345616683192",
           "resultFormat": "CatalogEntry",
           "displaySequence": "10.0"
-        },
-        {
-          "resultId": "3074457345616683182",
-          "resultFormat": "CatalogEntry",
-          "displaySequence": "11.0"
         }
       ],
       "marketingSpotIdentifier": "715853591",
@@ -102,14 +97,10 @@
         {
           "filteredResultFormat": "CatalogEntry",
           "filteredResultId": "3074457345616683192"
-        },
-        {
-          "filteredResultFormat": "CatalogEntry",
-          "filteredResultId": "3074457345616683182"
         }
       ]
     }
   ],
-  "resourceId": "https://10.82.2.25:443/wcs/resources/store/10251/espot/Widget_clarob2b-catalog-entry-recommendation-widget_13608?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/espot/Widget_clarob2b-catalog-entry-recommendation-widget_13608?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

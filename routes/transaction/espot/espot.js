@@ -12,7 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 
-// /wcs/resources/store/15051/espot/Widget_clarob2b-content-carousel-widget_13612?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5
+// /wcs/resources/store/10251/espot/Widget_clarob2b-content-carousel-widget_13612?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5
 eSpotRouter.get('/:storeId/espot/:emsName', async (req, res) => {
   const { storeId, emsName } = req.params;
   console.log('emsName:', emsName);

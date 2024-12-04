@@ -1,0 +1,118 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715849504",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        },
+        {
+          "resultId": "715849505",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "2.0"
+        },
+        {
+          "resultId": "715849506",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "3.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715853592",
+      "behavior": "0",
+      "eSpotName": "Widget_clarob2b-content-carousel-widget_13609",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta01",
+          "contentClickAction": "None",
+          "contentId": "715849504",
+          "baseMarketingSpotActivityID": "715849504",
+          "contentName": "ContentOferta01",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"><img src=\"/images/ofertas/content-oferta01.png\" alt=\"banner principal 1\"></a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "10251"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta02",
+          "contentClickAction": "None",
+          "contentId": "715849505",
+          "baseMarketingSpotActivityID": "715849505",
+          "contentName": "ContentOferta02",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"><img src=\"/images/ofertas/content-oferta01.png\" alt=\"banner principal 1\"></a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "2.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "10251"
+        },
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ContentOferta03",
+          "contentClickAction": "None",
+          "contentId": "715849506",
+          "baseMarketingSpotActivityID": "715849506",
+          "contentName": "ContentOferta03",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<a href=\"#\"><img src=\"/images/ofertas/content-oferta01.png\" alt=\"banner principal 1\"></a>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "3.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "10251"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/espot/Widget_clarob2b-content-carousel-widget_13609?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

@@ -24,7 +24,7 @@ inventoryRouter.get('/:storeId/inventoryavailability/byPartNumber/:partNumber', 
     } else {
       res.status(200).json({
         "InventoryAvailability": [inventory],
-        "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/15051/inventoryavailability/byPartNumber/PO_Equ70038567",
+        "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/inventoryavailability/byPartNumber/PO_Equ70038567",
         "resourceName": "inventoryavailability"
       });
     }
@@ -47,7 +47,7 @@ inventoryRouter.get('/:storeId/inventoryavailability/:productIds', async (req, r
     const inventory = response.filter(item => productIdsArray.includes(item.productId));
     res.status(200).json({
       "InventoryAvailability": inventory,
-      "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/15051/inventoryavailability/byPartNumber/PO_Equ70038567",
+      "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/inventoryavailability/byPartNumber/PO_Equ70038567",
       "resourceName": "inventoryavailability"
     });
   } catch (error) {

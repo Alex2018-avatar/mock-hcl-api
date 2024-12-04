@@ -65,7 +65,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Motorola_movil2x.png\" alt=\"marca 1\"></a>",
+              "marketingText": "<p><a href=\"#\"><img src=\"/images/marcas/marca01.png\" alt=\"marca 1\"></a></p>",
               "language": "-5"
             }
           ],
@@ -94,7 +94,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Oppo_movil2x.png\" alt=\"marca 6\"></a>",
+              "marketingText": "<p><a href=\"#\"><img src=\"/images/marcas/marca05.png\" alt=\"marca 6\"></a></p>",
               "language": "-5"
             }
           ],
@@ -123,7 +123,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Xiami_movil2x.png\" alt=\"marca 1\"></a>",
+              "marketingText": "<p><a href=\"#\"><img src=\"/images/marcas/marca01.png\" alt=\"marca 1\"></a></p>",
               "language": "-5"
             }
           ],
@@ -152,7 +152,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Zte_movil2x.png\" alt=\"marca 2\"></a>",
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca02.png\" alt=\"marca 2\"></a></p>",
               "language": "-5"
             }
           ],
@@ -181,7 +181,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Zte_movil2x.png\" alt=\"marca 3\"></a>",
+              "marketingText": "<p><a href=\"https://tiendaonline.claro.com.co/claro/celulares?page=3&amp;urlCategory=celulares\" target=\"_blank\" rel=\"noopener\"><img src=\"/images/marcas/marca03.png\" alt=\"marca 3\"></a></p>",
               "language": "-5"
             }
           ],
@@ -210,7 +210,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Lenovo_movil2x.png\" alt=\"marca 4\"></a>",
+              "marketingText": "<p><a href=\"#\"><img src=\"/images/marcas/marca04.png\" alt=\"marca 4\"></a></p>",
               "language": "-5"
             }
           ],
@@ -239,7 +239,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Vivo_movil2x.png\" alt=\"marca 6\"></a>",
+              "marketingText": "<a href=\"#\"><img src=\"/images/marcas/marca05.png\" alt=\"marca 6\"></a>",
               "language": "-5"
             }
           ],
@@ -268,7 +268,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.b2cqa1auth.claro.com.co/imagenes/banners_home/Card_Lenovo_movil2x.png\" alt=\"marca 6\"></a>",
+              "marketingText": "<a href=\"#\"><img src=\"/images/marcas/marca01.png\" alt=\"marca 6\"></a>",
               "language": "-5"
             }
           ],
@@ -297,7 +297,7 @@
           "MarketingContentDescription": [{}],
           "marketingContentDescription": [
             {
-              "marketingText": "<a href=\"#\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/marcas/Card_Zte_movil2x.png\" alt=\"marca 6\"></a>",
+              "marketingText": "<a href=\"#\"><img src=\"/images/marcas/marca05.png\" alt=\"marca 6\"></a>",
               "language": "-5"
             }
           ],
@@ -317,6 +317,6 @@
       ]
     }
   ],
-  "resourceId": "https://10.82.2.25:443/wcs/resources/store/10251/espot/Widget_clarob2b-content-carousel-widget_13612?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/espot/Widget_clarob2b-content-carousel-widget_13612?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

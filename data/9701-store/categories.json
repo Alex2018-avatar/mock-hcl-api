@@ -27,7 +27,7 @@
           "identifier": "CELULARESTL",
           "shortDescription": "Solo Equipo",
           "longDescription": "Solo Equipo",
-          "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/categories?depthAndLimit=1,-1,-1,-1,-1&langId=-5&storeId=15051",
+          "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/categories?depthAndLimit=1,-1,-1,-1,-1&langId=-5&storeId=10251",
           "uniqueID": "3074457345616679169",
           "parentCatalogGroupID": "/3074457345616679168/3074457345616679169",
           "seo": {
@@ -38,14 +38,14 @@
           "id": "3074457345616679169",
           "links": {
             "parent": {
-              "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679168"
+              "href": "/search/resources/api/v2/categories?storeId=10251&id=3074457345616679168"
             },
             "children": [
-              "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616680168",
-              "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616679668"
+              "href: /search/resources/api/v2/categories?storeId=10251&id=3074457345616680168",
+              "href: /search/resources/api/v2/categories?storeId=10251&id=3074457345616679668"
             ],
             "self": {
-              "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679169"
+              "href": "/search/resources/api/v2/categories?storeId=10251&id=3074457345616679169"
             }
           },
           "description": "Solo Equipo"
@@ -55,7 +55,7 @@
           "identifier": "CELULARESTLT",
           "shortDescription": "Estrena celular",
           "longDescription": "Estrena celular",
-          "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/categories?depthAndLimit=1,-1,-1,-1,-1&langId=-5&storeId=15051",
+          "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/categories?depthAndLimit=1,-1,-1,-1,-1&langId=-5&storeId=10251",
           "uniqueID": "3074457345616680171",
           "parentCatalogGroupID": "/3074457345616679168/3074457345616680171",
           "seo": {
@@ -66,14 +66,14 @@
           "id": "3074457345616680171",
           "links": {
             "parent": {
-              "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616679168"
+              "href": "/search/resources/api/v2/categories?storeId=10251&id=3074457345616679168"
             },
             "children": [
-              "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616680168",
-              "href: /search/resources/api/v2/categories?storeId=15051&id=3074457345616679668"
+              "href: /search/resources/api/v2/categories?storeId=10251&id=3074457345616680168",
+              "href: /search/resources/api/v2/categories?storeId=10251&id=3074457345616679668"
             ],
             "self": {
-              "href": "/search/resources/api/v2/categories?storeId=15051&id=3074457345616680171"
+              "href": "/search/resources/api/v2/categories?storeId=10251&id=3074457345616680171"
             }
           },
           "description": "Celulares"

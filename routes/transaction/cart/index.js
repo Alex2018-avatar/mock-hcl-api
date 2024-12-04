@@ -13,7 +13,7 @@ const fsPromises = fs.promises;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// /wcs/resources/store/15051/cart/@self?langId=-5&sortOrder=desc
+// /wcs/resources/store/10251/cart/@self?langId=-5&sortOrder=desc
 cartRouter.get('/:storeId/cart/@self', async (req, res, next) => {
   const { storeId } = req.params;
   // Si no hay carrito en sesión para esta tienda, cargarlo del archivo
@@ -28,7 +28,7 @@ cartRouter.get('/:storeId/cart/@self', async (req, res, next) => {
   }
 });
 
-// /wcs/resources/store/15051/cart
+// /wcs/resources/store/10251/cart
 cartRouter.post('/:storeId/cart', async (req, res) => {
   const { storeId, emsName } = req.params;
   const { orderItem } = req.body;
@@ -69,7 +69,7 @@ cartRouter.post('/:storeId/cart', async (req, res) => {
   }
 });
 
-// /wcs/resources/store/15051/cart
+// /wcs/resources/store/10251/cart
 cartRouter.put('/:storeId/cart/@self/update_order_item', async (req, res) => {
   const { storeId } = req.params;
   const { orderId, orderItem } = req.body;

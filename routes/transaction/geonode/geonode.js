@@ -11,11 +11,11 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 
-// /wcs/resources/store/15051/geonode/byTopGeoNode?siteLevelSearch=false
+// /wcs/resources/store/10251/geonode/byTopGeoNode?siteLevelSearch=false
 geoNodeRouter.get('/:storeId/geonode/byTopGeoNode', (req, res) => {
   res.status(200).send({
     "recordSetCount": "1",
-    "resourceId": "https:\/\/www.b2cdev3auth.claro.com.co:5443\/wcs\/resources\/store\/15051\/geonode\/byTopGeoNode?siteLevelSearch=false",
+    "resourceId": "https:\/\/www.b2cdev3auth.claro.com.co:5443\/wcs\/resources\/store\/10251\/geonode\/byTopGeoNode?siteLevelSearch=false",
     "Description": [
       {
         "shortDescription": "Colombia"
@@ -31,7 +31,7 @@ geoNodeRouter.get('/:storeId/geonode/byTopGeoNode', (req, res) => {
   })
 });
 
-// /wcs/resources/store/15051/geonode/byParentGeoNode/715846884
+// /wcs/resources/store/10251/geonode/byParentGeoNode/715846884
 geoNodeRouter.get('/:storeId/geonode/byParentGeoNode/:parentId', async (req, res) => {
   const { parentId, storeId } = req.params;
   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/geonode/${parentId}.json`);
@@ -45,7 +45,7 @@ geoNodeRouter.get('/:storeId/geonode/byParentGeoNode/:parentId', async (req, res
     logger.error(error.message)
     res.status(404).json({
       "recordSetCount": "33",
-      "resourceId": "https:\/\/www.b2cdev3auth.claro.com.co:5443\/wcs\/resources\/store\/15051\/geonode\/byParentGeoNode\/715846884",
+      "resourceId": "https:\/\/www.b2cdev3auth.claro.com.co:5443\/wcs\/resources\/store\/10251\/geonode\/byParentGeoNode\/715846884",
       "GeoNode": []
     });
   }

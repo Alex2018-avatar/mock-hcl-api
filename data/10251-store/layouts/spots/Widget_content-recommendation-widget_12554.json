@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715877434",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715884487",
+      "behavior": "0",
+      "eSpotName": "Widget_content-recommendation-widget_12554",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "Beneficios v2",
+          "contentClickAction": "None",
+          "contentId": "715877434",
+          "baseMarketingSpotActivityID": "715877434",
+          "contentName": "Beneficios v2",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>   * {     padding: 0;     margin: 0;     box-sizing: border-box;   }   .benefits__container {     display: flex;     flex-direction: column;     align-items: center;     justify-content: center;     row-gap: 32px;   }   .benefits__container .benefits__list {     display: flex;     justify-content: center;     align-items: flex-start;     gap: 32px;     list-style: none;     margin: 0;     padding: 0;     flex-wrap: wrap;   }   .benefits__container .benefits__list li {     display: inline-flex;     justify-content: center;     width: 70px;   }   .benefits__container .benefits__list li label {     cursor: pointer;     width: fit-content;     display: inline-flex;     flex-direction: column;     align-items: center;     justify-content: center;     row-gap: 4px;   }   .benefits__container .benefits__list li label img {     width: 48px;     height: 48px;   }   .benefits__container .benefits__list li label span {     font-size: 12px;     font-weight: 700;     text-align: center;     margin: 0;   }   .modal-check {     display: none;   }   .modal-container {     width: 100vw;     height: 100vh;     position: fixed;     top: 0;     left: 0;     backdrop-filter: blur(3px);     background: rgba(0, 0, 0, 0.2);     display: none;     justify-content: center;     align-items: flex-end;     z-index: 100;   }   .modal-container .close-modal {     width: 100%;     height: 100%;     position: absolute;     top: 0;     left: 0;     z-index: -1;   }   .modal-container .modal-content {     padding: 30px;     background: #ffffff;     border-radius: 12px 12px 0 0;     display: flex;     flex-direction: column;     align-items: center;     gap: 20px;     width: 100%;     position: relative;   }   .modal-container .modal-content .modal-img {     width: 50px;     height: 50px;   }   .modal-container .modal-content .modal-title {     margin: 0;     text-align: center;     font-size: 20px !important;     font-weight: 700 !important;   }   .modal-container .modal-content .modal-info {     text-align: center;     font-size: 16px !important;   }   .modal-container .modal-content .payment-method-list {     list-style: none;     display: grid;     grid-template-columns: repeat(3, 60px);     gap: 20px;     place-items: baseline;   }   .modal-container .modal-content .payment-method-list li {     display: inline-flex;     flex-direction: column;     align-items: center;     row-gap: 5px;     width: 100%;   }   .modal-container .modal-content .payment-method-list li img {     width: 30px;   }   .modal-container .modal-content .payment-method-list li span {     font-size: 16px !important;     font-weight: 400 !important;   }   .modal-container .modal-content .btn-close {     border: none;     background: transparent;     padding: 0 !important;     width: 20px;     height: 20px;     position: absolute;     right: 20px;     top: 20px;   }   .modal-container .modal-content .btn-close label {     width: 100%;     height: 100%;     cursor: pointer;     display: inline-block;   }   .modal-container .modal-content .btn-close label span {     display: none;   }   input:checked + .modal-container {     display: flex;   }   @media screen and (min-width: 1024px) {     .benefits__container .benefits__list li label img {     width: 68px;     height: 68px;     }     .benefits__container .benefits__list {       gap: 92px;     }     .benefits__container .benefits__list li {       width: 170px;     }     .benefits__container .benefits__list li label span {       font-size: 20px;     }     .modal-container {       align-items: center;     }     .modal-container .modal-content[data-label='envio-gratis'],     .modal-container .modal-content[data-label='precio-exclusivo'] {       width: 337px;     }     .modal-container .modal-content[data-label='metodo-pago'] {       width: 450px;     }     .modal-container .modal-content {       border-radius: 12px;     }     .modal-container .modal-content .btn-close {       background: #da291c;       color: #ffffff;       margin-top: 12px;       border-radius: 26px;       width: 250px;       height: auto;       position: static;     }     .modal-container .modal-content .btn-close label {       padding: 10px 20px;       font-size: 16px !important;       line-height: 1.188 !important;     }     .modal-container .modal-content .btn-close label img {       display: none;     }     .modal-container .modal-content .btn-close label span {       display: inline-block;     }   } </style><!-- START ITEMS --><div class=\"benefits__container\"><h2 class=\"recommend-content__title\">&iexcl;En Claro tenemos!</h2><ul class=\"benefits__list\"><li><label for=\"envio-gratis\"> <img src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/home/compra-asistida-icon.png\" alt=\"envio-gratis\"> <span>Env&iacute;o gratis</span> </label></li><li><label for=\"metodo-pago\"> <img src=\"/images/benefits/metodo-pago.svg\" alt=\"metodo-pago\"> <span>M&eacute;todos de pago</span> </label></li><li><label for=\"precio-exclusivo\"> <img src=\"/images/benefits/precio-exclusivo.svg\" alt=\"precio-exclusivo\"> <span>Precios exclusivos por ser claro</span> </label></li></ul></div><!-- END ITEMS --> <!-- START MODAL 1 --> <input class=\"modal-check\" type=\"checkbox\" id=\"envio-gratis\"><div class=\"modal-container\"><div class=\"modal-content\" data-label=\"envio-gratis\"><img class=\"modal-img\" src=\"https://cdn.claro.com.co/imagenes/v9/assets/red/home/compra-asistida-icon.png\"><h2 class=\"modal-title\">Disfruta de env&iacute;o gratis en tus compras</h2><p class=\"modal-info\">Gracias a nuestra cobertura nacional, recibe tus pedidos de lunes a s&aacute;bado sin cargos de env&iacute;o</p><button class=\"btn-close\"> <label for=\"envio-gratis\"> <img src=\"/images/benefits/close-icon.svg\"> <span>Aceptar</span> </label> </button></div><label for=\"envio-gratis\" class=\"close-modal\"></label></div><!-- END MODAL 1 --> <!-- START MODAL 2 --> <input class=\"modal-check\" type=\"checkbox\" id=\"metodo-pago\"><div class=\"modal-container\"><div class=\"modal-content\" data-label=\"metodo-pago\"><h2 class=\"modal-title\">Paga o financia con el m&eacute;todo que quieras</h2><ul class=\"payment-method-list\"><li><img src=\"/images/benefits/payment-methods/tarjeta-1.png\"> <span>Tarjetas</span></li><li><img src=\"/images/benefits/payment-methods/tarjeta-2.png\"> <span>Tarjetas</span></li><li><img src=\"/images/benefits/payment-methods/visa.svg\"> <span>Tarjetas</span></li><li><img src=\"/images/benefits/payment-methods/american.png\"> <span>American</span></li><li><img src=\"/images/benefits/payment-methods/pago.png\"> <span>Pago</span></li><li><img src=\"/images/benefits/payment-methods/tarjeta-3.png\"> <span>Tarjetas</span></li></ul><button class=\"btn-close\"> <label for=\"metodo-pago\"> <img src=\"/images/benefits/close-icon.svg\"> <span>Aceptar</span> </label> </button></div><label for=\"metodo-pago\" class=\"close-modal\"></label></div><!-- END MODAL 2 --> <!-- START MODAL 3 --> <input class=\"modal-check\" type=\"checkbox\" id=\"precio-exclusivo\"><div class=\"modal-container\"><div class=\"modal-content\" data-label=\"precio-exclusivo\"><img class=\"modal-img\" src=\"/images/benefits/precio-exclusivo.svg\"><h2 class=\"modal-title\">Por ser cliente Claro tienes m&aacute;s</h2><p class=\"modal-info\">Aprovecha los precios especiales que tienes por tener tus servicios empresariales contratados con Claro.</p><button class=\"btn-close\"> <label for=\"precio-exclusivo\"> <img src=\"/images/benefits/close-icon.svg\"> <span>Aceptar</span> </label> </button></div><label for=\"precio-exclusivo\" class=\"close-modal\"></label></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "10251"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://tsapp.b2cdev3auth.claro.com.co:5443/wcs/resources/store/10251/espot/Widget_content-recommendation-widget_12554?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
