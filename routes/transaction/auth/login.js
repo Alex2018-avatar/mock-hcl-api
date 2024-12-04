@@ -102,7 +102,7 @@ const handleGuestidentity = (req, res) => {
     "resourceName": "guestidentity",
     "WCToken": "37%2CL9efemNPxGeXUttnZcUM1xJo56S3SmfZloASjeUqPQlmmQJkzitlxnKrQ6uX7QEVb83y5W6rkNLvf3lvVIfWIRRthPJtFutSy%2BP9%2BxJulUe6%2BNQXslPCU7OmIWG37Y%2FWRz5qhmACHe195372nv7WRFRDCHsMwuJRKrKGk2t6yRj0GEuA%2FHSOuQL7mONd%2F2so0FYrtDSZO2kYeDmW%2B7nyw%2FnzUtnNCrMmOINAFWLMkGjCOUhKYdFLlV5kcNpZYx0e",
     "userId": "37",
-    "WCTrustedToken": "37%2CxgUj0KMvMJ3z%2Fe21wpaUnheFlQoRT0tGx1zHc0c2wSw%3D"
+    "WCTrustedToken": "37%2CxgUj0KMvMJ3z%2Fe21wpaUnheFlQoRT0tGx1zHc0c2wSw%3D",
   });
 
 };

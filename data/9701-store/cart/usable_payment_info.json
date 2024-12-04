@@ -58,6 +58,32 @@
       "paymentMethodName": "BillMeLater"
     },
     {
+      "xumet_policyId": "3074457345616677328",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "TarjetaCreditoDebito",
+      "xumet_attrPageName": "TCreditoDebito",
+      "language": "-5",
+      "paymentMethodName": "TCreditoDebito"
+    },
+    {
       "xumet_policyId": "3074457345616676774",
       "usableBillingAddress": [
         {
@@ -94,40 +120,56 @@
       "paymentMethodName": "PayLater"
     },
     {
-      "xumet_policyId": "3074457345616676776",
+      "xumet_policyId": "3074457345616677333",
       "usableBillingAddress": [
         {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
         },
         {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
         }
       ],
       "paymentTermConditionId": "",
-      "description": "Tarjeta de cr\u00e9dito VISA",
-      "xumet_attrPageName": "StandardVisa",
+      "description": "FinancierasAliadas",
+      "xumet_attrPageName": "FinancierasAliadas",
       "language": "-5",
-      "paymentMethodName": "VISA"
+      "paymentMethodName": "FinancierasAliadas"
     },
     {
-      "xumet_policyId": "3074457345616676772",
+      "xumet_policyId": "3074457345616677332",
       "usableBillingAddress": [
         {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
         },
         {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
         }
       ],
       "paymentTermConditionId": "",
-      "description": "Comprobar",
-      "xumet_attrPageName": "StandardCheck",
+      "description": "ADDI",
+      "xumet_attrPageName": "ADDI",
       "language": "-5",
-      "paymentMethodName": "Check"
+      "paymentMethodName": "ADDI"
     },
     {
       "xumet_policyId": "3074457345616676770",
@@ -142,10 +184,36 @@
         }
       ],
       "paymentTermConditionId": "",
-      "description": "Tarjeta de cr\u00e9dito American Express",
-      "xumet_attrPageName": "StandardAmex",
+      "description": "DaviPlata",
+      "xumet_attrPageName": "DaviPlata",
       "language": "-5",
-      "paymentMethodName": "AMEX"
+      "paymentMethodName": "DaviPlata"
+    },
+    {
+      "xumet_policyId": "3074457345616677327",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "DebitoBancarioPSE",
+      "xumet_attrPageName": "DebitoBancarioPSE",
+      "language": "-5",
+      "paymentMethodName": "DebitoBancarioPSE"
     }
   ]
 }
