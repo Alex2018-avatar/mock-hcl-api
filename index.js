@@ -18,6 +18,7 @@ import cartRoutes from './routes/transaction/cart/index.js';
 import geoNodeRouter from './routes/transaction/geonode/geonode.js';
 import addressRouter from './routes/transaction/address/address.js';
 import orderRouter from './routes/transaction/order/order.js';
+import customRouter from './routes/transaction/custom/index.js';
 import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
 import cookieParser from 'cookie-parser';
@@ -62,6 +63,7 @@ app.use(config.transactionContextPath, cartRoutes);
 app.use(config.transactionContextPath, geoNodeRouter);
 app.use(config.transactionContextPath, addressRouter);
 app.use(config.transactionContextPath, orderRouter);
+app.use(config.transactionContextPath, customRouter);
 
 // Middleware para manejar 404
 app.use((req, res, next) => {

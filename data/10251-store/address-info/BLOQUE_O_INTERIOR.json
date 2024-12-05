@@ -1,0 +1,57 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "Agrupacion",
+      "value": "AGRUPACION"
+    },
+    {
+      "description": "Bloque",
+      "value": "BLOQUE"
+    },
+    {
+      "description": "Entrada",
+      "value": "ENTRADA"
+    },
+    {
+      "description": "Etapa",
+      "value": "ETAPA"
+    },
+    {
+      "description": "Interior",
+      "value": "INTERIOR"
+    },
+    {
+      "description": "Manzana",
+      "value": "MANZANA"
+    },
+    {
+      "description": "Nivel",
+      "value": "NIVEL"
+    },
+    {
+      "description": "Sector",
+      "value": "SECTOR"
+    },
+    {
+      "description": "Subetapa",
+      "value": "SUBETAPA"
+    },
+    {
+      "description": "Supermanzana",
+      "value": "SUPERMANZANA"
+    },
+    {
+      "description": "Torre",
+      "value": "TORRE"
+    },
+    {
+      "description": "Unidad",
+      "value": "UNIDAD"
+    },
+    {
+      "description": "Zona",
+      "value": "ZONA"
+    }
+  ]
+}
