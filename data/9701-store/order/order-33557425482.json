@@ -1,0 +1,187 @@
+{
+  "totalShippingCharge": "0",
+  "orderTypeCode": "ORD",
+  "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/order/33557425482?langId=-5",
+  "orderId": "33557425482",
+  "lastUpdateDate": "2024-12-05T17:53:48.922Z",
+  "channel": {
+    "channelIdentifer": {
+      "channelName": "Web Channel",
+      "uniqueID": "-1"
+    },
+    "userData": null,
+    "description": {
+      "language": "-5",
+      "value": "Used when operations performed from a desktop browser."
+    }
+  },
+  "orderStatus": "M",
+  "x_isPurchaseOrderNumberRequired": "false",
+  "orderExtendAttribute": [
+    {
+      "attributeValue": "2024-12-10",
+      "attributeType": "string",
+      "attributeName": "FECHA_ENVIO"
+    }
+  ],
+  "x_firstName": "Alex",
+  "totalShippingChargeCurrency": "COP",
+  "buyerId": "13004",
+  "grandTotalCurrency": "COP",
+  "buyerDistinguishedName": "uid=abecerra@avatar-global.com,o=default organization,o=root organization",
+  "totalTaxByTaxCategory": [
+    {
+      "taxCategoryCode": "Impuesto IVA",
+      "currency": "COP",
+      "value": "380"
+    }
+  ],
+  "recordSetCount": "1",
+  "paymentInstruction": [
+    {
+      "piId": "20510",
+      "country": "Colombia",
+      "personTitle": "",
+      "lastName": "becerra",
+      "zipCode": "05031",
+      "city": "AMALFI",
+      "postalCode": "05031",
+      "phone2": "",
+      "phone2Publish": "true",
+      "phone1Publish": "true",
+      "piDescription": "DebitoBancarioPSE",
+      "payMethodId": "DebitoBancarioPSE",
+      "phone1": "",
+      "xpaym_tokenization": "false",
+      "email2": "",
+      "email1": "abecerra@avatar-global.com",
+      "xpaym_policyId": "3074457345616677327",
+      "fax2": "",
+      "state": "ANTIOQUIA",
+      "fax1": "",
+      "piAmount": "599900.00000",
+      "billing_address_id": "3074457373145868105",
+      "nickName": "demo",
+      "addressLine": ["23|844|12", "AVENIDA", "Barrios altos"],
+      "piLanguage": "-5",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "piStatus": "Pending",
+      "firstName": "Alex",
+      "piCurrency": "COP",
+      "protocolData": [
+        {
+          "name": "billing_address_id",
+          "value": "3074457373145868105"
+        },
+        {
+          "name": "payment_url",
+          "value": "https://pruebasclaro.maxgp.com.co:8443/phrame.php?FORMA_PAGO=1&NUMERO_DOCUMENTO=70030602&TIPO_DOCUMENTO=CC&action=despliegue_personal&clase=claro&cuentaID=&empresa=claro&fecha=20241205103543&id_objeto=10030&interface=authenticate&merchant=2088101897450674&metodo=puentePagoEcommerce&metodo_ejec=postPagosTokenEcommerce&nombreUsuario=YvYqIoR7S5E5wQ9LyfiSPI2GBjibRZsOwIyulIEIyZs%3D&operacion=Adicionar&price=831800.00&sobrecarga=generar_formupseAction&tipoCanalOrigenID=16&tokenAutenticacion=CB20A2DA2B9943508CDE19156CBC20BA&tokenValidacion=76243819cd618ef4acfc81224206b13019f0eeb20dd60de959df99004206ab09&tran_id=33557306715&callback_url=https://tiendaonlineqadd.claro.com.co/paymentCallBack&return_url=https://tiendaonlineqadd.claro.com.co/thankyou&CUOTAS=&CVV=&DCPrimerNombre=&DCSegundoNombre=&DCDireccion=&DCCiudad=&DCPais=CO"
+        },
+        {
+          "name": "payment_method",
+          "value": "DebitoBancarioPSE"
+        }
+      ],
+      "middleName": "",
+      "xpaym_punchoutPayment": "true"
+    }
+  ],
+  "x_isPersonalAddressesAllowedForShipping": "true",
+  "storeNameIdentifier": "ClaroB2C",
+  "totalProductPriceCurrency": "COP",
+  "totalProductPrice": "599520",
+  "locked": "false",
+  "placedDate": "2024-12-05T17:53:48.856Z",
+  "recordSetComplete": "true",
+  "totalAdjustmentCurrency": "COP",
+  "totalSalesTaxCurrency": "COP",
+  "totalSalesTax": "380",
+  "orderItem": [
+    {
+      "zipCode": "05031",
+      "personTitle": "",
+      "country": "Colombia",
+      "unitUom": "C62",
+      "shippingChargeCurrency": "COP",
+      "lastUpdateDate": "2024-12-05T17:53:48.856Z",
+      "postalCode": "05031",
+      "phone2": "",
+      "availableDate": "2024-12-05T17:53:48.632Z",
+      "phone2Publish": "true",
+      "salesTax": "380",
+      "phone1Publish": "true",
+      "phone1": "",
+      "addressId": "3074457373145868105",
+      "correlationGroup": "190001",
+      "usableShippingChargePolicy": [
+        {
+          "name": "StandardShippingChargeBySeller",
+          "type": "ShippingCharge",
+          "uniqueID": "-7001"
+        }
+      ],
+      "email2": "",
+      "email1": "abecerra@avatar-global.com",
+      "fax2": "",
+      "shippingCharge": "0",
+      "fax1": "",
+      "state": "ANTIOQUIA",
+      "orderItemPrice": "599520",
+      "shipModeLanguage": "-5",
+      "unitPrice": "599520",
+      "productId": "10081",
+      "shipModeCode": "Mail",
+      "shipModeDescription": "Mail",
+      "nickName": "demo",
+      "fulfillmentCenterName": "ClaroB2C",
+      "firstName": "Alex",
+      "totalAdjustment": {
+        "currency": "COP",
+        "value": "0"
+      },
+      "orderItemInventoryStatus": "Allocated",
+      "lastName": "becerra",
+      "city": "AMALFI",
+      "expectedShipDate": "2024-12-11T17:55:18.615Z",
+      "xitem_isPersonalAddressesAllowedForShipping": "true",
+      "shippingTax": "0",
+      "orderItemStatus": "M",
+      "offerID": "4000000000000001426",
+      "currency": "COP",
+      "createDate": "2024-12-05T17:52:54.862Z",
+      "salesTaxCurrency": "COP",
+      "quantity": "1.0",
+      "fulfillmentCenterId": "715837934",
+      "orderItemId": "190001",
+      "shipModeId": "715837984",
+      "xitem_memberId": "13004",
+      "orderItemFulfillmentStatus": "Unreleased",
+      "isExpedited": "false",
+      "addressLine": ["23|844|12", "AVENIDA", "Barrios altos"],
+      "xitem_lastName": "becerra",
+      "shippingTaxCurrency": "COP",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "carrier": "Mail",
+      "UOM": "C62",
+      "fulfillmentCenterOwnerId": "7333333333333333535",
+      "freeGift": "false",
+      "xitem_firstName": "Alex",
+      "unitQuantity": "1.0",
+      "contractId": "4000000000000000003",
+      "middleName": "",
+      "partNumber": "PO_Equ70049133"
+    }
+  ],
+  "grandTotal": "599900",
+  "storeUniqueID": "9701",
+  "recordSetStartNumber": "0",
+  "resourceName": "order",
+  "recordSetTotal": "1",
+  "shipAsComplete": "true",
+  "x_trackingIds": "",
+  "totalShippingTax": "0",
+  "prepareIndicator": "true",
+  "totalShippingTaxCurrency": "COP",
+  "x_lastName": "becerra",
+  "totalAdjustment": "0"
+}

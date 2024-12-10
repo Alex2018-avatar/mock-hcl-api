@@ -48,8 +48,8 @@ const handleLoginIdentity = (req, res) => {
       "userId": "1002",
       "WCTrustedToken": "1002%2CGl%2BWZiFvtHRe%2F7YfZSsDG1D2%2FrrcSCEX08mjCcSRQ28%3D",
       // SIMULAR ERROR
-      "errorCode": "1001",
-      "errorKey": "_ERROR_SAME_TYPE_PRODUCT",
+      // "errorCode": "1001",
+      // "errorKey": "_ERROR_SAME_TYPE_PRODUCT",
     });
   } else {
     res.status(401).json({
