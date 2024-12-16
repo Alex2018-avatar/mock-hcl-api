@@ -172,4 +172,19 @@ addressRouter.put('/:storeId/person/@self/contact/:nickName', async (req, res) =
   res.status(200).json({ "resourceName": "person", "addressId": "3074457362978450855" });
 });
 
+// /wcs/resources/store/9701/person/@self/contact
+addressRouter.post('/:storeId/person/@self/contact', async (req, res) => {
+  // res.status(200).json({ "resourceName": "person", "addressId": "3074457362978450855" });
+  res.status(400).json({
+    "errors": [
+      {
+        "errorKey": "_ERR_NICKNAME_ALREDY_EXIST",
+        "errorParameters": "empresa",
+        "errorMessage": "El apodo que ha especificado ya existe. Escriba otro nombre en el campo Apodo e int\u00e9ntelo de nuevo.",
+        "errorCode": "5040"
+      }
+    ]
+  })
+});
+
 export default addressRouter;

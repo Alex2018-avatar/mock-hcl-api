@@ -28,7 +28,7 @@
               {
                 "id": "16603",
                 "name": "Detalles del producto",
-                "widgetName": "product-information-widget",
+                "widgetName": "clarob2b-product-information-widget",
                 "sequence": 0.0,
                 "properties": {
                   "textName1": "Diseño",

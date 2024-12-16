@@ -62,6 +62,19 @@ const handleLoginIdentity = (req, res) => {
         }
       ]
     });
+
+    /*
+    {
+      "errors": [
+          {
+              "errorKey": "_INF_TEXT",
+              "errorParameters": "El Usuario ingresado no se encuentra registrado",
+              "errorMessage": "El Usuario ingresado no se encuentra registrado",
+              "errorCode": "ERR_LOGIN_CODE_50000"
+          }
+      ]
+    }
+    */
   }
 };
 

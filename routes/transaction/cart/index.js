@@ -72,6 +72,7 @@ cartRouter.post('/:storeId/cart', async (req, res) => {
 // /wcs/resources/store/10251/cart
 cartRouter.put('/:storeId/cart/@self/update_order_item', async (req, res) => {
   const { storeId } = req.params;
+  console.log(req.body)
   const { orderId, orderItem } = req.body;
   const { quantity, orderItemId } = orderItem[0];
   const cart = req.session?.carts?.[storeId] || null;
@@ -98,6 +99,12 @@ cartRouter.put('/:storeId/cart/@self/update_order_item', async (req, res) => {
 // /wcs/resources/store/9701/cart/@self/usable_shipping_info?langId=-5
 cartRouter.get('/:storeId/cart/@self/usable_shipping_info', async (req, res) => {
   const { storeId } = req.params;
+  const { validateOrder } = req.query;
+  console.log('validateOrder: ', validateOrder);
+  // if (validateOrder) {
+  //   res.status(400).json(generateWCSError("_ERR_ILLEGAL_ACCESS", "CFCV003"));
+  //   return
+  // }
   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/cart/usable_shipping_info.json`);
   const data = await fsPromises.readFile(filePath, 'utf8');
   const response = JSON.parse(data);

@@ -2,6 +2,8 @@ import express from 'express';
 import path from 'node:path';
 import fs from 'node:fs';
 import { fileURLToPath } from 'url';
+import { getAddressById, getShippingById, getShippingModes } from '../../../services/shipping.js';
+import { fi } from 'date-fns/locale';
 
 const shippingRouter = express.Router()
 const fsPromises = fs.promises;
@@ -173,7 +175,37 @@ shippingRouter.get('/:storeId/cart/shipping_modes', async (req, res) => {
 
 // wcs/resources/store/9701/cart/@self/shipping_info
 shippingRouter.put('/:storeId/cart/@self/shipping_info', async (req, res) => {
+  const { orderItem } = req.body;
+  const { storeId } = req.params;
+  const cart = req.session?.carts?.[storeId] || null;
+
   try {
+    if (cart) {
+      const orderItems = cart.orderItem ?? [];
+      const updatedOrderItems = await Promise.all(orderItems.map(async (item) => {
+        const inputOrderItem = orderItem.find(oi => oi.orderItemId === item.orderItemId);
+        const shipping = await getShippingById(storeId, inputOrderItem.shipModeId);
+        const address = await getAddressById(storeId, inputOrderItem.addressId);
+        let newItem = { ...item }
+        if (inputOrderItem) {
+          newItem = {
+            ...item,
+            shipModeId: inputOrderItem?.shipModeId,
+            addressId: inputOrderItem?.addressId,
+            carrier: shipping?.carrier,
+            addressLine: address?.addressLine,
+            city: address?.city,
+            state: address?.state,
+            firstName: address?.firstName,
+            lastName: address?.lastName,
+            nickName: address?.nickName,
+          }
+        }
+        return newItem;
+      }));
+      console.log(updatedOrderItems)
+      req.session.carts[storeId] = { ...cart, orderItem: updatedOrderItems };
+    }
     res.status(200).json({
       "orderItem": [
         {
@@ -186,6 +218,34 @@ shippingRouter.put('/:storeId/cart/@self/shipping_info', async (req, res) => {
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
+});
+
+// /wcs/resources/store/9701/shipping/payment
+shippingRouter.post("/:storeId/shipping/payment", async (req, res) => {
+
+  res.status(200).json({
+    status: 200,
+    message: "Proceso completado",
+    success: true,
+    tarjetas: [
+      {
+        NUMERO_TARJETA: ' ****1111',
+        FRANQUICIA: 'VISA',
+        TOKENUMERO: 'TK_12345678',
+      },
+      {
+        NUMERO_TARJETA: ' ****2222',
+        FRANQUICIA: 'MASTERCARD',
+        TOKENUMERO: 'TK_123456789',
+      },
+      {
+        NUMERO_TARJETA: ' ****3333',
+        FRANQUICIA: 'VISA',
+        TOKENUMERO: 'TK_123456788',
+      },
+    ]
+  });
+
 });
 
 export default shippingRouter;

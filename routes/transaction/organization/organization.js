@@ -8,7 +8,18 @@ const organizationRouter = app.router;
 
 // /wcs/resources/store/11/organization/@self/entitled_orgs?langId=-1
 organizationRouter.get('/:storeId/organization/@self/entitled_orgs', (req, res) => {
-  res.status(200).json({ "entitledOrganizations": [], "accountCheck": true });
+  res.status(200).json({
+    "entitledOrganizations": [
+      {
+        "distinguishedName": "ClaroB2B",
+        "organizationId": -2000,
+        "displayName": "Claro B2B",
+        "memberId": 0,
+        "organizationName": "ClaroB2B"
+      }
+    ],
+    "accountCheck": true
+  });
 })
 
 // /wcs/resources/store/11/usercontext/@self/contextdata?langId=-1
@@ -97,5 +108,42 @@ organizationRouter.get('/:storeId/usercontext/@self/contextdata', identifyUserTy
   }
 })
 
+// https://commerce-preview.sbx0394.play.hclsofy.com/api/resources/store/41/organization/-
+organizationRouter.get('/:storeId/organization/:id', (req, res) => {
+  res.status(200).json({
+    "organizationId": "-2000",
+    "contactInfo": {
+      "country": "",
+      "lastName": "",
+      "zipCode": "",
+      "address3": "",
+      "mobilePhone1": "",
+      "organizationName": "",
+      "address2": "",
+      "city": "",
+      "address1": "",
+      "addressType": "",
+      "nickName": "Default Organization",
+      "phone2": "",
+      "addressId": "-2000",
+      "phone1": "",
+      "email2": "",
+      "firstName": "",
+      "email1": "",
+      "middleName": "",
+      "state": "",
+      "stateProvDisplayName": "",
+      "countryDisplayName": ""
+    },
+    "organizationDisplayName": "Default Organization (Root Organization)",
+    "organizationName": "Default Organization",
+    "displayName": "Default Organization",
+    "businessCategory": null,
+    "description": null,
+    "state": "1",
+    "addressBook": [],
+    "status": 0
+  });
+})
 
 export default organizationRouter;

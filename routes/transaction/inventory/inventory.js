@@ -13,23 +13,27 @@ const __dirname = path.dirname(__filename);
 inventoryRouter.get('/:storeId/inventoryavailability/byPartNumber/:partNumber', async (req, res) => {
   const { storeId, partNumber } = req.params;
   try {
+    const partNumbersArray = partNumber.split(',').map(pn => pn.trim());
+    if (partNumbersArray.length === 0) {
+      res.status(400).json({ "InventoryAvailability": [] });
+      return;
+    }
+
     const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/inventory/inventory.json`);
     const data = await fsPromises.readFile(filePath, 'utf8');
     const response = JSON.parse(data);
 
-    // search in response by partNumber
-    const inventory = response.find(item => item.partNumber === partNumber);
-    if (!inventory) {
-      res.status(200).json({ "InventoryAvailability": [] });
-    } else {
-      res.status(200).json({
-        "InventoryAvailability": [inventory],
-        "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/inventoryavailability/byPartNumber/PO_Equ70038567",
-        "resourceName": "inventoryavailability"
-      });
-    }
+    // search inventory by partNumbers 
+    const partNumbersSet = new Set(partNumbersArray);
+    const inventory = response.filter(item => partNumbersSet.has(item.partNumber));
+    res.status(200).json({
+      "InventoryAvailability": inventory,
+      "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/inventoryavailability/byPartNumber/PO_Equ70038567",
+      "resourceName": "inventoryavailability"
+    });
+
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ "InventoryAvailability": [] });
   }
 });
 

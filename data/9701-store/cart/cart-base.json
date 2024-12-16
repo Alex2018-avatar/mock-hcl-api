@@ -46,5 +46,54 @@
   "totalShippingTaxCurrency": "COP",
   "prepareIndicator": "false",
   "x_lastName": "Perez",
-  "totalAdjustment": "0"
+  "totalAdjustment": "0",
+  "paymentInstruction": [
+    {
+      "piId": "20510",
+      "country": "Colombia",
+      "personTitle": "",
+      "lastName": "becerra",
+      "zipCode": "05031",
+      "city": "AMALFI",
+      "postalCode": "05031",
+      "phone2": "",
+      "phone2Publish": "true",
+      "phone1Publish": "true",
+      "piDescription": "DebitoBancarioPSE",
+      "payMethodId": "DebitoBancarioPSE",
+      "phone1": "",
+      "xpaym_tokenization": "false",
+      "email2": "",
+      "email1": "abecerra@avatar-global.com",
+      "xpaym_policyId": "3074457345616677327",
+      "fax2": "",
+      "state": "ANTIOQUIA",
+      "fax1": "",
+      "piAmount": "599900.00000",
+      "billing_address_id": "3074457373145868105",
+      "nickName": "demo",
+      "addressLine": ["23|844|12", "AVENIDA", "Barrios altos"],
+      "piLanguage": "-5",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "piStatus": "Pending",
+      "firstName": "Alex",
+      "piCurrency": "COP",
+      "protocolData": [
+        {
+          "name": "billing_address_id",
+          "value": "3074457373145868105"
+        },
+        {
+          "name": "payment_url",
+          "value": "https://pruebasclaro.maxgp.com.co:8443/phrame.php?FORMA_PAGO=1&NUMERO_DOCUMENTO=70030602&TIPO_DOCUMENTO=CC&action=despliegue_personal&clase=claro&cuentaID=&empresa=claro&fecha=20241205103543&id_objeto=10030&interface=authenticate&merchant=2088101897450674&metodo=puentePagoEcommerce&metodo_ejec=postPagosTokenEcommerce&nombreUsuario=YvYqIoR7S5E5wQ9LyfiSPI2GBjibRZsOwIyulIEIyZs%3D&operacion=Adicionar&price=831800.00&sobrecarga=generar_formupseAction&tipoCanalOrigenID=16&tokenAutenticacion=CB20A2DA2B9943508CDE19156CBC20BA&tokenValidacion=76243819cd618ef4acfc81224206b13019f0eeb20dd60de959df99004206ab09&tran_id=33557306715&callback_url=https://tiendaonlineqadd.claro.com.co/paymentCallBack&return_url=https://tiendaonlineqadd.claro.com.co/thankyou&CUOTAS=&CVV=&DCPrimerNombre=&DCSegundoNombre=&DCDireccion=&DCCiudad=&DCPais=CO"
+        },
+        {
+          "name": "payment_method",
+          "value": "DebitoBancarioPSE"
+        }
+      ],
+      "middleName": "",
+      "xpaym_punchoutPayment": "true"
+    }
+  ]
 }
