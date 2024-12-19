@@ -27,11 +27,6 @@ const app = express();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-
-app.get('/', (req, res) => {
-  res.send('Hello World');
-})
-
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.json());
 app.use(morganMiddleware);
@@ -45,6 +40,10 @@ app.use(
     cookie: { secure: false },
   })
 );
+
+app.get('/', (req, res) => {
+  res.send('Hello World');
+})
 
 // transactionContextPath is '/wcs/resources/store'
 app.use(config.transactionContextPath, storeRouter);

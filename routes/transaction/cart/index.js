@@ -146,12 +146,12 @@ cartRouter.post('/:storeId/cart/@self/payment_instruction', async (req, res) => 
 
 // /wcs/resources/store/9701/cart/@self/precheckout
 cartRouter.put('/:storeId/cart/@self/precheckout', async (req, res) => {
-  res.status(200).json({ "orderId": "33557425482", "resourceName": "cart" });
+  res.status(200).json({ "orderId": "5245350969", "resourceName": "cart" });
 });
 
 // /wcs/resources/store/9701/cart/@self/checkout
 cartRouter.post('/:storeId/cart/@self/checkout', async (req, res) => {
-  res.status(200).json({ "orderId": "33557425482", "resourceName": "cart" });
+  res.status(200).json({ "orderId": "5245350969", "resourceName": "cart" });
 });
 
 // /wcs/resources/store/9701/order/5245350969

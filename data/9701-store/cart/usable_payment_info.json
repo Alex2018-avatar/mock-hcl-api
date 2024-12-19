@@ -214,6 +214,32 @@
       "xumet_attrPageName": "DebitoBancarioPSE",
       "language": "-5",
       "paymentMethodName": "DebitoBancarioPSE"
+    },
+    {
+      "xumet_policyId": "3074457345600699871",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "TarjetasTokenizadas",
+      "xumet_attrPageName": "TarjetasTokenizadas",
+      "language": "-5",
+      "paymentMethodName": "TarjetasTokenizadas"
     }
   ]
 }

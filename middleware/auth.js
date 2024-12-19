@@ -1,3 +1,4 @@
+import { STORES } from "../config/stores.js";
 
 export const identifyUserType = (req, res, next) => {
   if (req.cookies['WC_AUTHENTICATION_1002']) {
@@ -14,9 +15,18 @@ export const identifyUserType = (req, res, next) => {
   }
   next();
 };
+
 export const requireAuthenticated = (req, res, next) => {
   if (req.userType !== 'authenticated') {
     return res.status(403).json({ error: 'Access denied' });
   }
   next();
+
 };
+
+export const addFolder = (req, res, next) => {
+  const storeId = req.params.storeId;
+  req.storeIdentifier = STORES[storeId] ?? "generic";
+  req.storeFolder = `${storeId}-store`;
+  next();
+}

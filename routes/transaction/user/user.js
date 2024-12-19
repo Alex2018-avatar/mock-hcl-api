@@ -18,8 +18,6 @@ userRouter.get("/:storeId/person/@self", identifyUserType, async (req, res) => {
   const filePath = path.resolve(__dirname, `../../../data/${storeId}-store/utils/address-book.json`);
   const data = await fsPromises.readFile(filePath, 'utf8');
   const addressBook = JSON.parse(data);
-
-  console.log("userType: ", req.logged);
   const isLogged = req.logged;
   if (isLogged) {
     res.status(200).json({
