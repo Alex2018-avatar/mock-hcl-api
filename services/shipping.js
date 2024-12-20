@@ -29,3 +29,10 @@ export const getAddressById = async (storeId, addressId) => {
   const address = response.find(addr => addr.addressId === addressId);
   return address;
 };
+
+export const getAddressBook = async (storeId) => {
+  const filePath = path.resolve(__dirname, `../data/${storeId}-store/utils/address-book.json`);
+  const data = await fsPromises.readFile(filePath, 'utf8');
+  const response = JSON.parse(data);
+  return response;
+};

@@ -15,6 +15,20 @@ const __dirname = path.dirname(__filename);
 
 // /wcs/resources/store/10251/cart/@self?langId=-5&sortOrder=desc
 cartRouter.get('/:storeId/cart/@self', async (req, res, next) => {
+  // const demo = true;
+  // if (demo) {
+  //   res.status(401).json({
+  //     "errors": [
+  //       {
+  //         "errorKey": "ERR_COOKIE_EXPIRED",
+  //         "errorParameters": "",
+  //         "errorMessage": "CWXFR0223E: The user activity cookie is expired.",
+  //         "errorCode": "CWXFR0223E"
+  //       }
+  //     ]
+  //   });
+  //   return;
+  // }
   const { storeId } = req.params;
   // Si no hay carrito en sesión para esta tienda, cargarlo del archivo
   if (!req.session.carts) {

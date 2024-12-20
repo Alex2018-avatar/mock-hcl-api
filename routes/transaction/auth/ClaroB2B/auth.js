@@ -6,6 +6,20 @@ export const handleB2BLoginIdentity = (req, res) => {
     maxAge: 3600000, // 1 hora en milisegundos
   };
 
+  // if (cookieOptions) {
+  //   res.status(400).json({
+  //     "errors": [
+  //       {
+  //         "errorKey": "9000",
+  //         "errorParameters": "Inténtalo más tarde|Algo salió mal al procesar tu solicitud.",
+  //         "errorMessage": "Inténtalo más tarde\nAlgo salió mal al procesar tu solicitud.",
+  //         "errorCode": "ERR_LOGIN_CODE_30"
+  //       }
+  //     ]
+  //   }
+  //   )
+  //   return
+  // }
   if (logonId === 'demo@gmail.com') {
     const setCookie = (name, value, options = {}) => {
       res.cookie(name, value, { ...cookieOptions, ...options });

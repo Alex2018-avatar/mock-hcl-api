@@ -20,7 +20,7 @@ const httpsAgent = new https.Agent({
 
 // Función para guardar el widget en un archivo JSON
 const saveWidgetData = async (widgetName, data) => {
-  const filePath = path.resolve(__dirname, `./data/9701-store/layouts/spots/${widgetName}.json`);
+  const filePath = path.resolve(__dirname, `./data/ClaroB2C/spots/${widgetName}.json`);
   try {
     await fsPromises.writeFile(filePath, JSON.stringify(data, null, 2));
     logger.info(`[SAVED] ${widgetName}`);
