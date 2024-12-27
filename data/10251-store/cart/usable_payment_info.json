@@ -1,151 +1,43 @@
 {
-  "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/cart/@self/usable_payment_info?langId=-5&allPaymentMethods=true",
-  "orderId": "12945575",
+  "resourceId": "https://tsapp.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/cart/@self/usable_payment_info?langId=-5&allPaymentMethods=true",
+  "orderId": "2105778148",
   "resourceName": "cart",
   "usablePaymentInformation": [
     {
-      "xumet_policyId": "-12001",
+      "xumet_policyId": "210001",
       "usableBillingAddress": [
         {
-          "nickName": "casa",
-          "addressId": "3074457362951363813"
+          "nickName": "B2B_contable@galotrans.com",
+          "addressId": "3074457348517112690"
         },
         {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457362950387085"
+          "nickName": "casa",
+          "addressId": "3074457348548043804"
         }
       ],
       "paymentTermConditionId": "",
-      "description": "Apple Pay",
-      "xumet_attrPageName": "SimplePunchout",
+      "description": "Tarjeta de cr\u00e9dito/d\u00e9bito",
+      "xumet_attrPageName": "B2BTarjeta",
       "language": "-5",
-      "paymentMethodName": "ApplePay"
+      "paymentMethodName": "B2BTarjeta"
     },
     {
-      "xumet_policyId": "3074457345616676773",
+      "xumet_policyId": "210002",
       "usableBillingAddress": [
         {
-          "nickName": "casa",
-          "addressId": "3074457362951363813"
+          "nickName": "B2B_contable@galotrans.com",
+          "addressId": "3074457348517112690"
         },
         {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457362950387085"
+          "nickName": "casa",
+          "addressId": "3074457348548043804"
         }
       ],
       "paymentTermConditionId": "",
-      "description": "Entrega contra reembolso",
-      "xumet_attrPageName": "StandardCOD",
+      "description": "PSE",
+      "xumet_attrPageName": "B2BPSE",
       "language": "-5",
-      "paymentMethodName": "COD"
-    },
-    {
-      "xumet_policyId": "3074457345616676771",
-      "usableBillingAddress": [
-        {
-          "nickName": "casa",
-          "addressId": "3074457362951363813"
-        },
-        {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457362950387085"
-        }
-      ],
-      "paymentTermConditionId": "",
-      "description": "Enviar la factura",
-      "xumet_attrPageName": "StandardBillMeLater",
-      "language": "-5",
-      "paymentMethodName": "BillMeLater"
-    },
-    {
-      "xumet_policyId": "3074457345616676774",
-      "usableBillingAddress": [
-        {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
-        },
-        {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
-        }
-      ],
-      "paymentTermConditionId": "",
-      "description": "Tarjeta de cr\u00e9dito MasterCard",
-      "xumet_attrPageName": "StandardMasterCard",
-      "language": "-5",
-      "paymentMethodName": "MasterCard"
-    },
-    {
-      "xumet_policyId": "3074457345616676775",
-      "usableBillingAddress": [
-        {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
-        },
-        {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
-        }
-      ],
-      "paymentTermConditionId": "",
-      "description": "Pagos diferidos",
-      "xumet_attrPageName": "StandardPayLater",
-      "language": "-5",
-      "paymentMethodName": "PayLater"
-    },
-    {
-      "xumet_policyId": "3074457345616676776",
-      "usableBillingAddress": [
-        {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
-        },
-        {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
-        }
-      ],
-      "paymentTermConditionId": "",
-      "description": "Tarjeta de cr\u00e9dito VISA",
-      "xumet_attrPageName": "StandardVisa",
-      "language": "-5",
-      "paymentMethodName": "VISA"
-    },
-    {
-      "xumet_policyId": "3074457345616676772",
-      "usableBillingAddress": [
-        {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
-        },
-        {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
-        }
-      ],
-      "paymentTermConditionId": "",
-      "description": "Comprobar",
-      "xumet_attrPageName": "StandardCheck",
-      "language": "-5",
-      "paymentMethodName": "Check"
-    },
-    {
-      "xumet_policyId": "3074457345616676770",
-      "usableBillingAddress": [
-        {
-          "nickName": "casa",
-          "addressId": "3074457357418693210"
-        },
-        {
-          "nickName": "demo@gmail.com",
-          "addressId": "3074457356893057273"
-        }
-      ],
-      "paymentTermConditionId": "",
-      "description": "Tarjeta de cr\u00e9dito American Express",
-      "xumet_attrPageName": "StandardAmex",
-      "language": "-5",
-      "paymentMethodName": "AMEX"
+      "paymentMethodName": "B2BPSE"
     }
   ]
 }

@@ -227,7 +227,8 @@ shippingRouter.post("/:storeId/shipping/payment", async (req, res) => {
     status: 200,
     message: "Proceso completado",
     success: true,
-    tarjetas: [
+    tarjetas: [],
+    tarjetass: [
       {
         NUMERO_TARJETA: ' ****1111',
         FRANQUICIA: 'VISA',

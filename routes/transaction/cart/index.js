@@ -15,7 +15,7 @@ const __dirname = path.dirname(__filename);
 
 // /wcs/resources/store/10251/cart/@self?langId=-5&sortOrder=desc
 cartRouter.get('/:storeId/cart/@self', async (req, res, next) => {
-  // const demo = true;
+  const demo = true;
   // if (demo) {
   //   res.status(401).json({
   //     "errors": [

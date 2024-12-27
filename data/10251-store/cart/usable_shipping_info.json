@@ -59,6 +59,12 @@
           "description": "International Priority",
           "shipModeId": "15004",
           "language": "-5"
+        },
+        {
+          "shipModeCode": "ShippingDateAvailable",
+          "description": "Env\u00edo a domicilio en fecha disponible",
+          "shipModeId": "30001",
+          "language": "-5"
         }
       ],
       "usableShippingChargePolicy": [

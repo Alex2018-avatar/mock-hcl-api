@@ -1,0 +1,86 @@
+[
+  {
+    "lastName": "GALOTRANS LTDA",
+    "country": "Colombia",
+    "zipCode": "11001",
+    "registrationStatus": "RegisteredPerson",
+    "preferredLanguage": "es_ES",
+    "resourceId": "https://tsapp.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/person/@self",
+    "city": "Bogot\u00e1",
+    "companyName": "GALOTRANS LTDA",
+    "preferredCurrency": "COP",
+    "distinguishedName": "uid=b2b_contable@galotrans.com,o=galotrans ltda,o=root organization",
+    "orgizationId": "7333333333333334588",
+    "addressId": "3074457348517112690",
+    "accountStatus": "Enabled",
+    "email1": "contable@galotrans.com",
+    "profileType": "Business",
+    "contact": [
+      {
+        "lastName": "GALOTRANS LTDA",
+        "zipCode": "05001",
+        "country": "Colombia",
+        "city": "MEDELLIN",
+        "nickName": "casa",
+        "addressType": "ShippingAndBilling",
+        "geographicalTaxCode": "{\"CDS\":\"ANTIOQUIA\",\"CD\":\"MEDELLIN\",\"TA\":\"\",\"TP\":\"PISO + INTERIOR\",\"TI\":\"BLOQUE\",\"ID\":\"\"}",
+        "addressLine": ["23|844|14", "MANZANA", "Barrios altos"],
+        "geographicalShippingCode": "carca del hotel cielo",
+        "addressId": "3074457348548043804",
+        "firstName": "GALOTRANS LTDA",
+        "email1": "B2B_contable@galotrans.com",
+        "businessTitle": "BLOQUE|13",
+        "internalOfficeAddress": "PISO + INTERIOR|1",
+        "middleName": "BARRIO BARRIOS ALTOS BLOQUE 13 MANZANA 23 844 14 PISO + INTERIOR 1",
+        "state": "ANTIOQUIA",
+        "primary": "true"
+      }
+    ],
+    "state": "Bogot\u00e1",
+    "challengeQuestion": "-",
+    "nickName": "B2B_contable@galotrans.com",
+    "addressType": "ShippingAndBilling",
+    "resourceName": "person",
+    "checkoutProfileUrl": "https://tsapp.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/person/@self/checkoutProfile",
+    "userId": "5009",
+    "registrationDateTime": "2024-12-18T15:04:32.764Z",
+    "organizationDistinguishedName": "o=galotrans ltda,o=root organization",
+    "firstName": "GALOTRANS LTDA",
+    "logonId": "B2B_contable@galotrans.com",
+    "receiveEmailPreference": [
+      {
+        "storeID": "10152",
+        "value": "false"
+      }
+    ],
+    "lastUpdate": "2024-12-20T16:25:00.636Z",
+    "registrationApprovalStatus": "Approved",
+    "contactUrl": "https://tsapp.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/person/@self/contact",
+    "attributes": [
+      {
+        "pProfileAttrKey": "demographicField5",
+        "bProfileAttrValue": "7333333333333334588",
+        "bProfileAttrKey": "organizationId",
+        "attrKey": "userField1",
+        "attrValue": "800199898",
+        "pProfileAttrValue": "INTERMEDIAS"
+      },
+      {
+        "attrKey": "userField2",
+        "attrValue": "NIT"
+      },
+      {
+        "attrKey": "userField3",
+        "attrValue": "431842ea83c916d5a875ee82d32f8e40"
+      }
+    ],
+    "passwordExpired": "false",
+    "primary": "false",
+    "receiveSMSPreference": [
+      {
+        "storeID": "10152",
+        "value": "false"
+      }
+    ]
+  }
+]

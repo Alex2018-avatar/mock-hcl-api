@@ -12,7 +12,8 @@ export const handleB2BLoginIdentity = (req, res) => {
   //       {
   //         "errorKey": "9000",
   //         "errorParameters": "Inténtalo más tarde|Algo salió mal al procesar tu solicitud.",
-  //         "errorMessage": "Inténtalo más tarde\nAlgo salió mal al procesar tu solicitud.",
+  //         // "errorMessage": "Inténtalo más tarde\nAlgo salió mal al procesar tu solicitud.",
+  //         "errorMessage": "<p class='font-bold'>Inténtalo más tarde</p><p>Algo salió mal al procesar tu solicitud.</p>",
   //         "errorCode": "ERR_LOGIN_CODE_30"
   //       }
   //     ]
