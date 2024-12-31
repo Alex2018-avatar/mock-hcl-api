@@ -188,21 +188,21 @@ userRouter.put("/:storeId/person/@self", async (req, res) => {
     //       },
     //     ],
     //   });
-    // res.status(200).json({
-    //   resourceName: "person",
-    //   userId: "18004",
-    //   addressId: "3074457375142411703",
-    // });
-    res.status(400).json({
-      "errors": [
-        {
-          "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
-          "errorParameters": "",
-          "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
-          "errorCode": "1001"
-        }
-      ]
+    res.status(200).json({
+      resourceName: "person",
+      userId: "18004",
+      addressId: "3074457375142411703",
     });
+    // res.status(400).json({
+    //   "errors": [
+    //     {
+    //       "errorKey": "_ERROR_LOGIN_CUSTOMER_SEARCH_NOT_REGISTERED",
+    //       "errorParameters": "",
+    //       "errorMessage": "The specified logon ID or password are not correct. Verify the information provided and log in again.",
+    //       "errorCode": "1001"
+    //     }
+    //   ]
+    // });
   }
 });
 

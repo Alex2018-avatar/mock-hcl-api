@@ -1,0 +1,13 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "48- Responsable del impuesto sobre las ventas IVA (Régimen común)",
+      "value": "48"
+    },
+    {
+      "description": "49- No responsable de IVA (Régimen simplificado)",
+      "value": "49"
+    }
+  ]
+}

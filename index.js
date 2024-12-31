@@ -19,9 +19,11 @@ import geoNodeRouter from './routes/transaction/geonode/geonode.js';
 import addressRouter from './routes/transaction/address/address.js';
 import orderRouter from './routes/transaction/order/order.js';
 import customRouter from './routes/transaction/custom/index.js';
+import cartRoutesV2 from './routes/transaction/cart/cart.js';
 import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
 import cookieParser from 'cookie-parser';
+import shippingInfoRouter from './routes/transaction/shipping/shipping-info.js';
 
 const app = express();
 const __filename = fileURLToPath(import.meta.url);
@@ -63,6 +65,9 @@ app.use(config.transactionContextPath, geoNodeRouter);
 app.use(config.transactionContextPath, addressRouter);
 app.use(config.transactionContextPath, orderRouter);
 app.use(config.transactionContextPath, customRouter);
+app.use(config.transactionContextPath, cartRoutesV2);
+app.use(config.transactionContextPath, shippingInfoRouter);
+
 
 // Middleware para manejar 404
 app.use((req, res, next) => {

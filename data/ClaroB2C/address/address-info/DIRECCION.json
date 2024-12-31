@@ -1,0 +1,61 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "Manzana",
+      "value": "MANZANA"
+    },
+    {
+      "description": "Carrera",
+      "value": "CARRERA"
+    },
+    {
+      "description": "Avenida",
+      "value": "AVENIDA"
+    },
+    {
+      "description": "Avenida Calle",
+      "value": "AVENIDA CALLE"
+    },
+    {
+      "description": "Avenida Carrera",
+      "value": "AVENIDA CARRERA"
+    },
+    {
+      "description": "Calle",
+      "value": "CALLE"
+    },
+    {
+      "description": "Circular",
+      "value": "CIRCULAR"
+    },
+    {
+      "description": "Circunvalar",
+      "value": "CIRCUNVALAR"
+    },
+    {
+      "description": "Diagonal",
+      "value": "DIAGONAL"
+    },
+    {
+      "description": "Transversal",
+      "value": "TRANSVERSAL"
+    },
+    {
+      "description": "V\u00eda",
+      "value": "VIA"
+    },
+    {
+      "description": "Vereda",
+      "value": "VEREDA"
+    },
+    {
+      "description": "KM",
+      "value": "KM"
+    },
+    {
+      "description": "Corregimiento",
+      "value": "CORREGIMIENTO"
+    }
+  ]
+}
