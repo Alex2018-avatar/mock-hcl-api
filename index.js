@@ -24,6 +24,7 @@ import { config } from './conf/config.js';
 import { logger, morganMiddleware } from './config/logger.js';
 import cookieParser from 'cookie-parser';
 import shippingInfoRouter from './routes/transaction/shipping/shipping-info.js';
+import customClaroRouter from './routes/transaction/payment/payment.js';
 
 const app = express();
 const __filename = fileURLToPath(import.meta.url);
@@ -67,6 +68,7 @@ app.use(config.transactionContextPath, orderRouter);
 app.use(config.transactionContextPath, customRouter);
 app.use(config.transactionContextPath, cartRoutesV2);
 app.use(config.transactionContextPath, shippingInfoRouter);
+app.use(config.transactionContextPath, customClaroRouter);
 
 
 // Middleware para manejar 404

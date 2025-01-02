@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "accountDescription": "Línea postpago",
+      "accountType": "M",
+      "accountNumber": "3176370608"
+    },
+    {
+      "accountDescription": "Línea postpago",
+      "accountType": "M",
+      "accountNumber": "3168306791"
+    }
+  ],
+  "success": true,
+  "message": "Proceso exitoso",
+  "status": 200
+}

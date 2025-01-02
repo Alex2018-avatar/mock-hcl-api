@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "accountDescription": "Cuenta Hogar",
+      "accountType": "F",
+      "accountNumber": "43101831"
+    },
+    {
+      "accountDescription": "Cuenta Hogar",
+      "accountType": "F",
+      "accountNumber": "16713992"
+    }
+  ],
+  "success": true,
+  "message": "Proceso exitoso",
+  "status": 200
+}
