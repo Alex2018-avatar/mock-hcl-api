@@ -147,15 +147,17 @@ cartRouter.delete('/:storeId/cart/@self/payment_instruction', async (req, res) =
 
 // /wcs/resources/store/9701/cart/@self/payment_instruction?langId=-5
 cartRouter.post('/:storeId/cart/@self/payment_instruction', async (req, res) => {
-  res.status(200).json({
-    "orderId": "5245350969",
-    "paymentInstruction": [
-      {
-        "piId": "10501"
-      }
-    ],
-    "resourceName": "cart"
-  });
+  // res.status(200).json({
+  /// payment_url: 'https://pruebasclaro.maxgp.com.co:8443/phrame.php?FORMA_PAGO=1&NUMERO_DOCUMENTO=70030602&TIPO_DOCUMENTO=CC&action=despliegue_personal&clase=claro&cuentaID=&empresa=claro&fecha=20241205103543&id_objeto=10030&interface=authenticate&merchant=2088101897450674&metodo=puentePagoEcommerce&metodo_ejec=postPagosTokenEcommerce&nombreUsuario=YvYqIoR7S5E5wQ9LyfiSPI2GBjibRZsOwIyulIEIyZs%3D&operacion=Adicionar&price=831800.00&sobrecarga=generar_formupseAction&tipoCanalOrigenID=16&tokenAutenticacion=CB20A2DA2B9943508CDE19156CBC20BA&tokenValidacion=76243819cd618ef4acfc81224206b13019f0eeb20dd60de959df99004206ab09&tran_id=33557306715&callback_url=https://tiendaonlineqadd.claro.com.co/paymentCallBack&return_url=https://tiendaonlineqadd.claro.com.co/thankyou&CUOTAS=&CVV=&DCPrimerNombre=&DCSegundoNombre=&DCDireccion=&DCCiudad=&DCPais=CO',
+  //   "orderId": "5245350969",
+  //   "paymentInstruction": [
+  //     {
+  //       "piId": "10501"
+  //     }
+  //   ],
+  //   "resourceName": "cart"
+  // });
+  res.status(400).json(generateWCSError("_GENERIC_ERROR", "1001"));
 });
 
 // /wcs/resources/store/9701/cart/@self/precheckout

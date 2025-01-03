@@ -4,6 +4,11 @@
       "nextTimeLimit": "-1",
       "defaultContentDisplaySequence": [
         {
+          "resultId": "3074457345616817096",
+          "resultFormat": "CatalogEntry",
+          "displaySequence": "1.0"
+        },
+        {
           "resultId": "3074457345617889169",
           "resultFormat": "CatalogEntry",
           "displaySequence": "1.0"
@@ -58,6 +63,59 @@
       "behavior": "0",
       "eSpotName": "Widget_clarob2c-mas-ofertas-para-ti-widget_14602",
       "baseMarketingSpotActivityData": [
+        {
+          "baseMarketingSpotActivityName": "Nokia 215 4G",
+          "productId": "3074457345616817096",
+          "description": [
+            {
+              "longDescription": "IPHONE 15 PRO MAX 256GB 5G",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-blanco.jpg",
+              "language": "-5",
+              "shortDescription": "IPHONE 15 PRO MAX 256GB 5G",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055637.jpg",
+              "productName": "IPHONE 15 PRO MAX 256GB 5G"
+            }
+          ],
+          "listPriceCurrency": "COP",
+          "standardPrice": "239900.00",
+          "ownerID": "7333333333333333435",
+          "baseMarketingSpotActivityID": "3074457345616817096",
+          "baseMarketingSpotDataType": "CatalogEntry",
+          "productPartNumber": "PO_Equ70055637P",
+          "activityIdentifierID": "0",
+          "standardPriceCurrency": "COP",
+          "contractPrice": [
+            {
+              "minorVersionNumber": "0",
+              "contractPrice": "239900.00",
+              "origin": "6",
+              "name": "ClaroB2C - ClaroB2C",
+              "contractID": "4000000000000000003",
+              "currency": "COP",
+              "ownerID": "7333333333333333535",
+              "minimumQuantity": "1.0",
+              "majorVersionNumber": "1"
+            }
+          ],
+          "attributes": [
+            {
+              "stringValue": "ClaroCatalogAssetStore",
+              "name": "rootDirectory"
+            }
+          ],
+          "catalogEntryTypeCode": "ProductBean",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "listPrice": "239900.00"
+        },
         {
           "baseMarketingSpotActivityName": "Nokia 215 4G",
           "productId": "3074457345617889169",

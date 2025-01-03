@@ -59,6 +59,28 @@
           "swatchable": "false"
         },
         {
+          "identifier": "PRECIO_CLIENTE_CLARO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055637P",
+              "sequence": "0.0",
+              "unitID": "140W",
+              "id": "7741124012283589890",
+              "value": "56242"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "PRECIO_CLIENTE_CLARO",
+          "facetable": "false",
+          "id": "77411240122833413001",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
           "identifier": "CODIGO_DE_COLOR_HEXADECIMAL",
           "attribute.natural": "[]",
           "usage": "Descriptive",

@@ -94,6 +94,77 @@
       ],
       "middleName": "",
       "xpaym_punchoutPayment": "false"
+    },
+    {
+      "piId": "10501",
+      "country": "Colombia",
+      "personTitle": "",
+      "lastName": "becerra",
+      "zipCode": "715839466",
+      "city": "MEDELL\u00cdN",
+      "postalCode": "715839466",
+      "phone2": "",
+      "phone2Publish": "true",
+      "phone1Publish": "true",
+      "piDescription": "Entrega contra reembolso",
+      "payMethodId": "COD",
+      "phone1": "",
+      "xpaym_tokenization": "false",
+      "email2": "",
+      "email1": "abecerra@avatar-global.com",
+      "xpaym_policyId": "3074457345616676773",
+      "fax2": "",
+      "state": "ANTIOQUIA",
+      "fax1": "",
+      "piAmount": "1439700.00000",
+      "billing_address_id": "3074457357418693210",
+      "nickName": "casa",
+      "addressLine": ["45|844|14", "CARRERA", ""],
+      "piLanguage": "-5",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "piStatus": "Success",
+      "firstName": "Alex",
+      "piCurrency": "COP",
+      "protocolData": [
+        {
+          "name": "billing_address_id",
+          "value": "3074457357418693210"
+        },
+        {
+          "name": "billto_zipcode",
+          "value": "715839466"
+        },
+        {
+          "name": "billto_address1",
+          "value": "45|844|14"
+        },
+        {
+          "name": "billto_lastname",
+          "value": "becerra"
+        },
+        {
+          "name": "billto_country",
+          "value": "Colombia"
+        },
+        {
+          "name": "billto_stateprovince",
+          "value": "ANTIOQUIA"
+        },
+        {
+          "name": "billto_city",
+          "value": "MEDELL\u00cdN"
+        },
+        {
+          "name": "billto_firstname",
+          "value": "Alex"
+        },
+        {
+          "name": "payment_method",
+          "value": "COD"
+        }
+      ],
+      "middleName": "",
+      "xpaym_punchoutPayment": "false"
     }
   ],
   "x_isPersonalAddressesAllowedForShipping": "true",
@@ -162,7 +233,7 @@
       "salesTaxCurrency": "COP",
       "quantity": "2.0",
       "fulfillmentCenterId": "715837934",
-      "orderItemId": "35001",
+      "orderItemId": "3500145",
       "shipModeId": "715837984",
       "xitem_memberId": "13004",
       "orderItemFulfillmentStatus": "Unreleased",
@@ -182,7 +253,7 @@
       "partNumber": "PO_Equ70049133"
     },
     {
-      "zipCode": "715839466",
+      "zipCode": "71583941001",
       "personTitle": "",
       "country": "Colombia",
       "unitUom": "C62",
@@ -213,7 +284,7 @@
       "orderItemPrice": "239900",
       "shipModeLanguage": "-5",
       "unitPrice": "239900",
-      "productId": "10002",
+      "productId": "3074457345616817098",
       "shipModeCode": "Mail",
       "shipModeDescription": "Mail",
       "nickName": "casa",
@@ -253,14 +324,88 @@
       "unitQuantity": "1.0",
       "contractId": "4000000000000000003",
       "middleName": "",
-      "partNumber": "PO_Equ70038158"
+      "partNumber": "PO_Equ70055641"
+    },
+    {
+      "zipCode": "71583941001",
+      "personTitle": "",
+      "country": "Colombia",
+      "unitUom": "C62",
+      "shippingChargeCurrency": "COP",
+      "lastUpdateDate": "2024-11-19T16:00:01.879Z",
+      "postalCode": "715839466",
+      "phone2": "",
+      "availableDate": "2024-11-19T16:00:01.036Z",
+      "phone2Publish": "true",
+      "salesTax": "0",
+      "phone1Publish": "true",
+      "phone1": "",
+      "addressId": "3074457357418693210",
+      "correlationGroup": "20008",
+      "usableShippingChargePolicy": [
+        {
+          "name": "StandardShippingChargeBySeller",
+          "type": "ShippingCharge",
+          "uniqueID": "-7001"
+        }
+      ],
+      "email2": "",
+      "email1": "abecerra@avatar-global.com",
+      "fax2": "",
+      "shippingCharge": "0",
+      "fax1": "",
+      "state": "ANTIOQUIA",
+      "orderItemPrice": "239900",
+      "shipModeLanguage": "-5",
+      "unitPrice": "239900",
+      "productId": "3074457345616817100",
+      "shipModeCode": "Mail",
+      "shipModeDescription": "Mail",
+      "nickName": "casa",
+      "fulfillmentCenterName": "ClaroB2C",
+      "firstName": "Alex",
+      "totalAdjustment": {
+        "currency": "COP",
+        "value": "0"
+      },
+      "orderItemInventoryStatus": "Allocated",
+      "lastName": "becerra",
+      "city": "MEDELL\u00cdN",
+      "expectedShipDate": "2024-11-20T16:00:14.543Z",
+      "xitem_isPersonalAddressesAllowedForShipping": "true",
+      "shippingTax": "0",
+      "orderItemStatus": "M",
+      "offerID": "4000000000000000504",
+      "currency": "COP",
+      "createDate": "2024-11-19T15:32:40.701Z",
+      "salesTaxCurrency": "COP",
+      "quantity": "1.0",
+      "fulfillmentCenterId": "715837934",
+      "orderItemId": "350078",
+      "shipModeId": "715837984",
+      "xitem_memberId": "13004",
+      "orderItemFulfillmentStatus": "Unreleased",
+      "isExpedited": "false",
+      "addressLine": ["45|844|14", "CARRERA", ""],
+      "xitem_lastName": "becerra",
+      "shippingTaxCurrency": "COP",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "carrier": "Mail",
+      "UOM": "C62",
+      "fulfillmentCenterOwnerId": "7333333333333333535",
+      "freeGift": "false",
+      "xitem_firstName": "Alex",
+      "unitQuantity": "1.0",
+      "contractId": "4000000000000000003",
+      "middleName": "",
+      "partNumber": "PO_Equ70055665"
     }
   ],
   "grandTotal": "1439700",
   "storeUniqueID": "9701",
   "recordSetStartNumber": "0",
   "resourceName": "order",
-  "recordSetTotal": "2",
+  "recordSetTotal": "3",
   "shipAsComplete": "true",
   "x_trackingIds": "",
   "totalShippingTax": "0",

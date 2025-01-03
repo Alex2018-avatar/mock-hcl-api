@@ -1,0 +1,66 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "10101",
+        "name": "HomeLayoutB2C",
+        "containerName": "clarob2c-home-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": []
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "11602",
+                "name": "Beneficios",
+                "widgetName": "content-recommendation-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "emsName": "Widget_content-recommendation-widget_11602",
+                  "emsId": "715839584",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": []
+          },
+          {
+            "id": "4",
+            "widgets": []
+          },
+          {
+            "id": "5",
+            "widgets": []
+          },
+          {
+            "id": "6",
+            "widgets": []
+          }
+        ]
+      },
+      "identifier": "home",
+      "store.type": "MHS",
+      "tokenName": "StaticPagesToken",
+      "tokenExternalValue": "HomeB2C",
+      "language": "es_ES",
+      "id": "14601",
+      "page": {
+        "imageAlternateDescription": "",
+        "name": "Content_1101",
+        "type": "ContentPage",
+        "title": "Descubre las mejores novedades",
+        "metaDescription": "home",
+        "metaKeyword": "home"
+      },
+      "storeId": "9701",
+      "tokenValue": "1101",
+      "status": 1
+    }
+  ]
+}

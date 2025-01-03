@@ -56,6 +56,13 @@
           "description": "I",
           "currency": "COP",
           "value": "5689960.0"
+        },
+        {
+          "usage": "claroClient",
+          "contractId": "10005",
+          "description": "I",
+          "currency": "COP",
+          "value": "589960.0"
         }
       ],
       "attributes": [
@@ -11170,14 +11177,21 @@
           "usage": "Display",
           "description": "L",
           "currency": "COP",
-          "value": "6298960.0"
+          "value": "6898960.0"
         },
         {
           "usage": "Offer",
           "contractId": "10005",
           "description": "I",
           "currency": "COP",
-          "value": "6259960.0"
+          "value": "6159960.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "contractId": "10005",
+          "description": "I",
+          "currency": "COP",
+          "value": "505960.0"
         }
       ],
       "attributes": [
@@ -11229,6 +11243,28 @@
           "swatchable": "false"
         },
         {
+          "identifier": "PRECIO_CLIENTE_CLARO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055637P",
+              "sequence": "0.0",
+              "unitID": "140W",
+              "id": "7741124012283589890",
+              "value": "46242"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "PRECIO_CLIENTE_CLARO",
+          "facetable": "false",
+          "id": "77411240122833413001",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
           "identifier": "SOPORTA_CARGA_RAPIDA_WATTS",
           "attribute.natural": "[]",
           "usage": "Descriptive",
@@ -11247,6 +11283,28 @@
           "name": "SOPORTA CARGA RAPIDA WATTS",
           "facetable": "false",
           "id": "7741124012283341363",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "PRECIO_CLIENTE_CLARO",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70055637P",
+              "sequence": "0.0",
+              "unitID": "140W",
+              "id": "7741124012283589890",
+              "value": "46242"
+            }
+          ],
+          "displayable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "name": "PRECIO_CLIENTE_CLARO",
+          "facetable": "false",
+          "id": "77411240122833413001",
           "comparable": "true",
           "swatchable": "false"
         },
