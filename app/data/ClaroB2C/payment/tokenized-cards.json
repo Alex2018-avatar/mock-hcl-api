@@ -1,0 +1,17 @@
+[
+  {
+    "NUMERO_TARJETA": " ****1111",
+    "FRANQUICIA": "VISA",
+    "TOKENUMERO": "TK_12345678"
+  },
+  {
+    "NUMERO_TARJETA": " ****2222",
+    "FRANQUICIA": "MASTERCARD",
+    "TOKENUMERO": "TK_123456789"
+  },
+  {
+    "NUMERO_TARJETA": " ****3333",
+    "FRANQUICIA": "VISA",
+    "TOKENUMERO": "TK_123456788"
+  }
+]

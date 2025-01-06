@@ -1,0 +1,187 @@
+{
+  "orderTypeCode": "ORD",
+  "totalShippingCharge": "0",
+  "resourceId": "https://store.tsapp.claro.com.co:443/wcs/resources/store/9701/cart/@self?langId=-5&sortOrder=desc",
+  "orderId": "32508204459",
+  "lastUpdateDate": "2024-12-05T16:46:35.791Z",
+  "channel": {
+    "channelIdentifer": {
+      "channelName": "Web Channel",
+      "uniqueID": "-1"
+    },
+    "userData": null,
+    "description": {
+      "language": "-5",
+      "value": "Used when operations performed from a desktop browser."
+    }
+  },
+  "orderStatus": "P",
+  "x_isPurchaseOrderNumberRequired": "false",
+  "totalShippingChargeCurrency": "COP",
+  "orderExtendAttribute": [
+    {
+      "attributeValue": "2024-12-10",
+      "attributeType": "string",
+      "attributeName": "FECHA_ENVIO"
+    }
+  ],
+  "x_firstName": "Lucio",
+  "grandTotalCurrency": "COP",
+  "buyerId": "8002",
+  "buyerDistinguishedName": "uid=lmorales@gmail.com,o=default organization,o=root organization",
+  "totalTaxByTaxCategory": [
+    {
+      "currency": "COP",
+      "taxCategoryCode": "Impuesto IVA",
+      "value": "8446"
+    }
+  ],
+  "recordSetCount": "1",
+  "paymentInstruction": [
+    {
+      "piId": "20001",
+      "personTitle": "",
+      "lastName": "Angeles",
+      "country": "Colombia",
+      "zipCode": "715839403",
+      "city": "ANDES",
+      "postalCode": "715839403",
+      "phone2": "",
+      "phone2Publish": "true",
+      "phone1Publish": "true",
+      "piDescription": "DebitoBancarioPSE",
+      "payMethodId": "DebitoBancarioPSE",
+      "phone1": "962172839",
+      "xpaym_tokenization": "false",
+      "email2": "",
+      "email1": "mdfn18@gmail.com",
+      "fax2": "",
+      "xpaym_policyId": "3074457345616677327",
+      "state": "ANTIOQUIA",
+      "fax1": "",
+      "piAmount": "52900.00000",
+      "billing_address_id": "3074457371581739712",
+      "nickName": "Casa2",
+      "addressLine": ["00|11|22", "CARRERA", "Nombre del Barrio"],
+      "piLanguage": "-5",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "piStatus": "Success",
+      "firstName": "Eduardo",
+      "protocolData": [
+        {
+          "name": "billing_address_id",
+          "value": "3074457371581739712"
+        },
+        {
+          "name": "payment_url",
+          "value": "final http"
+        },
+        {
+          "name": "payment_method",
+          "value": "DebitoBancarioPSE"
+        }
+      ],
+      "piCurrency": "COP",
+      "middleName": "",
+      "xpaym_punchoutPayment": "true"
+    }
+  ],
+  "x_isPersonalAddressesAllowedForShipping": "true",
+  "storeNameIdentifier": "ClaroB2C",
+  "totalProductPriceCurrency": "COP",
+  "totalProductPrice": "44454",
+  "locked": "false",
+  "recordSetComplete": "true",
+  "totalAdjustmentCurrency": "COP",
+  "totalSalesTaxCurrency": "COP",
+  "totalSalesTax": "8446",
+  "grandTotal": "52900",
+  "orderItem": [
+    {
+      "personTitle": "",
+      "country": "Colombia",
+      "zipCode": "715839403",
+      "unitUom": "C62",
+      "shippingChargeCurrency": "COP",
+      "lastUpdateDate": "2024-12-05T16:46:35.811Z",
+      "postalCode": "715839403",
+      "phone2": "",
+      "language": "-5",
+      "phone2Publish": "true",
+      "phone1Publish": "true",
+      "salesTax": "8446",
+      "addressId": "3074457371581739712",
+      "phone1": "962172839",
+      "correlationGroup": "185001",
+      "email2": "",
+      "usableShippingChargePolicy": [
+        {
+          "name": "StandardShippingChargeBySeller",
+          "type": "ShippingCharge",
+          "uniqueID": "-7001"
+        }
+      ],
+      "email1": "mdfn18@gmail.com",
+      "fax2": "",
+      "state": "ANTIOQUIA",
+      "fax1": "",
+      "shippingCharge": "0",
+      "orderItemPrice": "44454",
+      "shipModeLanguage": "-5",
+      "unitPrice": "44454",
+      "shipModeCode": "Mail",
+      "productId": "10114",
+      "shipModeDescription": "Mail",
+      "nickName": "Casa2",
+      "fulfillmentCenterName": "ClaroB2C",
+      "firstName": "Eduardo",
+      "totalAdjustment": {
+        "currency": "COP",
+        "value": "0"
+      },
+      "orderItemInventoryStatus": "Available",
+      "lastName": "Angeles",
+      "city": "ANDES",
+      "expectedShipDate": "2024-12-05T16:47:11.203Z",
+      "description": "Mail",
+      "xitem_isPersonalAddressesAllowedForShipping": "true",
+      "shippingTax": "0",
+      "orderItemStatus": "P",
+      "offerID": "4000000000000002081",
+      "currency": "COP",
+      "createDate": "2024-12-05T16:45:35.897Z",
+      "salesTaxCurrency": "COP",
+      "quantity": "1.0",
+      "orderItemId": "185001",
+      "fulfillmentCenterId": "715837934",
+      "shipModeId": "715837984",
+      "xitem_memberId": "8002",
+      "isExpedited": "false",
+      "addressLine": ["00|11|22", "CARRERA", "Nombre del Barrio"],
+      "orderItemFulfillmentStatus": "Unreleased",
+      "xitem_lastName": "Morales",
+      "shippingTaxCurrency": "COP",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "carrier": "Mail",
+      "UOM": "C62",
+      "fulfillmentCenterOwnerId": "7333333333333333535",
+      "freeGift": "false",
+      "xitem_firstName": "Lucio",
+      "unitQuantity": "1.0",
+      "contractId": "4000000000000000003",
+      "middleName": "",
+      "partNumber": "PO_Tec7019212"
+    }
+  ],
+  "storeUniqueID": "9701",
+  "recordSetStartNumber": "0",
+  "resourceName": "cart",
+  "recordSetTotal": "1",
+  "shipAsComplete": "true",
+  "x_trackingIds": "",
+  "totalShippingTax": "0",
+  "totalShippingTaxCurrency": "COP",
+  "prepareIndicator": "false",
+  "x_lastName": "Morales",
+  "totalAdjustment": "0"
+}

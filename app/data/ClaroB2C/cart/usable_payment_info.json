@@ -1,0 +1,245 @@
+{
+  "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/cart/@self/usable_payment_info?langId=-5&allPaymentMethods=true",
+  "orderId": "12945575",
+  "resourceName": "cart",
+  "usablePaymentInformation": [
+    {
+      "xumet_policyId": "-12001",
+      "usableBillingAddress": [
+        {
+          "nickName": "casa",
+          "addressId": "3074457362951363813"
+        },
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457362950387085"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "Apple Pay",
+      "xumet_attrPageName": "SimplePunchout",
+      "language": "-5",
+      "paymentMethodName": "ApplePay"
+    },
+    {
+      "xumet_policyId": "3074457345616676773",
+      "usableBillingAddress": [
+        {
+          "nickName": "casa",
+          "addressId": "3074457362951363813"
+        },
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457362950387085"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "Entrega contra reembolso",
+      "xumet_attrPageName": "StandardCOD",
+      "language": "-5",
+      "paymentMethodName": "COD"
+    },
+    {
+      "xumet_policyId": "3074457345616676771",
+      "usableBillingAddress": [
+        {
+          "nickName": "casa",
+          "addressId": "3074457362951363813"
+        },
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457362950387085"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "Enviar la factura",
+      "xumet_attrPageName": "StandardBillMeLater",
+      "language": "-5",
+      "paymentMethodName": "BillMeLater"
+    },
+    {
+      "xumet_policyId": "3074457345616677328",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "TarjetaCreditoDebito",
+      "xumet_attrPageName": "TCreditoDebito",
+      "language": "-5",
+      "paymentMethodName": "TCreditoDebito"
+    },
+    {
+      "xumet_policyId": "3074457345616676774",
+      "usableBillingAddress": [
+        {
+          "nickName": "casa",
+          "addressId": "3074457357418693210"
+        },
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457356893057273"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "Tarjeta de cr\u00e9dito MasterCard",
+      "xumet_attrPageName": "StandardMasterCard",
+      "language": "-5",
+      "paymentMethodName": "MasterCard"
+    },
+    {
+      "xumet_policyId": "3074457345616676775",
+      "usableBillingAddress": [
+        {
+          "nickName": "casa",
+          "addressId": "3074457357418693210"
+        },
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457356893057273"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "Pagos diferidos",
+      "xumet_attrPageName": "StandardPayLater",
+      "language": "-5",
+      "paymentMethodName": "PayLater"
+    },
+    {
+      "xumet_policyId": "3074457345616677333",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "FinancierasAliadas",
+      "xumet_attrPageName": "FinancierasAliadas",
+      "language": "-5",
+      "paymentMethodName": "FinancierasAliadas"
+    },
+    {
+      "xumet_policyId": "3074457345616677332",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "ADDI",
+      "xumet_attrPageName": "ADDI",
+      "language": "-5",
+      "paymentMethodName": "ADDI"
+    },
+    {
+      "xumet_policyId": "3074457345616676770",
+      "usableBillingAddress": [
+        {
+          "nickName": "casa",
+          "addressId": "3074457357418693210"
+        },
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457356893057273"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "DaviPlata",
+      "xumet_attrPageName": "DaviPlata",
+      "language": "-5",
+      "paymentMethodName": "DaviPlata"
+    },
+    {
+      "xumet_policyId": "3074457345616677327",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "DebitoBancarioPSE",
+      "xumet_attrPageName": "DebitoBancarioPSE",
+      "language": "-5",
+      "paymentMethodName": "DebitoBancarioPSE"
+    },
+    {
+      "xumet_policyId": "3074457345600699871",
+      "usableBillingAddress": [
+        {
+          "nickName": "demo",
+          "addressId": "3074457373145868105"
+        },
+        {
+          "nickName": "casa2",
+          "addressId": "3074457372625032474"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457372100867236"
+        },
+        {
+          "nickName": "abecerra@avatar-global.com",
+          "addressId": "3074457372622734163"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "TarjetasTokenizadas",
+      "xumet_attrPageName": "TarjetasTokenizadas",
+      "language": "-5",
+      "paymentMethodName": "TarjetasTokenizadas"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "lastName": "Ramos",
+    "registrationStatus": "RegisteredPerson",
+    "preferredLanguage": "es_ES",
+    "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/11/person/@self?langId=-1",
+    "preferredCurrency": "COP",
+    "distinguishedName": "uid=demo@gmail.com,o=default organization,o=root organization",
+    "orgizationId": "-2000",
+    "addressId": "3074457362980024554",
+    "accountStatus": "Enabled",
+    "email1": "demo@gmail.com",
+    "profileType": "Consumer",
+    "challengeQuestion": "-",
+    "nickName": "demo@gmail.com",
+    "addressType": "ShippingAndBilling",
+    "resourceName": "person",
+    "userId": "1002",
+    "registrationDateTime": "2024-10-18T17:34:12.767Z",
+    "organizationDistinguishedName": "o=default organization,o=root organization",
+    "firstName": "Juan",
+    "logonId": "demo@gmail.com",
+    "receiveEmailPreference": [
+      {
+        "storeID": "11",
+        "value": "true"
+      }
+    ],
+    "lastUpdate": "2024-10-18T17:34:12.767Z",
+    "registrationApprovalStatus": "Approved",
+    "passwordExpired": "false",
+    "primary": "false",
+    "city": "MEDELLIN",
+    "state": "ANTIOQUIA",
+    "addressLine": ["mi casa ", "cerca del metro", "Barrio viejo"],
+    "businessTitle": "Agrupacion|44",
+    "internalOfficeAddress": "Apartamento|33",
+    "phone1": "87878884545",
+    "phone2": "87878884045",
+    "receiveSMSPreference": [
+      {
+        "storeID": "11",
+        "value": "false"
+      }
+    ],
+    "contact": []
+  },
+  {
+    "addressId": "15309",
+    "addressLine": ["mi casa ", "cerca del metro", "Barrio viejo"],
+    "addressType": "ShippingAndBilling",
+    "challengeQuestion": "-",
+    "city": "MEDELLIN",
+    "contact": [],
+    "country": "CO",
+    "distinguishedName": "uid=demo1@gmail.com,o=default organization,o=root organization",
+    "email1": "demo1@gmail.com",
+    "firstName": "John",
+    "gender": "Unspecified",
+    "lastName": "Smith",
+    "lastUpdate": "2014-11-20T14:32:21.459Z",
+    "logonId": "demo1@gmail.com",
+    "nickName": "demo1@gmail.com",
+    "organizationDistinguishedName": "o=default organization,o=root organization",
+    "orgizationId": "-2000",
+    "passwordExpired": "false",
+    "preferredCurrency": "COP",
+    "preferredLanguage": "es_ES",
+    "primary": "true",
+    "receiveEmailPreference": [
+      {
+        "storeID": "10001",
+        "value": "false"
+      }
+    ],
+    "receiveSMSPreference": [
+      {
+        "storeID": "10001",
+        "value": "false"
+      }
+    ],
+    "registrationApprovalStatus": "Approved",
+    "registrationDateTime": "2014-11-20T14:32:21.469Z",
+    "registrationStatus": "RegisteredPerson",
+    "resourceName": "person",
+    "state": "ANTIOQUIA",
+    "userId": "1003",
+    "zipCode": "M1M1M1",
+    "businessTitle": "Agrupacion|44",
+    "internalOfficeAddress": "Apartamento|33",
+    "phone1": "87878823785",
+    "phone2": "87878884545"
+  }
+]

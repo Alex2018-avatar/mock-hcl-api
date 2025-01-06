@@ -1,0 +1,97 @@
+{
+  "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/cart/@self/usable_shipping_info?langId=-5",
+  "usableShippingAddress": [
+    {
+      "nickName": "demo@gmail.com",
+      "addressId": "3074457362950387085"
+    },
+    {
+      "nickName": "casa",
+      "addressId": "3074457362951363813"
+    },
+    {
+      "nickName": "mi casa",
+      "addressId": "3074457361090203510"
+    },
+    {
+      "nickName": "mi oficina",
+      "addressId": "3074457361088642674"
+    },
+    {
+      "nickName": "wqdsfsd",
+      "addressId": "3074457361088205870"
+    }
+  ],
+  "orderId": "12945575",
+  "orderItem": [
+    {
+      "usableShippingMode": [
+        {
+          "shipModeCode": "PickupInStore",
+          "description": "Recoger en tienda",
+          "shipModeId": "715837884",
+          "language": "-5"
+        },
+        {
+          "carrier": "Express",
+          "shipModeCode": "Express",
+          "description": "Expres\u00f3",
+          "shipModeId": "715837934",
+          "language": "-5"
+        },
+        {
+          "carrier": "Mail",
+          "shipModeCode": "Mail",
+          "description": "Mail",
+          "shipModeId": "715837984",
+          "language": "-5"
+        },
+        {
+          "carrier": "XYZ Carrier",
+          "shipModeCode": "US - 2-Day Express Delivery",
+          "description": "US - 2-Day Express Delivery",
+          "shipModeId": "15003",
+          "language": "-5"
+        },
+        {
+          "carrier": "International Carrier",
+          "shipModeCode": "International Priority",
+          "description": "International Priority",
+          "shipModeId": "15004",
+          "language": "-5"
+        }
+      ],
+      "usableShippingChargePolicy": [
+        {
+          "name": "StandardShippingChargeBySeller",
+          "type": "ShippingCharge",
+          "uniqueID": "-7001"
+        }
+      ],
+      "usableShippingAddress": [
+        {
+          "nickName": "demo@gmail.com",
+          "addressId": "3074457362950387085"
+        },
+        {
+          "nickName": "casa",
+          "addressId": "3074457362951363813"
+        },
+        {
+          "nickName": "mi casa",
+          "addressId": "3074457361090203510"
+        },
+        {
+          "nickName": "mi oficina",
+          "addressId": "3074457361088642674"
+        },
+        {
+          "nickName": "wqdsfsd",
+          "addressId": "3074457361088205870"
+        }
+      ],
+      "orderItemId": "1830001"
+    }
+  ],
+  "resourceName": "cart"
+}
