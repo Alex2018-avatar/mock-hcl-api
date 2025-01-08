@@ -13,5 +13,5 @@ shippingInfoRouter.get('/:storeId/address_info/:type', addFolder, ShippingInfoCo
 // /wcs/resources/store/9701/person/addressInfoByType/BLOQUE_O_INTERIOR
 shippingInfoRouter.get('/:storeId/person/addressInfoByType/:addressType', addFolder, ShippingInfoController.getAddressInfoByType);
 shippingInfoRouter.post('/:storeId/cart/@self/b2b/shipping_info', addFolder, ShippingInfoController.saveB2BShippingInfo)
-
+shippingInfoRouter.get('/:storeId/xdata/:type', addFolder, ShippingInfoController.getDataCheckoutItem)
 export default shippingInfoRouter;

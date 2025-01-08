@@ -175,6 +175,78 @@
       "totalAdjustment": "0"
     },
     {
+      "totalShippingCharge": "0",
+      "orderTypeCode": "ORD",
+      "resourceId": "https://store.tsapp.claro.com.co:443/wcs/resources/store/9701/order/80744868296?langId=-5",
+      "orderId": "80744868296",
+      "lastUpdateDate": "2025-01-06T22:19:34.041Z",
+      "channel": {
+        "channelIdentifer": {
+          "channelName": "Web Channel",
+          "uniqueID": "-1"
+        },
+        "userData": null,
+        "description": {
+          "language": "-5",
+          "value": "Used when operations performed from a desktop browser."
+        }
+      },
+      "orderStatus": "M",
+      "x_isPurchaseOrderNumberRequired": "false",
+      "orderExtendAttribute": [
+        {
+          "attributeValue": "2025-01-09",
+          "attributeType": "FECHA_ENVIO",
+          "attributeName": "FECHA_ENVIO"
+        },
+        {
+          "attributeValue": "70049133",
+          "attributeType": "SKU_HIJO",
+          "attributeName": "415003"
+        },
+        {
+          "attributeValue": "70049324",
+          "attributeType": "SKU_HIJO",
+          "attributeName": "415004"
+        }
+      ],
+      "x_firstName": "FINANCIADO",
+      "totalShippingChargeCurrency": "COP",
+      "buyerId": "18002",
+      "grandTotalCurrency": "COP",
+      "buyerDistinguishedName": "uid=pruebas.tellez.sanabria@gmail.com,o=default organization,o=root organization",
+      "totalTaxByTaxCategory": [
+        {
+          "taxCategoryCode": "Impuesto IVA",
+          "currency": "COP",
+          "value": "760"
+        }
+      ],
+      "recordSetCount": "2",
+      "x_isPersonalAddressesAllowedForShipping": "true",
+      "storeNameIdentifier": "ClaroB2C",
+      "totalProductPriceCurrency": "COP",
+      "totalProductPrice": "1419040",
+      "locked": "false",
+      "placedDate": "2025-01-06T22:19:33.967Z",
+      "recordSetComplete": "true",
+      "totalAdjustmentCurrency": "COP",
+      "totalSalesTaxCurrency": "COP",
+      "totalSalesTax": "760",
+      "grandTotal": "1419800",
+      "storeUniqueID": "9701",
+      "recordSetStartNumber": "0",
+      "resourceName": "order",
+      "recordSetTotal": "2",
+      "shipAsComplete": "true",
+      "x_trackingIds": "",
+      "totalShippingTax": "0",
+      "prepareIndicator": "true",
+      "totalShippingTaxCurrency": "COP",
+      "x_lastName": "Tellez Sanabria",
+      "totalAdjustment": "0"
+    },
+    {
       "orderTypeCode": "ORD",
       "totalShippingCharge": "0",
       "resourceId": "https://10.82.2.2:443/wcs/resources/store/9701/order/16781129755",

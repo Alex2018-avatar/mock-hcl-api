@@ -2,6 +2,7 @@ import path from 'node:path';
 import fs from 'node:fs';
 import { fileURLToPath } from 'url';
 import { logger } from '../../config/logger.js';
+import { FileService } from '../../services/FileService.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -45,6 +46,20 @@ export class ShippingInfoController {
     //   "code": "SERVICE_EXCEPTION",
     //   "message": "<p class='bold'>Inténtalo más tarde</p><p>Algo salió mal al procesar tu solicitud.</p>"
     // });
+  }
+
+  static async getDataCheckoutItem(req, res) {
+    const { storeId } = req.params;
+    const { type } = req.params;
+    const _folder = req.storeIdentifier;
+    try {
+      const filePath = FileService.getFilePath(_folder, 'address/address-info/xdata-checkout.json');
+      const response = await FileService.readAndParseJSON(filePath);
+      res.status(200).json(response);
+    } catch (error) {
+      console.log('error: ', error);
+      res.status(400).json({});
+    }
   }
 
 

@@ -1,10 +1,12 @@
 import { UserService } from "../../services/user.js";
+import { delay } from "../../utils/product-utils.js";
 
 export class AuthController {
   static async loginIdentity(req, res) {
     const { logonId } = req.body;
     const { _folder } = req;
     const user = await UserService.getUser(_folder, logonId);
+    await delay(3000);
 
     const cookieOptions = {
       httpOnly: true,

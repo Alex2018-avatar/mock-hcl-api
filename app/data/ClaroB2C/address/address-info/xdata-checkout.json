@@ -1,0 +1,42 @@
+{
+  "recordSetCount": 7,
+  "resourceId": "",
+  "xdatacheckoutList": [
+    {
+      "description": "Responsable de impuesto sobre las ventas IVA (régimen común)",
+      "type": "FISCAL_REGIMEN",
+      "value": "48"
+    },
+    {
+      "description": "No responsable de IVA (régimen simplificado)",
+      "type": "FISCAL_REGIMEN",
+      "value": "49"
+    },
+    {
+      "description": "Gran contribuyente",
+      "type": "FISCAL_RESPONSABILITY",
+      "value": "O-13"
+    },
+    {
+      "description": "Autorretenedor",
+      "type": "FISCAL_RESPONSABILITY",
+      "value": "O-15"
+    },
+    {
+      "description": "Agente de retención IVA",
+      "type": "FISCAL_RESPONSABILITY",
+      "value": "O-23"
+    },
+    {
+      "description": "Régimen simple de tributación",
+      "type": "FISCAL_RESPONSABILITY",
+      "value": "O-47"
+    },
+    {
+      "description": "No aplica - Otros",
+      "type": "FISCAL_RESPONSABILITY",
+      "value": "R-99-PN"
+    }
+  ],
+  "resourceName": "xDataCheckout"
+}
