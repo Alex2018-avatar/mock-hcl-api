@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715845486",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715847086",
+      "behavior": "0",
+      "eSpotName": "ems_url_tratamiento_datos",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ems_url_tratamiento_datos",
+          "contentClickAction": "None",
+          "contentId": "715845486",
+          "baseMarketingSpotActivityID": "715845486",
+          "contentName": "ems_url_tratamiento_datos",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "https://cdn.claro.com.co/imagenes/v9/assets/pdf/terminos_y_condiciones_v9_feb.pdf",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/ems_url_tratamiento_datos?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

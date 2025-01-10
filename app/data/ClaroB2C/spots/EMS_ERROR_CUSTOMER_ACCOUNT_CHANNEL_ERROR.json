@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715852984",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715855084",
+      "behavior": "0",
+      "eSpotName": "EMS_ERROR_CUSTOMER_ACCOUNT_CHANNEL_ERROR",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "EMS_ERROR_CUSTOMER_ACCOUNT_CHANNEL_ERROR",
+          "contentClickAction": "None",
+          "contentId": "715852984",
+          "baseMarketingSpotActivityID": "715852984",
+          "contentName": "EMS_ERROR_CUSTOMER_ACCOUNT_CHANNEL_ERROR",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p>El canal recibido no es soportado por el servicio.</p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_CUSTOMER_ACCOUNT_CHANNEL_ERROR?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

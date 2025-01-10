@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import https from 'https';
-import { logger } from '../config/logger.js';
+import { logger } from '../app/config/logger.js';
 import { emsWidgets } from '../constants/b2c-ems.js';
 
 const fsPromises = fs.promises;
@@ -20,7 +20,7 @@ const httpsAgent = new https.Agent({
 
 // Función para guardar el widget en un archivo JSON
 const saveWidgetData = async (widgetName, data) => {
-  const filePath = path.resolve(__dirname, `./data/ClaroB2C/spots/${widgetName}.json`);
+  const filePath = path.resolve(__dirname, `./app/data/ClaroB2C/spots/${widgetName}.json`);
   try {
     await fsPromises.writeFile(filePath, JSON.stringify(data, null, 2));
     logger.info(`[SAVED] ${widgetName}`);

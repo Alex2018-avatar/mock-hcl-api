@@ -20,7 +20,8 @@ export class UserController {
     if (logged) {
       res.status(200).json({
         ...user,
-        contact: [],
+        // contact: [],
+        contact,
       });
     } else {
       res.status(200).json({

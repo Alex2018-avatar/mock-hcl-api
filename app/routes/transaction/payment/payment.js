@@ -9,6 +9,6 @@ customClaroRouter.post('/:storeId/financing/customerAccountList', addFolder, Cus
 customClaroRouter.post('/:storeId/validar/validarCredito', addFolder, CustomClaroController.getClaroReserveAndFinancialHandler)
 customClaroRouter.post('/:storeId/cuotas/financialTerm', addFolder, CustomClaroController.getClaroFinancialTermHandler)
 customClaroRouter.post('/:storeId/home/validateHomeAddress', addFolder, CustomClaroController.getClaroValidateHomeAddressHandler)
-customClaroRouter.post('/:storeId/cart/@self/payment_instruction/punchoutPaymentInfo', addFolder, CustomClaroController.getB2BGatewayUrlHandler)
+customClaroRouter.get('/:storeId/cart/@self/payment_instruction/punchoutPaymentInfo', addFolder, CustomClaroController.getB2BGatewayUrlHandler)
 
 export default customClaroRouter
