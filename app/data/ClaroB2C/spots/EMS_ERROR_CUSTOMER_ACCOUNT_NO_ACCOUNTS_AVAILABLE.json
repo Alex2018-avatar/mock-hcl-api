@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715852986",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715855086",
+      "behavior": "0",
+      "eSpotName": "EMS_ERROR_CUSTOMER_ACCOUNT_NO_ACCOUNTS_AVAILABLE",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "EMS_ERROR_CUSTOMER_ACCOUNT_NO_ACCOUNTS_AVAILABLE",
+          "contentClickAction": "None",
+          "contentId": "715852986",
+          "baseMarketingSpotActivityID": "715852986",
+          "contentName": "EMS_ERROR_CUSTOMER_ACCOUNT_NO_ACCOUNTS_AVAILABLE",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p><b>¡Ups!,</b> parece que algo salió mal, inténtalo nuevamente o si prefieres comunícate con nosotros a la línea (601)7457466.</p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_CUSTOMER_ACCOUNT_NO_ACCOUNTS_AVAILABLE?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

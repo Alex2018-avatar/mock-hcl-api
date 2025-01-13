@@ -2,6 +2,7 @@ import express from 'express';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'url';
+import { CustomB2BClaroController } from '../../../controllers/custom/customB2BClaro.js';
 
 const app = express();
 const customRouter = app.router;
@@ -27,6 +28,6 @@ customRouter.post('/:storeId/check/cupo', async (req, res) => {
   // res.status(400).json(generateWCSError("_ERROR_HANDLER_KEY_CUPO_LEGADO", "1001"));
 })
 
-
+customRouter.post('/:storeId/claro_orders/:orderId/tracking', CustomB2BClaroController.getOrderTrackingHandler)
 
 export default customRouter

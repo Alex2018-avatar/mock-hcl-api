@@ -81,12 +81,22 @@ export class CustomClaroController {
 
     // read file
     try {
+      throw new Error('Not implemented');
       const data = await fsPromises.readFile(filePath, 'utf8');
       const response = JSON.parse(data);
       res.status(200).json(response);
     } catch (error) {
       logger.error(error.message)
-      res.status(404).json({ "contents": [] });
+      res.status(400).json({
+        "errors": [
+          {
+            "errorKey": "_ERR_GENERIC",
+            "errorParameters": "com.ibm.commerce.edp.api.CommunicationException: El parÃ¡metro requerido no ha sido proporcionado.",
+            "errorMessage": "El error siguiente se ha producido durante el proceso: \"com.ibm.commerce.edp.api.CommunicationException: El parÃ¡metro requerido no ha sido proporcionado.\".",
+            "errorCode": "CMN0409E"
+          }
+        ]
+      });
     }
   }
 }

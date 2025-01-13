@@ -1,0 +1,10 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "behavior": "0"
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_INITIAL_PAYMENT_GENERIC_ERROR?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

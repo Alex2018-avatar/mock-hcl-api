@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715853008",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715855108",
+      "behavior": "0",
+      "eSpotName": "EMS_ERROR_VALIDATE_RESERVE_NOT_APPLIES_REPOSITION",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "EMS_ERROR_VALIDATE_RESERVE_NOT_APPLIES_REPOSITION",
+          "contentClickAction": "None",
+          "contentId": "715853008",
+          "baseMarketingSpotActivityID": "715853008",
+          "contentName": "EMS_ERROR_VALIDATE_RESERVE_NOT_APPLIES_REPOSITION",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p class='font-bold'>Método de pago inválido</p><p>Actualmente no cuentas con las condiciones para realizar renovación de equipo. Compra tu celular en ‘Kit prepago’ o ‘Solo celular’.</p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_VALIDATE_RESERVE_NOT_APPLIES_REPOSITION?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

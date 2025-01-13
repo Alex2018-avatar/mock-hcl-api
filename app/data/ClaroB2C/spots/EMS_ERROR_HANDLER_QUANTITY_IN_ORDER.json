@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715852998",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715855098",
+      "behavior": "0",
+      "eSpotName": "EMS_ERROR_HANDLER_QUANTITY_IN_ORDER",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "EMS_ERROR_HANDLER_QUANTITY_IN_ORDER",
+          "contentClickAction": "None",
+          "contentId": "715852998",
+          "baseMarketingSpotActivityID": "715852998",
+          "contentName": "EMS_ERROR_HANDLER_QUANTITY_IN_ORDER",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<p>La financiación con tu factura Claro solo aplica para un producto</p>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/EMS_ERROR_HANDLER_QUANTITY_IN_ORDER?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
