@@ -1,0 +1,15 @@
+{
+  "errors": [
+      {
+          "errorKey": "_ERROR_HANDLER_QUANTITY_IN_ORDER",
+          "excData": {
+              "ErrorCode": "1001"
+          },
+          "errorParameters": [
+              "La financiación con tu factura Claro solo aplica para un producto"
+          ],
+          "errorMessage": "La financiación con tu factura Claro solo aplica para un producto.",
+          "errorCode": "1001"
+      }
+  ]
+}

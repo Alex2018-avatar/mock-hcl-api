@@ -1,0 +1,15 @@
+{
+    "errors": [
+        {
+            "errorKey": "_ERROR_VALIDATE_RESERVE_GENERIC_ERROR",
+            "excData": {
+                "ErrorCode": "1001"
+            },
+            "errorParameters": [
+                "Ups, algo salió mal con tu solicitud de pago a cuotas en tu factura. Te invitamos a finalizar tu compra con otros medios de pago."
+            ],
+            "errorMessage": "Error generico.",
+            "errorCode": "1001"
+        }
+    ]
+}

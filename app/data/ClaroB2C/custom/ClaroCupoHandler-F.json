@@ -1,14 +1,21 @@
 {
   "data": [
     {
+      "address": "CL 19A IN16 82-65 304",
       "accountDescription": "Cuenta Hogar",
       "accountType": "F",
       "accountNumber": "43101831"
     },
     {
+      "address": "CL 19A IN16 82-65 304",
       "accountDescription": "Cuenta Hogar",
       "accountType": "F",
       "accountNumber": "16713992"
+    },
+    {
+      "accountDescription": "Línea postpago",
+      "accountType": "M",
+      "accountNumber": "3168306791"
     }
   ],
   "success": true,

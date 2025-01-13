@@ -12,12 +12,15 @@ export class CustomClaroController {
     const _folder = req.storeIdentifier;
     const { cupo } = req.params;
     const filePath = path.resolve(__dirname, `../../data/${_folder}/custom/ClaroCupoHandler-F.json`);
+    const errorFilePath = path.resolve(__dirname, `../../data/${_folder}/custom/ClaroCupoHandler-error.json`);
 
     // read file
     try {
       const data = await fs.promises.readFile(filePath, 'utf8');
       const response = JSON.parse(data);
-      res.status(200).json(response);
+      setTimeout((() => {
+        res.status(200).json(response);
+      }), 5000)
     } catch (error) {
       logger.error(error.message)
       res.status(404).json({ "contents": [] });
@@ -27,6 +30,7 @@ export class CustomClaroController {
   static async getClaroReserveAndFinancialHandler(req, res) {
     const _folder = req.storeIdentifier;
     const filePath = path.resolve(__dirname, `../../data/${_folder}/custom/ClaroReserveAndFinancialHandler.json`);
+    const errorFilePath = path.resolve(__dirname, `../../data/${_folder}/custom/ClaroReserveAndFinancialHandler-error.json`);
 
     // read file
     try {
@@ -42,7 +46,8 @@ export class CustomClaroController {
   static async getClaroFinancialTermHandler(req, res) {
     const _folder = req.storeIdentifier;
     const { cupo } = req.params;
-    const filePath = path.resolve(__dirname, `../../data/${_folder}/custom/ClaroFinancialTermHandler.json`);
+    const { cuotas } = req.body;
+    const filePath = path.resolve(__dirname, `../../data/${_folder}/custom/ClaroFinancialTermHandler-${cuotas}.json`);
 
     // read file
     try {

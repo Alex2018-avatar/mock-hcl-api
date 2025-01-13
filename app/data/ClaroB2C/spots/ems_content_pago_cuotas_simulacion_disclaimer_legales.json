@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715840986",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715845593",
+      "behavior": "0",
+      "eSpotName": "ems_content_pago_cuotas_simulacion_disclaimer_legales",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ems_content_pago_cuotas_simulacion_disclaimer_legales",
+          "contentClickAction": "None",
+          "contentId": "715840986",
+          "baseMarketingSpotActivityID": "715840986",
+          "contentName": "ems_content_pago_cuotas_simulacion_disclaimer_legales",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<0>Valor de cuota calculado bajo la modalidad de cuota fija a la tasa de interés del 26.38% efectiva anual (E.A), equivalente al 1.97% mes vencido (M.V), que incluye pago a capital, intereses corrientes e IVA de los intereses.\nLos productos están disponibles también para pago de contado.\nLa tasa máxima legal vigente definida por la Superintendencia Financiera hasta el 31 de Diciembre 2024 es 26.39%. En ese sentido, la tasa interés de mora vigente hasta el 31 de Diciembre 2024 es 26.39%. No obstante, el cliente podrá solicitar y cancelar el saldo del crédito antes del plazo pactado en cualquiera de las cajas de los CAV, CAV Express o Centros de ventas y servicios.</0>\n<1></1>\n<2>Por expresa instrucción de la Superintendencia de Industria y Comercio, se informa a la parte deudora que durante el período de financiación la tasa de interés no podrá ser superior a 1.5 veces el interés bancario corriente que certifica la Superintendencia Bancaria. Cuando el interés cobrado supere dicho límite, el acreedor perderá todos los intereses. En tales casos, el consumidor podrá solicitar la inmediata devolución de las sumas que haya cancelado por concepto de los respectivos intereses. Se reputarán también como intereses las sumas que el acreedor reciba del deudor sin contraprestación distinta al crédito otorgado, aun cuando las mismas se justifiquen por concepto de honorarios, comisiones u otros semejantes. También se incluirán dentro de los intereses las sumas que el deudor pague por concepto de servicios vinculados directamente con el crédito, tales como costos de administración, estudio del crédito, papelería, cuotas de afiliación, etc. (artículo 68 de la ley 45 de 1990).</2>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/ems_content_pago_cuotas_simulacion_disclaimer_legales?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

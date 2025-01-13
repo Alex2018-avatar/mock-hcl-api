@@ -25,11 +25,13 @@ import { logger, morganMiddleware } from './app/config/logger.js';
 import cookieParser from 'cookie-parser';
 import shippingInfoRouter from './app/routes/transaction/shipping/shipping-info.js';
 import customClaroRouter from './app/routes/transaction/payment/payment.js';
+import cors from 'cors'
 
 const app = express();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.json());
 app.use(morganMiddleware);
