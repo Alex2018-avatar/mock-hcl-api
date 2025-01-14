@@ -4,12 +4,12 @@
       "nextTimeLimit": "-1",
       "defaultContentDisplaySequence": [
         {
-          "resultId": "715849927",
+          "resultId": "715852484",
           "resultFormat": "MarketingContent",
           "displaySequence": "1.0"
         }
       ],
-      "marketingSpotIdentifier": "715851527",
+      "marketingSpotIdentifier": "715854584",
       "behavior": "0",
       "eSpotName": "ems_resumen_state",
       "baseMarketingSpotActivityData": [
@@ -17,15 +17,17 @@
           "contentFormatName": "Text",
           "baseMarketingSpotActivityName": "ems_resumen_state",
           "contentClickAction": "None",
-          "contentId": "715849927",
-          "baseMarketingSpotActivityID": "715849927",
+          "contentId": "715852484",
+          "baseMarketingSpotActivityID": "715852484",
           "contentName": "ems_resumen_state",
           "baseMarketingSpotDataType": "MarketingContent",
           "activityIdentifierID": "0",
-          "MarketingContentDescription": [{}],
+          "MarketingContentDescription": [
+            {}
+          ],
           "marketingContentDescription": [
             {
-              "marketingText":  "<style type=\"text/css\">.purchase-status {text-align: center;}.purchase-status__title {font-size: 1.5rem;font-family: amx-bold;color: #2d2d2d;text-align: center;}.purchase-status__description {line-height: 2.2;padding-bottom: 0;margin-top: 0;}.purchase-status__highlight {font-weight: bold;}.purchase-status__link {color: #0097a9;text-decoration: underline;font-weight: bold;}</style><body><div class=\"purchase-status\"><h2 class=\"purchase-status__title\">Tu compra está pendiente por aprobación de la entidad financiera</h2><p class=\"purchase-status__description\">En tu correo electrónico recibirás el <span class=\"purchase-status__highlight\">estado de tu compra.</span> Si lo necesitas, haz el seguimiento en <a href=\"/historial-de-pedidos\" class=\"purchase-status__link\" target=\"_blank\">Mis Pedidos</a></p></div></body>",
+              "marketingText": "<style type=\"text/css\">  .purchase-status {    text-align: center;  }  .purchase-status__title {    font-size: 1.5rem !important;    font-family: amx-bold !important;    color: #2d2d2d;    text-align: center;  }  .purchase-status__description {    line-height: 2.2;    font-size: 1rem;  }  .purchase-status__highlight {    font-weight: bold;  }  .purchase-status__link {    color: #0097a9;    text-decoration: underline;    font-weight: bold;  }</style><div class=\"purchase-status\"><h2 class=\"purchase-status__title\">Tu compra est&aacute; pendiente por aprobaci&oacute;n de la entidad financiera</h2><p class=\"purchase-status__description\">En tu correo electr&oacute;nico recibir&aacute;s el <span class=\"purchase-status__highlight\">estado de tu compra.</span> Si lo necesitas, haz el seguimiento en <a href=\"/historial-de-pedidos\" class=\"purchase-status__link\" target=\"_blank\" rel=\"noopener\">Mis Pedidos</a></p></div>",
               "language": "-5"
             }
           ],
@@ -45,6 +47,6 @@
       ]
     }
   ],
-  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/ems_sesion_expirada?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/ems_resumen_state?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
   "resourceName": "espot"
 }

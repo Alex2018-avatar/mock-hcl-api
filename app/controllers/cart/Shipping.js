@@ -1,6 +1,8 @@
+
 import { generateShippingInfo } from '../../helpers/shipping-info.js';
 import { FileService } from '../../services/FileService.js';
 import { generateWCSError } from '../../utils/error-utils.js';
+import { delay } from '../../utils/product-utils.js';
 
 export class ShippingController {
 
@@ -20,6 +22,8 @@ export class ShippingController {
     const { _folder, } = req;
     const userAuth = req.session?.userAuth;
     const userId = userAuth?.userId;
+
+    await delay(3000);
 
     if (validateOrder && userId === '1002') {
       res.status(400).json(generateWCSError("_ERR_ILLEGAL_ACCESS", "CMN6222E"));

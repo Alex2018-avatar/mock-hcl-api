@@ -20,7 +20,7 @@ export class UserController {
     const contact = await UserService.getAddressBook(_folder);
 
     if (xProcessFlow === 'b2bShipping') {
-      const selfcareUserInfo = await UserHelper.getSelfCareUserInfo('error');
+      const selfcareUserInfo = await UserHelper.getSelfCareUserInfo('full');
       return res.status(200).json(selfcareUserInfo);
     }
 

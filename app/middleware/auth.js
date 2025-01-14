@@ -29,6 +29,7 @@ export const requireAuthenticated = (req, res, next) => {
 
 export const addFolder = (req, res, next) => {
   const storeId = req.params.storeId;
+  console.log('storeId: ', storeId);
   req.storeIdentifier = STORES[storeId] ?? "generic";
   req._folder = req.storeIdentifier;
   req.storeFolder = `${storeId}-store`;

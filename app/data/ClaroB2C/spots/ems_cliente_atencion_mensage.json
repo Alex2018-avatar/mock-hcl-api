@@ -1,0 +1,52 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715851484",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715853584",
+      "behavior": "0",
+      "eSpotName": "ems_cliente_atencion_mensage",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ems_cliente_atencion_mensage",
+          "contentClickAction": "None",
+          "contentId": "715851484",
+          "baseMarketingSpotActivityID": "715851484",
+          "contentName": "ems_cliente_atencion_mensage",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [
+            {}
+          ],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style>    .text-container {      font-family: 'Roboto';      color: #333;      line-height: 1.5;      text-align: center;      margin: auto;      width: 70%;      margin-top: 1.5rem;    }    .text-container__paragraph {      margin-bottom: 1rem;    }    .text-container__link {      font-family: 'Roboto-Medium';      color: #0097A9;      text-decoration: underline;    }  </style><div class=\"text-container\"><p class=\"text-container__paragraph\">Si tienes alguna duda, <a class=\"text-container__link\" href=\"/support\" target=\"_blank\" rel=\"noopener\">consulta nuestras preguntas frecuentes</a>. Recibe atenci&oacute;n en l&iacute;nea en <a class=\"text-container__link\" href=\"http://goo.gl/RU5Q79\">@Claroteayuda</a>, <a class=\"text-container__link\" href=\"http://m.me/ClaroCol\">Facebook</a> o <a class=\"text-container__link\" href=\"https://api.whatsapp.com/send/?phone=573112000000&amp;text=%C2%A1Hola%21+bienvenido+a+nuestro+canal+digital+Claro+Colombia%2C+si+requieres+realizar+una+consulta+env%C3%ADa+este+mensaje+para+ser+atendido+por+un+consultor.&amp;app_absent=0\">WhatsApp</a>.</p><p class=\"text-container__paragraph\">Para realizar reclamaciones sobre tus pedidos, <a class=\"text-container__link\" href=\"https://www.claro.com.co/personas/legal-y-regulatorio/pqr/\" target=\"_blank\" rel=\"noopener\">registra tu solicitud en nuestro formulario en l&iacute;nea</a>.</p></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "9701"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://localhost:8000/wcs/resources/store/9701/espot/ems_cliente_atencion_mensage?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}
