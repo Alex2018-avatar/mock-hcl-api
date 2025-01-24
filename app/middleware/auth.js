@@ -24,11 +24,11 @@ export const requireAuthenticated = (req, res, next) => {
     return res.status(403).json({ error: 'Access denied' });
   }
   next();
-
 };
 
 export const addFolder = (req, res, next) => {
-  const storeId = req.params.storeId;
+  const queryStoreId = req.query.storeId;
+  const storeId = req.params.storeId ?? queryStoreId;
   console.log('storeId: ', storeId);
   req.storeIdentifier = STORES[storeId] ?? "generic";
   req._folder = req.storeIdentifier;

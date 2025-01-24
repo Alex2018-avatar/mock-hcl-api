@@ -1,0 +1,26 @@
+{
+  "contents": [
+    {
+      "uniqueID": "10001",
+      "parentCatalogGroupID": "/10001",
+      "seo": {
+        "href": "/celulares"
+      },
+      "name": "Celulares",
+      "identifier": "CELULARES",
+      "shortDescription": "Celulares",
+      "storeID": "9701",
+      "longDescription": "Celulares",
+      "id": "10001",
+      "links": {
+        "parent": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=-1"
+        },
+        "self": {
+          "href": "/search/resources/api/v2/categories?storeId=9701&id=10001"
+        }
+      },
+      "description": "Celulares"
+    }
+  ]
+}
