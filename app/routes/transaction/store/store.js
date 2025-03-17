@@ -17,7 +17,8 @@ storeRouter.get('/:storeId/features', addFolder, StoreController.getFeatures);
 // /wcs/resources/store/11/contract?q=eligible&langId=-1
 storeRouter.get('/:storeId/contract', (req, res) => {
   const { storeId } = req.params;
-  if (storeId === '10251') {
+  console.log('storeId contract: ', storeId);
+  if (storeId === '10251' || storeId === '10100') {
     res.status(200).json({
       "contracts": {
         "4000000000000003006": "Default Contract for ClaroB2B"

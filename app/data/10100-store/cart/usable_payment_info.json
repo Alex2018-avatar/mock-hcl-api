@@ -1,0 +1,43 @@
+{
+  "resourceId": "https://tsapp.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/cart/@self/usable_payment_info?langId=-5&allPaymentMethods=true",
+  "orderId": "2105778148",
+  "resourceName": "cart",
+  "usablePaymentInformation": [
+    {
+      "xumet_policyId": "210001",
+      "usableBillingAddress": [
+        {
+          "nickName": "B2B_contable@galotrans.com",
+          "addressId": "3074457348517112690"
+        },
+        {
+          "nickName": "casa",
+          "addressId": "3074457348548043804"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "Tarjeta de cr\u00e9dito/d\u00e9bito",
+      "xumet_attrPageName": "B2BTarjeta",
+      "language": "-5",
+      "paymentMethodName": "B2BTarjeta"
+    },
+    {
+      "xumet_policyId": "210002",
+      "usableBillingAddress": [
+        {
+          "nickName": "B2B_contable@galotrans.com",
+          "addressId": "3074457348517112690"
+        },
+        {
+          "nickName": "casa",
+          "addressId": "3074457348548043804"
+        }
+      ],
+      "paymentTermConditionId": "",
+      "description": "PSE",
+      "xumet_attrPageName": "B2BPSE",
+      "language": "-5",
+      "paymentMethodName": "B2BPSE"
+    }
+  ]
+}

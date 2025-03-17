@@ -1,0 +1,63 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715847935",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715848985",
+      "behavior": "0",
+      "eSpotName": "HeaderStoreLogo",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "File",
+          "attachmentReferenceId": "3074457345616674718",
+          "baseMarketingSpotActivityName": "HeaderStoreLogo",
+          "attachmentDisplaySequence": "0.0",
+          "attachementExternalId": "HeaderStoreLogo",
+          "contentClickAction": "Single",
+          "contentId": "715847935",
+          "baseMarketingSpotActivityID": "715847935",
+          "contentName": "HeaderStoreLogo",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "attachmentImage": "images/attachments/usages/unassign_icon.jpg",
+          "contentUrl": "/",
+          "attachmentUsageName": "NOUSAGE",
+          "activityIdentifierID": "0",
+          "attachmentAsset": [
+            {
+              "attachmentAssetDirectoryPath": "type-icons/hcl-logo.svg",
+              "attachmentAssetMimeType": "image/svg",
+              "attachmentAssetStoreId": "15001",
+              "attachmentLocalAsset": "true",
+              "attachmentAssetId": "3074457345616676718",
+              "attachmentAssetRootDirectory": "ClaroB2BSAS",
+              "attachmentAssetPath": "/SapphireSAS/images/type-icons/hcl-logo.svg"
+            }
+          ],
+          "attachementId": "3074457345616674718",
+          "contentFormatId": "1",
+          "contentMimeType": "image",
+          "activityPriority": "1",
+          "attachementStoreId": "15001",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "15001"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10251/espot/HeaderStoreLogo?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

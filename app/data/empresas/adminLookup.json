@@ -1,0 +1,12 @@
+{
+  "resultList": [
+    {
+      "inventorySystem": -2,
+      "defaultCurrency": "COP",
+      "storeName": "empresas",
+      "defaultLanguageId": "-5",
+      "storeId": "10100",
+      "defaultCatalogId": "20000"
+    }
+  ]
+}

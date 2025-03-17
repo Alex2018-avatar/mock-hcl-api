@@ -3,6 +3,7 @@ import { CategoryService } from "../../services/Category.js";
 export class CategoryController {
   static async getCategory(req, res) {
     const _folder = req._folder;
+    console.log('_folder*-: ', _folder);
     const { identifier, id } = req.query;
 
     try {

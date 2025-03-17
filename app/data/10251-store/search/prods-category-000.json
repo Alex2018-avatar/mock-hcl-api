@@ -1,0 +1,1233 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "breadCrumbTrailEntryView": [
+    {
+      "label": "Celulares",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "3074457345616679168",
+      "seo": {
+        "href": "/celulares"
+      }
+    },
+    {
+      "label": "Solo Equipo",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "3074457345616679169",
+      "seo": {
+        "href": "/solo-equipo"
+      }
+    }
+  ],
+  "contents": [
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Vivo Y51 128Gb Cristal",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683170",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683171",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "seo": {
+        "href": "/vivo-y51-128gb-cristal-po-equ70038567p-5"
+      },
+      "partNumber": "PO_Equ70038567P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Vivo Y51 128Gb Cristal z",
+      "manufacturer": "VIVO",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "relationship.item.id": "3074457345616683171",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"CRISTAL\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "CRISTAL",
+              "sequence": "19.0",
+              "id": "7741124012283337837",
+              "image1": "CRISTAL",
+              "value": "CRISTAL",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/CRISTAL"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683170"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Xiaomi Redmi Note 10 128 GB 5G Gis",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683172",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683173",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/70x110/70057293.jpg",
+      "thumbnail": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/70x110/70057293.jpg",
+      "seo": {
+        "href": "/xiaomi-redmi-note-10-128-gb-5g-gis-po-equ70039566p-5"
+      },
+      "partNumber": "PO_Equ70039566P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Xiaomi Redmi Note 10 128 GB 5G Gis",
+      "manufacturer": "XIAOMI",
+      "url.override.thumbnail": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/70x110/70057293.jpg",
+      "relationship.item.id": "3074457345616683173",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"GRIS\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "GRIS",
+              "sequence": "2.0",
+              "id": "7741124012283337836",
+              "image1": "GRIS",
+              "value": "GRIS",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/GRIS"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683172"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "sellerId": "7000000000000001001",
+      "name": "Samsung Galaxy A12 128 GB",
+      "shortDescription": "Samsung Galaxy A12 128 GB",
+      "manufacturer": "SAMSUNG",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683176",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683177",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-honor-x6a-128gb-5g-azul.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/honor-90-lite-256gb-honor-x6a-128gb-5g-azul.jpg",
+      "seo": {
+        "href": "/samsung-galaxy-a12-128-gb-po-equ70039280p-5"
+      },
+      "partNumber": "PO_Equ70039280P",
+      "storeID": "10251",
+      "relationship.item.id": "3074457345616683177",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"NEGRO\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "NEGRO",
+              "sequence": "1.0",
+              "id": "7741124012283337835",
+              "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg",
+              "value": "NEGRO",
+              "image1path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683176"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Samsung Galaxy A32 128 GB",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683178",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683179",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-y36-256gb-audifonos-tws-4g-negro.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-y36-256gb-audifonos-tws-4g-negro.jpg",
+      "seo": {
+        "href": "/samsung-galaxy-a32-128-gb-po-equ70039118p-5"
+      },
+      "partNumber": "PO_Equ70039118P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Samsung Galaxy A32 128 GB",
+      "manufacturer": "SAMSUNG",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-y36-256gb-audifonos-tws-4g-negro.jpg",
+      "relationship.item.id": "3074457345616683179",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"NEGRO\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "NEGRO",
+              "sequence": "1.0",
+              "id": "7741124012283337835",
+              "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg",
+              "value": "NEGRO",
+              "image1path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683178"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "ZTE Blade A530 Azul",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683180",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683181",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova12se-256gb-4g-negro.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova12se-256gb-4g-negro.jpg",
+      "seo": {
+        "href": "/zte-blade-a530-azul-po-equ70030313p-5"
+      },
+      "partNumber": "PO_Equ70030313P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "ZTE Blade A530 Azul",
+      "manufacturer": "ZTE",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova12se-256gb-4g-negro.jpg",
+      "relationship.item.id": "3074457345616683181",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"AZUL\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "AZUL",
+              "sequence": "4.0",
+              "id": "7741124012283337838",
+              "image1": "AZUL",
+              "value": "AZUL",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/AZUL"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683180"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Samsung Galaxy S20FE 256 GB Azul",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["3000000.0", "3000000.0"],
+        "groupListPriceRange": ["2900000.0", "2900000.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683182",
+        "groupMaxPriceValue": "3000000.0",
+        "groupHero": "3074457345616683183",
+        "groupMinPriceValue": "3000000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/motorola-edge-40-neo-256gb-moto-buds-135-5g-azul.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/motorola-edge-40-neo-256gb-moto-buds-135-5g-azul.jpg",
+      "seo": {
+        "href": "/samsung-galaxy-s20fe-256-gb-azul-po-equ70036940p-5"
+      },
+      "partNumber": "PO_Equ70036940P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Samsung Galaxy S20FE 256 GB Azul",
+      "manufacturer": "SAMSUNG",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/motorola-edge-40-neo-256gb-moto-buds-135-5g-azul.jpg",
+      "relationship.item.id": "3074457345616683183",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "2900000.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "2900000"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "3000000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"AZUL\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "AZUL",
+              "sequence": "4.0",
+              "id": "7741124012283337838",
+              "image1": "AZUL",
+              "value": "AZUL",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/AZUL"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683182"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Iphone 7 Plus 32 GB Dorado",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 3,
+        "groupOwner": "3074457345616683184",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683185",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-freebuds-4g-blanco.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-freebuds-4g-blanco.jpg",
+      "seo": {
+        "href": "/iphone-7-plus-32-gb-dorado-po-equ70024374p-5"
+      },
+      "partNumber": "PO_Equ70024374P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Iphone 7 Plus 32 GB Dorado",
+      "manufacturer": "APPLE",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/huawei-nova-12s-256gb-freebuds-4g-blanco.jpg",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"NEGRO\",\"PLATA\",\"DORADO\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["1.0", "8.0", "32.0"],
+              "identifier": ["NEGRO", "PLATA", "DORADO"],
+              "id": [
+                "7741124012283337835",
+                "7741124012283337842",
+                "7741124012283337865"
+              ],
+              "image1": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg",
+                "PLATA",
+                "DORADO"
+              ],
+              "value": ["NEGRO", "PLATA", "DORADO"],
+              "image1path": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg",
+                "/hclstore/ExtendedSitesCatalogAssetStore/PLATA",
+                "/hclstore/ExtendedSitesCatalogAssetStore/DORADO"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683184"
+    },
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Motorola Moto G20 64 GB Azul Descripcion corta jagallardo",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["1100.0", "780000.0"],
+        "groupListPriceRange": ["1200.0", "778900.0"],
+        "groupCount": 2,
+        "groupOwner": "3074457345616683174",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616688168",
+        "groupMinPriceValue": "1100.0"
+      },
+      "thumbnailRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/200x310/celular-motorola-moto-g34-256gb-5g-negro.jpg",
+      "thumbnail": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/200x310/celular-motorola-moto-g34-256gb-5g-negro.jpg",
+      "seo": {
+        "href": "/motorola-moto-g20-64-gb-azul-po-equ70038877p-5"
+      },
+      "partNumber": "PO_Equ70038877P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Motorola Moto G20 64 GB Azul",
+      "manufacturer": "MOTOROLA",
+      "url.override.thumbnail": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/200x310/celular-motorola-moto-g34-256gb-5g-negro.jpg",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"AZUL\",\"NARANJA\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "sequence": ["4.0", "14.0"],
+              "identifier": ["AZUL", "NARANJA"],
+              "id": ["7741124012283337838", "7741124012283337848"],
+              "image1": ["AZUL", "NARANJA"],
+              "value": ["AZUL", "NARANJA"],
+              "image1path": [
+                "/hclstore/ExtendedSitesCatalogAssetStore/AZUL",
+                "/hclstore/ExtendedSitesCatalogAssetStore/NARANJA"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683174"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "sellerId": "7000000000000001001",
+      "name": "Samsung Galaxy A22S 128 GB",
+      "shortDescription": "Samsung Galaxy A21S 128 GB",
+      "manufacturer": "SAMSUNG",
+      "groupingProperties": {
+        "groupCount": 1,
+        "groupOwner": "3074457345616688668",
+        "groupHero": "3074457345616688669"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-v30-lite-256gb-reloj-audifonos-5g-dorado.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-v30-lite-256gb-reloj-audifonos-5g-dorado.jpg",
+      "seo": {
+        "href": "/samsung-galaxy-a21s-128-gb-po-equjg2p"
+      },
+      "partNumber": "PO_EquJG2P",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-v30-lite-256gb-reloj-audifonos-5g-dorado.jpg",
+      "storeID": "10251",
+      "relationship.item.id": "3074457345616688669",
+      "parentCatalogGroupID": "/3074457345616679168/3074457345616679169",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "800.0"
+        }
+      ],
+      "attributes": [],
+      "type": "product",
+      "id": "3074457345616688668"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "iPhone 13 Mini 128 GB Pink",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["780000.0", "780000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683190",
+        "groupMaxPriceValue": "780000.0",
+        "groupHero": "3074457345616683191",
+        "groupMinPriceValue": "780000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/motorola-edge-50-fusion-256gb-5g-azul.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/motorola-edge-50-fusion-256gb-5g-azul.jpg",
+      "seo": {
+        "href": "/iphone-13-mini-128-gb-pink-po-equ70042600p-5"
+      },
+      "partNumber": "PO_Equ70042600P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "iPhone 13 Mini 128 GB Pink",
+      "manufacturer": "APPLE",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/motorola-edge-50-fusion-256gb-5g-azul.jpg",
+      "relationship.item.id": "3074457345616683191",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"ROSA\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "ROSA",
+              "sequence": "33.0",
+              "id": "7741124012283337866",
+              "image1": "ROSA",
+              "value": "ROSA",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/ROSA"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683190"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Samsung Galaxy A21S 128 GB",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["760000.0", "760000.0"],
+        "groupListPriceRange": ["778900.0", "778900.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683168",
+        "groupMaxPriceValue": "760000.0",
+        "groupHero": "3074457345616683169",
+        "groupMinPriceValue": "760000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-v30-lite-256gb-reloj-audifonos-5g-dorado.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-v30-lite-256gb-reloj-audifonos-5g-dorado.jpg",
+      "seo": {
+        "href": "/samsung-galaxy-a21s-128-gb-po-equ70036676p-5"
+      },
+      "partNumber": "PO_Equ70036676P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Samsung Galaxy A21S 128 GB",
+      "manufacturer": "SAMSUNG",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/vivo-v30-lite-256gb-reloj-audifonos-5g-dorado.jpg",
+      "relationship.item.id": "3074457345616683169",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "760000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"NEGRO\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "NEGRO",
+              "sequence": "1.0",
+              "id": "7741124012283337835",
+              "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg",
+              "value": "NEGRO",
+              "image1path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683168"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?storeId=10251&catalogId=20000&profileName=X_V2_findProductsByCategoryWithPriceRange&offset=0&limit=50&langId=-5&currency=COP&contractId=4000000000000003006&categoryId=3074457345616679169",
+      "shortDescription": "Xiaomi MI 11 Lite 128Gb 5G Amarillo",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["1400000.0", "1400000.0"],
+        "groupListPriceRange": ["1300000.0", "1300000.0"],
+        "groupCount": 1,
+        "groupOwner": "3074457345616683192",
+        "groupMaxPriceValue": "1400000.0",
+        "groupHero": "3074457345616683193",
+        "groupMinPriceValue": "1400000.0"
+      },
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/tecno-mobile-camon-30-256gb-buds-4g-blanco.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/tecno-mobile-camon-30-256gb-buds-4g-blanco.jpg",
+      "seo": {
+        "href": "/xiaomi-mi-11-lite-128gb-5g-amarillo-po-equ70040446p-5"
+      },
+      "partNumber": "PO_Equ70040446P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Xiaomi MI 11 Lite 128Gb 5G Amarillo",
+      "manufacturer": "XIAOMI",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/tecno-mobile-camon-30-256gb-buds-4g-blanco.jpg",
+      "relationship.item.id": "3074457345616683193",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "1300000.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "1300000"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "1400000.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"AMARILLO\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "AMARILLO",
+              "sequence": "10.0",
+              "id": "7741124012283337844",
+              "image1": "AMARILLO",
+              "value": "AMARILLO",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/AMARILLO"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683192"
+    }
+  ],
+  "facets": [
+    {
+      "value": "manufacturer.raw",
+      "name": "Marca",
+      "entry": [
+        {
+          "label": "APPLE",
+          "value": "manufacturer.raw%3A%22APPLE%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "6580807669"
+          }
+        },
+        {
+          "label": "MOTOROLA",
+          "value": "manufacturer.raw%3A%22MOTOROLA%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "7779847982797665"
+          }
+        },
+        {
+          "label": "SAMSUNG",
+          "value": "manufacturer.raw%3A%22SAMSUNG%22",
+          "count": "5",
+          "extendedData": {
+            "uniqueId": "83657783857871"
+          }
+        },
+        {
+          "label": "VIVO",
+          "value": "manufacturer.raw%3A%22VIVO%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "86738679"
+          }
+        },
+        {
+          "label": "XIAOMI",
+          "value": "manufacturer.raw%3A%22XIAOMI%22",
+          "count": "2",
+          "extendedData": {
+            "uniqueId": "887365797773"
+          }
+        },
+        {
+          "label": "ZTE",
+          "value": "manufacturer.raw%3A%22ZTE%22",
+          "count": "1",
+          "extendedData": {
+            "uniqueId": "908469"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Marca",
+        "propertyvalue": "manufacturer.raw",
+        "maximumValuesToDisplay": "6",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "true",
+        "displaySequence": "0.0",
+        "name": "Marca",
+        "sortorder": "1",
+        "max_display": "6",
+        "fdesc": "El fabricante",
+        "propertyId": "manufacturer.raw"
+      }
+    },
+    {
+      "entry": [
+        {
+          "count": 1,
+          "label": "({* TO 600000])",
+          "value": "price_cop%3A%28%7B*+TO+600000%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012342328479325448484848489341"
+          }
+        },
+        {
+          "count": 9,
+          "label": "({600000 TO 1200000])",
+          "value": "price_cop%3A%28%7B600000+TO+1200000%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012354484848484832847932495048484848489341"
+          }
+        },
+        {
+          "count": 1,
+          "label": "({1200000 TO 1800000])",
+          "value": "price_cop%3A%28%7B1200000+TO+1800000%5D%29",
+          "extendedData": {
+            "uniqueId": "11211410599101959911111258401234950484848484832847932495648484848489341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({1800000 TO 2400000])",
+          "value": "price_cop%3A%28%7B1800000+TO+2400000%5D%29",
+          "extendedData": {
+            "uniqueId": "11211410599101959911111258401234956484848484832847932505248484848489341"
+          }
+        },
+        {
+          "count": 1,
+          "label": "({2400000 TO 3000000])",
+          "value": "price_cop%3A%28%7B2400000+TO+3000000%5D%29",
+          "extendedData": {
+            "uniqueId": "11211410599101959911111258401235052484848484832847932514848484848489341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({3000000 TO * ])",
+          "value": "price_cop%3A%28%7B3000000+TO+*+%5D%29",
+          "extendedData": {
+            "uniqueId": "1121141059910195991111125840123514848484848483284793242329341"
+          }
+        }
+      ],
+      "value": "price_cop",
+      "name": "OfferPrice_cop"
+    },
+    {
+      "value": "facets.7741124012283335835.value.raw",
+      "name": "Color",
+      "entry": [
+        {
+          "label": "NEGRO",
+          "value": "facets.7741124012283335835.value.raw%3A%22NEGRO%22",
+          "count": "4",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg",
+          "extendedData": {
+            "uniqueId": "7869718279",
+            "sequence": "1.0",
+            "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg"
+          }
+        },
+        {
+          "label": "AZUL",
+          "value": "facets.7741124012283335835.value.raw%3A%22AZUL%22",
+          "count": "3",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/AZUL",
+          "extendedData": {
+            "uniqueId": "65908576",
+            "sequence": "4.0",
+            "image1": "AZUL"
+          }
+        },
+        {
+          "label": "NARANJA",
+          "value": "facets.7741124012283335835.value.raw%3A%22NARANJA%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/NARANJA",
+          "extendedData": {
+            "uniqueId": "78658265787465",
+            "sequence": "14.0",
+            "image1": "NARANJA"
+          }
+        },
+        {
+          "label": "DORADO",
+          "value": "facets.7741124012283335835.value.raw%3A%22DORADO%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/DORADO",
+          "extendedData": {
+            "uniqueId": "687982656879",
+            "sequence": "32.0",
+            "image1": "DORADO"
+          }
+        },
+        {
+          "label": "AMARILLO",
+          "value": "facets.7741124012283335835.value.raw%3A%22AMARILLO%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/AMARILLO",
+          "extendedData": {
+            "uniqueId": "6577658273767679",
+            "sequence": "10.0",
+            "image1": "AMARILLO"
+          }
+        },
+        {
+          "label": "CRISTAL",
+          "value": "facets.7741124012283335835.value.raw%3A%22CRISTAL%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/CRISTAL",
+          "extendedData": {
+            "uniqueId": "67827383846576",
+            "sequence": "19.0",
+            "image1": "CRISTAL"
+          }
+        },
+        {
+          "label": "ROSA",
+          "value": "facets.7741124012283335835.value.raw%3A%22ROSA%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/ROSA",
+          "extendedData": {
+            "uniqueId": "82798365",
+            "sequence": "33.0",
+            "image1": "ROSA"
+          }
+        },
+        {
+          "label": "GRIS",
+          "value": "facets.7741124012283335835.value.raw%3A%22GRIS%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/GRIS",
+          "extendedData": {
+            "uniqueId": "71827383",
+            "sequence": "2.0",
+            "image1": "GRIS"
+          }
+        },
+        {
+          "label": "PLATA",
+          "value": "facets.7741124012283335835.value.raw%3A%22PLATA%22",
+          "count": "1",
+          "image": "/hclstore/ExtendedSitesCatalogAssetStore/PLATA",
+          "extendedData": {
+            "uniqueId": "8076658465",
+            "sequence": "8.0",
+            "image1": "PLATA"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Color",
+        "zero_display": "false",
+        "propertyvalue": "Color",
+        "allowMultipleValueSelection": "false",
+        "maximumValuesToDisplay": "20",
+        "displaySequence": "1.0",
+        "name": "Color",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "sortorder": "0",
+        "max_display": "20",
+        "propertyId": "7741124012283335835"
+      }
+    }
+  ],
+  "previous": "/search/resources/api/v2/products?storeId=10251&categoryId=3074457345616679169&limit=50&offset=0",
+  "total": 12
+}

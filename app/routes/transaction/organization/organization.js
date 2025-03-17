@@ -2,12 +2,14 @@ import express from 'express';
 import { identifyUserType } from '../../../middleware/auth.js';
 // import countriesJSON from '../../../data/country_state.json' assert { type: "json" };
 // import onlineStoreJSON from '../../../data/online_store.json' assert { type: "json" };
-
+import { addFolder } from '../../../middleware/auth.js';
 const app = express();
 const organizationRouter = app.router;
 
 // /wcs/resources/store/11/organization/@self/entitled_orgs?langId=-1
-organizationRouter.get('/:storeId/organization/@self/entitled_orgs', (req, res) => {
+organizationRouter.get('/:storeId/organization/@self/entitled_orgs', addFolder, (req, res) => {
+  const { _folder } = req
+  console.log('_folder organization: ', _folder);
   res.status(200).json({
     "entitledOrganizations": [
       {
@@ -23,9 +25,38 @@ organizationRouter.get('/:storeId/organization/@self/entitled_orgs', (req, res) 
 })
 
 // /wcs/resources/store/11/usercontext/@self/contextdata?langId=-1
-organizationRouter.get('/:storeId/usercontext/@self/contextdata', identifyUserType, (req, res) => {
+organizationRouter.get('/:storeId/usercontext/@self/contextdata', addFolder, identifyUserType, (req, res) => {
   const isLogged = req.logged;
   const { cookie } = req.headers;
+  const _folder = req._folder;
+  console.log('FOLDEEEEEEEEE: ', _folder);
+  if (_folder === 'empresas') {
+    res.status(200).json({
+      "globalization": {
+        "preferredCurrency": "COP",
+        "languageId": -5, "currency":
+          "COP", "preferredLanguageId": -5
+      },
+      "catalog": {
+        "catalogId": 10501,
+        "masterCatalog": false
+      },
+      "bcsversion": { "lastUpdateTime": null },
+      "resourceName": "usercontext",
+      "entitlement": {
+        "eligibleTradingAgreementIds": [-41009],
+        "hostingContractId": -41006,
+        "currentTradingAgreementIds": [-41009],
+        "activeOrganizationId": -2000, "sessionTradingAgreementIds": null
+      },
+      "isPartiallyAuthenticated": false,
+      "basicInfo": {
+        "runAsId": -1002, "callerId": -1002,
+        "registerType": "G", "storeId": 10100, "channelId": -4
+      }
+    });
+    return
+  }
 
   if (!isLogged) {
     res.status(200).json({

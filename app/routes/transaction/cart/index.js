@@ -180,6 +180,7 @@ cartRouter.post('/:storeId/validate/cartOrder', async (req, res) => {
 
   // Response: Error geérico
   // res.status(400).json(generateWCSError("_GENERIC_ERROR", "1001"));
+  // res.status(200).json(generateWCSError("_GENERIC_ERROR1", "1001"));
 
 });
 

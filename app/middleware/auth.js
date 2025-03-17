@@ -31,6 +31,7 @@ export const addFolder = (req, res, next) => {
   const storeId = req.params.storeId ?? queryStoreId;
   console.log('storeId: ', storeId);
   req.storeIdentifier = STORES[storeId] ?? "generic";
+  console.log('STORES[storeId] ?? "generic": ', STORES[storeId] ?? "generic");
   req._folder = req.storeIdentifier;
   req.storeFolder = `${storeId}-store`;
   next();

@@ -1,0 +1,517 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Shipping Management",
+    "description": "Provide APIs related to shipping management in a B2C and B2B store. Use these services to: <ul><li>Enable page payment methods</li></ul>",
+    "version": "9.1.15.0",
+    "x-introduced": "9.1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://{hostname}:{port}/wcs/resources",
+      "variables": {
+        "port": {
+          "default": "443",
+          "enum": ["443", "5443"]
+        },
+        "hostname": {
+          "default": "localhost",
+          "enum": ["localhost", "test.hcl.com"]
+        }
+      }
+    }
+  ],
+  "externalDocs": {
+    "description": "Some REST services require authentication. HCL Commerce REST services are authenticated on secure and unsecured channels. This authentication can include the use of the WCToken and WCTrustedToken. To use REST services that require authentication, you must first get authentication data by using a supported identity services.\n\nAfter you obtain the authentication data, you must pass either the WCToken or WCTustedToken parameters, or both, within the HTTP header for every request that requires authentication. If a request is sent over HTTP, pass the WCToken parameter in the HTTP header. Do not pass the WCTrustedToken in HTTP requests, as the parameter value might display. Send both the WCToken and the WCTrustedToken parameters when the request is being sent over HTTPS.\n\nThe HCL Commerce REST APIs can also use session cookies that are created by the HCL Commerce store runtime for authentication. These cookies allow you to mix requests to the HCL Commerce REST APIs and the HCL Commerce store runtime within the same user session.\n\n",
+    "url": "https://help.hcltechsw.com/commerce/9.1.0/webservices/concepts/cwvrestauth.html?hl=rest%2Cauthentication"
+  },
+  "tags": [
+    {
+      "name": "Shipping",
+      "description": "Provides RESTful services to manage shipping information"
+    }
+  ],
+  "paths": {
+    "/store/{storeId}/shipping/payment": {
+      "post": {
+        "tags": ["Shipping"],
+        "summary": "Enable page payment methods",
+        "description": "This API is used to enable page payment methods",
+        "operationId": "enablePagePaymentMethods",
+        "parameters": [
+          {
+            "name": "storeId",
+            "in": "path",
+            "description": "The store identifier.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "responseFormat",
+            "in": "query",
+            "description": "The response format. Valid values are json and xml. If the request contains an input body, it must use the format specified in responseFormat. If the responseFormat is not specified, the accept  HTTP header determines the format of the response. If the accept  HTTP header is not specified then default response format is json.",
+            "schema": {
+              "type": "string",
+              "enum": ["xml", "json"]
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "EnablePagePaymentMethods body.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/com.ibm.commerce.rest.member.handler.EnablePagePaymentMethods.Request"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/com.ibm.commerce.rest.member.handler.EnablePagePaymentMethods.Response"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request. The request could not be understood by the server due to malformed syntax.",
+            "content": {}
+          },
+          "401": {
+            "description": "Unauthorized. The user session is not valid.",
+            "content": {}
+          },
+          "403": {
+            "description": "Forbidden. The user is not authorized to perform the specified request.",
+            "content": {}
+          },
+          "404": {
+            "description": "Not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Internal server error. For details, see the server log files.",
+            "content": {}
+          }
+        }
+      }
+    },
+    "/store/{storeId}/shipping_info": {
+      "post": {
+        "tags": ["Claro Shipping Promises"],
+        "summary": "Get Shipping promises",
+        "description": "This API is used to get Shipping promises by address Id",
+        "operationId": "getShippingPromises",
+        "parameters": [
+          {
+            "name": "storeId",
+            "in": "path",
+            "description": "The store identifier.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "responseFormat",
+            "in": "query",
+            "description": "The response format. Valid values are json and xml. If the request contains an input body, it must use the format specified in responseFormat. If the responseFormat is not specified, the accept  HTTP header determines the format of the response. If the accept  HTTP header is not specified then default response format is json.",
+            "schema": {
+              "type": "string",
+              "enum": ["xml", "json"]
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "getShippingPromises body.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/com.ibm.commerce.rest.member.handler.getShippingPromises.Request"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/com.ibm.commerce.rest.member.handler.getShippingPromises.Response"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request. The request could not be understood by the server due to malformed syntax.",
+            "content": {}
+          },
+          "401": {
+            "description": "Unauthorized. The user session is not valid.",
+            "content": {}
+          },
+          "403": {
+            "description": "Forbidden. The user is not authorized to perform the specified request.",
+            "content": {}
+          },
+          "404": {
+            "description": "Not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Internal server error. For details, see the server log files.",
+            "content": {}
+          }
+        }
+      }
+    },
+    "/store/{storeId}/savePromise": {
+      "post": {
+        "tags": ["Claro Shipping Promises"],
+        "summary": "Save Shipping promises",
+        "description": "This API is used to save Shipping promises in order",
+        "operationId": "saveShippingPromises",
+        "parameters": [
+          {
+            "name": "storeId",
+            "in": "path",
+            "description": "The store identifier.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "responseFormat",
+            "in": "query",
+            "description": "The response format. Valid values are json and xml. If the request contains an input body, it must use the format specified in responseFormat. If the responseFormat is not specified, the accept  HTTP header determines the format of the response. If the accept  HTTP header is not specified then default response format is json.",
+            "schema": {
+              "type": "string",
+              "enum": ["xml", "json"]
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "saveShippingPromises body.",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/com.ibm.commerce.rest.member.handler.saveShippingPromises.Request"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/com.ibm.commerce.rest.member.handler.saveShippingPromises.Response"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request. The request could not be understood by the server due to malformed syntax.",
+            "content": {}
+          },
+          "401": {
+            "description": "Unauthorized. The user session is not valid.",
+            "content": {}
+          },
+          "403": {
+            "description": "Forbidden. The user is not authorized to perform the specified request.",
+            "content": {}
+          },
+          "404": {
+            "description": "Not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Internal server error. For details, see the server log files.",
+            "content": {}
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "com.ibm.commerce.rest.member.handler.EnablePagePaymentMethods.Request": {
+        "type": "object",
+        "x-graphql-type-name": "loginIdentityForm",
+        "properties": {
+          "channel": {
+            "type": "string",
+            "description": "The channel, it could be EC9_B2C_WEB or EC9_B2C_MOBILE.",
+            "enum": ["EC9_B2C_WEB", "EC9_B2C_MOBILE"]
+          },
+          "versionDocTermsConditions": {
+            "type": "string",
+            "description": "The version of the document."
+          },
+          "phone1": {
+            "type": "string",
+            "description": "The principal phone number of the user."
+          },
+          "phone2": {
+            "type": "string",
+            "description": "The optional phone number of the user"
+          },
+          "recibe": {
+            "type": "string",
+            "description": "The name of the person who receives the order."
+          },
+          "nameDocTermsConditions": {
+            "type": "string",
+            "description": "The name of the document."
+          }
+        },
+        "required": [
+          "channel",
+          "versionDocTermsConditions",
+          "phone1",
+          "nameDocTermsConditions"
+        ],
+        "description": "Information required to enable page payment methods",
+        "example": {
+          "channel": "EC9_B2C_WEB",
+          "versionDocTermsConditions": "V1",
+          "phone1": "1234567890",
+          "phone2": "1234567890",
+          "recibe": "Juan Perez",
+          "nameDocTermsConditions": "Terminos y Condiciones Tienda Virtual"
+        }
+      },
+      "com.ibm.commerce.rest.member.handler.EnablePagePaymentMethods.Response": {
+        "type": "object",
+        "properties": {
+          "result": {
+            "type": "string"
+          },
+          "success": {
+            "type": "string"
+          },
+          "message": {
+            "type": "string"
+          },
+          "status": {
+            "type": "number"
+          }
+        }
+      },
+      "com.ibm.commerce.rest.member.handler.getShippingPromises.Request": {
+        "type": "object",
+        "properties": {
+          "addressId": {
+            "type": "string",
+            "description": "The address id of selected address"
+          }
+        },
+        "required": ["addressId"],
+        "description": "Information required to get shipping promises",
+        "example": {
+          "addressId": "3074457355844378383"
+        }
+      },
+      "com.ibm.commerce.rest.member.handler.getShippingPromises.Response": {
+        "type": "object",
+        "properties": {
+          "success": {
+            "type": "boolean"
+          },
+          "orderCards": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "orderGroupNo": {
+                  "type": "string"
+                },
+                "productos": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "productCode": {
+                        "type": "string"
+                      },
+                      "groupId": {
+                        "type": "string"
+                      },
+                      "productNum": {
+                        "type": "string"
+                      },
+                      "channelProdCode": {
+                        "type": "string"
+                      },
+                      "productName": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "productCode",
+                      "productNum",
+                      "channelProdCode",
+                      "productName"
+                    ]
+                  }
+                },
+                "promises": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "promiseId": {
+                        "type": "string"
+                      },
+                      "availableDateList": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "promiseStartDate": {
+                              "type": "string",
+                              "format": "date-time"
+                            },
+                            "promiseEndDate": {
+                              "type": "string",
+                              "format": "date-time"
+                            }
+                          },
+                          "required": ["promiseStartDate", "promiseEndDate"]
+                        }
+                      },
+                      "promiseType": {
+                        "type": "string"
+                      },
+                      "freight": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "promiseCode": {
+                              "type": "string"
+                            },
+                            "deliveryCost": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["promiseCode", "deliveryCost"]
+                        }
+                      },
+                      "orderGroupNo": {
+                        "type": "integer"
+                      },
+                      "promiseName": {
+                        "type": "string"
+                      },
+                      "delivMethod": {
+                        "type": "integer"
+                      },
+                      "titleShipping": {
+                        "type": "string"
+                      },
+                      "fulfillGroup": {
+                        "type": "integer"
+                      },
+                      "title": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "orderGroupNo",
+                      "promiseId",
+                      "availableDateList",
+                      "promiseType",
+                      "freight",
+                      "promiseName",
+                      "delivMethod",
+                      "titleShipping",
+                      "fulfillGroup",
+                      "title"
+                    ]
+                  }
+                },
+                "promiseSelectedIndex": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "orderGroupNo",
+                "productos",
+                "promises",
+                "promiseSelectedIndex"
+              ]
+            }
+          },
+          "message": {
+            "type": "string"
+          },
+          "status": {
+            "type": "integer"
+          }
+        },
+        "required": ["orderCards", "success", "message", "status"]
+      },
+      "com.ibm.commerce.rest.member.handler.saveShippingPromises.Request": {
+        "type": "object",
+        "properties": {
+          "promiseSelected": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "orderGroupNo": {
+                  "type": "string"
+                },
+                "promiseName": {
+                  "type": "string"
+                },
+                "fulfillGroup": {
+                  "type": "string"
+                },
+                "dateRangeIndex": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "orderGroupNo",
+                "promiseName",
+                "fulfillGroup",
+                "dateRangeIndex"
+              ]
+            }
+          }
+        },
+        "required": ["promiseSelected"]
+      },
+      "com.ibm.commerce.rest.member.handler.saveShippingPromises.Response": {
+        "type": "object",
+        "properties": {
+          "success": {
+            "type": "boolean"
+          },
+          "message": {
+            "type": "string"
+          },
+          "status": {
+            "type": "integer"
+          }
+        },
+        "required": ["success", "message", "status"]
+      }
+    }
+  }
+}

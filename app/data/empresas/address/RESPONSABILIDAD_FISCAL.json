@@ -1,0 +1,25 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "O-13 Gran contribuyente",
+      "value": "O-13"
+    },
+    {
+      "description": "O-15 Autorretenedor",
+      "value": "O-15"
+    },
+    {
+      "description": "O-23 Agente de retención IVA",
+      "value": "O-23"
+    },
+    {
+      "description": "O-47 Régimen simple de tributación",
+      "value": "O-47"
+    },
+    {
+      "description": "R-99-PN No aplica - Otros",
+      "value": "R-99-PN"
+    }
+  ]
+}

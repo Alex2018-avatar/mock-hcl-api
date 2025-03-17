@@ -1,0 +1,432 @@
+{
+  "recordSetCount": 1,
+  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10100/online_store",
+  "recordSetStartNumber": 0,
+  "resourceName": "store",
+  "resultList": [
+    {
+      "identifier": "empresas",
+      "locationInfo": [
+        {
+          "address": {
+            "country": "CA",
+            "city": "Toronto",
+            "zipOrPostalCode": "M3C-1L1",
+            "addressLine": ["Street123", null, null],
+            "stateOrProvinceName": "ON"
+          },
+          "languageId": "-5",
+          "telephone1": "1-800-555-1234",
+          "contactInfoIdentifier": {
+            "contactPersonNickName": "empresas Organization 1",
+            "contactInfoId": "715846985"
+          }
+        }
+      ],
+      "relatedStores": [
+        {
+          "relationshipType": "-34",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-34",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-33",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-33",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-32",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-32",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-31",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-31",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-29",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "2.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-29",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-29",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-26",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-26",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-25",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-25",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-24",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-24",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-23",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-23",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-22",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-22",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-21",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-21",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-20",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-20",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-19",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-19",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-18",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-18",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-17",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-17",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-16",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-16",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-14",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "2.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-14",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-14",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-11",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-11",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-10",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-10",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-9",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-9",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-7",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-7",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-5",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-5",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-4",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-4",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-3",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-3",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-2",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-2",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "10501",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "15001",
+          "relationshipSequence": "2.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        }
+      ],
+      "storeType": "BMH",
+      "userData": {
+        "wc.search.priceMode.compatiblePriceIndex": "1.0",
+        "hcl.externalContent.enabled": "false",
+        "hcl.imagePath": "/hclstore",
+        "google.tag.manager.preview": "env-1",
+        "google.analytics.property.ga4": "441953980 ",
+        "hcl.pageLayoutTool.enabled": "true",
+        "google.analytics.versions": "GA4",
+        "headlessStore": "true",
+        "headlessStore.storeContextRoot": "/empresas",
+        "google.tag.manager.container.id": "GTM-MNFNMT49",
+        "google.tag.manager.auth": "X2GxcUTr8swzSJucG7qHGg"
+      },
+      "contactInfo": [
+        {
+          "address": {
+            "country": "CA",
+            "city": "Toronto",
+            "zipOrPostalCode": "M3C-1L1",
+            "addressLine": ["Street123", null, null],
+            "stateOrProvinceName": "ON"
+          },
+          "languageId": "-5",
+          "telephone1": "1-800-555-1234",
+          "contactInfoIdentifier": {
+            "contactPersonNickName": "empresas Organization",
+            "contactPersonId": "7333333333333342985",
+            "contactInfoId": "715846984"
+          }
+        }
+      ],
+      "description": [
+        {
+          "languageId": "-5",
+          "description": "Commerce Model Store entity"
+        },
+        {
+          "displayName": "empresas",
+          "languageId": "-5",
+          "description": "empresas"
+        }
+      ],
+      "defaultCatalog": [
+        {
+          "userData": {
+            "userDataField": []
+          },
+          "catalogIdentifier": {
+            "externalIdentifier": null,
+            "uniqueID": "20000"
+          },
+          "storeIdentifier": {
+            "externalIdentifier": null,
+            "uniqueID": "10100"
+          },
+          "uniqueID": "15003"
+        }
+      ],
+      "storeId": "10100",
+      "ownerId": "7333333333333342985",
+      "supportedCurrencies": {
+        "supportedCurrencies": ["COP"],
+        "defaultCurrency": "COP"
+      },
+      "supportedLanguages": {
+        "supportedLanguages": ["-5"],
+        "defaultLanguageId": "-5"
+      },
+      "state": "open"
+    }
+  ],
+  "recordSetTotal": 1,
+  "recordSetComplete": true
+}

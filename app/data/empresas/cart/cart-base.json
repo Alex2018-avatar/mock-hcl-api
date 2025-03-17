@@ -1,0 +1,50 @@
+{
+  "orderTypeCode": "ORD",
+  "totalShippingCharge": "0",
+  "resourceId": "https://www.b2cdev3auth.claro.com.co:5443/wcs/resources/store/10251/cart/@self?langId=-5&sortOrder=desc",
+  "orgUniqueID": "7333333333333351885",
+  "orgDistinguishedName": "o=demo-empresa7-b2b,o=root organization",
+  "orderId": "369101762825",
+  "lastUpdateDate": "2024-10-24T12:59:17.385Z",
+  "channel": {
+    "channelIdentifer": {
+      "channelName": "Web Channel",
+      "uniqueID": "-1"
+    },
+    "userData": null,
+    "description": {
+      "language": "-5",
+      "value": "Used when operations performed from a desktop browser."
+    }
+  },
+  "orderStatus": "P",
+  "x_isPurchaseOrderNumberRequired": "false",
+  "totalShippingChargeCurrency": "COP",
+  "x_firstName": "Marco",
+  "grandTotalCurrency": "COP",
+  "buyerId": "590003",
+  "buyerDistinguishedName": "uid=demo@gmail.com,o=demo-empresa7-b2b,o=root organization",
+  "recordSetCount": "1",
+  "x_isPersonalAddressesAllowedForShipping": "true",
+  "storeNameIdentifier": "ClaroB2C",
+  "totalProductPriceCurrency": "COP",
+  "totalProductPrice": "1798900",
+  "locked": "false",
+  "recordSetComplete": "true",
+  "totalAdjustmentCurrency": "COP",
+  "totalSalesTaxCurrency": "COP",
+  "totalSalesTax": "0",
+  "grandTotal": "1798900",
+  "orderItem": [],
+  "storeUniqueID": "9701",
+  "recordSetStartNumber": "0",
+  "resourceName": "cart",
+  "recordSetTotal": "1",
+  "shipAsComplete": "true",
+  "x_trackingIds": "",
+  "totalShippingTax": "0",
+  "totalShippingTaxCurrency": "COP",
+  "prepareIndicator": "false",
+  "x_lastName": "Perez",
+  "totalAdjustment": "0"
+}

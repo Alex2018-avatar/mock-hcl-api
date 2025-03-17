@@ -1,0 +1,216 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "resourceId": "https://toolkit-elastic-v9115:30921/search/resources/api/v2/products?langId=-5&storeId=10251&partNumber=PO_Equ70038567P&catalogId=20000",
+      "shortDescription": "Vivo Y51 128Gb Cristal",
+      "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "seo": {
+        "href": "/vivo-y51-128gb-cristal-po-equ70038567p-5"
+      },
+      "url.override.image": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "partNumber": "PO_Equ70038567P",
+      "storeID": "10251",
+      "parentCatalogGroupID": [
+        "/3074457345616679168/3074457345616679169",
+        "/3074457345616679168/3074457345616679171",
+        "/3074457345616679168/3074457345616679170"
+      ],
+      "sellerId": "7000000000000001001",
+      "name": "Vivo Y51 128Gb Cristal z",
+      "manufacturer": "VIVO",
+      "longDescription": "Vivo Y51 128Gb Cristal",
+      "relationship.item.sequence": "0.0",
+      "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+      "relationship.item.id": "3074457345616683171",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "778900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": "778900"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000003006",
+          "description": "I",
+          "currency": "COP",
+          "value": "780000.0"
+        }
+      ],
+      "numberOfSKUs": 1,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.natural": "[\"CRISTAL\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "CRISTAL",
+              "sequence": "19.0",
+              "id": "7741124012283337837",
+              "image1": "CRISTAL",
+              "value": "CRISTAL",
+              "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/CRISTAL"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "facetable": "true",
+          "id": "7741124012283335835",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "name": "Vivo Y51 128Gb Cristal z Main Image",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg"
+        }
+      ],
+      "type": "product",
+      "id": "3074457345616683170",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "shortDescription": "Vivo Y51 128Gb Cristal Z",
+          "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "seo": {
+            "href": "/vivo-y51-128gb-cristal-po-equ70038567-5"
+          },
+          "url.override.image": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "partNumber": "PO_Equ70038567",
+          "storeID": "10251",
+          "parentCatalogGroupID": [
+            "/3074457345616679168/3074457345616679169",
+            "/3074457345616679168/3074457345616679171",
+            "/3074457345616679168/3074457345616679170"
+          ],
+          "sellerId": "7000000000000001001",
+          "name": "Vivo Y51 128Gb Cristal Z",
+          "manufacturer": "VIVO",
+          "longDescription": "Vivo Y51 128Gb Cristal",
+          "parentCatalogEntryID": "3074457345616683170",
+          "url.override.thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "COP",
+              "value": "778900.0"
+            },
+            {
+              "usage": "PrecioClienteClaro",
+              "description": "D",
+              "currency": "COP",
+              "value": "778900"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "4000000000000003006",
+              "description": "I",
+              "currency": "COP",
+              "value": "780000.0"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.natural": "[\"CRISTAL\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "CRISTAL",
+                  "sequence": "19.0",
+                  "id": "7741124012283337837",
+                  "image1": "CRISTAL",
+                  "value": "CRISTAL",
+                  "image1path": "/hclstore/ExtendedSitesCatalogAssetStore/CRISTAL"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "facetable": "true",
+              "id": "7741124012283335835",
+              "comparable": "false",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+              "name": "Vivo Y51 128Gb Cristal Z Main Image",
+              "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg",
+              "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/zte-blade-a75-128gb-5g-negro.jpg"
+            },
+            {
+              "thumbnailRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/200x300/samsung-galaxy-a10s-azul.jpg",
+              "sequence": "1.0",
+              "catentry_id": "3074457345616683171",
+              "thumbnail": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/200x300/samsung-galaxy-a10s-azul.jpg",
+              "name": "SMG GXYA10S32A107 AZ",
+              "fullImageRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089.jpg",
+              "fullImage": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089.jpg"
+            },
+            {
+              "sequence": "2.0",
+              "catentry_id": "3074457345616683171",
+              "name": "SMG GXYA10S32A107 AZ",
+              "fullImageRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089_2.jpg",
+              "fullImage": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089_2.jpg"
+            },
+            {
+              "sequence": "3.0",
+              "catentry_id": "3074457345616683171",
+              "name": "SMG GXYA10S32A107 AZ",
+              "fullImageRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089_3.jpg",
+              "fullImage": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089_3.jpg"
+            },
+            {
+              "sequence": "4.0",
+              "catentry_id": "3074457345616683171",
+              "name": "SMG GXYA10S32A107 AZ",
+              "fullImageRaw": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089_4.jpg",
+              "fullImage": "https://tienda.claro.com.co/wcsstore/Claro/images/catalog/equipos/646x1000/70033089_4.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=10251&id=3074457345616679169",
+          "id": "3074457345616683171",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}
