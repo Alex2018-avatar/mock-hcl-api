@@ -1,6 +1,6 @@
 {
   "recordSetCount": 1,
-  "resourceId": "https://toolkit-legacy-v9115:443/wcs/resources/store/10100/online_store",
+  "resourceId": "https://tsapp.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10100/online_store?q=findOnlineStore&profileName=IBM_Admin_All",
   "recordSetStartNumber": 0,
   "resourceName": "store",
   "resultList": [
@@ -18,27 +18,21 @@
           "languageId": "-5",
           "telephone1": "1-800-555-1234",
           "contactInfoIdentifier": {
-            "contactPersonNickName": "empresas Organization 1",
-            "contactInfoId": "715846985"
+            "contactPersonNickName": "ClaroB2B Organization 1",
+            "contactInfoId": "715837987"
           }
         }
       ],
       "relatedStores": [
         {
           "relationshipType": "-34",
-          "relatedStoreId": "15001",
-          "relationshipSequence": "1.0",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
           "state": "1"
         },
         {
           "relationshipType": "-34",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
-          "state": "1"
-        },
-        {
-          "relationshipType": "-33",
-          "relatedStoreId": "15001",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -49,8 +43,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-32",
-          "relatedStoreId": "15001",
+          "relationshipType": "-33",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -61,8 +55,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-31",
-          "relatedStoreId": "15001",
+          "relationshipType": "-32",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -70,29 +64,29 @@
           "relationshipType": "-31",
           "relatedStoreId": "10100",
           "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-31",
+          "relatedStoreId": "10201",
+          "relationshipSequence": "1.0",
           "state": "1"
         },
         {
           "relationshipType": "-29",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "2.0",
           "state": "1"
         },
         {
           "relationshipType": "-29",
-          "relatedStoreId": "15001",
-          "relationshipSequence": "1.0",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
           "state": "1"
         },
         {
           "relationshipType": "-29",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
-          "state": "1"
-        },
-        {
-          "relationshipType": "-26",
-          "relatedStoreId": "15001",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -103,8 +97,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-25",
-          "relatedStoreId": "15001",
+          "relationshipType": "-26",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -115,8 +109,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-24",
-          "relatedStoreId": "15001",
+          "relationshipType": "-25",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -127,8 +121,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-23",
-          "relatedStoreId": "15001",
+          "relationshipType": "-24",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -139,8 +133,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-22",
-          "relatedStoreId": "15001",
+          "relationshipType": "-23",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -148,11 +142,17 @@
           "relationshipType": "-22",
           "relatedStoreId": "10100",
           "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-22",
+          "relatedStoreId": "10201",
+          "relationshipSequence": "1.0",
           "state": "1"
         },
         {
           "relationshipType": "-21",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -164,7 +164,7 @@
         },
         {
           "relationshipType": "-20",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -176,7 +176,7 @@
         },
         {
           "relationshipType": "-19",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -188,7 +188,7 @@
         },
         {
           "relationshipType": "-18",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -200,7 +200,7 @@
         },
         {
           "relationshipType": "-17",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -212,37 +212,31 @@
         },
         {
           "relationshipType": "-16",
-          "relatedStoreId": "15001",
-          "relationshipSequence": "1.0",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
           "state": "1"
         },
         {
           "relationshipType": "-16",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
+          "relatedStoreId": "10201",
+          "relationshipSequence": "1.0",
           "state": "1"
         },
         {
           "relationshipType": "-14",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "2.0",
           "state": "1"
         },
         {
           "relationshipType": "-14",
-          "relatedStoreId": "15001",
-          "relationshipSequence": "1.0",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
           "state": "1"
         },
         {
           "relationshipType": "-14",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
-          "state": "1"
-        },
-        {
-          "relationshipType": "-11",
-          "relatedStoreId": "15001",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -253,8 +247,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-10",
-          "relatedStoreId": "15001",
+          "relationshipType": "-11",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -265,8 +259,8 @@
           "state": "1"
         },
         {
-          "relationshipType": "-9",
-          "relatedStoreId": "15001",
+          "relationshipType": "-10",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -274,11 +268,17 @@
           "relationshipType": "-9",
           "relatedStoreId": "10100",
           "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-9",
+          "relatedStoreId": "10201",
+          "relationshipSequence": "1.0",
           "state": "1"
         },
         {
           "relationshipType": "-7",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -290,19 +290,19 @@
         },
         {
           "relationshipType": "-5",
-          "relatedStoreId": "15001",
-          "relationshipSequence": "1.0",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
           "state": "1"
         },
         {
           "relationshipType": "-5",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
+          "relatedStoreId": "10201",
+          "relationshipSequence": "1.0",
           "state": "1"
         },
         {
           "relationshipType": "-4",
-          "relatedStoreId": "10501",
+          "relatedStoreId": "10051",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -314,19 +314,13 @@
         },
         {
           "relationshipType": "-3",
-          "relatedStoreId": "15001",
-          "relationshipSequence": "1.0",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
           "state": "1"
         },
         {
           "relationshipType": "-3",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
-          "state": "1"
-        },
-        {
-          "relationshipType": "-2",
-          "relatedStoreId": "15001",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
@@ -337,21 +331,27 @@
           "state": "1"
         },
         {
-          "relationshipType": "-1",
-          "relatedStoreId": "10501",
+          "relationshipType": "-2",
+          "relatedStoreId": "10201",
           "relationshipSequence": "1.0",
           "state": "1"
         },
         {
           "relationshipType": "-1",
-          "relatedStoreId": "15001",
+          "relatedStoreId": "10051",
+          "relationshipSequence": "1.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "10100",
+          "relationshipSequence": "0.0",
+          "state": "1"
+        },
+        {
+          "relationshipType": "-1",
+          "relatedStoreId": "10201",
           "relationshipSequence": "2.0",
-          "state": "1"
-        },
-        {
-          "relationshipType": "-1",
-          "relatedStoreId": "10100",
-          "relationshipSequence": "0.0",
           "state": "1"
         }
       ],
@@ -415,17 +415,17 @@
           },
           "catalogIdentifier": {
             "externalIdentifier": null,
-            "uniqueID": "20000"
+            "uniqueID": "10051"
           },
           "storeIdentifier": {
             "externalIdentifier": null,
             "uniqueID": "10100"
           },
-          "uniqueID": "15003"
+          "uniqueID": "3074457345618268605"
         }
       ],
       "storeId": "10100",
-      "ownerId": "7333333333333342985",
+      "ownerId": "7333333333333333536",
       "supportedCurrencies": {
         "supportedCurrencies": ["COP"],
         "defaultCurrency": "COP"

@@ -3,6 +3,7 @@ import { identifyUserType } from '../../../middleware/auth.js';
 // import countriesJSON from '../../../data/country_state.json' assert { type: "json" };
 // import onlineStoreJSON from '../../../data/online_store.json' assert { type: "json" };
 import { addFolder } from '../../../middleware/auth.js';
+import { logger } from '../../../config/logger.js';
 const app = express();
 const organizationRouter = app.router;
 
@@ -29,113 +30,167 @@ organizationRouter.get('/:storeId/usercontext/@self/contextdata', addFolder, ide
   const isLogged = req.logged;
   const { cookie } = req.headers;
   const _folder = req._folder;
-  console.log('FOLDEEEEEEEEE: ', _folder);
+  logger.info(`[CONTEXTDATA] isLogged:  ${isLogged}`);
+  logger.info(`[CONTEXTDATA] _folder:  ${_folder}`);
   if (_folder === 'empresas') {
-    res.status(200).json({
-      "globalization": {
-        "preferredCurrency": "COP",
-        "languageId": -5, "currency":
-          "COP", "preferredLanguageId": -5
-      },
-      "catalog": {
-        "catalogId": 10501,
-        "masterCatalog": false
-      },
-      "bcsversion": { "lastUpdateTime": null },
-      "resourceName": "usercontext",
-      "entitlement": {
-        "eligibleTradingAgreementIds": [-41009],
-        "hostingContractId": -41006,
-        "currentTradingAgreementIds": [-41009],
-        "activeOrganizationId": -2000, "sessionTradingAgreementIds": null
-      },
-      "isPartiallyAuthenticated": false,
-      "basicInfo": {
-        "runAsId": -1002, "callerId": -1002,
-        "registerType": "G", "storeId": 10100, "channelId": -4
-      }
-    });
-    return
-  }
+    if (isLogged) {
+      res.status(200).json({
+        "audit": {
+          "personalizationId": "1728508623057-1"
+        },
+        "catalog": {
+          "catalogId": 10001,
+          "masterCatalog": false
+        },
+        "globalization": {
+          "preferredCurrency": "COP",
+          "languageId": -5,
+          "currency": "COP",
+          "preferredLanguageId": -5
+        },
+        "bcsversion": {
+          "lastUpdateTime": "1729277978218"
+        },
+        "resourceName": "usercontext",
+        "entitlement": {
+          "eligibleTradingAgreementIds": [
+            4000000000000000003
+          ],
+          "hostingContractId": 4000000000000000002,
+          "currentTradingAgreementIds": [
+            4000000000000000003
+          ],
+          "activeOrganizationId": -2000,
+          "sessionTradingAgreementIds": null
+        },
+        "activityToken": {
+          "activityId": 310170
+        },
+        "isPartiallyAuthenticated": false,
+        "basicInfo": {
+          "runAsId": 1002,
+          "callerId": 1002,
+          "registerType": "R",
+          "storeId": 10100,
+          "channelId": -1
+        }
+      });
+    } else {
+      res.status(200).json({
+        "globalization": {
+          "preferredCurrency": "COP",
+          "languageId": -5,
+          "currency": "COP",
+          "preferredLanguageId": -5
+        },
+        "catalog": {
+          "catalogId": 10050,
+          "masterCatalog": false
+        },
+        "bcsversion": {
+          "lastUpdateTime": null
+        },
+        "resourceName": "usercontext",
+        "entitlement": {
+          "eligibleTradingAgreementIds": [4e+18],
+          "hostingContractId": 4e+18,
+          "currentTradingAgreementIds": [4e+18],
+          "activeOrganizationId": -2000,
+          "sessionTradingAgreementIds": null
+        },
+        "isPartiallyAuthenticated": false,
+        "basicInfo": {
+          "runAsId": -1002,
+          "callerId": -1002,
+          "registerType": "G",
+          "storeId": 10151,
+          "channelId": -4
+        }
+      })
+    }
 
-  if (!isLogged) {
-    res.status(200).json({
-      "globalization": {
-        "preferredCurrency": "COP",
-        "languageId": -5,
-        "currency": "COP",
-        "preferredLanguageId": -5
-      },
-      "catalog": {
-        "catalogId": 11501,
-        "masterCatalog": false
-      },
-      "bcsversion": {
-        "lastUpdateTime": null
-      },
-      "resourceName": "usercontext",
-      "entitlement": {
-        "eligibleTradingAgreementIds": [
-          -11005
-        ],
-        "hostingContractId": -11004,
-        "currentTradingAgreementIds": [
-          -11005
-        ],
-        "activeOrganizationId": -2000,
-        "sessionTradingAgreementIds": null
-      },
-      "isPartiallyAuthenticated": false,
-      "basicInfo": {
-        "runAsId": 38,
-        "callerId": 38,
-        "registerType": "G",
-        "storeId": 9701,
-        "channelId": -1
-      }
-    });
+    return
   } else {
-    res.status(200).json({
-      "audit": {
-        "personalizationId": "1728508623057-1"
-      },
-      "catalog": {
-        "catalogId": 10001,
-        "masterCatalog": false
-      },
-      "globalization": {
-        "preferredCurrency": "COP",
-        "languageId": -5,
-        "currency": "COP",
-        "preferredLanguageId": -5
-      },
-      "bcsversion": {
-        "lastUpdateTime": "1729277978218"
-      },
-      "resourceName": "usercontext",
-      "entitlement": {
-        "eligibleTradingAgreementIds": [
-          4000000000000000003
-        ],
-        "hostingContractId": 4000000000000000002,
-        "currentTradingAgreementIds": [
-          4000000000000000003
-        ],
-        "activeOrganizationId": -2000,
-        "sessionTradingAgreementIds": null
-      },
-      "activityToken": {
-        "activityId": 310170
-      },
-      "isPartiallyAuthenticated": false,
-      "basicInfo": {
-        "runAsId": 1002,
-        "callerId": 1002,
-        "registerType": "R",
-        "storeId": 9701,
-        "channelId": -1
-      }
-    });
+
+    if (!isLogged) {
+      res.status(200).json({
+        "globalization": {
+          "preferredCurrency": "COP",
+          "languageId": -5,
+          "currency": "COP",
+          "preferredLanguageId": -5
+        },
+        "catalog": {
+          "catalogId": 11501,
+          "masterCatalog": false
+        },
+        "bcsversion": {
+          "lastUpdateTime": null
+        },
+        "resourceName": "usercontext",
+        "entitlement": {
+          "eligibleTradingAgreementIds": [
+            -11005
+          ],
+          "hostingContractId": -11004,
+          "currentTradingAgreementIds": [
+            -11005
+          ],
+          "activeOrganizationId": -2000,
+          "sessionTradingAgreementIds": null
+        },
+        "isPartiallyAuthenticated": false,
+        "basicInfo": {
+          "runAsId": 38,
+          "callerId": 38,
+          "registerType": "G",
+          "storeId": 9701,
+          "channelId": -1
+        }
+      });
+    } else {
+      res.status(200).json({
+        "audit": {
+          "personalizationId": "1728508623057-1"
+        },
+        "catalog": {
+          "catalogId": 10001,
+          "masterCatalog": false
+        },
+        "globalization": {
+          "preferredCurrency": "COP",
+          "languageId": -5,
+          "currency": "COP",
+          "preferredLanguageId": -5
+        },
+        "bcsversion": {
+          "lastUpdateTime": "1729277978218"
+        },
+        "resourceName": "usercontext",
+        "entitlement": {
+          "eligibleTradingAgreementIds": [
+            4000000000000000003
+          ],
+          "hostingContractId": 4000000000000000002,
+          "currentTradingAgreementIds": [
+            4000000000000000003
+          ],
+          "activeOrganizationId": -2000,
+          "sessionTradingAgreementIds": null
+        },
+        "activityToken": {
+          "activityId": 310170
+        },
+        "isPartiallyAuthenticated": false,
+        "basicInfo": {
+          "runAsId": 1002,
+          "callerId": 1002,
+          "registerType": "R",
+          "storeId": 9701,
+          "channelId": -1
+        }
+      });
+    }
   }
 })
 

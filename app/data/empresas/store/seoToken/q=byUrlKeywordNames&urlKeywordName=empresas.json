@@ -1,0 +1,13 @@
+{
+  "resourceId": "https://commerce-preview.sbx0127.play.hclsofy.com:5443/wcs/resources/store/0/seo/token?q=byUrlKeywordNames&urlKeywordName=rubyb2b",
+  "resourceName": "token",
+  "resultList": [
+    {
+      "tokenName": "StoreToken:CatalogToken",
+      "urlKeywordName": "empresas",
+      "tokenValue": "10100:",
+      "urlKeywordId": 63501,
+      "status": 1
+    }
+  ]
+}
