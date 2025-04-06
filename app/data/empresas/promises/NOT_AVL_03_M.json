@@ -1,0 +1,35 @@
+{
+  "code": "NOT_AVL_03",
+  "suggestion": "<p>Puedes continuar la compra y los productos serán eliminados, o puedes buscar y agregar otros productos.</p>",
+  "deliveryPromise": [
+    {
+      "estimatedDate": "Envío a domicilio del 1 de Enero al 13 de Febrero.",
+      "products": [
+        {
+          "name": "Nokia 215 4G Azul",
+          "id": "180005"
+        }
+      ]
+    },
+    {
+      "estimatedDate": "Envío a domicilio del 11 al 13 de Diciembre.",
+      "products": [
+        {
+          "name": "Nokia 215 4G Negro",
+          "id": "180003"
+        }
+      ]
+    }
+  ],
+  "message": "<p>Lo sentimos, los siguientes productos no se encuentran disponibles:</p>",
+  "outOfStockProducts": [
+    {
+      "name": "Honor X6s 128GB con obsequio",
+      "id": "180001"
+    },
+    {
+      "name": "Motorola Moto G20 64 GB Azul",
+      "id": "180004"
+    }
+  ]
+}

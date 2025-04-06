@@ -2,6 +2,13 @@ import express from 'express';
 import path from 'node:path';
 import session from 'express-session';
 import { fileURLToPath } from 'url';
+import helmet from 'helmet';
+import compression from 'compression';
+import https from 'https';
+import fs from 'node:fs';
+import SQLiteStoreFactory from 'connect-sqlite3';
+// routes
+import mainRouter from './app/routes/transaction/store/main.js';
 import storeRouter from './app/routes/transaction/store/store.js';
 import organizationRouter from './app/routes/transaction/organization/organization.js';
 import categoriesRouter from './app/routes/search/categories/categories.js';
@@ -25,17 +32,24 @@ import { logger, morganMiddleware } from './app/config/logger.js';
 import cookieParser from 'cookie-parser';
 import shippingInfoRouter from './app/routes/transaction/shipping/shipping-info.js';
 import customClaroRouter from './app/routes/transaction/payment/payment.js';
+import promisesRouter from './app/routes/transaction/promises/promises.js';
 import cors from 'cors'
+
+const SQLiteStore = SQLiteStoreFactory(session);
 
 const app = express();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+app.use(helmet());
+app.disable('x-powered-by');
+app.use(compression());
 app.use(cors())
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.json());
 app.use(morganMiddleware);
 app.use(cookieParser());
+app.set('title', 'My mock API');
 // Configurar sesiones
 app.use(
   session({
@@ -43,14 +57,17 @@ app.use(
     resave: false,
     saveUninitialized: true,
     cookie: { secure: false },
+    store: new SQLiteStore({
+      db: 'sessions.db',
+      dir: path.resolve(process.cwd(), 'app/database'),
+      concurrentDB: true,
+    }),
+    cookie: { secure: true, maxAge: 86400000 } // 1 día de vida  
   })
 );
 
-app.get('/', (req, res) => {
-  res.send('Hello World');
-})
-
 // transactionContextPath is '/wcs/resources/store'
+app.use(mainRouter);
 app.use(config.transactionContextPath, storeRouter);
 app.use(config.transactionContextPath, organizationRouter);
 app.use(config.v2SearchContextPath, categoriesRouter);
@@ -71,7 +88,7 @@ app.use(config.transactionContextPath, customRouter);
 app.use(config.transactionContextPath, cartRoutesV2);
 app.use(config.transactionContextPath, shippingInfoRouter);
 app.use(config.transactionContextPath, customClaroRouter);
-
+app.use(config.transactionContextPath, promisesRouter);
 
 // Middleware para manejar 404
 app.use((req, res, next) => {
@@ -79,6 +96,15 @@ app.use((req, res, next) => {
   res.status(404).json({});
 });
 
+const options = {
+  key: fs.readFileSync(path.join(__dirname, 'ssl/private.pem')), // Clave privada
+  cert: fs.readFileSync(path.join(__dirname, 'ssl/certificate.crt')),   // Certificado
+  // ca: fs.readFileSync(path.join(__dirname, 'ssl/ca_bundle.crt')), // Cadena de certificados (si la tienes)
+  passphrase: 'demo'
+};
 app.listen(3000, () => {
   logger.info(`[SERVER] Server is running on: http://localhost:3000`);
 })
+https.createServer(options, app).listen(3001, () => {
+  logger.info('[SERVER] HTTPS is running on https://localhost:3001');
+});

@@ -1,0 +1,13 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "C\u00e9dula de ciudadan\u00eda",
+      "value": "CC"
+    },
+    {
+      "description": "C\u00e9dula de extranjer\u00eda",
+      "value": "CE"
+    }
+  ]
+}

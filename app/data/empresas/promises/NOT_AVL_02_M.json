@@ -1,0 +1,14 @@
+{
+  "code": "NOT_AVL_02",
+  "message": "<p>Lo sentimos, los siguientes productos no se encuentran disponibles:</p>",
+  "outOfStockProducts": [
+    {
+      "name": "Honor X6s 128GB con obsequio",
+      "id": "180001"
+    },
+    {
+      "name": "Nokia 215 4G Negro",
+      "id": "180003"
+    }
+  ]
+}

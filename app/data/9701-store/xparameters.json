@@ -13,7 +13,7 @@
     },
     {
       "name": "wc.clarob2c.cdn.path.image",
-      "value": "https://cdn.b2cdev1auth.claro.com.co"
+      "value": "https://cdn.claro.com.co"
     },
     {
       "name": "wc.clarob2b.google.recaptcha.site.key.web",

@@ -16,7 +16,11 @@
       "value": "TRACKING_GUEST"
     },
     {
-      "name": "wc.clarob2b.google.recaptcha.enable",
+      "name": "wc.clarob2b.google.recaptcha.tracking.enable",
+      "value": "false"
+    },
+    {
+      "name": "wc.clarob2b.google.recaptcha.login.enable",
       "value": "false"
     }
   ]

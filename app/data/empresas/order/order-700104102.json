@@ -1,0 +1,200 @@
+{
+  "totalShippingCharge": "0",
+  "orderTypeCode": "ORD",
+  "resourceId": "https://www.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/order/700104102?langId=-5&action=history_status",
+  "orgUniqueID": "7333333333333338087",
+  "orgDistinguishedName": "o=federico ortiz,o=root organization",
+  "orderId": "700104102",
+  "lastUpdateDate": "2025-04-01T22:31:33.731Z",
+  "channel": {
+    "channelIdentifer": {
+      "channelName": "Telesales",
+      "uniqueID": "-4"
+    },
+    "userData": null,
+    "description": {
+      "language": "-5",
+      "value": "Used when operations performed by a telesales representative."
+    }
+  },
+  "orderStatus": "M",
+  "x_isPurchaseOrderNumberRequired": "false",
+  "orderExtendAttribute": [
+    {
+      "attributeValue": "49",
+      "attributeType": "string",
+      "attributeName": "REGIMEN_FISCAL"
+    },
+    {
+      "attributeValue": "R-99-PN",
+      "attributeType": "string",
+      "attributeName": "RESPONSABILIDAD_FISCAL"
+    },
+    {
+      "attributeValue": "04-04-2025",
+      "attributeName": "promiseStartDate"
+    },
+    {
+      "attributeValue": "07-04-2025",
+      "attributeName": "promiseEndDate"
+    }
+  ],
+  "x_firstName": "Federico",
+  "totalShippingChargeCurrency": "COP",
+  "buyerId": "18010",
+  "grandTotalCurrency": "COP",
+  "buyerDistinguishedName": "uid=b2b_ecom.federico.ortiz@gmail.com,o=federico ortiz,o=root organization",
+  "recordSetCount": "1",
+  "paymentInstruction": [
+    {
+      "piId": "23002",
+      "country": "Colombia",
+      "personTitle": "",
+      "lastName": "Ortiz",
+      "zipCode": "05002",
+      "city": "ABEJORRAL",
+      "postalCode": "05002",
+      "phone2": "5435431111",
+      "phone2Publish": "true",
+      "phone1Publish": "true",
+      "piDescription": "Tarjeta de cr\u00e9dito/d\u00e9bito",
+      "payMethodId": "B2BTarjeta",
+      "phone1": "9834781029",
+      "xpaym_tokenization": "false",
+      "email2": "",
+      "email1": "ecom.federico.ortiz@gmail.com",
+      "xpaym_policyId": "210001",
+      "fax2": "",
+      "state": "ANTIOQUIA",
+      "fax1": "",
+      "piAmount": "77000.00000",
+      "billing_address_id": "3074457361092532142",
+      "nickName": "Kevin",
+      "addressLine": ["4324|432|43", "AVENIDA", "Kevin"],
+      "piLanguage": "-5",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "piStatus": "Pending",
+      "firstName": "Federico",
+      "piCurrency": "COP",
+      "protocolData": [
+        {
+          "name": "billing_address_id",
+          "value": "3074457361092532142"
+        },
+        {
+          "name": "payment_method",
+          "value": "B2BTarjeta"
+        }
+      ],
+      "middleName": "AVENIDA 4324 432 43 BARRIO KEVIN",
+      "xpaym_punchoutPayment": "true"
+    }
+  ],
+  "x_isPersonalAddressesAllowedForShipping": "true",
+  "storeNameIdentifier": "empresas",
+  "totalProductPriceCurrency": "COP",
+  "totalProductPrice": "77000",
+  "locked": "false",
+  "placedDate": "2025-04-01T22:31:33.511Z",
+  "recordSetComplete": "true",
+  "totalAdjustmentCurrency": "COP",
+  "totalSalesTaxCurrency": "COP",
+  "totalSalesTax": "0",
+  "orderItem": [
+    {
+      "zipCode": "05002",
+      "personTitle": "",
+      "country": "Colombia",
+      "unitUom": "C62",
+      "shippingChargeCurrency": "COP",
+      "lastUpdateDate": "2025-04-01T22:31:33.511Z",
+      "postalCode": "05002",
+      "phone2": "5435431111",
+      "availableDate": "2025-04-01T22:31:33.189Z",
+      "phone2Publish": "true",
+      "salesTax": "0",
+      "phone1Publish": "true",
+      "phone1": "9834781029",
+      "addressId": "3074457361092532142",
+      "correlationGroup": "160017",
+      "usableShippingChargePolicy": [
+        {
+          "name": "StandardShippingChargeBySeller",
+          "type": "ShippingCharge",
+          "uniqueID": "-7001"
+        }
+      ],
+      "email2": "",
+      "email1": "ecom.federico.ortiz@gmail.com",
+      "fax2": "",
+      "shippingCharge": "0",
+      "fax1": "",
+      "state": "ANTIOQUIA",
+      "orderItemPrice": "77000",
+      "shipModeLanguage": "-5",
+      "unitPrice": "77000",
+      "productId": "10002",
+      "shipModeCode": "ShippingDateAvailable",
+      "shipModeDescription": "Env\u00edo a domicilio en fecha disponible",
+      "nickName": "Kevin",
+      "fulfillmentCenterName": "ClaroB2C",
+      "firstName": "Federico",
+      "totalAdjustment": {
+        "currency": "COP",
+        "value": "0"
+      },
+      "orderItemInventoryStatus": "Allocated",
+      "lastName": "Ortiz",
+      "city": "ABEJORRAL",
+      "expectedShipDate": "2025-04-02T22:37:52.218Z",
+      "xitem_isPersonalAddressesAllowedForShipping": "true",
+      "shippingTax": "0",
+      "orderItemStatus": "M",
+      "offerID": "4000000000000002062",
+      "currency": "COP",
+      "createDate": "2025-04-01T22:28:53.724Z",
+      "salesTaxCurrency": "COP",
+      "quantity": "1.0",
+      "fulfillmentCenterId": "715837934",
+      "orderItemId": "160017",
+      "shipModeId": "30001",
+      "xitem_memberId": "18010",
+      "orderItemFulfillmentStatus": "Unreleased",
+      "isExpedited": "false",
+      "addressLine": ["4324|432|43", "AVENIDA", "Kevin"],
+      "xitem_lastName": "Ortiz",
+      "shippingTaxCurrency": "COP",
+      "stateOrProvinceName": "ANTIOQUIA",
+      "UOM": "C62",
+      "fulfillmentCenterOwnerId": "7333333333333333535",
+      "freeGift": "false",
+      "xitem_firstName": "Federico",
+      "unitQuantity": "1.0",
+      "contractId": "4000000000000000009",
+      "middleName": "AVENIDA 4324 432 43 BARRIO KEVIN",
+      "partNumber": "PO_Equ70038158"
+    }
+  ],
+  "grandTotal": "77000",
+  "storeUniqueID": "10152",
+  "recordSetStartNumber": "0",
+  "resourceName": "order",
+  "recordSetTotal": "1",
+  "shipAsComplete": "true",
+  "x_trackingIds": "",
+  "x_orderHistory": {
+    "statusTimeline": [
+      {
+        "isCurrent": true,
+        "statusCode": "M",
+        "updatedAt": "2025-04-01 17:31:38.741"
+      }
+    ],
+    "code": "SUCCESS"
+  },
+  "totalShippingTax": "0",
+  "prepareIndicator": "true",
+  "totalShippingTaxCurrency": "COP",
+  "x_lastName": "Ortiz",
+  "totalAdjustment": "0"
+}

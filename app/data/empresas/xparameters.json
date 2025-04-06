@@ -1,0 +1,31 @@
+{
+  "recordSetCount": 8,
+  "resourceId": "",
+  "resourceName": "xstoreparameters",
+  "xstoreparameters": [
+    {
+      "name": "wc.clarob2b.google.recaptcha.site.key.web",
+      "value": "6LfHngwqAAAAANECDjB5pjj5gk1NW-35FeI1Q13Z"
+    },
+    {
+      "name": "wc.clarob2b.google.recaptcha.api.loginb2b.action",
+      "value": "LOGIN"
+    },
+    {
+      "name": "wc.clarob2b.google.recaptcha.api.tracking.action",
+      "value": "TRACKING_GUEST"
+    },
+    { "name": "wc.clarob2b.google.recaptcha.enable", "value": "false" },
+    { "name": "wc.clarob2b.show.more.btn.link", "value": "true" },
+    {
+      "name": "wc.clarob2b.login.banner",
+      "value": "https://cdn.claro.com.co/imagenes/v9/assets/red/Login/FondoPantalla_Login.jpg"
+    },
+    { "name": "wc.clarob2b.google.recaptcha.login.enable", "value": "false" },
+    { "name": "wc.clarob2b.google.recaptcha.tracking.enable", "value": "true" },
+    {
+      "name": "wc.clarob2b.promesas.category.redirect",
+      "value": "/solo-equipo"
+    }
+  ]
+}

@@ -29,9 +29,8 @@ export class ShippingInfoController {
     const { addressType } = req.params;
     const _folder = req.storeIdentifier;
     try {
-      const filePath = path.resolve(__dirname, `../../data/${_folder}/address/address-info/${addressType}.json`);
-      const data = await fsPromises.readFile(filePath, 'utf8');
-      const response = JSON.parse(data);
+      const filePath = FileService.getFilePath(_folder, `address-info/${addressType}.json`);
+      const response = await FileService.readAndParseJSON(filePath);
       res.status(200).json(response);
     } catch (error) {
       res.status(400).json({});

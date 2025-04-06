@@ -8,6 +8,7 @@ import { addItemToArray, generateOrderItem, updateCartWithNewItem } from '../../
 import { generateShippingInfo } from '../../../helpers/shipping-info.js';
 import { addFolder } from '../../../middleware/auth.js';
 import { ShippingController } from '../../../controllers/cart/Shipping.js';
+import { CartController } from '../../../controllers/cart/cart.js';
 
 const cartRouter = express.Router()
 const fsPromises = fs.promises;
@@ -183,5 +184,7 @@ cartRouter.post('/:storeId/validate/cartOrder', async (req, res) => {
   // res.status(200).json(generateWCSError("_GENERIC_ERROR1", "1001"));
 
 });
+
+cartRouter.put('/:storeId/cart/@self/delete_order_item', addFolder, CartController.deleteOrderItem);
 
 export default cartRouter;

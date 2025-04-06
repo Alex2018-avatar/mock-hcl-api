@@ -1,0 +1,14 @@
+{
+  "code": "SUCCESS",
+  "deliveryPromise": [
+    {
+      "estimatedDate": "Envío a domicilio del 11 al 13 de Diciembre.",
+      "products": [
+        {
+          "name": "Nokia 215 4G Azul",
+          "id": "175004"
+        }
+      ]
+    }
+  ]
+}

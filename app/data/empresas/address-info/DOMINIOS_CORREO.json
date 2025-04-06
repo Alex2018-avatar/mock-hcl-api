@@ -1,0 +1,29 @@
+{
+  "code": "SUCCESS",
+  "data": [
+    {
+      "description": "Dominio de Hotmail",
+      "value": "@hotmail.com"
+    },
+    {
+      "description": "Dominio de Gmail",
+      "value": "@gmail.com"
+    },
+    {
+      "description": "Dominio de Yahoo",
+      "value": "@yahoo.com"
+    },
+    {
+      "description": "Dominio de Live",
+      "value": "@live.com"
+    },
+    {
+      "description": "Dominio de Outlook",
+      "value": "@outlook.com"
+    },
+    {
+      "description": "Dominio de Google",
+      "value": "@google.com"
+    }
+  ]
+}

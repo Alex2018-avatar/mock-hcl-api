@@ -67,6 +67,7 @@ export class AuthController {
     const { logonId } = req.body;
     const { _folder } = req;
     const user = await UserService.getUser(_folder, logonId);
+    const nitsError = false;
 
     const cookieOptions = {
       httpOnly: true,
@@ -86,6 +87,20 @@ export class AuthController {
         ]
       });
       return
+    }
+
+    if (nitsError) {
+      res.status(400).json({
+        "errors": [
+          {
+            "errorKey": "_INF_TEXT",
+            "errorParameters": "Nuestra tienda aún no está disponible para tus compras. <b>Te invitamos a adquirir tus productos en los canales habituales.</b>",
+            "errorMessage": "Nuestra tienda aún no está disponible para tus compras. <b>Te invitamos a adquirir tus productos en los canales habituales.</b>",
+            "errorCode": "ERR_LOGIN_CODE_34"
+          }
+        ]
+      });
+      return;
     }
     const setCookie = (name, value, options = {}) => res.cookie(name, value, { ...cookieOptions, ...options });
     const { userId } = user;

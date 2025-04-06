@@ -1,0 +1,51 @@
+{
+  "totalQuantity": 1,
+  "code": "SUCCESS",
+  "orderId": 22028386446,
+  "grandTotal": 780000,
+  "deliveryDate": "2025-03-07 10:31:53.558",
+  "items": [
+    {
+      "image": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058591.jpg",
+      "quantity": 1,
+      "name": "Vivo Y51 128Gb Cristal",
+      "definingAttributes": [
+        {
+          "name": "Color",
+          "value": "CRISTAL"
+        }
+      ]
+    },
+    {
+      "image": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058591.jpg",
+      "quantity": 1,
+      "name": "Vivo Y51 128Gb Cristal",
+      "definingAttributes": [
+        {
+          "name": "Color",
+          "value": "CRISTAL"
+        }
+      ]
+    },
+    {
+      "image": "https://cdn.claro.com.co/imagenes/v9/catalogo/70x110/70058591.jpg",
+      "quantity": 1,
+      "name": "Samsung Galaxy Note 10 Plus 4G y Obsequio parlante JBL extrme dion demo deno",
+      "definingAttributes": [
+        {
+          "name": "Color",
+          "value": "CRISTAL"
+        }
+      ]
+    }
+  ],
+  "x_orderHistory": {
+    "statusTimeline": [
+      {
+        "isCurrent": true,
+        "statusCode": "C",
+        "updatedAt": "2025-03-12 12:49:18.818"
+      }
+    ]
+  }
+}
