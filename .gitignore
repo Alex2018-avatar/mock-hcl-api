@@ -19,3 +19,4 @@ bin-release/
 /node_modules
 /.pnp
 .pnp.js
+app/database/sessions.db
