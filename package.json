@@ -2,28 +2,44 @@
   "name": "mock-hcl-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "--watch index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node --watch index.js",
     "load:ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems.js",
-    "load:b2b-ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems-b2b.js"
+    "load:b2b-ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems-b2b.js",
+    "start": "tsx watch src/index.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/compression": "^1.7.5",
+    "@types/cookie-parser": "^1.4.8",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/express-session": "^1.18.1",
+    "@types/morgan": "^1.9.9",
     "compression": "^1.8.0",
     "connect-sqlite3": "^0.9.15",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
     "express": ">=5.0.0-beta.1",
     "express-session": "^1.18.1",
     "helmet": "^8.1.0",
     "morgan": "^1.10.0",
     "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
     "winston": "^3.15.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/connect-sqlite3": "^0.9.5",
+    "@types/node": "^22.14.0",
+    "tsx": "^4.19.3"
   }
 }

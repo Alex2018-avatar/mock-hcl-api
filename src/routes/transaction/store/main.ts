@@ -1,11 +1,11 @@
-import express from 'express';
-import path from 'node:path';
-import fs from 'node:fs';
-import { fileURLToPath } from 'url';
+import express from "express";
+import path from "node:path";
+import fs from "node:fs";
+import { fileURLToPath } from "url";
 
 const mainRouter = express.Router();
 
-mainRouter.get('/', (req, res) => {
+mainRouter.get("/", (req, res) => {
   res.send(`
       <style>
         body {
@@ -21,16 +21,14 @@ mainRouter.get('/', (req, res) => {
       </style>
       <img src="/images/wellcome.jpg" alt="Wellcome" >
     `);
-})
-
-mainRouter.get('/health', (req, res) => {
-  res.status(200).json({
-    status: 'UP',
-    timestamp: new Date().toISOString(),
-    uptime: process.uptime()
-  });
 });
 
-
+mainRouter.get("/health", (req, res) => {
+  res.status(200).json({
+    status: "UP",
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime(),
+  });
+});
 
 export default mainRouter;
