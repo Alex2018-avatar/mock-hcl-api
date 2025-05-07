@@ -1,0 +1,2609 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+      "shortDescription": "InOffice sofas are made for the typical office environment.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0002",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+      "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+      "seller": "",
+      "name": "Style Home InOffice Double Sofa",
+      "seo": {
+        "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "600.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "549.99"
+        }
+      ],
+      "numberOfSKUs": 10,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Dark Grey\",\"Blue\",\"Crimson\",\"Apple\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "grey",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003003",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+              "value": "Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+            },
+            {
+              "identifier": "blue",
+              "sequence": "9.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003011",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+              "value": "Blue",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+            },
+            {
+              "identifier": "apple",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003022",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_apple.png",
+              "value": "Apple",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_apple.png"
+            },
+            {
+              "identifier": "darkgrey",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003010",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+              "value": "Dark Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+            },
+            {
+              "identifier": "crimson",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003015",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+              "value": "Crimson",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "48x6x48",
+              "sequence": "1.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003028",
+              "value": "48\"x6\"x48\""
+            },
+            {
+              "identifier": "52x6x52",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003029",
+              "value": "52\"x6\"x52\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+          "name": "Style Home InOffice Double Sofa Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg"
+        }
+      ],
+      "merchandisingAssociations": [
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Style Home",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "name": "Pub-style Coffee Table",
+          "partNumber": "LR-FNTR-TB-0004",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Toffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "toffee",
+                  "sequence": "8.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003008",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                  "value": "Toffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14164",
+          "seo": {
+            "href": "/pub-style-coffee-table-lr-fntr-tb-0004"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0004-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "longDescription": "Perfect for after-dinner drinks in a cozy, intimate setting, this modern pub-style coffee table features a glass top that hovers above its wooden base to provide a bar-height coffee table. Its table top features durable and easy-to-clean tempered glass, and its stylish chrome legs keep it high off the ground for easy cleaning.",
+              "seller": "",
+              "name": "Pub-style Coffee Table",
+              "parentCatalogEntryID": "14164",
+              "seo": {
+                "href": "/pub-style-coffee-table-lr-fntr-tb-0004-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "155.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "145.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Toffee\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "toffee",
+                      "sequence": "8.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003008",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                      "value": "Toffee",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14165",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14165"
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light2_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light2_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10503",
+          "shortDescription": "A rustic pendant light fixture that adds a vintage feel to any living space.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Bender Home Fashions",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "180.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "160.0"
+            }
+          ],
+          "name": "Weathered Pendant Light",
+          "partNumber": "LR-LITB-0002",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Gold\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "gold",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003012",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_gold.png",
+                  "value": "Gold",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_gold.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ProductDimensions",
+              "attribute.group": " ",
+              "attribute.natural": "[\"10\\\"x24\\\"x12\\\"\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "10x24x12",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "10\"x24\"x12\"",
+                  "unitID": "C62",
+                  "id": "7000000000000003086",
+                  "value": "10\"x24\"x12\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Product Dimensions",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000510",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ItemWeight",
+              "attribute.group": " ",
+              "attribute.natural": "[\"6 lbs\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "6lbs",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "6 lbs",
+                  "unitID": "C62",
+                  "id": "7000000000000003106",
+                  "value": "6 lbs"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Item Weight",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000511",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Materials",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Metal, Glass\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "metal_glass",
+                  "sequence": "5.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Metal, Glass",
+                  "unitID": "C62",
+                  "id": "7000000000000003034",
+                  "value": "Metal, Glass"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "Material",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000503",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "NumberOfBulbs",
+              "attribute.group": " ",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "1bulb",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "1",
+                  "unitID": "C62",
+                  "id": "7000000000000003113",
+                  "value": "1"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "false",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "Number of Light Bulbs",
+              "attribute.store": "12001",
+              "facetable": "false",
+              "id": "7000000000000000513",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14183",
+          "seo": {
+            "href": "/weathered-pendant-light-lr-litb-0002"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light2_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light2_a1_350.jpg",
+              "shortDescription": "A rustic pendant light fixture that adds a vintage feel to any living space.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-LITB-0002-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10503",
+              "manufacturer": "Bender Home Fashions",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light2_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light2_a1_600.jpg",
+              "longDescription": "Create that perfect feel and match your warm home decor by using this rustic pendant light. Use individually to project onto your decor, or use in sets based on your light coverage needs. Height adjustable.",
+              "seller": "",
+              "name": "Weathered Pendant Light",
+              "parentCatalogEntryID": "14183",
+              "seo": {
+                "href": "/weathered-pendant-light-lr-litb-0002-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "160.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Gold\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "gold",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003012",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_gold.png",
+                      "value": "Gold",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_gold.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10\\\"x24\\\"x12\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10x24x12",
+                      "sequence": "9.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003086",
+                      "value": "10\"x24\"x12\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"6 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "6lbs",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003106",
+                      "value": "6 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Metal, Glass\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "metal_glass",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003034",
+                      "value": "Metal, Glass"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "NumberOfBulbs",
+                  "attribute.group": " ",
+                  "attribute.natural": "[]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "1bulb",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003113",
+                      "value": "1"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "false",
+                  "searchable": "false",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Number of Light Bulbs",
+                  "attribute.store": "12001",
+                  "facetable": "false",
+                  "id": "7000000000000000513",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14184",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14184"
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10504",
+          "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Style Home",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 3,
+          "hasSingleSKU": false,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "180.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "180.0"
+            }
+          ],
+          "name": "Striped Area Rug",
+          "partNumber": "LR-DECO-0003",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\",\"Seaweed\",\"Purple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                },
+                {
+                  "identifier": "seaweed",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003014",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                  "value": "Seaweed",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+                },
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ProductDimensions",
+              "attribute.group": " ",
+              "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "60x40x1",
+                  "sequence": "18.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "60\"x40\"x1\"",
+                  "unitID": "C62",
+                  "id": "7000000000000003095",
+                  "value": "60\"x40\"x1\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Product Dimensions",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000510",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ItemWeight",
+              "attribute.group": " ",
+              "attribute.natural": "[\"10 lbs\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "10lbs",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "10 lbs",
+                  "unitID": "C62",
+                  "id": "7000000000000003097",
+                  "value": "10 lbs"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Item Weight",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000511",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Materials",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "polyester-cotton-latex",
+                  "sequence": "12.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Polyester, Cotton, Latex",
+                  "unitID": "C62",
+                  "id": "7000000000000003052",
+                  "value": "Polyester, Cotton, Latex"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "Material",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000503",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Pattern",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Striped\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "Striped",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Striped",
+                  "unitID": "C62",
+                  "id": "7000000000000003111",
+                  "value": "Striped"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "Pattern",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000512",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14005",
+          "seo": {
+            "href": "/striped-area-rug-lr-deco-0003"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+              "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0003-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_600.jpg",
+              "longDescription": "Add some boldness to your existing decor by introducing this unique, bright area rug.  The rug is made of 100% cotton, and contains a polyester and latex backing to prevent it from unwanted moving.",
+              "seller": "",
+              "name": "Striped Area Rug",
+              "parentCatalogEntryID": "14005",
+              "seo": {
+                "href": "/striped-area-rug-lr-deco-0003-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "180.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Blue\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "blue",
+                      "sequence": "9.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003011",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                      "value": "Blue",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10lbs",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003097",
+                      "value": "10 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton-latex",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003052",
+                      "value": "Polyester, Cotton, Latex"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Striped\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Striped",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003111",
+                      "value": "Striped"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14006",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_350.jpg",
+              "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0003-0002",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_600.jpg",
+              "longDescription": "Add some boldness to your existing decor by introducing this unique, bright area rug.  The rug is made of 100% cotton, and contains a polyester and latex backing to prevent it from unwanted moving.",
+              "seller": "",
+              "name": "Striped Area Rug",
+              "parentCatalogEntryID": "14005",
+              "seo": {
+                "href": "/striped-area-rug-lr-deco-0003-0002"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "180.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Seaweed\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "seaweed",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003014",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                      "value": "Seaweed",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10lbs",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003097",
+                      "value": "10 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton-latex",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003052",
+                      "value": "Polyester, Cotton, Latex"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Striped\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Striped",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003111",
+                      "value": "Striped"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14007",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_350.jpg",
+              "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0003-0003",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_600.jpg",
+              "longDescription": "Add some boldness to your existing decor by introducing this unique, bright area rug.  The rug is made of 100% cotton, and contains a polyester and latex backing to prevent it from unwanted moving.",
+              "seller": "",
+              "name": "Striped Area Rug",
+              "parentCatalogEntryID": "14005",
+              "seo": {
+                "href": "/striped-area-rug-lr-deco-0003-0003"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "180.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Purple\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "purple",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003016",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                      "value": "Purple",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10lbs",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003097",
+                      "value": "10 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton-latex",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003052",
+                      "value": "Polyester, Cotton, Latex"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Striped\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Striped",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003111",
+                      "value": "Striped"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14008",
+              "type": "item"
+            }
+          ]
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Moderno",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "name": "Abstract Glass Coffee Table",
+          "partNumber": "LR-FNTR-TB-0003",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Tan\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "tan",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003017",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                  "value": "Tan",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14162",
+          "seo": {
+            "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+              "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0003-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Moderno",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_600.jpg",
+              "longDescription": "Use this versatile glass coffee table's large round surface to display decor, and serve your guest's their coffee, tea, and desserts. Its table top features durable and easy-to-clean tempered glass, and its stylish clawed draw attention to the table top's contents.",
+              "seller": "",
+              "name": "Abstract Glass Coffee Table",
+              "parentCatalogEntryID": "14162",
+              "seo": {
+                "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "155.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "145.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Tan\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "tan",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003017",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                      "value": "Tan",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14163",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14163"
+        }
+      ],
+      "type": "product",
+      "id": "14066",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "549.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Apple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "apple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003022",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_apple.png",
+                  "value": "Apple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_apple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14067",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0002",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0002"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "569.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14068",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0003",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0003"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "569.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Dark Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "darkgrey",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003010",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                  "value": "Dark Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14069",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0004",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0004"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "579.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Crimson\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "crimson",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003015",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                  "value": "Crimson",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14070",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0005",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0005"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "579.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14071",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0006",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0006"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "589.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Apple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "apple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003022",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_apple.png",
+                  "value": "Apple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_apple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14072",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0007",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0007"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "589.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14073",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0008",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0008"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "589.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Dark Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "darkgrey",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003010",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                  "value": "Dark Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14074",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0009",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0009"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "589.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Crimson\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "crimson",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003015",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                  "value": "Crimson",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14075",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0002-0010",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Double Sofa",
+          "parentCatalogEntryID": "14066",
+          "seo": {
+            "href": "/style-home-inoffice-double-sofa-lr-fntr-co-0002-0010"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "600.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "589.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_350.jpg",
+              "name": "Style Home InOffice Double Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch2_e1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14076",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

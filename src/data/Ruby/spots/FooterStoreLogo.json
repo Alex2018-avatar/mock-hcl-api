@@ -1,0 +1,73 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "17502",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "0.0"
+        }
+      ],
+      "marketingSpotIdentifier": "12520",
+      "behavior": "0",
+      "eSpotName": "FooterStoreLogo",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "File",
+          "attachmentReferenceId": "7002",
+          "baseMarketingSpotActivityName": "FooterStoreLogo",
+          "attachmentDisplaySequence": "0.0",
+          "attachementExternalId": "FooterStoreLogo",
+          "contentClickAction": "Single",
+          "AttachmentDescription": [
+            {}
+          ],
+          "contentId": "17502",
+          "baseMarketingSpotActivityID": "17502",
+          "contentName": "FooterStoreLogo",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "attachmentImage": "images/attachments/usages/unassign_icon.jpg",
+          "contentUrl": "/",
+          "attachmentUsageName": "NOUSAGE",
+          "activityIdentifierID": "0",
+          "attachmentDescription": [
+            {
+              "attachmentName": "Footer Store Logo",
+              "attachmentShortDescription": "Ruby",
+              "attachmentLanguage": "-1"
+            }
+          ],
+          "attachmentAsset": [
+            {
+              "attachmentAssetDirectoryPath": "type-icons/hcl-logo-footer.svg",
+              "attachmentAssetMimeType": "image/svg",
+              "attachmentAssetStoreId": "41",
+              "attachmentLocalAsset": "true",
+              "attachmentAssetId": "9002",
+              "attachmentAssetRootDirectory": "Ruby",
+              "attachmentAssetPath": "/Ruby/images/type-icons/hcl-logo-footer.svg"
+            }
+          ],
+          "attachementId": "7002",
+          "contentFormatId": "1",
+          "contentMimeType": "image",
+          "activityPriority": "1",
+          "attachementStoreId": "41",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "0.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "41"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://commerce-preview.sbx0199.play.hclsofy.com:5443/wcs/resources/store/41/espot/FooterStoreLogo?catalogId=11501&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-1",
+  "resourceName": "espot"
+}

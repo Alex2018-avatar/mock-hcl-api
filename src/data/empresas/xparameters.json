@@ -26,6 +26,10 @@
     {
       "name": "wc.clarob2b.promesas.category.redirect",
       "value": "/solo-equipo"
+    },
+    {
+      "name": "wc.clarob2b.feature.discountCalculation.enabled",
+      "value": "true"
     }
   ]
 }

@@ -1,7 +1,9 @@
 import { Request } from "express";
 
-export type IRequest = Request & {
+interface CustomRequestFields {
   _folder: string;
   storeIdentifier: string;
   [key: string]: string | number | boolean | undefined;
-};
+}
+
+export type IRequest = Request & CustomRequestFields;

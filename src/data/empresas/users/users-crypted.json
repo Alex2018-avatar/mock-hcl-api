@@ -1,0 +1,181 @@
+[
+  {
+    "lastName": "RADIO  ENLACE SAS",
+    "country": "Colombia",
+    "zipCode": "11001",
+    "registrationStatus": "RegisteredPerson",
+    "preferredLanguage": "es_ES",
+    "resourceId": "https://www.b2bqa1auth.claro.com.co:5443/wcs/resources/store/10152/person/@self?langId=-5",
+    "city": "Bogot\u00e1",
+    "companyName": "RADIO  ENLACE SAS",
+    "preferredCurrency": "COP",
+    "phone2": "2222222222",
+    "distinguishedName": "uid=2cacc5b3f1c32bb275f2ccbdf1e04f679c2dbf7290c2f79f1083db5f14c2f4e3,o=radio  enlace sas,o=root organization",
+    "orgizationId": "7333333333333334586",
+    "addressId": "3074457358488801159",
+    "phone1": "d49ec7e9c397c011ddf2522b53c5a06d",
+    "accountStatus": "Enabled",
+    "email1": "2cacc5b3f1c32bb275f2ccbdf1e04f679c2dbf7290c2f79f1083db5f14c2f4e3",
+    "profileType": "Business",
+    "contact": [
+      {
+        "lastName": "RADIO  ENLACE SAS",
+        "zipCode": "05002",
+        "country": "Colombia",
+        "city": "ABEJORRAL",
+        "nickName": "demo",
+        "addressType": "ShippingAndBilling",
+        "phone2": "2222222222",
+        "geographicalTaxCode": "{\"CDS\":\"ANTIOQUIA\",\"CD\":\"ABEJORRAL\",\"TA\":\"23|844s|12\",\"TP\":\"PISO\",\"TI\":\"BLOQUE\",\"ID\":\"\"}",
+        "addressLine": ["23|844s|12", "CIRCUNVALAR", "Barrios altos"],
+        "geographicalShippingCode": "carca del hotel cielo t3",
+        "addressId": "3074457361757798878",
+        "phone1": "1111111111",
+        "firstName": "RADIO  ENLACE SAS",
+        "email1": "contabilidad@dataexpresso.com",
+        "businessTitle": "BLOQUE|12",
+        "internalOfficeAddress": "PISO|11",
+        "middleName": "CIRCUNVALAR 23 844S 12 BLOQUE 12 PISO 11 BARRIO BARRIOS ALTOS",
+        "state": "ANTIOQUIA",
+        "primary": "false"
+      },
+      {
+        "lastName": "RADIO  ENLACE SAS",
+        "zipCode": "05021",
+        "country": "Colombia",
+        "city": "ALEJANDR\u00cdA",
+        "nickName": "demo2",
+        "addressType": "ShippingAndBilling",
+        "geographicalTaxCode": "{\"CDS\":\"ANTIOQUIA\",\"CD\":\"ALEJANDR\u00cdA\",\"TA\":\"23|844|14\",\"TP\":\"APARTAMENTO\",\"TI\":\"ETAPA\",\"ID\":\"\"}",
+        "addressLine": ["23|844|14", "AVENIDA", "Barrios altose"],
+        "geographicalShippingCode": "carca del hotel cielo",
+        "addressId": "3074457361725445599",
+        "firstName": "RADIO  ENLACE SAS",
+        "email1": "contabilidad@dataexpresso.com",
+        "businessTitle": "ETAPA|133",
+        "internalOfficeAddress": "APARTAMENTO|11",
+        "middleName": "AVENIDA 23 844 14 ETAPA 133 APARTAMENTO 11 BARRIO BARRIOS ALTOSE",
+        "state": "ANTIOQUIA",
+        "primary": "false"
+      },
+      {
+        "lastName": "RADIO  ENLACE SAS",
+        "zipCode": "81220",
+        "country": "Colombia",
+        "city": "CRAVO NORTE",
+        "nickName": "demo3",
+        "addressType": "ShippingAndBilling",
+        "geographicalTaxCode": "{\"CDS\":\"ARAUCA\",\"CD\":\"CRAVO NORTE\",\"TA\":\"45|844|14\",\"TP\":\"ETAPA\",\"TI\":\"BLOQUE\",\"ID\":\"\"}",
+        "addressLine": ["45|844|14", "CIRCUNVALAR", "Barrios altos"],
+        "geographicalShippingCode": "carca del hotel cielo",
+        "addressId": "3074457361623910991",
+        "firstName": "RADIO  ENLACE SAS",
+        "email1": "contabilidad@dataexpresso.com",
+        "businessTitle": "BLOQUE|13",
+        "internalOfficeAddress": "ETAPA|11",
+        "middleName": "CIRCUNVALAR 45 844 14 BLOQUE 13 ETAPA 11 BARRIO BARRIOS ALTOS",
+        "state": "ARAUCA",
+        "primary": "false"
+      },
+      {
+        "lastName": "RADIO  ENLACE SAS",
+        "zipCode": "91263",
+        "country": "Colombia",
+        "city": "EL ENCANTO",
+        "nickName": "demo4",
+        "addressType": "ShippingAndBilling",
+        "geographicalTaxCode": "{\"CDS\":\"AMAZONAS\",\"CD\":\"EL ENCANTO\",\"TA\":\"23|844|14\",\"TP\":\"PISO\",\"TI\":\"ETAPA\",\"ID\":\"\"}",
+        "addressLine": ["23|844|14", "AVENIDA", "Barrios altos df"],
+        "geographicalShippingCode": "carca del hotel cielo",
+        "addressId": "3074457361759563958",
+        "firstName": "RADIO  ENLACE SAS",
+        "email1": "contabilidad@dataexpresso.com",
+        "businessTitle": "ETAPA|22",
+        "internalOfficeAddress": "PISO|11",
+        "middleName": "AVENIDA 23 844 14 ETAPA 22 PISO 11 BARRIO BARRIOS ALTOS DF",
+        "state": "AMAZONAS",
+        "primary": "false"
+      },
+      {
+        "lastName": "RADIO  ENLACE SAS",
+        "zipCode": "05002",
+        "country": "Colombia",
+        "city": "ABEJORRAL",
+        "nickName": "demox1",
+        "addressType": "ShippingAndBilling",
+        "geographicalTaxCode": "{\"CDS\":\"ANTIOQUIA\",\"CD\":\"ABEJORRAL\",\"TA\":\"\",\"TP\":\"ETAPA\",\"TI\":\"BLOQUE\",\"ID\":\"\"}",
+        "addressLine": ["2|844|14", "CIRCUNVALAR", "Barrios altos"],
+        "addressId": "3074457361691105973",
+        "firstName": "RADIO  ENLACE SAS",
+        "email1": "contabilidad@dataexpresso.com",
+        "businessTitle": "BLOQUE|13",
+        "internalOfficeAddress": "ETAPA|11",
+        "middleName": "CIRCUNVALAR 2 844 14 BLOQUE 13 ETAPA 11 BARRIO BARRIOS ALTOS",
+        "state": "ANTIOQUIA",
+        "primary": "false"
+      },
+      {
+        "lastName": "RADIO  ENLACE SAS",
+        "zipCode": "05002",
+        "country": "Colombia",
+        "city": "ABEJORRAL",
+        "nickName": "demox2",
+        "addressType": "ShippingAndBilling",
+        "geographicalTaxCode": "{\"CDS\":\"ANTIOQUIA\",\"CD\":\"ABEJORRAL\",\"TA\":\"2|12d\",\"TP\":\"ETAPA\",\"TI\":\"BLOQUE\",\"ID\":\"\"}",
+        "addressLine": ["2|12d|6", "CIRCUNVALAR", "Barrios altos"],
+        "addressId": "3074457361767424581",
+        "firstName": "RADIO  ENLACE SAS",
+        "email1": "contabilidad@dataexpresso.com",
+        "businessTitle": "BLOQUE|12",
+        "internalOfficeAddress": "ETAPA|11",
+        "middleName": "CIRCUNVALAR 2 12D 6 BLOQUE 12 ETAPA 11 BARRIO BARRIOS ALTOS",
+        "state": "ANTIOQUIA",
+        "primary": "true"
+      }
+    ],
+    "state": "Bogot\u00e1",
+    "challengeQuestion": "-",
+    "nickName": "2cacc5b3f1c32bb275f2ccbdf1e04f679c2dbf7290c2f79f1083db5f14c2f4e3",
+    "addressType": "ShippingAndBilling",
+    "resourceName": "person",
+    "userId": "17003",
+    "registrationDateTime": "2025-03-20T16:11:10.606Z",
+    "organizationDistinguishedName": "o=radio  enlace sas,o=root organization",
+    "firstName": "RADIO  ENLACE SAS",
+    "logonId": "2cacc5b3f1c32bb275f2ccbdf1e04f679c2dbf7290c2f79f1083db5f14c2f4e3",
+    "receiveEmailPreference": [
+      {
+        "storeID": "10152",
+        "value": "false"
+      }
+    ],
+    "lastUpdate": "2025-04-09T21:09:45.749Z",
+    "registrationApprovalStatus": "Approved",
+    "attributes": [
+      {
+        "pProfileAttrKey": "demographicField5",
+        "bProfileAttrValue": "7333333333333334586",
+        "bProfileAttrKey": "organizationId",
+        "attrKey": "userField1",
+        "attrValue": "f21a2976cccacb232ae1d0ca5040722b",
+        "pProfileAttrValue": "PYME PEQUE\u00d1A"
+      },
+      {
+        "attrKey": "userField2",
+        "attrValue": "NIT"
+      },
+      {
+        "attrKey": "userField3",
+        "attrValue": "431842ea83c916d5a875ee82d32f8e40"
+      }
+    ],
+    "passwordExpired": "false",
+    "primary": "false",
+    "receiveSMSPreference": [
+      {
+        "storeID": "10100",
+        "value": "false"
+      }
+    ]
+  }
+]

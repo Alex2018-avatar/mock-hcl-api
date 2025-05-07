@@ -1,60 +1,53 @@
 import { Request, Response } from "express";
-import { FileService } from "../../services/FileService";
+import { FileUtil } from "../../services/FileService";
 import { logger } from "../../config/logger";
+import { IRequest } from "../../types/store";
 
-export class StoreController {
+class StoreController {
   static async getAdminLookup(req: Request, res: Response) {
     const { storeIdentifier } = req.query;
     logger.debug("storeIdentifier getAdminLookup *****: " + storeIdentifier);
-    const filePath = FileService.getFilePath(
-      storeIdentifier,
-      "adminLookup.json"
-    );
-    const data = await FileService.readAndParseJSON(filePath);
+    const filePath = FileUtil.getFilePath(storeIdentifier, "adminLookup.json");
+    const data = await FileUtil.readAndParseJSON(filePath);
     res.status(200).json(data);
   }
 
-  static async getOnlineStore(
-    req: Request & { _folder: string },
-    res: Response
-  ) {
-    const { _folder } = req;
-    const filePath = FileService.getFilePath(_folder, "online_store.json");
-    const data = await FileService.readAndParseJSON(filePath);
+  static async getOnlineStore(req: Request, res: Response) {
+    const _folder = req.storeIdentifier;
+    const filePath = FileUtil.getFilePath(_folder, "online_store.json");
+    const data = await FileUtil.readAndParseJSON(filePath);
     res.status(200).json(data);
   }
 
-  static async getFeatures(req, res) {
-    const { _folder } = req;
-    const filePath = FileService.getFilePath(_folder, "features.json");
-    const data = await FileService.readAndParseJSON(filePath);
+  static async getFeatures(req: Request, res: Response) {
+    const _folder = req.storeIdentifier;
+    const filePath = FileUtil.getFilePath(_folder, "features.json");
+    const data = await FileUtil.readAndParseJSON(filePath);
     res.status(200).json(data);
   }
 
-  static async getSeoToken(req, res) {
+  static async getSeoToken(req: Request, res: Response) {
     const folder = "generic";
     const urlKeywordName = req.query.urlKeywordName;
-    // const tokenName = req.query.tokenName;
-    // const tokenValue = req.query.tokenValue;
     const q = req.query.q;
     const queryString = req.originalUrl.split("?")[1];
     console.log(queryString);
     console.log("1: byLanguageIdAndTokenNameValue");
     if (urlKeywordName === "empresas" && q === "byUrlKeywordNames") {
-      const filePath = FileService.getFilePath(
+      const filePath = FileUtil.getFilePath(
         "empresas",
         `store/seoToken/${queryString}.json`
       );
-      const data = await FileService.readAndParseJSON(filePath);
+      const data = await FileUtil.readAndParseJSON(filePath);
       return res.status(200).json(data);
     }
 
-    const filePath = FileService.getFilePath(folder, "seo-token.json");
-    const data = await FileService.readAndParseJSON(filePath);
+    const filePath = FileUtil.getFilePath(folder, "seo-token.json");
+    const data = await FileUtil.readAndParseJSON(filePath);
     res.status(200).json(data);
   }
 
-  static async getSeoUrlKeyword(req, res) {
+  static async getSeoUrlKeyword(req: Request, res: Response) {
     const folder = "generic";
     const urlKeywordName = req.query.urlKeywordName;
     const tokenName = req.query.tokenName;
@@ -110,9 +103,24 @@ export class StoreController {
       });
       return;
     }
-    const filePath = FileService.getFilePath(folder, "seo-urlkeyword.json");
-    const data = await FileService.readAndParseJSON(filePath);
+    const filePath = FileUtil.getFilePath(folder, "seo-urlkeyword.json");
+    const data = await FileUtil.readAndParseJSON(filePath);
     console.log("data: ", data);
     res.status(200).json(data);
   }
+
+  static async getContract(req: Request, res: Response) {
+    const { storeId } = req.params;
+    if (storeId === "10251" || storeId === "10100") {
+      res.status(200).json({
+        contracts: {
+          "4000000000000003006": "Default Contract for ClaroB2B",
+        },
+      });
+    } else {
+      res.status(200).json({ contracts: { "-11005": "-11005" } });
+    }
+  }
 }
+
+export default StoreController;

@@ -1,0 +1,29 @@
+[
+  {
+    "availableQuantity": "101.0",
+    "onlineStoreName": "Ruby",
+    "productId": "14019",
+    "unitOfMeasure": "C62",
+    "inventoryStatus": "Available",
+    "partNumber": "LR-FNTR-0001-0001",
+    "onlineStoreId": "41"
+  },
+  {
+    "availableQuantity": "101.0",
+    "onlineStoreName": "Ruby",
+    "productId": "14021",
+    "unitOfMeasure": "C62",
+    "inventoryStatus": "Available",
+    "partNumber": "LR-FNTR-0001-0002",
+    "onlineStoreId": "41"
+  },
+  {
+    "availableQuantity": "10.0",
+    "onlineStoreName": "Ruby",
+    "productId": "14020",
+    "unitOfMeasure": "C62",
+    "inventoryStatus": "Available",
+    "partNumber": "LR-FNTR-0001-0003",
+    "onlineStoreId": "41"
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "12503",
+        "name": "ProductPageLayout",
+        "containerName": "product-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "3012",
+                "name": "BreadcrumbTrail",
+                "widgetName": "breadcrumb-trail-widget",
+                "sequence": 0
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "3013",
+                "name": "ProductDetails",
+                "widgetName": "product-details-widget",
+                "sequence": 0
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "widgets": [
+              {
+                "id": "3014",
+                "name": "MerchandisingAssociation",
+                "widgetName": "merchandising-association-widget",
+                "sequence": 0
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "abstract-glass-coffee-table-lr-fntr-tb-0003",
+      "tokenName": "ProductToken",
+      "tokenExternalValue": "LR-FNTR-TB-0003",
+      "language": "en_US",
+      "id": "10502",
+      "page": {
+        "imageAlternateDescription": "Image for Furniture from Ruby",
+        "name": "PRODUCT_PAGE",
+        "title": "Furniture | Ruby",
+        "type": "ProductPage",
+        "metaDescription": "Beautiful chairs, couches and tables that fit any decor",
+        "metaKeyword": "couches, coffee tables, sofas, loveseat"
+      },
+      "storeId": "41",
+      "tokenValue": "14162",
+      "status": 1
+    }
+  ]
+}

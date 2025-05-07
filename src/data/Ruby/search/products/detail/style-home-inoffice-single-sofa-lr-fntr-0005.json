@@ -1,0 +1,529 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+      "shortDescription": "InOffice sofas are made for the typical office environment.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0005",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg",
+      "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+      "seller": "",
+      "name": "Style Home InOffice Single Sofa",
+      "seo": {
+        "href": "/style-home-inoffice-single-sofa-lr-fntr-0005"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "1000.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "899.99"
+        }
+      ],
+      "numberOfSKUs": 5,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\",\"Coffee\",\"Crimson\",\"Airforce\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "grey",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003003",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+              "value": "Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+            },
+            {
+              "identifier": "lightgrey",
+              "sequence": "6.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003006",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+              "value": "Light Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+            },
+            {
+              "identifier": "coffee",
+              "sequence": "9.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003009",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+              "value": "Coffee",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png"
+            },
+            {
+              "identifier": "airforce",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003021",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_airforce.png",
+              "value": "Airforce",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+            },
+            {
+              "identifier": "crimson",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003015",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+              "value": "Crimson",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+          "name": "Style Home InOffice Single Sofa Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg"
+        }
+      ],
+      "type": "product",
+      "id": "14038",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0005-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Single Sofa",
+          "parentCatalogEntryID": "14038",
+          "seo": {
+            "href": "/style-home-inoffice-single-sofa-lr-fntr-0005-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "1000.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "899.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Light Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "lightgrey",
+                  "sequence": "6.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003006",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                  "value": "Light Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_350.jpg",
+              "name": "Style Home InOffice Single Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14039",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0005-0002",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Single Sofa",
+          "parentCatalogEntryID": "14038",
+          "seo": {
+            "href": "/style-home-inoffice-single-sofa-lr-fntr-0005-0002"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "1000.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "899.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_350.jpg",
+              "name": "Style Home InOffice Single Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14040",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0005-0003",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Single Sofa",
+          "parentCatalogEntryID": "14038",
+          "seo": {
+            "href": "/style-home-inoffice-single-sofa-lr-fntr-0005-0003"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "1000.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "899.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Airforce\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "airforce",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003021",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_airforce.png",
+                  "value": "Airforce",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_350.jpg",
+              "name": "Style Home InOffice Single Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14041",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0005-0004",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Single Sofa",
+          "parentCatalogEntryID": "14038",
+          "seo": {
+            "href": "/style-home-inoffice-single-sofa-lr-fntr-0005-0004"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "1000.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "899.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Coffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "coffee",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003009",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                  "value": "Coffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_350.jpg",
+              "name": "Style Home InOffice Single Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14042",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_350.jpg",
+          "shortDescription": "InOffice sofas are made for the typical office environment.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0005-0005",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_600.jpg",
+          "longDescription": "Style Home presents a sofa that is appropriate for the office and also your home. This is the perfect sofa for the waiting lounge outside the CEO's office or a small living room with minimalist style.",
+          "seller": "",
+          "name": "Style Home InOffice Single Sofa",
+          "parentCatalogEntryID": "14038",
+          "seo": {
+            "href": "/style-home-inoffice-single-sofa-lr-fntr-0005-0005"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "2500.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "899.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Crimson\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "crimson",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003015",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                  "value": "Crimson",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_350.jpg",
+              "name": "Style Home InOffice Single Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair5_e1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14043",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

@@ -9,7 +9,9 @@
     "dev": "node --watch index.js",
     "load:ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems.js",
     "load:b2b-ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems-b2b.js",
-    "start": "tsx watch src/index.ts"
+    "load:ruby-ems": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/load-ems-ruby.js",
+    "load-ruby-products": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ./scripts/build-ruby-products.js",
+    "start": "tsx watch --env-file=.env src/index.ts"
   },
   "keywords": [],
   "author": "",

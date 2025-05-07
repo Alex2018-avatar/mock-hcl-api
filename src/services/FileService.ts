@@ -1,16 +1,16 @@
-import path from 'node:path';
-import fs from 'node:fs';
-import { fileURLToPath } from 'url';
+import path from "node:path";
+import fs from "node:fs";
+import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const fsPromises = fs.promises;
 
-export class FileService {
+export class FileUtil {
   // Leer archivo de manera asíncrona
   static async readFile(filePath) {
     try {
-      const data = await fsPromises.readFile(filePath, 'utf8');
+      const data = await fsPromises.readFile(filePath, "utf8");
       return data;
     } catch (error) {
       throw new Error(`Error al leer el archivo: ${error.message}`);
@@ -20,7 +20,7 @@ export class FileService {
   // Escribir en un archivo de manera asíncrona
   static async writeFile(filePath, content) {
     try {
-      await fsPromises.writeFile(filePath, content, 'utf8');
+      await fsPromises.writeFile(filePath, content, "utf8");
     } catch (error) {
       throw new Error(`Error al escribir el archivo: ${error.message}`);
     }

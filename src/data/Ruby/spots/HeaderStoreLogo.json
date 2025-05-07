@@ -1,0 +1,73 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "17501",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "0.0"
+        }
+      ],
+      "marketingSpotIdentifier": "12519",
+      "behavior": "0",
+      "eSpotName": "HeaderStoreLogo",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "File",
+          "attachmentReferenceId": "7001",
+          "baseMarketingSpotActivityName": "HeaderStoreLogo",
+          "attachmentDisplaySequence": "0.0",
+          "attachementExternalId": "HeaderStoreLogo",
+          "contentClickAction": "Single",
+          "AttachmentDescription": [
+            {}
+          ],
+          "contentId": "17501",
+          "baseMarketingSpotActivityID": "17501",
+          "contentName": "HeaderStoreLogo",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "attachmentImage": "images/attachments/usages/unassign_icon.jpg",
+          "contentUrl": "/",
+          "attachmentUsageName": "NOUSAGE",
+          "activityIdentifierID": "0",
+          "attachmentDescription": [
+            {
+              "attachmentName": "Header Store Logo",
+              "attachmentShortDescription": "Ruby",
+              "attachmentLanguage": "-1"
+            }
+          ],
+          "attachmentAsset": [
+            {
+              "attachmentAssetDirectoryPath": "type-icons/hcl-logo.svg",
+              "attachmentAssetMimeType": "image/svg",
+              "attachmentAssetStoreId": "41",
+              "attachmentLocalAsset": "true",
+              "attachmentAssetId": "9001",
+              "attachmentAssetRootDirectory": "Ruby",
+              "attachmentAssetPath": "/Ruby/images/type-icons/hcl-logo.svg"
+            }
+          ],
+          "attachementId": "7001",
+          "contentFormatId": "1",
+          "contentMimeType": "image",
+          "activityPriority": "1",
+          "attachementStoreId": "41",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "0.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "41"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://commerce-preview.sbx0199.play.hclsofy.com:5443/wcs/resources/store/41/espot/HeaderStoreLogo?catalogId=11501&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-1",
+  "resourceName": "espot"
+}

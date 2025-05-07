@@ -1,0 +1,37 @@
+{
+  "audit": {
+    "personalizationId": "1742487070978-2"
+  },
+  "catalog": {
+    "catalogId": 10051,
+    "masterCatalog": false
+  },
+  "globalization": {
+    "preferredCurrency": "COP",
+    "languageId": -5,
+    "currency": "COP",
+    "preferredLanguageId": -5
+  },
+  "bcsversion": {
+    "lastUpdateTime": "1744512200518"
+  },
+  "resourceName": "usercontext",
+  "entitlement": {
+    "eligibleTradingAgreementIds": [4000000000000000009],
+    "hostingContractId": 4000000000000000006,
+    "currentTradingAgreementIds": [4000000000000000009],
+    "activeOrganizationId": 7333333333333334586,
+    "sessionTradingAgreementIds": null
+  },
+  "activityToken": {
+    "activityId": 754830
+  },
+  "isPartiallyAuthenticated": false,
+  "basicInfo": {
+    "runAsId": 17003,
+    "callerId": 17003,
+    "registerType": "R",
+    "storeId": 10152,
+    "channelId": -4
+  }
+}

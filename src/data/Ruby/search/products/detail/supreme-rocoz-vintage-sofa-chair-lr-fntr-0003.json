@@ -1,0 +1,968 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+      "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0003",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Supreme",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg",
+      "longDescription": "Very comfortable sofa chair, so the chairs blends to your weight and leans back to give you the most comfortable possible position to take a short nap, read a novel or just relax.",
+      "seller": "",
+      "name": "Supreme Rocoz Vintage Sofa Chair",
+      "seo": {
+        "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "700.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "639.99"
+        }
+      ],
+      "numberOfSKUs": 5,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\",\"Standin\",\"Purple\",\"Airforce\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "grey",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003003",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+              "value": "Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+            },
+            {
+              "identifier": "lightgrey",
+              "sequence": "6.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003006",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+              "value": "Light Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+            },
+            {
+              "identifier": "standin",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003013",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_standin.png",
+              "value": "Standin",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_standin.png"
+            },
+            {
+              "identifier": "airforce",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003021",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_airforce.png",
+              "value": "Airforce",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+            },
+            {
+              "identifier": "purple",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003016",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+              "value": "Purple",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+          "name": "Supreme Rocoz Vintage Sofa Chair Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg"
+        }
+      ],
+      "merchandisingAssociations": [
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Stockholm",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 3,
+          "hasSingleSKU": false,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "120.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "115.0"
+            }
+          ],
+          "name": "Abstract Wooden Coffee Table",
+          "partNumber": "LR-FNTR-TB-0001",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Brown\",\"Blonde\",\"Crimson\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "brown",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003002",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                  "value": "Brown",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+                },
+                {
+                  "identifier": "blonde",
+                  "sequence": "5.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003005",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+                  "value": "Blonde",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blonde.png"
+                },
+                {
+                  "identifier": "crimson",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003015",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                  "value": "Crimson",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14156",
+          "seo": {
+            "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0001"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_350.jpg",
+              "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0001-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_a1_600.jpg",
+              "longDescription": "Use this highly-functional wooden coffee table's ample round surface to serve your guest's favourite coffee, tea, and desserts. Its table top features durable wood, and its stylish angled legs draws attention to its abstract features.",
+              "seller": "",
+              "name": "Abstract Wooden Coffee Table",
+              "parentCatalogEntryID": "14156",
+              "seo": {
+                "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0001-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "120.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "115.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Blonde\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "blonde",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003005",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_blonde.png",
+                      "value": "Blonde",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blonde.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14157",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_b1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_b1_350.jpg",
+              "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0001-0002",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_b1_600.jpg",
+              "longDescription": "Use this highly-functional wooden coffee table's ample round surface to serve your guest's favourite coffee, tea, and desserts. Its table top features durable wood, and its stylish angled legs draws attention to its abstract features.",
+              "seller": "",
+              "name": "Abstract Wooden Coffee Table",
+              "parentCatalogEntryID": "14156",
+              "seo": {
+                "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0001-0002"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "120.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "115.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Crimson\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "crimson",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003015",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                      "value": "Crimson",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14158",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_c1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_c1_350.jpg",
+              "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0001-0003",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable1_c1_600.jpg",
+              "longDescription": "Use this highly-functional wooden coffee table's ample round surface to serve your guest's favourite coffee, tea, and desserts. Its table top features durable wood, and its stylish angled legs draws attention to its abstract features.",
+              "seller": "",
+              "name": "Abstract Wooden Coffee Table",
+              "parentCatalogEntryID": "14156",
+              "seo": {
+                "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0001-0003"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "120.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "115.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Brown\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "brown",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003002",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                      "value": "Brown",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14159",
+              "type": "item"
+            }
+          ]
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Style Home",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "180.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "160.0"
+            }
+          ],
+          "name": "Abstract Wooden Coffee Table",
+          "partNumber": "LR-FNTR-TB-0002",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Dark Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "darkgrey",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003010",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                  "value": "Dark Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14160",
+          "seo": {
+            "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0002"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_350.jpg",
+              "shortDescription": "A contemporary styled coffee table that is suited towards large living rooms, providing plenty of space for refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0002-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable2_a1_600.jpg",
+              "longDescription": "Use this highly-functional wooden coffee table's ample round surface to serve your guest's favourite coffee, tea, and desserts. Its table top features durable wood, and its stylish angled legs draws attention to its abstract features.",
+              "seller": "",
+              "name": "Abstract Wooden Coffee Table",
+              "parentCatalogEntryID": "14160",
+              "seo": {
+                "href": "/abstract-wooden-coffee-table-lr-fntr-tb-0002-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "160.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Dark Grey\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "darkgrey",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003010",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                      "value": "Dark Grey",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14161",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14161"
+        }
+      ],
+      "type": "product",
+      "id": "14027",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+          "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0003-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Supreme",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg",
+          "longDescription": "Very comfortable sofa chair, so the chairs blends to your weight and leans back to give you the most comfortable possible position to take a short nap, read a novel or just relax.",
+          "seller": "",
+          "name": "Supreme Rocoz Vintage Sofa Chair",
+          "parentCatalogEntryID": "14027",
+          "seo": {
+            "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "700.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "639.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Purple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_350.jpg",
+              "name": "Supreme Rocoz Vintage Sofa Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14028",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_350.jpg",
+          "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0003-0002",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Supreme",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_600.jpg",
+          "longDescription": "Very comfortable sofa chair, so the chairs blends to your weight and leans back to give you the most comfortable possible position to take a short nap, read a novel or just relax.",
+          "seller": "",
+          "name": "Supreme Rocoz Vintage Sofa Chair",
+          "parentCatalogEntryID": "14027",
+          "seo": {
+            "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003-0002"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "700.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "649.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Airforce\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "airforce",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003021",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_airforce.png",
+                  "value": "Airforce",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_airforce.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_350.jpg",
+              "name": "Supreme Rocoz Vintage Sofa Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14029",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_350.jpg",
+          "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0003-0003",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Supreme",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_600.jpg",
+          "longDescription": "Very comfortable sofa chair, so the chairs blends to your weight and leans back to give you the most comfortable possible position to take a short nap, read a novel or just relax.",
+          "seller": "",
+          "name": "Supreme Rocoz Vintage Sofa Chair",
+          "parentCatalogEntryID": "14027",
+          "seo": {
+            "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003-0003"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "700.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "649.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Light Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "lightgrey",
+                  "sequence": "6.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003006",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                  "value": "Light Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_350.jpg",
+              "name": "Supreme Rocoz Vintage Sofa Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14030",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_350.jpg",
+          "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0003-0004",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Supreme",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_600.jpg",
+          "longDescription": "Very comfortable sofa chair, so the chairs blends to your weight and leans back to give you the most comfortable possible position to take a short nap, read a novel or just relax.",
+          "seller": "",
+          "name": "Supreme Rocoz Vintage Sofa Chair",
+          "parentCatalogEntryID": "14027",
+          "seo": {
+            "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003-0004"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "700.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "659.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_350.jpg",
+              "name": "Supreme Rocoz Vintage Sofa Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14031",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_350.jpg",
+          "shortDescription": "Comfortable sofa chair with a double side roller cushion design.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0003-0005",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Supreme",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_600.jpg",
+          "longDescription": "Very comfortable sofa chair, so the chairs blends to your weight and leans back to give you the most comfortable possible position to take a short nap, read a novel or just relax.",
+          "seller": "",
+          "name": "Supreme Rocoz Vintage Sofa Chair",
+          "parentCatalogEntryID": "14027",
+          "seo": {
+            "href": "/supreme-rocoz-vintage-sofa-chair-lr-fntr-0003-0005"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "700.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "659.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Standin\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "standin",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003013",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_standin.png",
+                  "value": "Standin",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_standin.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_350.jpg",
+              "name": "Supreme Rocoz Vintage Sofa Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/chair3_e1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14032",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,3132 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+      "shortDescription": "Very cozy short design Large sofa.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0008",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+      "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+      "seller": "",
+      "name": "Style Home UltraCozy Large Sofa",
+      "seo": {
+        "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "numberOfSKUs": 8,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Brown\",\"Coffee\",\"Dark Grey\",\"Purple\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "brown",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003002",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+              "value": "Brown",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+            },
+            {
+              "identifier": "coffee",
+              "sequence": "9.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003009",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+              "value": "Coffee",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png"
+            },
+            {
+              "identifier": "darkgrey",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003010",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+              "value": "Dark Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+            },
+            {
+              "identifier": "purple",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003016",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+              "value": "Purple",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "48x6x48",
+              "sequence": "1.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003028",
+              "value": "48\"x6\"x48\""
+            },
+            {
+              "identifier": "52x6x52",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003029",
+              "value": "52\"x6\"x52\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+          "name": "Style Home UltraCozy Large Sofa Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg"
+        }
+      ],
+      "merchandisingAssociations": [
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10504",
+          "shortDescription": "A modern decorative rug that features a leaf pattern surrounded by warm tones, highlights, and accents.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Rugs America",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 4,
+          "hasSingleSKU": false,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "200.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "169.99"
+            }
+          ],
+          "name": "Bordered Decorative Rug",
+          "partNumber": "LR-DECO-0005",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\",\"Crimson\",\"Purple\",\"Tan\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                },
+                {
+                  "identifier": "tan",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003017",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                  "value": "Tan",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                },
+                {
+                  "identifier": "crimson",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003015",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                  "value": "Crimson",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                },
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ProductDimensions",
+              "attribute.group": " ",
+              "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "60x40x1",
+                  "sequence": "18.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "60\"x40\"x1\"",
+                  "unitID": "C62",
+                  "id": "7000000000000003095",
+                  "value": "60\"x40\"x1\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Product Dimensions",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000510",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ItemWeight",
+              "attribute.group": " ",
+              "attribute.natural": "[\"15 lbs\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "15lbs",
+                  "sequence": "6.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "15 lbs",
+                  "unitID": "C62",
+                  "id": "7000000000000003102",
+                  "value": "15 lbs"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Item Weight",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000511",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Materials",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Polyester, Cotton\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "polyester-cotton",
+                  "sequence": "12.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Polyester, Cotton",
+                  "unitID": "C62",
+                  "id": "7000000000000003054",
+                  "value": "Polyester, Cotton"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "Material",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000503",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Pattern",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Solid\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "Solid",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Solid",
+                  "unitID": "C62",
+                  "id": "7000000000000003109",
+                  "value": "Solid"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "Pattern",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000512",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14013",
+          "seo": {
+            "href": "/bordered-decorative-rug-lr-deco-0005"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_a1_350.jpg",
+              "shortDescription": "A modern decorative rug that features a leaf pattern surrounded by warm tones, highlights, and accents.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0005-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Rugs America",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_a1_600.jpg",
+              "longDescription": "Elicit a relaxed, elegant atmosphere with a rug that combines comfort, style and durability.  The rug is made of a blend of 60% Cotton and 40% Jute.  Backing not included, but recommended separately to prevent unwanted moving.",
+              "seller": "",
+              "name": "Bordered Decorative Rug",
+              "parentCatalogEntryID": "14013",
+              "seo": {
+                "href": "/bordered-decorative-rug-lr-deco-0005-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "200.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "169.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Crimson\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "crimson",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003015",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_crimson.png",
+                      "value": "Crimson",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_crimson.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"15 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "15lbs",
+                      "sequence": "6.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003102",
+                      "value": "15 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003054",
+                      "value": "Polyester, Cotton"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Solid\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Solid",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003109",
+                      "value": "Solid"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14014",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_b1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_b1_350.jpg",
+              "shortDescription": "A modern decorative rug that features a leaf pattern surrounded by warm tones, highlights, and accents.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0005-0002",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Rugs America",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_b1_600.jpg",
+              "longDescription": "Elicit a relaxed, elegant atmosphere with a rug that combines comfort, style and durability.  The rug is made of a blend of 60% Cotton and 40% Jute.  Backing not included, but recommended separately to prevent unwanted moving.",
+              "seller": "",
+              "name": "Bordered Decorative Rug",
+              "parentCatalogEntryID": "14013",
+              "seo": {
+                "href": "/bordered-decorative-rug-lr-deco-0005-0002"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "200.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "169.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Tan\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "tan",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003017",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                      "value": "Tan",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"15 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "15lbs",
+                      "sequence": "6.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003102",
+                      "value": "15 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003054",
+                      "value": "Polyester, Cotton"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Solid\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Solid",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003109",
+                      "value": "Solid"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14015",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_c1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_c1_350.jpg",
+              "shortDescription": "A modern decorative rug that features a leaf pattern surrounded by warm tones, highlights, and accents.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0005-0003",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Rugs America",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_c1_600.jpg",
+              "longDescription": "Elicit a relaxed, elegant atmosphere with a rug that combines comfort, style and durability.  The rug is made of a blend of 60% Cotton and 40% Jute.  Backing not included, but recommended separately to prevent unwanted moving.",
+              "seller": "",
+              "name": "Bordered Decorative Rug",
+              "parentCatalogEntryID": "14013",
+              "seo": {
+                "href": "/bordered-decorative-rug-lr-deco-0005-0003"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "200.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "169.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Blue\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "blue",
+                      "sequence": "9.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003011",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                      "value": "Blue",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"15 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "15lbs",
+                      "sequence": "6.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003102",
+                      "value": "15 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003054",
+                      "value": "Polyester, Cotton"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Solid\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Solid",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003109",
+                      "value": "Solid"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14016",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_d1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_d1_350.jpg",
+              "shortDescription": "A modern decorative rug that features a leaf pattern surrounded by warm tones, highlights, and accents.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0005-0004",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Rugs America",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug3_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug3_d1_600.jpg",
+              "longDescription": "Elicit a relaxed, elegant atmosphere with a rug that combines comfort, style and durability.  The rug is made of a blend of 60% Cotton and 40% Jute.  Backing not included, but recommended separately to prevent unwanted moving.",
+              "seller": "",
+              "name": "Bordered Decorative Rug",
+              "parentCatalogEntryID": "14013",
+              "seo": {
+                "href": "/bordered-decorative-rug-lr-deco-0005-0004"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "200.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "169.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Purple\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "purple",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003016",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                      "value": "Purple",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"15 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "15lbs",
+                      "sequence": "6.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003102",
+                      "value": "15 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003054",
+                      "value": "Polyester, Cotton"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Solid\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Solid",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003109",
+                      "value": "Solid"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14017",
+              "type": "item"
+            }
+          ]
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10503",
+          "shortDescription": "A warm light fixture that creates an elegant atmosphere in contemporary living rooms.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Stockholm",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 4,
+          "hasSingleSKU": false,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "name": "Rattan Ceiling Light",
+          "partNumber": "LR-LITB-0007",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Brown\",\"Grey\",\"Dark Grey\",\"Purple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "brown",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003002",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                  "value": "Brown",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+                },
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                },
+                {
+                  "identifier": "darkgrey",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003010",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                  "value": "Dark Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                },
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ProductDimensions",
+              "attribute.group": " ",
+              "attribute.natural": "[\"12\\\"x12\\\"x12\\\"\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "12x12x12",
+                  "sequence": "19.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "12\"x12\"x12\"",
+                  "unitID": "C62",
+                  "id": "7000000000000003096",
+                  "value": "12\"x12\"x12\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Product Dimensions",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000510",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ItemWeight",
+              "attribute.group": " ",
+              "attribute.natural": "[\"6 lbs\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "6lbs",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "6 lbs",
+                  "unitID": "C62",
+                  "id": "7000000000000003106",
+                  "value": "6 lbs"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Item Weight",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000511",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Materials",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Rattan, Metal\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "rattan_metal",
+                  "sequence": "5.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Rattan, Metal",
+                  "unitID": "C62",
+                  "id": "7000000000000003036",
+                  "value": "Rattan, Metal"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "Material",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000503",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "NumberOfBulbs",
+              "attribute.group": " ",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "1bulb",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "1",
+                  "unitID": "C62",
+                  "id": "7000000000000003113",
+                  "value": "1"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "false",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "Number of Light Bulbs",
+              "attribute.store": "12001",
+              "facetable": "false",
+              "id": "7000000000000000513",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14193",
+          "seo": {
+            "href": "/rattan-ceiling-light-lr-litb-0007"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_a1_350.jpg",
+              "shortDescription": "A warm light fixture that creates an elegant atmosphere in contemporary living rooms.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-LITB-0007-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10503",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_a1_600.jpg",
+              "longDescription": "Available in a variety of warm tones, this ceiling light is idealfor adding additional ceiling lighting to your living space. It features a single lamp holder, surrounded by rattan, to create accent lighting throughout the room.",
+              "seller": "",
+              "name": "Rattan Ceiling Light",
+              "parentCatalogEntryID": "14193",
+              "seo": {
+                "href": "/rattan-ceiling-light-lr-litb-0007-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "800.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "749.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Brown\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "brown",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003002",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                      "value": "Brown",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"12\\\"x12\\\"x12\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "12x12x12",
+                      "sequence": "19.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003096",
+                      "value": "12\"x12\"x12\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"6 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "6lbs",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003106",
+                      "value": "6 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Rattan, Metal\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "rattan_metal",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003036",
+                      "value": "Rattan, Metal"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "NumberOfBulbs",
+                  "attribute.group": " ",
+                  "attribute.natural": "[]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "1bulb",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003113",
+                      "value": "1"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "false",
+                  "searchable": "false",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Number of Light Bulbs",
+                  "attribute.store": "12001",
+                  "facetable": "false",
+                  "id": "7000000000000000513",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14194",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_b1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_b1_350.jpg",
+              "shortDescription": "A warm light fixture that creates an elegant atmosphere in contemporary living rooms.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-LITB-0007-0002",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10503",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_b1_600.jpg",
+              "longDescription": "Available in a variety of warm tones, this ceiling light is idealfor adding additional ceiling lighting to your living space. It features a single lamp holder, surrounded by rattan, to create accent lighting throughout the room.",
+              "seller": "",
+              "name": "Rattan Ceiling Light",
+              "parentCatalogEntryID": "14193",
+              "seo": {
+                "href": "/rattan-ceiling-light-lr-litb-0007-0002"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "800.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "749.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Grey\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "grey",
+                      "sequence": "3.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003003",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                      "value": "Grey",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"12\\\"x12\\\"x12\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "12x12x12",
+                      "sequence": "19.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003096",
+                      "value": "12\"x12\"x12\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"6 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "6lbs",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003106",
+                      "value": "6 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Rattan, Metal\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "rattan_metal",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003036",
+                      "value": "Rattan, Metal"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "NumberOfBulbs",
+                  "attribute.group": " ",
+                  "attribute.natural": "[]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "1bulb",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003113",
+                      "value": "1"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "false",
+                  "searchable": "false",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Number of Light Bulbs",
+                  "attribute.store": "12001",
+                  "facetable": "false",
+                  "id": "7000000000000000513",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14195",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_c1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_c1_350.jpg",
+              "shortDescription": "A warm light fixture that creates an elegant atmosphere in contemporary living rooms.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-LITB-0007-0003",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10503",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_c1_600.jpg",
+              "longDescription": "Available in a variety of warm tones, this ceiling light is idealfor adding additional ceiling lighting to your living space. It features a single lamp holder, surrounded by rattan, to create accent lighting throughout the room.",
+              "seller": "",
+              "name": "Rattan Ceiling Light",
+              "parentCatalogEntryID": "14193",
+              "seo": {
+                "href": "/rattan-ceiling-light-lr-litb-0007-0003"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "800.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "749.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Dark Grey\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "darkgrey",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003010",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                      "value": "Dark Grey",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"12\\\"x12\\\"x12\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "12x12x12",
+                      "sequence": "19.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003096",
+                      "value": "12\"x12\"x12\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"6 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "6lbs",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003106",
+                      "value": "6 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Rattan, Metal\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "rattan_metal",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003036",
+                      "value": "Rattan, Metal"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "NumberOfBulbs",
+                  "attribute.group": " ",
+                  "attribute.natural": "[]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "1bulb",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003113",
+                      "value": "1"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "false",
+                  "searchable": "false",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Number of Light Bulbs",
+                  "attribute.store": "12001",
+                  "facetable": "false",
+                  "id": "7000000000000000513",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14196",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_d1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_d1_350.jpg",
+              "shortDescription": "A warm light fixture that creates an elegant atmosphere in contemporary living rooms.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-LITB-0007-0004",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10503",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light7_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light7_d1_600.jpg",
+              "longDescription": "Available in a variety of warm tones, this ceiling light is idealfor adding additional ceiling lighting to your living space. It features a single lamp holder, surrounded by rattan, to create accent lighting throughout the room.",
+              "seller": "",
+              "name": "Rattan Ceiling Light",
+              "parentCatalogEntryID": "14193",
+              "seo": {
+                "href": "/rattan-ceiling-light-lr-litb-0007-0004"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "800.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "749.99"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Purple\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "purple",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003016",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                      "value": "Purple",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"12\\\"x12\\\"x12\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "12x12x12",
+                      "sequence": "19.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003096",
+                      "value": "12\"x12\"x12\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"6 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "6lbs",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003106",
+                      "value": "6 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Rattan, Metal\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "rattan_metal",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003036",
+                      "value": "Rattan, Metal"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "NumberOfBulbs",
+                  "attribute.group": " ",
+                  "attribute.natural": "[]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "1bulb",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003113",
+                      "value": "1"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "false",
+                  "searchable": "false",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Number of Light Bulbs",
+                  "attribute.store": "12001",
+                  "facetable": "false",
+                  "id": "7000000000000000513",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14197",
+              "type": "item"
+            }
+          ]
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Moderno",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "name": "Abstract Glass Coffee Table",
+          "partNumber": "LR-FNTR-TB-0003",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Tan\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "tan",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003017",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                  "value": "Tan",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14162",
+          "seo": {
+            "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+              "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0003-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Moderno",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_600.jpg",
+              "longDescription": "Use this versatile glass coffee table's large round surface to display decor, and serve your guest's their coffee, tea, and desserts. Its table top features durable and easy-to-clean tempered glass, and its stylish clawed draw attention to the table top's contents.",
+              "seller": "",
+              "name": "Abstract Glass Coffee Table",
+              "parentCatalogEntryID": "14162",
+              "seo": {
+                "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "155.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "145.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Tan\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "tan",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003017",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                      "value": "Tan",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14163",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14163"
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Style Home",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "name": "Pub-style Coffee Table",
+          "partNumber": "LR-FNTR-TB-0004",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Toffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "toffee",
+                  "sequence": "8.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003008",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                  "value": "Toffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14164",
+          "seo": {
+            "href": "/pub-style-coffee-table-lr-fntr-tb-0004"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0004-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "longDescription": "Perfect for after-dinner drinks in a cozy, intimate setting, this modern pub-style coffee table features a glass top that hovers above its wooden base to provide a bar-height coffee table. Its table top features durable and easy-to-clean tempered glass, and its stylish chrome legs keep it high off the ground for easy cleaning.",
+              "seller": "",
+              "name": "Pub-style Coffee Table",
+              "parentCatalogEntryID": "14164",
+              "seo": {
+                "href": "/pub-style-coffee-table-lr-fntr-tb-0004-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "155.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "145.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Toffee\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "toffee",
+                      "sequence": "8.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003008",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                      "value": "Toffee",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14165",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14165"
+        }
+      ],
+      "type": "product",
+      "id": "14116",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Brown\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "brown",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003002",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                  "value": "Brown",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14117",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0002",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0002"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Dark Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "darkgrey",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003010",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                  "value": "Dark Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14118",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0003",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0003"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Coffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "coffee",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003009",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                  "value": "Coffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14119",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0004",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0004"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Purple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14120",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0005",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0005"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Brown\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "brown",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003002",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_brown.png",
+                  "value": "Brown",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_brown.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14121",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0006",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0006"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Dark Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "darkgrey",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003010",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png",
+                  "value": "Dark Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_darkgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14122",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0007",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0007"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Coffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "coffee",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003009",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_coffee.png",
+                  "value": "Coffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_coffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14123",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+          "shortDescription": "Very cozy short design Large sofa.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0008-0008",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg",
+          "longDescription": "The sofa has a short back rest but a long width to get lazy while sitting lazy. With a matte fabric finish and a soft center, this is the perfect sofa to indulge someone to get lazy and stay back.",
+          "seller": "",
+          "name": "Style Home UltraCozy Large Sofa",
+          "parentCatalogEntryID": "14116",
+          "seo": {
+            "href": "/style-home-ultracozy-large-sofa-lr-fntr-co-0008-0008"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Purple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_350.jpg",
+              "name": "Style Home UltraCozy Large Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch8_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14124",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

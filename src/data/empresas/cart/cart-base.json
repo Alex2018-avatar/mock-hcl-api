@@ -17,6 +17,38 @@
       "value": "Used when operations performed from a desktop browser."
     }
   },
+  "orderExtendAttribute": [
+    {
+      "attributeValue": "08-05-2025",
+      "attributeName": "promiseStartDate"
+    },
+    {
+      "attributeValue": "10-05-2025",
+      "attributeName": "promiseEndDate"
+    },
+    {
+      "attributeValue": "49",
+      "attributeType": "string",
+      "attributeName": "REGIMEN_FISCAL"
+    },
+    {
+      "attributeValue": "R-99-PN",
+      "attributeType": "string",
+      "attributeName": "RESPONSABILIDAD_FISCAL"
+    },
+    {
+      "attributeValue": "yo",
+      "attributeType": "string",
+      "attributeName": "deliveryPerson"
+    }
+  ],
+  "totalTaxByTaxCategory": [
+    {
+      "currency": "COP",
+      "taxCategoryCode": "Impuesto IVA",
+      "value": "204369.03"
+    }
+  ],
   "orderStatus": "P",
   "x_isPurchaseOrderNumberRequired": "false",
   "totalShippingChargeCurrency": "COP",
@@ -26,15 +58,15 @@
   "buyerDistinguishedName": "uid=demo@gmail.com,o=demo-empresa7-b2b,o=root organization",
   "recordSetCount": "1",
   "x_isPersonalAddressesAllowedForShipping": "true",
-  "storeNameIdentifier": "ClaroB2C",
+  "storeNameIdentifier": "empresas",
   "totalProductPriceCurrency": "COP",
-  "totalProductPrice": "1798900",
+  "totalProductPrice": "1075630.97",
   "locked": "false",
   "recordSetComplete": "true",
   "totalAdjustmentCurrency": "COP",
   "totalSalesTaxCurrency": "COP",
-  "totalSalesTax": "0",
-  "grandTotal": "1798900",
+  "totalSalesTax": "204369.03",
+  "grandTotal": "1280000.00",
   "orderItem": [],
   "storeUniqueID": "9701",
   "recordSetStartNumber": "0",

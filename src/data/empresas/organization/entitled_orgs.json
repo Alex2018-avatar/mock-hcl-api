@@ -1,0 +1,12 @@
+{
+  "entitledOrganizations": [
+    {
+      "distinguishedName": "empresas",
+      "organizationId": -2000,
+      "displayName": "Claro B2B",
+      "memberId": 0,
+      "organizationName": "empresas"
+    }
+  ],
+  "accountCheck": true
+}

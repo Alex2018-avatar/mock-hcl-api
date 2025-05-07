@@ -1,10 +1,9 @@
 import { NextFunction, Request, Response } from "express";
 import { STORES } from "../config/stores";
-import { IRequest } from "../types/store";
 import { logger } from "../config/logger";
 
 export const identifyUserType = (
-  req: IRequest,
+  req: Request,
   _res: Response,
   next: NextFunction
 ) => {
@@ -37,17 +36,12 @@ export const requireAuthenticated = (
   next();
 };
 
-export const addFolder = (
-  req: IRequest,
-  _res: Response,
-  next: NextFunction
-) => {
+export const addFolder = (req: Request, _res: Response, next: NextFunction) => {
   const queryStoreId = req.query.storeId;
   const storeId = req.params.storeId ?? queryStoreId;
   const storeIdentifier = STORES[storeId] ?? "generic";
   logger.silly("storeId: " + storeId);
   req.storeIdentifier = STORES[storeId] ?? "generic";
-  req._folder = storeIdentifier;
   req.storeFolder = `${storeId}-store`;
   logger.store(`${storeId} - ${storeIdentifier}`);
   next();

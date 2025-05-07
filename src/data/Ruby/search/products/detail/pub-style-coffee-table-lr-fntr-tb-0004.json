@@ -1,0 +1,171 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+      "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-TB-0004",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+      "longDescription": "Perfect for after-dinner drinks in a cozy, intimate setting, this modern pub-style coffee table features a glass top that hovers above its wooden base to provide a bar-height coffee table. Its table top features durable and easy-to-clean tempered glass, and its stylish chrome legs keep it high off the ground for easy cleaning.",
+      "seller": "",
+      "name": "Pub-style Coffee Table",
+      "relationship.item.sequence": "1.0",
+      "seo": {
+        "href": "/pub-style-coffee-table-lr-fntr-tb-0004"
+      },
+      "relationship.item.id": "14165",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "155.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "145.0"
+        }
+      ],
+      "numberOfSKUs": 1,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Toffee\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "toffee",
+              "sequence": "8.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003008",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+              "value": "Toffee",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "name": "Pub-style Coffee Table Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg"
+        }
+      ],
+      "type": "product",
+      "id": "14164",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-TB-0004-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+          "longDescription": "Perfect for after-dinner drinks in a cozy, intimate setting, this modern pub-style coffee table features a glass top that hovers above its wooden base to provide a bar-height coffee table. Its table top features durable and easy-to-clean tempered glass, and its stylish chrome legs keep it high off the ground for easy cleaning.",
+          "seller": "",
+          "name": "Pub-style Coffee Table",
+          "parentCatalogEntryID": "14164",
+          "seo": {
+            "href": "/pub-style-coffee-table-lr-fntr-tb-0004-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Toffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "toffee",
+                  "sequence": "8.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003008",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                  "value": "Toffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "name": "Pub-style Coffee Table Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14165",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

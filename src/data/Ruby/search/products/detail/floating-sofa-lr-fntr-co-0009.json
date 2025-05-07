@@ -1,0 +1,2609 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+      "shortDescription": "A modern sofa that can be used to open up your living room space.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-CO-0009",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Style Home",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+      "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+      "seller": "",
+      "name": "Floating Sofa",
+      "seo": {
+        "href": "/floating-sofa-lr-fntr-co-0009"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "800.0"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "749.99"
+        }
+      ],
+      "numberOfSKUs": 10,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Grey\",\"Light Grey\",\"Blue\",\"Tan\",\"Cream\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "grey",
+              "sequence": "3.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003003",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+              "value": "Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+            },
+            {
+              "identifier": "lightgrey",
+              "sequence": "6.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003006",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+              "value": "Light Grey",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+            },
+            {
+              "identifier": "blue",
+              "sequence": "9.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003011",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+              "value": "Blue",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+            },
+            {
+              "identifier": "cream",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003023",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_cream.png",
+              "value": "Cream",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cream.png"
+            },
+            {
+              "identifier": "tan",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003017",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+              "value": "Tan",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "Size",
+          "attribute.group": " ",
+          "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\",\"52\\\"x6\\\"x52\\\"\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "48x6x48",
+              "sequence": "1.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003028",
+              "value": "48\"x6\"x48\""
+            },
+            {
+              "identifier": "52x6x52",
+              "sequence": "2.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003029",
+              "value": "52\"x6\"x52\""
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "Size",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000502",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+          "name": "Floating Sofa Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg"
+        }
+      ],
+      "merchandisingAssociations": [
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Moderno",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "name": "Abstract Glass Coffee Table",
+          "partNumber": "LR-FNTR-TB-0003",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Tan\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "tan",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003017",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                  "value": "Tan",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14162",
+          "seo": {
+            "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_350.jpg",
+              "shortDescription": "A modern styled coffee table that is suited towards open-concept areas, providing plenty of space for your refreshments and decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0003-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Moderno",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable3_a1_600.jpg",
+              "longDescription": "Use this versatile glass coffee table's large round surface to display decor, and serve your guest's their coffee, tea, and desserts. Its table top features durable and easy-to-clean tempered glass, and its stylish clawed draw attention to the table top's contents.",
+              "seller": "",
+              "name": "Abstract Glass Coffee Table",
+              "parentCatalogEntryID": "14162",
+              "seo": {
+                "href": "/abstract-glass-coffee-table-lr-fntr-tb-0003-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "155.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "145.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Tan\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "tan",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003017",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                      "value": "Tan",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14163",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14163"
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10502",
+          "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Style Home",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "155.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "145.0"
+            }
+          ],
+          "name": "Pub-style Coffee Table",
+          "partNumber": "LR-FNTR-TB-0004",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Toffee\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "toffee",
+                  "sequence": "8.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003008",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                  "value": "Toffee",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14164",
+          "seo": {
+            "href": "/pub-style-coffee-table-lr-fntr-tb-0004"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_350.jpg",
+              "shortDescription": "A compact pub-style coffee table that provides modern styling and room for all types of refreshments.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-FNTR-TB-0004-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10502",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/ctable4_a1_600.jpg",
+              "longDescription": "Perfect for after-dinner drinks in a cozy, intimate setting, this modern pub-style coffee table features a glass top that hovers above its wooden base to provide a bar-height coffee table. Its table top features durable and easy-to-clean tempered glass, and its stylish chrome legs keep it high off the ground for easy cleaning.",
+              "seller": "",
+              "name": "Pub-style Coffee Table",
+              "parentCatalogEntryID": "14164",
+              "seo": {
+                "href": "/pub-style-coffee-table-lr-fntr-tb-0004-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "155.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "145.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Toffee\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "toffee",
+                      "sequence": "8.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003008",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_toffee.png",
+                      "value": "Toffee",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_toffee.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14165",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14165"
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light6_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light6_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10503",
+          "shortDescription": "A raindrop style chandelier that surrounds your room in full, elegant bright white light.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Stockholm",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 1,
+          "hasSingleSKU": true,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "1800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "1749.0"
+            }
+          ],
+          "name": "Raindrop Chandelier",
+          "partNumber": "LR-LITB-0006",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Chrome\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "chrome",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003001",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_whitegrey.png",
+                  "value": "Chrome",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_whitegrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ProductDimensions",
+              "attribute.group": " ",
+              "attribute.natural": "[\"16\\\"x28\\\"x14\\\"\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "16x28x14",
+                  "sequence": "7.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "16\"x28\"x14\"",
+                  "unitID": "C62",
+                  "id": "7000000000000003084",
+                  "value": "16\"x28\"x14\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Product Dimensions",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000510",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ItemWeight",
+              "attribute.group": " ",
+              "attribute.natural": "[\"15 lbs\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "15lbs",
+                  "sequence": "6.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "15 lbs",
+                  "unitID": "C62",
+                  "id": "7000000000000003102",
+                  "value": "15 lbs"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Item Weight",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000511",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Materials",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Metal, Glass\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "metal_glass",
+                  "sequence": "5.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Metal, Glass",
+                  "unitID": "C62",
+                  "id": "7000000000000003034",
+                  "value": "Metal, Glass"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "Material",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000503",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "NumberOfBulbs",
+              "attribute.group": " ",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "5bulbs",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "5",
+                  "unitID": "C62",
+                  "id": "7000000000000003115",
+                  "value": "5"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "false",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "Number of Light Bulbs",
+              "attribute.store": "12001",
+              "facetable": "false",
+              "id": "7000000000000000513",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14191",
+          "seo": {
+            "href": "/raindrop-chandelier-lr-litb-0006"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light6_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light6_a1_350.jpg",
+              "shortDescription": "A raindrop style chandelier that surrounds your room in full, elegant bright white light.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-LITB-0006-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10503",
+              "manufacturer": "Stockholm",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/lighting/light6_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/lighting/light6_a1_600.jpg",
+              "longDescription": "Brighten up your large living spaces in style with this ceiling-mounted raindrop chandelier. It features 7 lamp holders to create bright, even lighting throughout your living space.  Included are 5 built-in bright white LED bulbs to  maintain its slim profile.",
+              "seller": "",
+              "name": "Raindrop Chandelier",
+              "parentCatalogEntryID": "14191",
+              "seo": {
+                "href": "/raindrop-chandelier-lr-litb-0006-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "1800.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "1749.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Chrome\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "chrome",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003001",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_whitegrey.png",
+                      "value": "Chrome",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_whitegrey.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"16\\\"x28\\\"x14\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "16x28x14",
+                      "sequence": "7.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003084",
+                      "value": "16\"x28\"x14\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"15 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "15lbs",
+                      "sequence": "6.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003102",
+                      "value": "15 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Metal, Glass\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "metal_glass",
+                      "sequence": "5.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003034",
+                      "value": "Metal, Glass"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "NumberOfBulbs",
+                  "attribute.group": " ",
+                  "attribute.natural": "[]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "5bulbs",
+                      "sequence": "3.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003115",
+                      "value": "5"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "false",
+                  "searchable": "false",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Number of Light Bulbs",
+                  "attribute.store": "12001",
+                  "facetable": "false",
+                  "id": "7000000000000000513",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14192",
+              "type": "item"
+            }
+          ],
+          "relationship.item.id": "14192"
+        },
+        {
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+          "seller": "",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+          "quantity": "1.0",
+          "associationType": "X-SELL",
+          "parentCatalogGroupID": "/10501/10504",
+          "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+          "storeID": "41",
+          "type": "product",
+          "manufacturer": "Style Home",
+          "_ignored": "default.completion",
+          "numberOfSKUs": 3,
+          "hasSingleSKU": false,
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "180.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "180.0"
+            }
+          ],
+          "name": "Striped Area Rug",
+          "partNumber": "LR-DECO-0003",
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\",\"Seaweed\",\"Purple\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                },
+                {
+                  "identifier": "seaweed",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003014",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                  "value": "Seaweed",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+                },
+                {
+                  "identifier": "purple",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003016",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                  "value": "Purple",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ProductDimensions",
+              "attribute.group": " ",
+              "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "60x40x1",
+                  "sequence": "18.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "60\"x40\"x1\"",
+                  "unitID": "C62",
+                  "id": "7000000000000003095",
+                  "value": "60\"x40\"x1\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Product Dimensions",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000510",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "ItemWeight",
+              "attribute.group": " ",
+              "attribute.natural": "[\"10 lbs\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "10lbs",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "10 lbs",
+                  "unitID": "C62",
+                  "id": "7000000000000003097",
+                  "value": "10 lbs"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Item Weight",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000511",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Materials",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "polyester-cotton-latex",
+                  "sequence": "12.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Polyester, Cotton, Latex",
+                  "unitID": "C62",
+                  "id": "7000000000000003052",
+                  "value": "Polyester, Cotton, Latex"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "Material",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000503",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Pattern",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Striped\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "Striped",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "value.key": "Striped",
+                  "unitID": "C62",
+                  "id": "7000000000000003111",
+                  "value": "Striped"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "Pattern",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000512",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "id": "14005",
+          "seo": {
+            "href": "/striped-area-rug-lr-deco-0003"
+          },
+          "items": [
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_350.jpg",
+              "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0003-0001",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_a1_600.jpg",
+              "longDescription": "Add some boldness to your existing decor by introducing this unique, bright area rug.  The rug is made of 100% cotton, and contains a polyester and latex backing to prevent it from unwanted moving.",
+              "seller": "",
+              "name": "Striped Area Rug",
+              "parentCatalogEntryID": "14005",
+              "seo": {
+                "href": "/striped-area-rug-lr-deco-0003-0001"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "180.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Blue\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "blue",
+                      "sequence": "9.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003011",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                      "value": "Blue",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10lbs",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003097",
+                      "value": "10 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton-latex",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003052",
+                      "value": "Polyester, Cotton, Latex"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Striped\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Striped",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003111",
+                      "value": "Striped"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14006",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_350.jpg",
+              "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0003-0002",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_b1_600.jpg",
+              "longDescription": "Add some boldness to your existing decor by introducing this unique, bright area rug.  The rug is made of 100% cotton, and contains a polyester and latex backing to prevent it from unwanted moving.",
+              "seller": "",
+              "name": "Striped Area Rug",
+              "parentCatalogEntryID": "14005",
+              "seo": {
+                "href": "/striped-area-rug-lr-deco-0003-0002"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "180.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Seaweed\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "seaweed",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003014",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_seaweed.png",
+                      "value": "Seaweed",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_seaweed.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10lbs",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003097",
+                      "value": "10 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton-latex",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003052",
+                      "value": "Polyester, Cotton, Latex"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Striped\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Striped",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003111",
+                      "value": "Striped"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14007",
+              "type": "item"
+            },
+            {
+              "hasSingleSKU": false,
+              "buyable": "true",
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_350.jpg",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_350.jpg",
+              "shortDescription": "A plush, soft area rug that features cool contemporary colors in a striped pattern to complement your living room decor.",
+              "_ignored": "default.completion",
+              "partNumber": "LR-DECO-0003-0003",
+              "storeID": "41",
+              "parentCatalogGroupID": "/10501/10504",
+              "manufacturer": "Style Home",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/decoration/rug1_c1_600.jpg",
+              "longDescription": "Add some boldness to your existing decor by introducing this unique, bright area rug.  The rug is made of 100% cotton, and contains a polyester and latex backing to prevent it from unwanted moving.",
+              "seller": "",
+              "name": "Striped Area Rug",
+              "parentCatalogEntryID": "14005",
+              "seo": {
+                "href": "/striped-area-rug-lr-deco-0003-0003"
+              },
+              "price": [
+                {
+                  "usage": "Display",
+                  "description": "L",
+                  "currency": "USD",
+                  "value": "180.0"
+                },
+                {
+                  "usage": "Offer",
+                  "contractId": "-41005",
+                  "description": "I",
+                  "currency": "USD",
+                  "value": "180.0"
+                }
+              ],
+              "attributes": [
+                {
+                  "identifier": "Color",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Purple\"]",
+                  "usage": "Defining",
+                  "values": [
+                    {
+                      "identifier": "purple",
+                      "sequence": "10.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003016",
+                      "image1": "/EmeraldCAS/images/catalog/swatches/sw_purple.png",
+                      "value": "Purple",
+                      "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_purple.png"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Color",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000501",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ProductDimensions",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"60\\\"x40\\\"x1\\\"\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "60x40x1",
+                      "sequence": "18.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003095",
+                      "value": "60\"x40\"x1\""
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "1.0",
+                  "storeDisplay": "false",
+                  "name": "Product Dimensions",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000510",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "ItemWeight",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"10 lbs\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "10lbs",
+                      "sequence": "1.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003097",
+                      "value": "10 lbs"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "2.0",
+                  "storeDisplay": "false",
+                  "name": "Item Weight",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000511",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Materials",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Polyester, Cotton, Latex\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "polyester-cotton-latex",
+                      "sequence": "12.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003052",
+                      "value": "Polyester, Cotton, Latex"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "3.0",
+                  "storeDisplay": "false",
+                  "name": "Material",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000503",
+                  "comparable": "true",
+                  "swatchable": "false"
+                },
+                {
+                  "identifier": "Pattern",
+                  "attribute.group": " ",
+                  "attribute.natural": "[\"Striped\"]",
+                  "usage": "Descriptive",
+                  "values": [
+                    {
+                      "identifier": "Striped",
+                      "sequence": "2.0",
+                      "unitOfMeasure": "one",
+                      "unitID": "C62",
+                      "id": "7000000000000003111",
+                      "value": "Striped"
+                    }
+                  ],
+                  "displayable": "true",
+                  "merchandisable": "true",
+                  "searchable": "true",
+                  "sequence": "4.0",
+                  "storeDisplay": "false",
+                  "name": "Pattern",
+                  "attribute.store": "12001",
+                  "facetable": "true",
+                  "id": "7000000000000000512",
+                  "comparable": "true",
+                  "swatchable": "false"
+                }
+              ],
+              "id": "14008",
+              "type": "item"
+            }
+          ]
+        }
+      ],
+      "type": "product",
+      "id": "14125",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Cream\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "cream",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003023",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_cream.png",
+                  "value": "Cream",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cream.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14126",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0002",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0002"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Tan\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "tan",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003017",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                  "value": "Tan",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14127",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0003",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0003"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Light Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "lightgrey",
+                  "sequence": "6.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003006",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                  "value": "Light Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14128",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0004",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0004"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14129",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0005",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0005"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"48\\\"x6\\\"x48\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "48x6x48",
+                  "sequence": "1.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003028",
+                  "value": "48\"x6\"x48\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14130",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0006",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0006"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Cream\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "cream",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003023",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_cream.png",
+                  "value": "Cream",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_cream.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_a1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14131",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0007",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0007"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Tan\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "tan",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003017",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_tan.png",
+                  "value": "Tan",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_tan.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_b1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14132",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0008",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0008"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Light Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "lightgrey",
+                  "sequence": "6.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003006",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png",
+                  "value": "Light Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_lightgrey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_c1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14133",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0009",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0009"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Grey\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "grey",
+                  "sequence": "3.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003003",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_grey.png",
+                  "value": "Grey",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_grey.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_d1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14134",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+          "shortDescription": "A modern sofa that can be used to open up your living room space.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-CO-0009-0010",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Style Home",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg",
+          "longDescription": "Create the illusion of a farther-reaching living space with this floating sofa. Its integrated arm rests and long chrome legs give off of a tall, floating look that's sure to catch every guest's attention.",
+          "seller": "",
+          "name": "Floating Sofa",
+          "parentCatalogEntryID": "14125",
+          "seo": {
+            "href": "/floating-sofa-lr-fntr-co-0009-0010"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "800.0"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "749.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Blue\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "blue",
+                  "sequence": "9.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003011",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_blue.png",
+                  "value": "Blue",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_blue.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "Size",
+              "attribute.group": " ",
+              "attribute.natural": "[\"52\\\"x6\\\"x52\\\"\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "52x6x52",
+                  "sequence": "2.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003029",
+                  "value": "52\"x6\"x52\""
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "Size",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000502",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_350.jpg",
+              "name": "Floating Sofa Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/couch9_e1_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14135",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

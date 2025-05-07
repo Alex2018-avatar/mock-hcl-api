@@ -1,0 +1,421 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": false,
+      "buyable": "true",
+      "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+      "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+      "shortDescription": "This classic chair marries form and function together to provide timeless appeal, comfort and stability.",
+      "_ignored": "default.completion",
+      "partNumber": "LR-FNTR-0008",
+      "storeID": "41",
+      "parentCatalogGroupID": "/10501/10502",
+      "manufacturer": "Home Design",
+      "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg",
+      "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg",
+      "longDescription": "The classic Wooden Cafe Chair marries form and function together to provide timeless appeal and sophistication with comfort and stability. Designed with a broad concave backrest and a generous curved seat the contoured form allows the body relax through extended periods of sitting. The Wooden Cafe Chair’s organic, streamlined shape allows it to fit in natually in any kind of setting, be it a restaurant, cafe or at your breakfast table.",
+      "seller": "",
+      "name": "Wooden Cafe Chair",
+      "seo": {
+        "href": "/wooden-cafe-chair-lr-fntr-0008"
+      },
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "USD",
+          "value": "249.99"
+        },
+        {
+          "usage": "Offer",
+          "contractId": "-41005",
+          "description": "I",
+          "currency": "USD",
+          "value": "229.99"
+        }
+      ],
+      "numberOfSKUs": 3,
+      "attributes": [
+        {
+          "identifier": "Color",
+          "attribute.group": " ",
+          "attribute.natural": "[\"Pine\",\"Oak\",\"Mahogany\"]",
+          "usage": "Defining",
+          "values": [
+            {
+              "identifier": "pine",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003024",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_pine.png",
+              "value": "Pine",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_pine.png"
+            },
+            {
+              "identifier": "oak",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003025",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+              "value": "Oak",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_oak.png"
+            },
+            {
+              "identifier": "mahogany",
+              "sequence": "10.0",
+              "unitOfMeasure": "one",
+              "unitID": "C62",
+              "id": "7000000000000003026",
+              "image1": "/EmeraldCAS/images/catalog/swatches/sw_mahogany.png",
+              "value": "Mahogany",
+              "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_mahogany.png"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "true",
+          "searchable": "true",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "Color",
+          "attribute.store": "12001",
+          "facetable": "true",
+          "id": "7000000000000000501",
+          "comparable": "true",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+          "sequence": "-1000.0",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+          "name": "Wooden Cafe Chair Main Image",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg"
+        },
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_350.jpg",
+          "sequence": "2.0",
+          "catentry_id": "14053",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_350.jpg",
+          "name": "Rustic Wood Chair Angle 2",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_600.jpg"
+        },
+        {
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_350.jpg",
+          "sequence": "3.0",
+          "catentry_id": "14053",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_350.jpg",
+          "name": "Rustic Wood Chair Angle 3",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_600.jpg"
+        }
+      ],
+      "type": "product",
+      "id": "14053",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+          "shortDescription": "This classic chair marries form and function together to provide timeless appeal, comfort and stability.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0008-0001",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Home Design",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg",
+          "longDescription": "The classic Wooden Cafe Chair marries form and function together to provide timeless appeal and sophistication with comfort and stability. Designed with a broad concave backrest and a generous curved seat the contoured form allows the body relax through extended periods of sitting. The Wooden Cafe Chair’s organic, streamlined shape allows it to fit in natually in any kind of setting, be it a restaurant, cafe or at your breakfast table.",
+          "seller": "",
+          "name": "Wooden Cafe Chair",
+          "parentCatalogEntryID": "14053",
+          "seo": {
+            "href": "/wooden-cafe-chair-lr-fntr-0008-0001"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "249.99"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "229.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Pine\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "pine",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003024",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_pine.png",
+                  "value": "Pine",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_pine.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_350.jpg",
+              "name": "Wooden Cafe Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a1_600.jpg"
+            },
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_350.jpg",
+              "sequence": "2.0",
+              "catentry_id": "14054",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_350.jpg",
+              "name": "Rustic Wood Chair Angle 2",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a2_600.jpg"
+            },
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_350.jpg",
+              "sequence": "3.0",
+              "catentry_id": "14054",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_350.jpg",
+              "name": "Rustic Wood Chair Angle 3",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_a3_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14054",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_350.jpg",
+          "shortDescription": "This classic chair marries form and function together to provide timeless appeal, comfort and stability.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0008-0002",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Home Design",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_600.jpg",
+          "longDescription": "The classic Wooden Cafe Chair marries form and function together to provide timeless appeal and sophistication with comfort and stability. Designed with a broad concave backrest and a generous curved seat the contoured form allows the body relax through extended periods of sitting. The Wooden Cafe Chair’s organic, streamlined shape allows it to fit in natually in any kind of setting, be it a restaurant, cafe or at your breakfast table.",
+          "seller": "",
+          "name": "Wooden Cafe Chair",
+          "parentCatalogEntryID": "14053",
+          "seo": {
+            "href": "/wooden-cafe-chair-lr-fntr-0008-0002"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "249.99"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "229.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Oak\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "oak",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003025",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_oak.png",
+                  "value": "Oak",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_oak.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_350.jpg",
+              "name": "Wooden Cafe Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b1_600.jpg"
+            },
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b2_350.jpg",
+              "sequence": "2.0",
+              "catentry_id": "14055",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b2_350.jpg",
+              "name": "Rustic Wood Chair Angle 2",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b2_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b2_600.jpg"
+            },
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b3_350.jpg",
+              "sequence": "3.0",
+              "catentry_id": "14055",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b3_350.jpg",
+              "name": "Rustic Wood Chair Angle 3",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b3_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_b3_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14055",
+          "type": "item"
+        },
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_350.jpg",
+          "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_350.jpg",
+          "shortDescription": "This classic chair marries form and function together to provide timeless appeal, comfort and stability.",
+          "_ignored": "default.completion",
+          "partNumber": "LR-FNTR-0008-0003",
+          "storeID": "41",
+          "parentCatalogGroupID": "/10501/10502",
+          "manufacturer": "Home Design",
+          "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_600.jpg",
+          "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_600.jpg",
+          "longDescription": "The classic Wooden Cafe Chair marries form and function together to provide timeless appeal and sophistication with comfort and stability. Designed with a broad concave backrest and a generous curved seat the contoured form allows the body relax through extended periods of sitting. The Wooden Cafe Chair’s organic, streamlined shape allows it to fit in natually in any kind of setting, be it a restaurant, cafe or at your breakfast table.",
+          "seller": "",
+          "name": "Wooden Cafe Chair",
+          "parentCatalogEntryID": "14053",
+          "seo": {
+            "href": "/wooden-cafe-chair-lr-fntr-0008-0003"
+          },
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "USD",
+              "value": "249.99"
+            },
+            {
+              "usage": "Offer",
+              "contractId": "-41005",
+              "description": "I",
+              "currency": "USD",
+              "value": "229.99"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "Color",
+              "attribute.group": " ",
+              "attribute.natural": "[\"Mahogany\"]",
+              "usage": "Defining",
+              "values": [
+                {
+                  "identifier": "mahogany",
+                  "sequence": "10.0",
+                  "unitOfMeasure": "one",
+                  "unitID": "C62",
+                  "id": "7000000000000003026",
+                  "image1": "/EmeraldCAS/images/catalog/swatches/sw_mahogany.png",
+                  "value": "Mahogany",
+                  "image1path": "/hclstore/EmeraldCAS/images/catalog/swatches/sw_mahogany.png"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "true",
+              "searchable": "true",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "Color",
+              "attribute.store": "12001",
+              "facetable": "true",
+              "id": "7000000000000000501",
+              "comparable": "true",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_350.jpg",
+              "sequence": "-1000.0",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_350.jpg",
+              "name": "Wooden Cafe Chair Main Image",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c1_600.jpg"
+            },
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c2_350.jpg",
+              "sequence": "2.0",
+              "catentry_id": "14056",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c2_350.jpg",
+              "name": "Rustic Wood Chair Angle 2",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c2_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c2_600.jpg"
+            },
+            {
+              "thumbnailRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c3_350.jpg",
+              "sequence": "3.0",
+              "catentry_id": "14056",
+              "thumbnail": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c3_350.jpg",
+              "name": "Rustic Wood Chair Angle 3",
+              "fullImageRaw": "/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c3_600.jpg",
+              "fullImage": "/hclstore/EmeraldCAS/images/catalog/livingroom/furniture/cafe_chair_c3_600.jpg"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=41&id=10502",
+          "id": "14056",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

@@ -12,9 +12,20 @@
     "types": ["node"],
     "outDir": "./dist",
     "rootDir": "./src",
-    "noEmit": true
+    "noEmit": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@utils/*": ["utils/*"],
+      "@services/*": ["services/*"],
+      "@controllers/*": ["controllers/*"],
+      "@middleware/*": ["middleware/*"],
+      "@routes/*": ["routes/*"],
+      "@errors/*": ["errors/*"],
+      "@config/*": ["config/*"],
+      "@constants/*": ["constants/*"]
+    }
   },
-  "include": ["src/**/*"],
+  "include": ["src"],
   "exclude": ["node_modules", "dist", "**/*.spec.ts"],
   "typeRoots": ["./node_modules/@types", "./src/types"]
 }

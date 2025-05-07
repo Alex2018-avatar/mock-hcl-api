@@ -1,0 +1,31 @@
+{
+  "globalization": {
+    "preferredCurrency": "COP",
+    "languageId": -5,
+    "currency": "COP",
+    "preferredLanguageId": -5
+  },
+  "catalog": {
+    "catalogId": 10050,
+    "masterCatalog": false
+  },
+  "bcsversion": {
+    "lastUpdateTime": null
+  },
+  "resourceName": "usercontext",
+  "entitlement": {
+    "eligibleTradingAgreementIds": [4e18],
+    "hostingContractId": 4e18,
+    "currentTradingAgreementIds": [4e18],
+    "activeOrganizationId": -2000,
+    "sessionTradingAgreementIds": null
+  },
+  "isPartiallyAuthenticated": false,
+  "basicInfo": {
+    "runAsId": -1002,
+    "callerId": -1002,
+    "registerType": "G",
+    "storeId": 10151,
+    "channelId": -4
+  }
+}

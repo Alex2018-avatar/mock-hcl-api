@@ -7,7 +7,7 @@
       "products": [
         {
           "name": "Nokia 215 4G Azul",
-          "id": "180005"
+          "id": "1000"
         }
       ]
     },
@@ -16,7 +16,7 @@
       "products": [
         {
           "name": "Nokia 215 4G Negro",
-          "id": "180003"
+          "id": "1001"
         }
       ]
     }
@@ -25,11 +25,11 @@
   "outOfStockProducts": [
     {
       "name": "Honor X6s 128GB con obsequio",
-      "id": "180001"
+      "id": "1002"
     },
     {
       "name": "Motorola Moto G20 64 GB Azul",
-      "id": "180004"
+      "id": "1003"
     }
   ]
 }

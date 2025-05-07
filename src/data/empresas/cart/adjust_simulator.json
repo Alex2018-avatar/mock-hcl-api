@@ -1,0 +1,43 @@
+{
+  "totalShippingTax": 0,
+  "totalShippingCharge": 0,
+  "totalSalesTax": 429009,
+  "orderId": 369101762825,
+  "orderItem": [
+    {
+      "unitPrice": 2375588,
+      "shippingTax": 0,
+      "quantity": "1.0",
+      "orderItemId": 1000,
+      "partNumber": "PO_Equ70055641",
+      "currency": "COP",
+      "shippingCharge": 0,
+      "totalAdjustment": {
+        "currency": "COP",
+        "value": -117647
+      },
+      "salesTax": 429009,
+      "orderItemPrice": 2375588
+    },
+    {
+      "unitPrice": 469900,
+      "shippingTax": 0,
+      "quantity": "1.0",
+      "orderItemId": 1001,
+      "partNumber": "PO_Equ70055665",
+      "currency": "COP",
+      "shippingCharge": 0,
+      "totalAdjustment": {
+        "currency": "COP",
+        "value": -15000
+      },
+      "salesTax": 0,
+      "orderItemPrice": 469900
+    }
+  ],
+  "grandTotal": 3141850,
+  "lastUpdateDate": "2025-04-14 12:06:55.632",
+  "orderStatus": "P",
+  "totalProductPrice": 2845488,
+  "totalAdjustment": -132647
+}
