@@ -12,7 +12,11 @@
             "country": "CA",
             "city": "Toronto",
             "zipOrPostalCode": "M3C-1L1",
-            "addressLine": ["Street123", null, null],
+            "addressLine": [
+              "Street123",
+              null,
+              null
+            ],
             "stateOrProvinceName": "ON"
           },
           "languageId": "-5",
@@ -357,12 +361,32 @@
       ],
       "storeType": "MHS",
       "userData": {
-        "wc.search.priceMode.compatiblePriceIndex": "1.0",
-        "hcl.externalContent.enabled": "false",
         "hcl.imagePath": "/hclstore",
+        "storeWebServerHostName": "www.b2cdev2auth.claro.com.co",
+        "headlessStore.storeContextRoot": "/ClaroB2C",
+        "hcl.externalContent.contentAPIContentPath": "/dxrest/webcontent/contents",
+        "storeWebServerPreviewHostName": "store-preview.b2cdev2auth.claro.com.co",
+        "hcl.externalContent.enabled": "false",
+        "google.tag.manager.preview": "env-1",
+        "hcl.externalContent.DAMPickerImagesURL": "/wps/mycontenthandler/dxpicker/dam-images",
+        "storeWebServerPreviewSSLPort": "443",
+        "google.tag.manager.container.id": "GTM-KTCDMZQT",
+        "wc.search.priceMode.compatiblePriceIndex": "1.0",
+        "storeWebServerSSLPort": "443",
         "hcl.pageLayoutTool.enabled": "true",
-        "headlessStore": "true",
-        "headlessStore.storeContextRoot": "/ClaroB2C"
+        "google.analytics.versions": "GA4",
+        "google.analytics.versionst": "GA4",
+        "hcl.externalContent.DAMPickerFilesURL": "/wps/mycontenthandler/dxpicker/dam-files",
+        "hcl.externalContent.contentAPIContextRoot": "/dx/api/core/v1",
+        "marketplaceStore": "false",
+        "storeWebServerPort": "6080",
+        "isCatalogOverrideEnabled": "1",
+        "google.analytics.property.ga4": "6264915374",
+        "unregisterMarketingEvent": "0",
+        "headlessStore": "TRUE",
+        "storeWebServerContextPath": "",
+        "hcl.externalContent.ContentPickerURL": "/wps/mycontenthandler/dxpicker/content",
+        "google.tag.manager.auth": "tA6nAkUnV72dc-ROxlHl4A"
       },
       "contactInfo": [
         {
@@ -370,7 +394,11 @@
             "country": "CA",
             "city": "Toronto",
             "zipOrPostalCode": "M3C-1L1",
-            "addressLine": ["Street123", null, null],
+            "addressLine": [
+              "Street123",
+              null,
+              null
+            ],
             "stateOrProvinceName": "ON"
           },
           "languageId": "-5",
@@ -400,11 +428,15 @@
       "storeId": "9701",
       "ownerId": "7333333333333333535",
       "supportedCurrencies": {
-        "supportedCurrencies": ["COP"],
+        "supportedCurrencies": [
+          "COP"
+        ],
         "defaultCurrency": "COP"
       },
       "supportedLanguages": {
-        "supportedLanguages": ["-5"],
+        "supportedLanguages": [
+          "-5"
+        ],
         "defaultLanguageId": "-5"
       },
       "state": "open"
