@@ -5,6 +5,7 @@
   "contents": [
     {
       "hasSingleSKU": false,
+      "x_field1.raw": "1",
       "buyable": "true",
       "resourceId": "https://search.b2cprodlive.claro.com.co/search/resources/api/v2/products?productId=3074457345616817096&storeId=1&catalogId=3074457345616678668&currency=COP&langId=-1",
       "name": "IPHONE 15 PRO MAX 256GB 5G",
@@ -1042,6 +1043,7 @@
         {
           "hasSingleSKU": false,
           "buyable": "true",
+          "x_field1.raw": "1",
           "shortDescription": "IPHONE 15 PRO MAX 256GB 5G",
           "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-negro.jpg",
           "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-negro.jpg",
@@ -2094,6 +2096,7 @@
         },
         {
           "hasSingleSKU": false,
+          "x_field1.raw": "1",
           "buyable": "true",
           "shortDescription": "IPHONE 15 PRO MAX 256GB 5G",
           "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-gris.jpg",
@@ -3145,6 +3148,7 @@
         },
         {
           "hasSingleSKU": false,
+          "x_field1.raw": "1",
           "buyable": "true",
           "shortDescription": "IPHONE 15 PRO MAX 256GB 5G",
           "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-azul.jpg",

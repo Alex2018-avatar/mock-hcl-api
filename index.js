@@ -62,7 +62,7 @@ app.use(
       dir: path.resolve(process.cwd(), 'app/database'),
       concurrentDB: true,
     }),
-    cookie: { secure: true, maxAge: 86400000 } // 1 día de vida  Q
+    cookie: { secure: false, maxAge: 86400000 } // 1 día de vida  Q
   })
 );
 

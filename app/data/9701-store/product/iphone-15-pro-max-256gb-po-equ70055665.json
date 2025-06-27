@@ -6,6 +6,7 @@
     {
       "hasSingleSKU": false,
       "buyable": "true",
+      "x_field1.raw": "2",
       "shortDescription": "IPHONE 15 PRO MAX 256GB 5G",
       "thumbnailRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-negro.jpg",
       "thumbnail": "https://cdn.claro.com.co/imagenes/v9/catalogo/200x310/iphone-15-pro-max-256gb-5g-negro.jpg",
@@ -20,7 +21,7 @@
       "fullImageRaw": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055665.jpg",
       "fullImage": "https://cdn.claro.com.co/imagenes/v9/catalogo/646x1000/70055665.jpg",
       "parentCatalogGroupID": [
-        "/3074457345616680168/3074457345616680171",
+        "/3074457345616680168/10003",
         "/3074457345616680168/3074457345616680170",
         "/3074457345616680172/3074457345616680179/3074457345616680184",
         "/3074457345616680168/3074457345616680169",
