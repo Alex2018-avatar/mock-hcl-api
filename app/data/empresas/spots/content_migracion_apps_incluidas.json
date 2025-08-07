@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715875942",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715882502",
+      "behavior": "0",
+      "eSpotName": "content_migracion_apps_incluidas",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ClaroB2BFooterContent",
+          "contentClickAction": "None",
+          "contentId": "715875942",
+          "baseMarketingSpotActivityID": "715875942",
+          "contentName": "ClaroB2BFooterContent",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<div class=\"customPreapostCardApp\"><span class=\"customcardAppTitle\">Apps incluidas</span><div class=\"customcardAppContent\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/preapost/icono_claro_drive.svg\" alt=\"Claro Music Logo\"><img src=\"https://cdn.claro.com.co/imagenes/v9/assets/preapost/icono_claro_video.svg\" alt=\"Claro Video Logo\"></div></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "10251"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://tsapp.b2cdev3auth.claro.com.co:5443/wcs/resources/store/10251/espot/content_migracion_apps_incluidas?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

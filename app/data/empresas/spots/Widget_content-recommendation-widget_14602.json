@@ -1,0 +1,50 @@
+{
+  "MarketingSpotData": [
+    {
+      "nextTimeLimit": "-1",
+      "defaultContentDisplaySequence": [
+        {
+          "resultId": "715875942",
+          "resultFormat": "MarketingContent",
+          "displaySequence": "1.0"
+        }
+      ],
+      "marketingSpotIdentifier": "715882502",
+      "behavior": "0",
+      "eSpotName": "Widget_content-recommendation-widget_14602",
+      "baseMarketingSpotActivityData": [
+        {
+          "contentFormatName": "Text",
+          "baseMarketingSpotActivityName": "ClaroB2BFooterContent",
+          "contentClickAction": "None",
+          "contentId": "715875942",
+          "baseMarketingSpotActivityID": "715875942",
+          "contentName": "ClaroB2BFooterContent",
+          "baseMarketingSpotDataType": "MarketingContent",
+          "activityIdentifierID": "0",
+          "MarketingContentDescription": [{}],
+          "marketingContentDescription": [
+            {
+              "marketingText": "<style> .customClassName-container { margin-top: 50px} .customClassNameTitule { margin-top: 50px;    text-align: center;    letter-spacing: 0;    color: #2d2d2d;    opacity: 1;    font: normal normal normal 24px / 28px AMX-Bold;    margin-bottom: 15px;  }  .customClassNameSubtitule{    text-align: center;    margin-bottom: 15px;  }</style><div class='customClassName-container'>  <div class=\"customClassNameTitule\"><span>Pasa tu línea de prepago a postpago</span></div>  <div class=\"customClassNameSubtitule\">    <span>Elige el plan postpago que tenemos para ti y <strong> paga después en tu primer factura</strong></span></div></div>",
+              "language": "-5"
+            }
+          ],
+          "contentFormatId": "2",
+          "activityPriority": "1",
+          "properties": [
+            {
+              "baseMarketingKey": "mktActivityDescription"
+            },
+            {
+              "baseMarketingValue": "1.0",
+              "baseMarketingKey": "displaySequence"
+            }
+          ],
+          "contentStoreId": "10251"
+        }
+      ]
+    }
+  ],
+  "resourceId": "https://tsapp.b2cdev3auth.claro.com.co:5443/wcs/resources/store/10251/espot/Widget_content-recommendation-widget_14602?catalogId=20000&DM_ReturnCatalogGroupId=true&DM_FilterResults=false&DM_ReqCmd=TopCategoriesDisplay&langId=-5",
+  "resourceName": "espot"
+}

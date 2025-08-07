@@ -1,0 +1,72 @@
+{
+  "contents": [
+    {
+      "layout": {
+        "id": "13601",
+        "name": "Migracion-postpago",
+        "containerName": "category-landing-page",
+        "slots": [
+          {
+            "id": "1",
+            "widgets": [
+              {
+                "id": "14602",
+                "name": "Contenido de marketing",
+                "widgetName": "content-recommendation-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "emsName": "Widget_content-recommendation-widget_14602",
+                  "emsId": "715843586",
+                  "populationChoice": "useDefaultContent"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "widgets": [
+              {
+                "id": "14606",
+                "name": "ClaroB2B Lista planes migración postpago",
+                "widgetName": "clarob2b-planes-migracion-postpago-widget",
+                "sequence": 0.0,
+                "properties": {
+                  "useDefaultTitle": "false",
+                  "containerClass": "carrusel-container-class",
+                  "isLoop": "false",
+                  "isPlaying": "false",
+                  "isDots": "true",
+                  "interval": "3000",
+                  "playDirection": "forward",
+                  "emsName": "Widget_clarob2b-planes-migracion-postpago-widget_14606",
+                  "emsId": "715843591",
+                  "infinite": "false",
+                  "titlePlan": "PLAN",
+                  "costReason": "Mensual / IVA incluido",
+                  "buttonLabel": "Comprar plan"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "identifier": "cambio-pre-prospago",
+      "store.type": "BMH",
+      "tokenName": "CategoryToken",
+      "tokenExternalValue": "cambio-pre-prospago",
+      "language": "es_ES",
+      "id": "24603",
+      "page": {
+        "imageAlternateDescription": "Imagen para Cámbiate de Prepago a Postpago Claro de ClaroB2B",
+        "name": "CATEGORY_PAGE",
+        "type": "ProductListPage",
+        "title": "Cámbiate de Prepago a Postpago Claro | ClaroB2B",
+        "metaDescription": "Cámbiate de Prepago a Postpago Claro",
+        "metaKeyword": ""
+      },
+      "storeId": "10100",
+      "tokenValue": "10651",
+      "status": 1
+    }
+  ]
+}

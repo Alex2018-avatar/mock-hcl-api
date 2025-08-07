@@ -1,0 +1,1165 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "breadCrumbTrailEntryView": [
+    {
+      "label": "Servicios Móviles",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10305",
+      "seo": {
+        "href": "/servicios-móviles"
+      }
+    },
+    {
+      "label": "Prepago",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10306",
+      "seo": {
+        "href": "/prepago"
+      }
+    },
+    {
+      "label": "Cámbiate de Prepago a Postpago Claro",
+      "type_": "FACET_ENTRY_CATEGORY",
+      "value": "10651",
+      "seo": {
+        "href": "/cambio-pre-prospago"
+      }
+    }
+  ],
+  "contents": [
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados L LITE Mx Tmk 90G",
+      "shortDescription": "Conectados L LITE Mx Tmk",
+      "manufacturer": "NA",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["55900.0", "55900.0"],
+        "groupListPriceRange": ["55900.0", "55900.0"],
+        "groupCount": 1,
+        "groupOwner": "12451",
+        "groupMaxPriceValue": "55900.0",
+        "groupHero": "12452",
+        "groupMinPriceValue": "55900.0"
+      },
+      "seo": {
+        "href": "/Conectados-L-LITE-Mx-Tmk-90G"
+      },
+      "partNumber": "PO_Equ70001P",
+      "storeID": "10251",
+      "relationship.item.id": "12452",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "55900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "55900.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["PO_Equ70001P", "PO_Equ70001"],
+              "id": ["7741124012283365835", "7741124012283365836"],
+              "value": ["Terminos y Condiciones", "Terminos y Condiciones"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366335", "7741124012283366336"],
+              "id": ["7741124012283366335", "7741124012283366336"],
+              "value": [
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"90 GB\",\"90 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366347", "7741124012283366350"],
+              "unitID": ["GB", "GB"],
+              "id": ["7741124012283366347", "7741124012283366350"],
+              "value": ["90 GB", "90 GB"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366348", "7741124012283366349"],
+              "id": ["7741124012283366348", "7741124012283366349"],
+              "value": [
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_apps",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366835", "7741124012283366836"],
+              "id": ["7741124012283366835", "7741124012283366836"],
+              "value": [
+                "content_migracion_apps_incluidas",
+                "content_migracion_apps_incluidas"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "migracion_apps",
+          "facetable": "false",
+          "id": "10401",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "12451"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados L LITE Mx Tmk 75G",
+      "shortDescription": "Conectados L LITE Mx Tmk",
+      "manufacturer": "NA",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["47900.0", "47900.0"],
+        "groupListPriceRange": ["47900.0", "47900.0"],
+        "groupCount": 1,
+        "groupOwner": "12453",
+        "groupMaxPriceValue": "47900.0",
+        "groupHero": "12454",
+        "groupMinPriceValue": "47900.0"
+      },
+      "seo": {
+        "href": "/Conectados-L-LITE-Mx-Tmk-75G"
+      },
+      "partNumber": "PO_Equ70002P",
+      "storeID": "10251",
+      "relationship.item.id": "12454",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "47900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "47900.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "migracion_apps",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366835", "7741124012283366836"],
+              "id": ["7741124012283366835", "7741124012283366836"],
+              "value": [
+                "content_migracion_apps_incluidas",
+                "content_migracion_apps_incluidas"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "migracion_apps",
+          "facetable": "false",
+          "id": "10401",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["PO_Equ70002P", "PO_Equ70002"],
+              "id": ["7741124012283365837", "7741124012283365838"],
+              "value": ["Terminos y Condiciones", "Terminos y Condiciones"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366337", "7741124012283366338"],
+              "id": ["7741124012283366337", "7741124012283366338"],
+              "value": [
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"75 GB\",\"75 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366352", "7741124012283366354"],
+              "unitID": ["GB", "GB"],
+              "id": ["7741124012283366352", "7741124012283366354"],
+              "value": ["75 GB", "75 GB"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366351", "7741124012283366353"],
+              "id": ["7741124012283366351", "7741124012283366353"],
+              "value": [
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "12453"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados 25 V 4.1 60G",
+      "shortDescription": "Conectados 25 V 4.1",
+      "manufacturer": "NA",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["44900.0", "44900.0"],
+        "groupListPriceRange": ["44900.0", "44900.0"],
+        "groupCount": 1,
+        "groupOwner": "12461",
+        "groupMaxPriceValue": "44900.0",
+        "groupHero": "12462",
+        "groupMinPriceValue": "44900.0"
+      },
+      "seo": {
+        "href": "/Conectados-25V41-60G"
+      },
+      "partNumber": "PO_Equ70006P",
+      "storeID": "10251",
+      "relationship.item.id": "12462",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "44900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "44900.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["PO_Equ70006P", "PO_Equ70006"],
+              "id": ["7741124012283365845", "7741124012283365846"],
+              "value": ["Terminos y Condiciones", "Terminos y Condiciones"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366345", "7741124012283366346"],
+              "id": ["7741124012283366345", "7741124012283366346"],
+              "value": [
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"60 GB\",\"60 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366368", "7741124012283366369"],
+              "unitID": ["GB", "GB"],
+              "id": ["7741124012283366368", "7741124012283366369"],
+              "value": ["60 GB", "60 GB"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366367", "7741124012283366370"],
+              "id": ["7741124012283366367", "7741124012283366370"],
+              "value": [
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_apps",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366835", "7741124012283366836"],
+              "id": ["7741124012283366835", "7741124012283366836"],
+              "value": [
+                "content_migracion_apps_incluidas",
+                "content_migracion_apps_incluidas"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "migracion_apps",
+          "facetable": "false",
+          "id": "10401",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "12461"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados L LITE Mx Tmk 55G",
+      "shortDescription": "Conectados L LITE Mx Tmk",
+      "manufacturer": "NA",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["42900.0", "42900.0"],
+        "groupListPriceRange": ["42900.0", "42900.0"],
+        "groupCount": 1,
+        "groupOwner": "12455",
+        "groupMaxPriceValue": "42900.0",
+        "groupHero": "12456",
+        "groupMinPriceValue": "42900.0"
+      },
+      "seo": {
+        "href": "/Conectados-L-LITE-Mx-Tmk-55G"
+      },
+      "partNumber": "PO_Equ70003P",
+      "storeID": "10251",
+      "relationship.item.id": "12456",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "42900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "42900.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["PO_Equ70003P", "PO_Equ70003"],
+              "id": ["7741124012283365839", "7741124012283365840"],
+              "value": ["Terminos y Condiciones", "Terminos y Condiciones"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366339", "7741124012283366340"],
+              "id": ["7741124012283366339", "7741124012283366340"],
+              "value": [
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"55 GB\",\"55 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366356", "7741124012283366358"],
+              "unitID": ["GB", "GB"],
+              "id": ["7741124012283366356", "7741124012283366358"],
+              "value": ["55 GB", "55 GB"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366355", "7741124012283366357"],
+              "id": ["7741124012283366355", "7741124012283366357"],
+              "value": [
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_apps",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366835", "7741124012283366836"],
+              "id": ["7741124012283366835", "7741124012283366836"],
+              "value": [
+                "content_migracion_apps_incluidas",
+                "content_migracion_apps_incluidas"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "migracion_apps",
+          "facetable": "false",
+          "id": "10401",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "12455"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados L LITE Mx Tmk 60G",
+      "shortDescription": "Conectados L LITE Mx Tmk",
+      "manufacturer": "NA",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["39900.0", "39900.0"],
+        "groupListPriceRange": ["39900.0", "39900.0"],
+        "groupCount": 1,
+        "groupOwner": "12457",
+        "groupMaxPriceValue": "39900.0",
+        "groupHero": "12458",
+        "groupMinPriceValue": "39900.0"
+      },
+      "seo": {
+        "href": "/Conectados-L-LITE-Mx-Tmk-60G"
+      },
+      "partNumber": "PO_Equ70004P",
+      "storeID": "10251",
+      "relationship.item.id": "12458",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "39900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "39900.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["PO_Equ70004P", "PO_Equ70004"],
+              "id": ["7741124012283365841", "7741124012283365842"],
+              "value": ["Terminos y Condiciones", "Terminos y Condiciones"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366341", "7741124012283366342"],
+              "id": ["7741124012283366341", "7741124012283366342"],
+              "value": [
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"60 GB\",\"60 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366360", "7741124012283366361"],
+              "unitID": ["GB", "GB"],
+              "id": ["7741124012283366360", "7741124012283366361"],
+              "value": ["60 GB", "60 GB"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366359", "7741124012283366362"],
+              "id": ["7741124012283366359", "7741124012283366362"],
+              "value": [
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_apps",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366835", "7741124012283366836"],
+              "id": ["7741124012283366835", "7741124012283366836"],
+              "value": [
+                "content_migracion_apps_incluidas",
+                "content_migracion_apps_incluidas"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "migracion_apps",
+          "facetable": "false",
+          "id": "10401",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "12457"
+    },
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados 25 E 3.5 50G",
+      "shortDescription": "Conectados 25 E 3.5",
+      "manufacturer": "NA",
+      "groupingProperties": {
+        "groupOfferPriceRange": ["39900.0", "39900.0"],
+        "groupListPriceRange": ["39900.0", "39900.0"],
+        "groupCount": 1,
+        "groupOwner": "12459",
+        "groupMaxPriceValue": "39900.0",
+        "groupHero": "12460",
+        "groupMinPriceValue": "39900.0"
+      },
+      "seo": {
+        "href": "/Conectados-25-E-35-50G"
+      },
+      "partNumber": "PO_Equ70005P",
+      "storeID": "10251",
+      "relationship.item.id": "12460",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "39900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "39900.0"
+        }
+      ],
+      "attributes": [
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["PO_Equ70005P", "PO_Equ70005"],
+              "id": ["7741124012283365843", "7741124012283365844"],
+              "value": ["Terminos y Condiciones", "Terminos y Condiciones"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366343", "7741124012283366344"],
+              "id": ["7741124012283366343", "7741124012283366344"],
+              "value": [
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+                "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"50 GB\",\"50 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366363", "7741124012283366365"],
+              "unitID": ["GB", "GB"],
+              "id": ["7741124012283366363", "7741124012283366365"],
+              "value": ["50 GB", "50 GB"]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366364", "7741124012283366366"],
+              "id": ["7741124012283366364", "7741124012283366366"],
+              "value": [
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+                "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_apps",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "sequence": ["0.0", "0.0"],
+              "identifier": ["7741124012283366835", "7741124012283366836"],
+              "id": ["7741124012283366835", "7741124012283366836"],
+              "value": [
+                "content_migracion_apps_incluidas",
+                "content_migracion_apps_incluidas"
+              ]
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "0.0",
+          "storeDisplay": "false",
+          "name": "migracion_apps",
+          "facetable": "false",
+          "id": "10401",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "type": "product",
+      "id": "12459"
+    }
+  ],
+  "facets": [
+    {
+      "value": "manufacturer.raw",
+      "name": "Marca",
+      "entry": [
+        {
+          "label": "NA",
+          "value": "manufacturer.raw%3A%22NA%22",
+          "count": "6",
+          "key": "NA",
+          "extendedData": {
+            "uniqueId": "7865"
+          }
+        }
+      ],
+      "extendedData": {
+        "fname": "Marca",
+        "propertyvalue": "manufacturer.raw",
+        "maximumValuesToDisplay": "20",
+        "displayable": "true",
+        "allValuesReturned": "true",
+        "zero_display": "false",
+        "allowMultipleValueSelection": "false",
+        "displaySequence": "0.0",
+        "name": "Marca",
+        "sortorder": "0",
+        "max_display": "20",
+        "fdesc": "El fabricante",
+        "propertyId": "manufacturer.raw"
+      }
+    },
+    {
+      "entry": [
+        {
+          "count": 0,
+          "label": "({* TO 11180])",
+          "value": "price_cop%3A%28%7B*+TO+11180%5D%29",
+          "extendedData": {
+            "uniqueId": "1121141059910195991111125840123423284793249494956489341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({11180 TO 22360])",
+          "value": "price_cop%3A%28%7B11180+TO+22360%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012349494956483284793250505154489341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({22360 TO 33540])",
+          "value": "price_cop%3A%28%7B22360+TO+33540%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012350505154483284793251515352489341"
+          }
+        },
+        {
+          "count": 3,
+          "label": "({33540 TO 44720])",
+          "value": "price_cop%3A%28%7B33540+TO+44720%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012351515352483284793252525550489341"
+          }
+        },
+        {
+          "count": 3,
+          "label": "({44720 TO 55900])",
+          "value": "price_cop%3A%28%7B44720+TO+55900%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012352525550483284793253535748489341"
+          }
+        },
+        {
+          "count": 0,
+          "label": "({55900 TO * ])",
+          "value": "price_cop%3A%28%7B55900+TO+*+%5D%29",
+          "extendedData": {
+            "uniqueId": "112114105991019599111112584012353535748483284793242329341"
+          }
+        }
+      ],
+      "value": "price_cop",
+      "name": "OfferPrice_cop"
+    }
+  ],
+  "previous": "/search/resources/api/v2/products?storeId=10251&categoryId=10651&limit=12&offset=0",
+  "total": 6
+}

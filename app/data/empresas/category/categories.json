@@ -133,6 +133,93 @@
       "description": "Tecnología"
     },
     {
+      "uniqueID": "10003",
+      "parentCatalogGroupID": "/10002",
+      "seo": {
+        "href": "/servicios-mobiles"
+      },
+      "name": "Servicios Moviles",
+      "identifier": "servicios-mobiles",
+      "shortDescription": "Servicios Moviles",
+      "storeID": "10100",
+      "sequence": "1.0",
+      "id": "10002",
+      "description": "Servicios Moviles",
+      "children": [
+        {
+          "uniqueID": "10021",
+          "parentCatalogGroupID": "/10002/10011",
+          "seo": {
+            "href": "/postpago"
+          },
+          "name": "Postpago",
+          "identifier": "Postpago",
+          "shortDescription": "Internet de las cosas",
+          "storeID": "10100",
+          "sequence": "1.0",
+          "longDescription": "Postpago",
+          "id": "10021",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10002"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10011"
+            }
+          },
+          "description": "Postpago"
+        },
+        {
+          "uniqueID": "10022",
+          "parentCatalogGroupID": "/10002/10011",
+          "seo": {
+            "href": "/prepago"
+          },
+          "name": "Prepago",
+          "identifier": "Prepago",
+          "shortDescription": "Prepago",
+          "storeID": "10100",
+          "sequence": "1.0",
+          "longDescription": "Prepago",
+          "id": "10011",
+          "links": {
+            "parent": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10002"
+            },
+            "self": {
+              "href": "/search/resources/api/v2/categories?storeId=9701&id=10011"
+            }
+          },
+          "description": "Prepago",
+          "children": [
+            {
+              "name": "Pórtate con tu mismo número",
+              "uniqueID": "10651",
+              "parentCatalogGroupID": "/10002/10011",
+              "seo": {
+                "href": "/cambio-pre-prospago"
+              },
+              "identifier": "portate-mismo-numero",
+              "shortDescription": "Pórtate con tu mismo número",
+              "storeID": "10100",
+              "sequence": "1.0",
+              "longDescription": "Pórtate con tu mismo número",
+              "id": "10651",
+              "links": {
+                "parent": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10002"
+                },
+                "self": {
+                  "href": "/search/resources/api/v2/categories?storeId=9701&id=10011"
+                }
+              },
+              "description": "Pórtate con tu mismo número"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "uniqueID": "10201",
       "parentCatalogGroupID": "/10201",
       "seo": {

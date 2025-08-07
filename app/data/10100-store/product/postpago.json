@@ -1,0 +1,324 @@
+{
+  "metaData": {
+    "price": "1"
+  },
+  "contents": [
+    {
+      "hasSingleSKU": true,
+      "buyable": "true",
+      "parentCatalogGroupID": "/10305/10306/10651",
+      "sellerId": "7333333333333333435",
+      "name": "Conectados L LITE Mx Tmk 55G",
+      "shortDescription": "Conectados L LITE Mx Tmk",
+      "manufacturer": "NA",
+      "seo": {
+        "href": "/Conectados-L-LITE-Mx-Tmk-55G"
+      },
+      "relationship.item.sequence": "0.0",
+      "partNumber": "PO_Equ70003P",
+      "storeID": "10251",
+      "relationship.item.id": "12456",
+      "price": [
+        {
+          "usage": "Display",
+          "description": "L",
+          "currency": "COP",
+          "value": "42900.0"
+        },
+        {
+          "usage": "PrecioClienteClaro",
+          "description": "D",
+          "currency": "COP",
+          "value": ""
+        },
+        {
+          "usage": "Offer",
+          "contractId": "4000000000000000506",
+          "description": "I",
+          "currency": "COP",
+          "value": "42900.0"
+        }
+      ],
+      "numberOfSKUs": 1,
+      "attributes": [
+        {
+          "identifier": "caja_b_nombre",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "PO_Equ70003P",
+              "sequence": "0.0",
+              "value.key": "Terminos y Condiciones",
+              "id": "7741124012283365839",
+              "value": "Terminos y Condiciones"
+            },
+            {
+              "identifier": "PO_Equ70003",
+              "sequence": "0.0",
+              "value.key": "Terminos y Condiciones",
+              "id": "7741124012283365840",
+              "value": "Terminos y Condiciones"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "1.0",
+          "storeDisplay": "false",
+          "name": "caja_b_nombre",
+          "facetable": "false",
+          "id": "10303",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "caja_b_desc",
+          "attribute.natural": "[]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "7741124012283366339",
+              "sequence": "0.0",
+              "value.key": "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+              "id": "7741124012283366339",
+              "value": "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+            },
+            {
+              "identifier": "7741124012283366340",
+              "sequence": "0.0",
+              "value.key": "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co.",
+              "id": "7741124012283366340",
+              "value": "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "false",
+          "sequence": "2.0",
+          "storeDisplay": "false",
+          "name": "caja_b_desc",
+          "facetable": "false",
+          "id": "10302",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_gigas",
+          "attribute.natural": "[\"55 GB\",\"55 GB\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "7741124012283366356",
+              "sequence": "0.0",
+              "value.key": "55 GB",
+              "unitID": "GB",
+              "id": "7741124012283366356",
+              "value": "55 GB"
+            },
+            {
+              "identifier": "7741124012283366358",
+              "sequence": "0.0",
+              "value.key": "55 GB",
+              "unitID": "GB",
+              "id": "7741124012283366358",
+              "value": "55 GB"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "3.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10351",
+          "comparable": "false",
+          "swatchable": "false"
+        },
+        {
+          "identifier": "migracion_text",
+          "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional<\\/strong>\",\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional<\\/strong>\"]",
+          "usage": "Descriptive",
+          "values": [
+            {
+              "identifier": "7741124012283366355",
+              "sequence": "0.0",
+              "value.key": "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+              "id": "7741124012283366355",
+              "value": "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+            },
+            {
+              "identifier": "7741124012283366357",
+              "sequence": "0.0",
+              "value.key": "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>",
+              "id": "7741124012283366357",
+              "value": "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+            }
+          ],
+          "displayable": "true",
+          "merchandisable": "false",
+          "searchable": "true",
+          "sequence": "4.0",
+          "storeDisplay": "false",
+          "name": "migracion_gigas",
+          "facetable": "false",
+          "id": "10352",
+          "comparable": "false",
+          "swatchable": "false"
+        }
+      ],
+      "images": [
+        {
+          "sequence": "-1000.0",
+          "name": "Conectados L LITE Mx Tmk 55G Main Image"
+        }
+      ],
+      "type": "product",
+      "id": "12455",
+      "items": [
+        {
+          "hasSingleSKU": false,
+          "buyable": "true",
+          "parentCatalogGroupID": "/10305/10306/10651",
+          "sellerId": "7333333333333333435",
+          "name": "Conectados L LITE Mx Tmk 55G",
+          "shortDescription": "Conectados L LITE Mx Tmk",
+          "manufacturer": "NA",
+          "seo": {
+            "href": "/conectados-l-lite-mx-tmk-55g-po-equ70003"
+          },
+          "parentCatalogEntryID": "12455",
+          "partNumber": "PO_Equ70003",
+          "storeID": "10251",
+          "price": [
+            {
+              "usage": "Display",
+              "description": "L",
+              "currency": "COP",
+              "value": "42900.0"
+            },
+            {
+              "usage": "PrecioClienteClaro",
+              "description": "D",
+              "currency": "COP",
+              "value": ""
+            },
+            {
+              "usage": "Offer",
+              "contractId": "4000000000000000506",
+              "description": "I",
+              "currency": "COP",
+              "value": "42900.0"
+            }
+          ],
+          "attributes": [
+            {
+              "identifier": "caja_b_nombre",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "PO_Equ70003",
+                  "sequence": "0.0",
+                  "id": "7741124012283365840",
+                  "value": "Terminos y Condiciones"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "false",
+              "sequence": "1.0",
+              "storeDisplay": "false",
+              "name": "caja_b_nombre",
+              "facetable": "false",
+              "id": "10303",
+              "comparable": "false",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "caja_b_desc",
+              "attribute.natural": "[]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "7741124012283366340",
+                  "sequence": "0.0",
+                  "id": "7741124012283366340",
+                  "value": "Conectados 25 E 3.5: Cargo Fijo Mensual: $39.900 . Incluye: Llamadas y SMS Ilimitado Nal. Navegacion: 50 GB.Agotados los datos incluidos, tendrá acceso a funcionalidades seleccionadas de Facebook App, Twitter y Chat de WhatsApp. No Incluye: Roaming Intnal, LDI,MMS, ni descarga de contenidos con costo. Info www.claro.com.co."
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "false",
+              "sequence": "2.0",
+              "storeDisplay": "false",
+              "name": "caja_b_desc",
+              "facetable": "false",
+              "id": "10302",
+              "comparable": "false",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "migracion_gigas",
+              "attribute.natural": "[\"55 GB\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "7741124012283366358",
+                  "sequence": "0.0",
+                  "unitID": "GB",
+                  "id": "7741124012283366358",
+                  "value": "55 GB"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "true",
+              "sequence": "3.0",
+              "storeDisplay": "false",
+              "name": "migracion_gigas",
+              "facetable": "false",
+              "id": "10351",
+              "comparable": "false",
+              "swatchable": "false"
+            },
+            {
+              "identifier": "migracion_text",
+              "attribute.natural": "[\"Minutos y SMS ilimitados <br> <strong> a todo operador nacional<\\/strong>\"]",
+              "usage": "Descriptive",
+              "values": [
+                {
+                  "identifier": "7741124012283366357",
+                  "sequence": "0.0",
+                  "id": "7741124012283366357",
+                  "value": "Minutos y SMS ilimitados <br> <strong> a todo operador nacional</strong>"
+                }
+              ],
+              "displayable": "true",
+              "merchandisable": "false",
+              "searchable": "true",
+              "sequence": "4.0",
+              "storeDisplay": "false",
+              "name": "migracion_gigas",
+              "facetable": "false",
+              "id": "10352",
+              "comparable": "false",
+              "swatchable": "false"
+            }
+          ],
+          "images": [
+            {
+              "sequence": "-1000.0",
+              "name": "Conectados L LITE Mx Tmk 55G Main Image"
+            }
+          ],
+          "parent": "/search/resources/api/v2/categories?storeId=10251&id=10651",
+          "id": "12456",
+          "type": "item"
+        }
+      ]
+    }
+  ],
+  "total": 1
+}
